@@ -60,6 +60,12 @@ But do not wave the 16% away as a quote on bonds CoreWeave already sold. It pays
 
 This is the thing to watch, and it is why the number is credit, not rent. My last post already found the credit market "charging for the risk" rather than hiding it; this is that, louder. A neocloud that cannot roll its debt stops buying chips long before any rent index moves, so the warning comes from CoreWeave's bonds, the size and price of OpenAI's next raise, and ACIE revenue, which prints in November. Not from the Silicon Data tape.
 
+## So, will the labs keep paying?
+
+More likely than not, yes, and the reason sits one layer above the labs themselves. AI demand is real and still compounding: Anthropic roughly tripled revenue in three quarters and turned the corner on its unit economics, OpenAI is approaching a $70 billion run-rate, and token consumption keeps climbing. The stronger reason is that the labs do not have to self-fund to keep paying. They sit behind the deepest balance sheets in the world, Microsoft behind OpenAI, Google and Amazon behind Anthropic, and those backers will bridge a lab through a rough patch because their own AI revenue now rides on it.
+
+So the thing that actually ends this is a funding failure, not a collapse in demand. OpenAI has to keep raising, into a market that just repriced, and if a round shrinks or a lender balks, the compute it already committed to stops getting paid for long before any customer stops wanting it. That is why I watch the credit tape and not the rent, and why the two numbers on my dashboard are CoreWeave's next raise and OpenAI's.
+
 ## The verdict
 
 So: when the memory shortage ends, what happens to NVIDIA, and is it a hold or a buy?
