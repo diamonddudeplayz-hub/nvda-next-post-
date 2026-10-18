@@ -86,3 +86,96 @@ fig.subplots_adjust(left=0.085, right=0.9, top=0.84, bottom=0.11)
 out = "charts/order-of-damage.png"
 fig.savefig(out, facecolor="white")
 print("wrote", out)
+
+
+# ======================================================================
+# C1: NVIDIA revenue per gigawatt, by chip generation
+# Proves "the old chip falling in rent is just a sale of the next one."
+# Source: NVIDIA roadmap / non-deal roadshow deck, Sep 2026.
+# ======================================================================
+gens = ["Hopper", "Blackwell", "Rubin", "Feynman"]
+pergw = [18, 25, 40, 60]
+gcolors = [SLATE, NAVY, NAVY, ORANGE]  # Feynman (roadmap) in orange
+
+fig, ax = plt.subplots(figsize=(8.6, 5.2))
+ax.bar(range(4), pergw, color=gcolors, width=0.62, zorder=3)
+for i, v in enumerate(pergw):
+    ax.annotate(f"${v}B", (i, v), xytext=(0, 6), textcoords="offset points",
+                ha="center", fontweight="bold", color=INK, fontsize=13)
+
+ax.set_xticks(range(4))
+ax.set_xticklabels(["Hopper", "Blackwell", "Rubin", "Feynman\n(roadmap)"],
+                   fontsize=11.5, color="#444")
+ax.set_ylim(0, 70)
+ax.set_yticks([0, 20, 40, 60])
+ax.set_yticklabels(["0", "$20B", "$40B", "$60B"], color="#555")
+for s in ["top", "right"]:
+    ax.spines[s].set_visible(False)
+ax.grid(axis="y", color=GRID, lw=0.8, zorder=0)
+
+fig.suptitle("Every upgrade sells for more",
+             fontsize=15.5, fontweight="bold", color=INK, x=0.085, ha="left", y=0.975)
+fig.text(0.085, 0.905,
+         "NVIDIA's revenue per gigawatt, by chip generation. A refresh is a sale at a higher price.",
+         fontsize=10.6, color="#666", va="bottom")
+fig.text(0.085, 0.015,
+         "Revenue per gigawatt of deployed compute. Source: NVIDIA roadmap / non-deal roadshow deck, Sep 2026.",
+         fontsize=9, color="#888", style="italic")
+fig.subplots_adjust(left=0.085, right=0.95, top=0.84, bottom=0.12)
+out = "charts/revenue-per-gw.png"
+fig.savefig(out, facecolor="white")
+print("wrote", out)
+
+
+# ======================================================================
+# C3: CoreWeave debt stack, by type and cost
+# Debunks "the whole company yields 16%." Source: CoreWeave Q2 FY26 10-Q, Note 10.
+# ======================================================================
+LIGHT = "#b9c4d2"
+rows = [
+    ("Secured term loans (DDTLs)", 12, "~6–9%", NAVY),
+    ("Unsecured senior notes",     10, "10% coupon, ~16% now", ORANGE),
+    ("Convertibles",                7, "2%", LIGHT),
+    ("Equipment financing",         5, "~11%", SLATE),
+]
+labels = [r[0] for r in rows]
+amounts = [r[1] for r in rows]
+rates = [r[2] for r in rows]
+bcolors = [r[3] for r in rows]
+y = list(range(len(rows)))[::-1]  # first row on top
+
+fig, ax = plt.subplots(figsize=(8.8, 5.0))
+ax.barh(y, amounts, color=bcolors, height=0.62, zorder=3)
+for yi, amt, rate in zip(y, amounts, rates):
+    ax.annotate(f"${amt}B", (amt, yi), xytext=(6, 0), textcoords="offset points",
+                va="center", ha="left", fontweight="bold", color=INK, fontsize=12)
+    ax.annotate(rate, (0.2, yi), xytext=(0, -16), textcoords="offset points",
+                va="center", ha="left", color="#777", fontsize=9.2)
+
+# call out the orange slice
+ax.annotate("the viral 16% is only this slice",
+            xy=(9.9, y[1] + 0.33), xytext=(9.7, y[1] + 0.52),
+            fontsize=9.5, color=ORANGE, fontweight="bold", va="center", ha="right")
+
+ax.set_yticks(y)
+ax.set_yticklabels(labels, fontsize=11, color="#333")
+ax.set_xlim(0, 15)
+ax.set_xticks([0, 5, 10, 15])
+ax.set_xticklabels(["0", "$5B", "$10B", "$15B"], color="#555")
+for s in ["top", "right", "left"]:
+    ax.spines[s].set_visible(False)
+ax.tick_params(axis="y", length=0)
+ax.grid(axis="x", color=GRID, lw=0.8, zorder=0)
+
+fig.suptitle("The viral 16% is one slice, not the company",
+             fontsize=15.5, fontweight="bold", color=INK, x=0.03, ha="left", y=0.975)
+fig.text(0.03, 0.905,
+         "CoreWeave's ~$34B of debt by type and cost. The blended effective rate is about 8%, not 16%.",
+         fontsize=10.6, color="#666", va="bottom")
+fig.text(0.03, 0.015,
+         "Principal outstanding as of June 30, 2026. Source: CoreWeave Q2 FY26 10-Q, Note 10.",
+         fontsize=9, color="#888", style="italic")
+fig.subplots_adjust(left=0.28, right=0.96, top=0.84, bottom=0.12)
+out = "charts/coreweave-debt-stack.png"
+fig.savefig(out, facecolor="white")
+print("wrote", out)
