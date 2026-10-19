@@ -117,7 +117,7 @@ Full post with charts, the debt breakdown and my break conditions in the first c
 
 ## Reddit, Tue (full-text post, paragraphs, lead with r/Burryology)
 
-Attach `order-of-damage.png` where the post allows it (after the second paragraph), and `coreweave-debt-stack.png` after the debt paragraph. If a sub allows one image, use order-of-damage. If none, put both on Imgur and link them inline. No bold anywhere, one list at most, link once at the end.
+Attach `order-of-damage.png` right after the "Start with what the market did on its own" paragraph (the one ending "...CoreWeave's cost of default insurance"), since that paragraph describes exactly what the chart shows. Attach `coreweave-debt-stack.png` after the debt paragraph. If a sub allows one image, use order-of-damage. If none, put both on Imgur and link them inline. No bold anywhere, one list at most, link once at the end.
 
 **Title:** Burry's NVIDIA short is a bet on the memory shortage ending. I read the 10-Qs, and the real risk is whether the AI labs can keep paying.
 
