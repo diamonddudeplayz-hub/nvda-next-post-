@@ -62,6 +62,16 @@ But do not wave the 16% away as a quote on bonds CoreWeave already sold. It pays
 
 This is the thing to watch, and it is why the number is credit, not rent. My last post already found the credit market "charging for the risk" rather than hiding it; this is that, louder. A neocloud that cannot roll its debt stops buying chips long before any rent index moves, so the warning comes from CoreWeave's bonds, the size and price of OpenAI's next raise, and ACIE revenue, which prints in November. Not from the Silicon Data tape.
 
+## Is this Lucent?
+
+Stand on one campus in Ohio and look at who NVIDIA is on it. It owns a stake in SB Energy, the developer building the site. It guarantees OpenAI's lease on it, up to $105 billion. And the site runs NVIDIA chips, exclusively. Investor, guarantor and sole supplier, three hats on one building. It is not only Ohio: NVIDIA owns about 10% of CoreWeave, holds the $99 billion of ecosystem stakes I mentioned, and is standing up $500 billion of financing platforms to move capital to the people who buy its chips. The chipmaker is helping fund its own demand.
+
+There is a precedent for this, and it is not a happy one. In 1999 Lucent was the most valuable equipment maker in the world, and to win orders it lent its own customers the money to buy its gear. The revenue looked spectacular. Then the telecom bubble burst, the customers it had financed could not pay, and Lucent lost the loans and the sales in the same breath. The stock fell about 99%. Vendor financing is wonderful on the way up and radioactive on the way down, because when it turns it hits you twice.
+
+So is NVIDIA Lucent? The honest answer rests on one thing, and it is the same thing this whole post rests on. Lucent's customers were building capacity nobody was using yet. NVIDIA's customers are serving models that tens of millions of people pay to use, and that demand is still growing. If the end demand is real, the circle is just vertical integration, and NVIDIA is early to every layer of a market it built. If the demand was financed into being, the circle is Lucent, and the day it turns NVIDIA takes an equity write-down, a guarantee call and a collapse in orders in the same quarter.
+
+That is why the circularity is not a separate risk to file next to the others. It is the one risk I have already named, concentrated, with an uglier worst day. The circle plainly exists. Whether it is vicious or virtuous comes down to whether the labs can pay, which is where this was always heading.
+
 ## So, will the labs keep paying?
 
 More likely than not, yes, and the reason sits one layer above the labs themselves. AI demand is real and still compounding: Anthropic more than tripled revenue in three quarters, from $4.7 billion to $16.8 billion, and turned the corner on its unit economics (FT), while OpenAI is running at about $50 billion net and projecting $70 billion by year-end. And the labs do not have to self-fund to keep paying. They have backers with every reason to keep them alive, Microsoft behind OpenAI, Google and Amazon behind Anthropic, though none is obligated to, and Microsoft has spent this year stepping back, ending Azure exclusivity in April and dropping its revenue share. The incentive is there; the backstop is softer than it looks.
