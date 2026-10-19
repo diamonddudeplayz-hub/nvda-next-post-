@@ -24,9 +24,9 @@ plt.rcParams.update({
 # --- data: daily closes, Oct 2026 (Yahoo Finance) ---
 dates = ["Oct 1","Oct 2","Oct 5","Oct 6","Oct 7","Oct 8","Oct 9",
          "Oct 12","Oct 13","Oct 14","Oct 15","Oct 16"]
-nvda = [230.86,233.95,238.90,239.24,237.47,230.48,229.28,226.32,228.52,221.30,217.23,215.20]
-crwv = [88.57,89.62,87.39,91.72,88.45,81.58,82.08,80.26,77.81,65.78,69.69,61.58]
-nbis = [232.28,242.81,232.57,249.87,237.15,219.71,221.07,210.06,206.86,186.01,188.41,167.85]
+nvda = [230.86,233.95,238.90,239.24,237.47,230.48,229.28,226.32,228.52,221.30,217.23,214.13]
+crwv = [88.57,89.62,87.39,91.72,88.45,81.58,82.08,80.26,77.81,65.78,69.69,61.39]
+nbis = [232.28,242.81,232.57,249.87,237.15,219.71,221.07,210.06,206.86,186.01,188.41,165.47]
 
 base = 4  # index to Oct 7 = 100
 def idx(series):
@@ -121,7 +121,7 @@ fig.text(0.085, 0.905,
 fig.text(0.085, 0.015,
          "Revenue per gigawatt of deployed compute. Source: NVIDIA roadmap / non-deal roadshow deck, Sep 2026.",
          fontsize=9, color="#888", style="italic")
-fig.subplots_adjust(left=0.085, right=0.95, top=0.84, bottom=0.12)
+fig.subplots_adjust(left=0.085, right=0.95, top=0.84, bottom=0.2)
 out = "charts/revenue-per-gw.png"
 fig.savefig(out, facecolor="white")
 print("wrote", out)
@@ -133,7 +133,7 @@ print("wrote", out)
 # ======================================================================
 LIGHT = "#b9c4d2"
 rows = [
-    ("Secured term loans (DDTLs)", 12, "~6–9%", NAVY),
+    ("Secured term loans (DDTLs)", 14, "~9%", NAVY),
     ("Unsecured senior notes",     10, "10% coupon, ~16% now", ORANGE),
     ("Convertibles",                7, "2%", LIGHT),
     ("Equipment financing",         5, "~11%", SLATE),
@@ -144,12 +144,13 @@ rates = [r[2] for r in rows]
 bcolors = [r[3] for r in rows]
 y = list(range(len(rows)))[::-1]  # first row on top
 
-fig, ax = plt.subplots(figsize=(8.8, 5.0))
+fig, ax = plt.subplots(figsize=(9.2, 5.0))
 ax.barh(y, amounts, color=bcolors, height=0.62, zorder=3)
+# amount in bold + rate in a readable grey, both to the right of the bar
 for yi, amt, rate in zip(y, amounts, rates):
-    ax.annotate(f"${amt}B", (amt, yi), xytext=(6, 0), textcoords="offset points",
-                va="center", ha="left", fontweight="bold", color=INK, fontsize=12)
-    ax.annotate(rate, (0.2, yi), xytext=(0, -16), textcoords="offset points",
+    ax.annotate(f"${amt}B", (amt, yi), xytext=(8, 0), textcoords="offset points",
+                va="center", ha="left", fontweight="bold", color=INK, fontsize=12.5)
+    ax.annotate(f"at {rate}", (amt, yi), xytext=(8, -14), textcoords="offset points",
                 va="center", ha="left", color="#777", fontsize=9.2)
 
 # call out the orange slice
@@ -159,7 +160,7 @@ ax.annotate("the viral 16% is only this slice",
 
 ax.set_yticks(y)
 ax.set_yticklabels(labels, fontsize=11, color="#333")
-ax.set_xlim(0, 15)
+ax.set_xlim(0, 19)
 ax.set_xticks([0, 5, 10, 15])
 ax.set_xticklabels(["0", "$5B", "$10B", "$15B"], color="#555")
 for s in ["top", "right", "left"]:
