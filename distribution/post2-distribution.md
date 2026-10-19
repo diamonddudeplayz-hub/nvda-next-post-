@@ -95,7 +95,7 @@ NVIDIA fell about 10% in this month's AI selloff. CoreWeave and Nebius, the comp
 
 That order is the whole story, and it's why I don't think the memory shortage ending is NVIDIA's real risk.
 
-The consensus trade is to wait for the shortage to end, watch old GPUs flood the market, and short the chipmaker. I spent the week in NVIDIA's and CoreWeave's filings, and the mechanism doesn't hold. A neocloud isn't a bet on a chip, it's a bet on a powered building. Power is the binding constraint, so when rent on an old chip falls, the operator swaps in NVIDIA's next chip rather than re-renting the old one, and NVIDIA books that sale at a higher price per gigawatt: $18B with Hopper, $25B with Blackwell, $40B with Rubin, $60B with Feynman.
+The consensus trade is to wait for the shortage to end, watch old GPUs flood the market, and short the chipmaker. I spent the week in NVIDIA's and CoreWeave's filings, and the mechanism doesn't hold. A neocloud is really a bet on a powered building; the chip is just the part it swaps out. Power is the binding constraint, so when rent on an old chip falls, the operator swaps in NVIDIA's next chip rather than re-renting the old one, and NVIDIA books that sale at a higher price per gigawatt: $18B with Hopper, $25B with Blackwell, $40B with Rubin, $60B with Feynman.
 
 So the real risk sits elsewhere, in whether the AI labs can keep paying for the compute they've committed to, and it shows up in credit, not in GPU rent. Three things keep me long:
 
@@ -107,7 +107,7 @@ So the real risk sits elsewhere, in whether the AI labs can keep paying for the 
 
 I'm holding, and buying weakness, on one condition: not that the shortage lasts, but that the labs keep paying. The two numbers I'm watching are CoreWeave's next raise and OpenAI's.
 
-What would change your mind on NVIDIA first: a fall in GPU rent, or a fall in what the AI labs can raise?
+What would change your mind on NVIDIA first, a fall in GPU rent or a fall in what the AI labs can raise?
 
 Full post with charts, the debt breakdown and my break conditions in the first comment. Disclosure: long NVDA.
 
