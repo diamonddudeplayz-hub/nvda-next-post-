@@ -55,9 +55,9 @@ The risk in the buildout is real. It just isn't 16% across the company.
 
 When Burry rolled his puts toward the memory shortage ending, I assumed the shortage was the thing that would hurt NVIDIA. I spent the week trying to make that mechanism work and couldn't.
 
-The scarce asset isn't the chip, it's the powered building. When rent on an old H100 falls, the operator doesn't re-rent it, it swaps in NVIDIA's next chip, and NVIDIA books that sale at a higher price per gigawatt than the last.
+The scarce asset is the powered building, and the chip is only the part the operator refreshes. When rent on an old H100 falls, the operator swaps in NVIDIA's next chip and books that sale at a higher price per gigawatt than the last.
 
-What surprised me was that the real risk was in a different filing. Not in GPU rent, in CoreWeave's cost of borrowing.
+What surprised me was where the real risk was hiding. It sat in CoreWeave's cost of borrowing, while GPU rent stayed beside the point.
 
 **Note 4, Thu: the real-demand question (feeds engagement and the next post)**
 
@@ -119,9 +119,9 @@ Full post with charts, the debt breakdown and my break conditions in the first c
 
 Attach `order-of-damage.png` where the post allows it (after the second paragraph), and `coreweave-debt-stack.png` after the debt paragraph. If a sub allows one image, use order-of-damage. If none, put both on Imgur and link them inline. No bold anywhere, one list at most, link once at the end.
 
-**Title:** The memory shortage is supposed to be NVIDIA's problem. I read the 10-Qs, and when it ends almost nothing happens to NVIDIA. The real risk is whether the AI labs keep paying.
+**Title:** Burry's NVIDIA short bets on the memory shortage ending. I read the 10-Qs: the real risk is whether the AI labs keep paying.
 
-Last week I wrote about Michael Burry's NVIDIA short: the GPU "value" chart he attacked really is a rent forecast, but his timing and his target are both off. That post left one question open on purpose, and it's the one the whole market is actually trading on right now. What happens to NVIDIA when the memory shortage ends?
+Two weeks ago I wrote about Michael Burry's NVIDIA short: the GPU "value" chart he attacked really is a rent forecast, but his timing and his target are both off. That post left one question open on purpose, and it's the one the whole market is actually trading on right now. What happens to NVIDIA when the memory shortage ends?
 
 The consensus answer is that the shortage is what holds the AI trade up, so when it breaks, old-chip rent falls, NVIDIA's pricing cracks, and the stock goes with it. I read the 10-Qs, and I think that reads the business backwards. When the shortage ends, almost nothing happens to NVIDIA, and the past two weeks are the clearest evidence yet of why. I'm long NVIDIA, so I'm on the other side of this, and the disclosure is at the bottom.
 
@@ -133,9 +133,9 @@ The risk is somewhere else. It's whether the people renting all this compute can
 
 The part that genuinely gives me pause is the circularity. On one campus in Ohio, NVIDIA is the investor in the developer, the guarantor of OpenAI's lease (capped at $105 billion), and the sole chip supplier. Three hats on one building. Across the ecosystem it holds about $99 billion of equity stakes and has announced $500 billion of financing platforms to move capital to the people who buy its chips. The chipmaker is helping fund its own demand.
 
-The honest precedent for that is Lucent, which lent its customers the money to buy its gear in 1999, then lost the loans and the sales in the same breath when the telecom bubble burst, and fell about 99%. The difference is that Lucent's customers had almost no paying users, so the fiber they built sat dark for a decade. AI has real revenue arriving now: Anthropic's quarterly revenue more than tripled in three quarters to $16.8 billion, OpenAI is running around $50 billion, and the product is already inside software and security tools people pay for today. If that demand is real, the circle is just vertical integration and NVIDIA got there first. If it was financed into being, the circle is Lucent. That's the question the whole thing turns on.
+The honest precedent is Lucent, which lent its customers the money to buy its gear in 1999, then lost the loans and the sales together when the telecom bubble burst and fell about 99%. The difference is that Lucent's customers had no paying users while AI's do, with Anthropic's quarterly revenue up to $16.8 billion and OpenAI near $50 billion, so if that demand is real the circle is just vertical integration, and only if it was financed into being is it Lucent.
 
-On valuation, which is the thing Burry actually needs to move: NVIDIA trades at about 14 times forward earnings, down from above 30 a year ago. For his puts to pay, the market has to put it under 10 times, roughly 30% below today's price. If the market expected a lab to fail and take a quarter of next year's revenue, NVIDIA would trade where Micron does, near 6 times. It doesn't, even after this week. The sharper precedent here isn't Lucent but Cisco. Cisco had the real end demand NVIDIA has, and its business came through the dot-com crash intact. Its stock still took more than twenty years to reclaim its 2000 high, because it had traded above 100 times earnings. That is the risk of overpaying for a real winner, and it is the one place NVIDIA looks safe, at 14 times.
+On valuation, which is the thing Burry actually needs to move: NVIDIA trades at about 14 times forward earnings, down from above 30 a year ago. For his puts to pay, the market has to put it under 10 times, roughly 30% below today's price. If the market expected a lab to fail and take a quarter of next year's revenue, NVIDIA would trade where Micron does, near 6 times. It doesn't, even after this week. The sharper precedent is Cisco, not Lucent: a real winner whose stock still took twenty years to recover because it traded above 100 times earnings. NVIDIA is at 14, so that trap isn't sprung either.
 
 So I'm holding, and I'll buy weakness, on one condition: not that the shortage lasts, but that the labs keep paying. I'm watching two numbers for that, and neither is GPU rent. CoreWeave's next raise, and OpenAI's. If CoreWeave's next secured deal fails to clear, or OpenAI's round comes back smaller than the roughly $30 billion it's seeking, the thesis is under stress and I'll say so.
 
