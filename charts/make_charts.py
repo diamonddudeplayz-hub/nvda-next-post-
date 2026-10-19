@@ -176,7 +176,7 @@ ax.grid(axis="x", color=GRID, lw=0.8, zorder=0)
 fig.suptitle("The viral 16% is one slice, not the company",
              fontsize=15.5, fontweight="bold", color=INK, x=0.03, ha="left", y=0.965)
 fig.text(0.03, 0.875,
-         "CoreWeave's ~$35B of debt, its largest facilities by type and cost. The blended effective rate is about 8%, not 16%.",
+         "CoreWeave's ~$36B of debt, its largest facilities by type and cost. The blended effective rate is about 8%, not 16%.",
          fontsize=10.6, color="#666", va="bottom")
 fig.text(0.03, 0.015,
          "Principal outstanding as of June 30, 2026. Source: CoreWeave Q2 FY26 10-Q, Note 10.",
