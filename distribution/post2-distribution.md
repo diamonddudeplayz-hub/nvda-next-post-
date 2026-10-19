@@ -119,7 +119,7 @@ Full post with charts, the debt breakdown and my break conditions in the first c
 
 Attach `order-of-damage.png` right after the "Start with what the market did on its own" paragraph (the one ending "...CoreWeave's cost of default insurance"), since that paragraph describes exactly what the chart shows. Attach `coreweave-debt-stack.png` after the debt paragraph. If a sub allows one image, use order-of-damage. If none, put both on Imgur and link them inline. No bold anywhere, one list at most, link once at the end.
 
-**Title:** Burry's NVIDIA short is a bet on the memory shortage ending. I read the 10-Qs, and what it comes down to is whether the AI labs can keep paying.
+**Title:** When the memory shortage ends, almost nothing happens to NVIDIA. I read the 10-Qs, and what it comes down to is whether the AI labs can keep paying.
 
 Two weeks ago I wrote about Michael Burry's NVIDIA short: the GPU "value" chart he attacked really is a rent forecast, but his timing and his target are both off. That post left one question open on purpose, and it's the one the whole market is actually trading on right now. What happens to NVIDIA when the memory shortage ends?
 
