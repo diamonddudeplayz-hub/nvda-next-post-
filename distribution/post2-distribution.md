@@ -107,7 +107,7 @@ So the real risk sits elsewhere, in whether the AI labs can keep paying for the 
 
 I'm holding, and buying weakness, on one condition: not that the shortage lasts, but that the labs keep paying. The two numbers I'm watching are CoreWeave's next raise and OpenAI's.
 
-What would change your mind on NVIDIA first, a fall in GPU rent or a fall in what the AI labs can raise?
+What would you watch to know the labs can't keep paying?
 
 Full post with charts, the debt breakdown and my break conditions in the first comment. Disclosure: long NVDA.
 
