@@ -146,16 +146,22 @@ y = list(range(len(rows)))[::-1]  # first row on top
 
 fig, ax = plt.subplots(figsize=(9.2, 5.0))
 ax.barh(y, amounts, color=bcolors, height=0.62, zorder=3)
-# amount in bold + rate in a readable grey, both to the right of the bar
-for yi, amt, rate in zip(y, amounts, rates):
+# amount in bold + rate underneath, both to the right of the bar.
+# the unsecured row (the viral 16%) gets its rate in bold orange so the
+# number ties to its bar by colour and position, no clutter on the bar.
+for i, (yi, amt, rate) in enumerate(zip(y, amounts, rates)):
+    is_viral = (i == 1)
     ax.annotate(f"${amt}B", (amt, yi), xytext=(8, 0), textcoords="offset points",
                 va="center", ha="left", fontweight="bold", color=INK, fontsize=12.5)
     ax.annotate(f"at {rate}", (amt, yi), xytext=(8, -14), textcoords="offset points",
-                va="center", ha="left", color="#777", fontsize=9.2)
+                va="center", ha="left",
+                color=ORANGE if is_viral else "#777",
+                fontweight="bold" if is_viral else "normal",
+                fontsize=9.8 if is_viral else 9.2)
 
-# label the 16% directly on the bar it belongs to, in white
-ax.annotate("the viral 16% is only this slice", xy=(0.35, y[1]),
-            va="center", ha="left", color="white", fontweight="bold", fontsize=10.5)
+# one quiet orange kicker in the whitespace beside the viral bar
+ax.annotate("the number that went viral", xy=(10.4, y[1] + 0.34),
+            va="center", ha="left", color=ORANGE, fontsize=9.3, style="italic")
 
 ax.set_yticks(y)
 ax.set_yticklabels(labels, fontsize=11, color="#333")
