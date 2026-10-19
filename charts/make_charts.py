@@ -73,8 +73,8 @@ ax.grid(axis="y", color=GRID, lw=0.8, zorder=0)
 ax.set_xlim(-0.3, len(dates) + 2.6)
 
 fig.suptitle("The order of damage: NVIDIA fell last, and least",
-             fontsize=15.5, fontweight="bold", color=INK, x=0.085, ha="left", y=0.975)
-fig.text(0.085, 0.905,
+             fontsize=15.5, fontweight="bold", color=INK, x=0.085, ha="left", y=0.965)
+fig.text(0.085, 0.875,
          "Share prices since the October 8 selloff. The lessors fell about three times as far as the chipmaker.",
          fontsize=10.8, color="#666", va="bottom")
 
@@ -82,7 +82,7 @@ fig.text(0.085, 0.015,
          "Daily closing prices, October 1–16, 2026. Source: Yahoo Finance.",
          fontsize=9, color="#888", style="italic")
 
-fig.subplots_adjust(left=0.085, right=0.9, top=0.84, bottom=0.11)
+fig.subplots_adjust(left=0.085, right=0.9, top=0.80, bottom=0.11)
 out = "charts/order-of-damage.png"
 fig.savefig(out, facecolor="white")
 print("wrote", out)
@@ -114,14 +114,14 @@ for s in ["top", "right"]:
 ax.grid(axis="y", color=GRID, lw=0.8, zorder=0)
 
 fig.suptitle("Every upgrade sells for more",
-             fontsize=15.5, fontweight="bold", color=INK, x=0.085, ha="left", y=0.975)
-fig.text(0.085, 0.905,
+             fontsize=15.5, fontweight="bold", color=INK, x=0.085, ha="left", y=0.965)
+fig.text(0.085, 0.875,
          "NVIDIA's revenue per gigawatt, by generation. It pays only if each one earns more per megawatt.",
          fontsize=10.6, color="#666", va="bottom")
-fig.text(0.085, 0.015,
+fig.text(0.085, 0.02,
          "Revenue per gigawatt of deployed compute. Source: NVIDIA roadmap / non-deal roadshow deck, Sep 2026.",
          fontsize=9, color="#888", style="italic")
-fig.subplots_adjust(left=0.085, right=0.95, top=0.84, bottom=0.2)
+fig.subplots_adjust(left=0.085, right=0.95, top=0.80, bottom=0.155)
 out = "charts/revenue-per-gw.png"
 fig.savefig(out, facecolor="white")
 print("wrote", out)
@@ -133,7 +133,7 @@ print("wrote", out)
 # ======================================================================
 LIGHT = "#b9c4d2"
 rows = [
-    ("Secured term loans (DDTLs)", 14, "~9%", NAVY),
+    ("Secured term loans (DDTLs)", 14, "~10%", NAVY),
     ("Unsecured senior notes",     10, "10% coupon, ~16% now", ORANGE),
     ("Convertibles",                7, "2%", LIGHT),
     ("Equipment financing",         5, "~11%", SLATE),
@@ -153,10 +153,9 @@ for yi, amt, rate in zip(y, amounts, rates):
     ax.annotate(f"at {rate}", (amt, yi), xytext=(8, -14), textcoords="offset points",
                 va="center", ha="left", color="#777", fontsize=9.2)
 
-# call out the orange slice
-ax.annotate("the viral 16% is only this slice",
-            xy=(9.9, y[1] + 0.33), xytext=(9.7, y[1] + 0.52),
-            fontsize=9.5, color=ORANGE, fontweight="bold", va="center", ha="right")
+# label the 16% directly on the bar it belongs to, in white
+ax.annotate("the viral 16% is only this slice", xy=(0.35, y[1]),
+            va="center", ha="left", color="white", fontweight="bold", fontsize=10.5)
 
 ax.set_yticks(y)
 ax.set_yticklabels(labels, fontsize=11, color="#333")
@@ -169,14 +168,14 @@ ax.tick_params(axis="y", length=0)
 ax.grid(axis="x", color=GRID, lw=0.8, zorder=0)
 
 fig.suptitle("The viral 16% is one slice, not the company",
-             fontsize=15.5, fontweight="bold", color=INK, x=0.03, ha="left", y=0.975)
-fig.text(0.03, 0.905,
+             fontsize=15.5, fontweight="bold", color=INK, x=0.03, ha="left", y=0.965)
+fig.text(0.03, 0.875,
          "CoreWeave's ~$35B of debt, its largest facilities by type and cost. The blended effective rate is about 8%, not 16%.",
          fontsize=10.6, color="#666", va="bottom")
 fig.text(0.03, 0.015,
          "Principal outstanding as of June 30, 2026. Source: CoreWeave Q2 FY26 10-Q, Note 10.",
          fontsize=9, color="#888", style="italic")
-fig.subplots_adjust(left=0.28, right=0.96, top=0.84, bottom=0.12)
+fig.subplots_adjust(left=0.28, right=0.96, top=0.80, bottom=0.12)
 out = "charts/coreweave-debt-stack.png"
 fig.savefig(out, facecolor="white")
 print("wrote", out)
