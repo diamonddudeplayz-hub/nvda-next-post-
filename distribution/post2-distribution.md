@@ -111,7 +111,7 @@ What would change your mind on NVIDIA first: a fall in GPU rent, or a fall in wh
 
 Full post with charts, the debt breakdown and my break conditions in the first comment. Disclosure: long NVDA.
 
-**First comment:** Full post: [post link]
+**First comment:** Full post: https://darrenleung1.substack.com/p/the-shortage-wont-break-nvidia-the
 
 ---
 
@@ -131,7 +131,7 @@ The shortage ending barely touches NVIDIA, and the reason is physical. A neoclou
 
 The risk is somewhere else. It's whether the people renting all this compute can keep paying for it, and that shows up in the credit market, not in GPU rent. This is where the scary number comes from. You've probably seen that some of CoreWeave's bonds yield 16%. That's real, but it's one slice. CoreWeave carries about $36 billion of debt, and by weighting the per-facility rates in its 10-Q it blends to an effective rate near 8%. The 16% is the market yield on about $10 billion of unsecured notes, the slice with no collateral behind it. The rest is cheaper and better secured: about $14 billion of term loans pledged against named customer contracts, one of them the Meta-backed, Blackstone-anchored facility that prices near 6%, about $7 billion of convertibles at 2%, and about $5 billion of equipment financing. The viral number is the most expensive, least protected slice, the one with no collateral, quoted as if it were the whole company.
 
-The part that genuinely gives me pause is the circularity. On one campus in Ohio, NVIDIA is the investor in the developer, the guarantor of OpenAI's lease (capped at $105 billion), and the sole chip supplier. Three hats on one building. Across the ecosystem it holds about $99 billion of equity stakes and has announced $500 billion of financing platforms to move capital to the people who buy its chips. The chipmaker is helping fund its own demand.
+The part that I hand to the bears is the circularity. On one campus in Ohio, NVIDIA is the investor in the developer, the guarantor of OpenAI's lease (capped at $105 billion), and the sole chip supplier. Three hats on one building. Across the ecosystem it holds about $99 billion of equity stakes and has announced $500 billion of financing platforms to move capital to the people who buy its chips. The chipmaker is helping fund its own demand.
 
 The honest precedent is Lucent, which lent its customers the money to buy its gear in 1999, then lost the loans and the sales together when the telecom bubble burst and fell about 99%. The difference is that Lucent's customers had no paying users while AI's do, with Anthropic's quarterly revenue up to $16.8 billion and OpenAI near $50 billion, so if that demand is real the circle is just vertical integration, and only if it was financed into being is it Lucent.
 
@@ -141,7 +141,7 @@ So I'm holding, and I'll buy weakness, on one condition: not that the shortage l
 
 If you're watching one number to tell me I'm wrong, I'd watch CoreWeave's next raise. What's yours?
 
-Full post with the charts, the full debt breakdown and my break conditions: [post link]. Disclosure: long NVDA.
+Full post with the charts, the full debt breakdown and my break conditions: https://darrenleung1.substack.com/p/the-shortage-wont-break-nvidia-the . Disclosure: long NVDA.
 
 **For r/SecurityAnalysis, add this as the first comment (submission statement):** Burry's bear case treats the memory shortage ending as NVIDIA's risk. This checks that against NVIDIA's and CoreWeave's 10-Qs: the scarce asset is the powered building, not the chip, so the shortage ending sells the next chip rather than stranding the last one. It then sizes NVIDIA's real exposure, the circular financing behind its own demand, and names the two credit signals that would break the thesis.
 
