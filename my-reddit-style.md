@@ -14,6 +14,34 @@ Reddit rewards the opposite of what Substack rewards. On Substack, craft, polish
 
 Same author. Same kind of sub. The difference was voice and shape, not substance or intelligence. The duration post was flamed on the lines that are its best writing ("They are describing different durations"). So the rule is absolute: **do not bring your Substack voice to Reddit.**
 
+## What the whole corpus proves (ranked by what actually happened)
+
+Across seven real posts, the pattern is consistent:
+
+- **r/Burryology, the Burry post written as prose ending on a genuine question:** 34 up, 43K views, deep multi-reply threads. The best post.
+- **r/GoldIndia, gold thesis that OPENS by owning a 77% downward data revision against itself:** 23 up, a jeweler and others engaged seriously. Humility up front plays.
+- **r/NVDA_Stock, DD flair, right sub:** a moderator reinstated it after automod and personally said "keep up the good analysis." A champion earned.
+- **r/NvidiaStock, the SAME Burry content but formatted as a TL;DR with "Where I disagree:" bullet lists:** 25 up / 22 down and "don't post AI slop, thanks." Near-identical facts to the Burryology win, worse reception. The bullets were the only difference.
+- **r/HongKong, a "Chinese tech is cheap, here's the math" thesis:** 6 up / 19 DOWN. Not a writing failure. A room failure: a value thesis dropped in a politics-and-culture sub hostile to investing in China at all. The same post in r/ChinaStocks drew positive engagement.
+
+Three hard lessons fall out of that, below.
+
+## Lesson 1: pick the room for the idea, it matters as much as the voice
+
+The HongKong flop was not about quality. It was a bullish-China thesis in a sub whose audience rejects that conclusion before reading. Before posting, ask: does this sub's audience *want to be convinced of this*, or do they already hate the conclusion? A good post in the wrong room dies at 6/19. Match the idea to a sub that wants it (r/ChinaStocks, r/Burryology for a Burry take, r/NVDA_Stock for NVDA DD), not one where the topic is merely adjacent.
+
+## Lesson 2: paragraphs, not bullets
+
+His two Burry posts are the controlled proof: the prose version thrived, the bulleted TL;DR version ate the AI-slop flak with the same facts. Reddit pattern-matches TL;DR headers and structured "Where I disagree:" lists to machine-generated reports. Write in paragraphs. One short list maximum, and only when it is genuinely a list.
+
+## Lesson 3: judge the post by its comments, not its karma
+
+The mixed-vote (+3) NvidiaStock Burry post is where a commenter handed him the Microsoft 25-year depreciation point and the power/shell reusability insight, which became the spine of his best Substack post. A post that barely nets karma but teaches the thing that makes the next flagship is a win. So engage every substantive commenter, ask for their sources ("do you have a link for that? would love to use it" is a real move he has used well), and mine the thread. The karma is noise; the thread is the signal.
+
+## A move that works: open with a correction or a concession
+
+The gold post opened by owning a 77% revision to the number it had weighted most, then asking whether the thesis survived. Disarming, credible, and it landed. Leading with "here is where I was wrong" or "here is the number that cuts against me" is as strong on Reddit as it is on Substack, and it pre-empts the reflex to tear you down.
+
 ## Bring a question, not a thesis
 
 Reddit helps people figure things out and punishes people who arrive to lecture. The NVDA post was shaped as a genuine question ("Tell me where it breaks", "Two things I can't resolve"). The duration post was shaped as a finished framework being delivered. Reddit smelled the second one instantly.
