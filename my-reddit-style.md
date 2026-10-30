@@ -38,6 +38,20 @@ His two Burry posts are the controlled proof: the prose version thrived, the bul
 
 The mixed-vote (+3) NvidiaStock Burry post is where a commenter handed him the Microsoft 25-year depreciation point and the power/shell reusability insight, which became the spine of his best Substack post. A post that barely nets karma but teaches the thing that makes the next flagship is a win. So engage every substantive commenter, ask for their sources ("do you have a link for that? would love to use it" is a real move he has used well), and mine the thread. The karma is noise; the thread is the signal.
 
+## Borrow the plain register, not the shallowness (the calibration that protects the voice)
+
+A real model for the plain register: a peer who openly discloses AI use and still reads clean does it by writing flat, not by being less rigorous underneath. His sentences are workmanlike ("That's the bet." "A model can work on paper, but execution decides whether it works in practice.") with no aphoristic kickers and no balanced antitheses. That flatness is why he never gets the AI-slop reflex, even though he discloses the AI.
+
+Borrow his surface, not his depth. His sourcing is secondary (news aggregators summarizing the earnings calls); yours is primary (you read the filing and do your own arithmetic). So flattening removes the decorative cadence that reads as AI — it must NEVER remove the primary-source rigor, the honest concession, the sizing, or the one earned punchline. Those are the voice, not tells. The goal is your depth in a plainer voice, never his plain voice with nothing under it.
+
+And dial it by platform, do not flatten globally:
+- **Reddit and public hostile rooms:** flatten hardest. Plain, rough, conversational, zero crafted sentences. This is where the slop-reflex lives.
+- **Substack (home turf):** keep the full voice and craft — your readers opted in for it and reward it. Only trim the handful of genuine tells (the "X. Not Y." construction, stacked antitheses, the one-word echo).
+
+The AI tells are decorative cadence (balance, antithesis, rule-of-three, aphoristic mic-drops) — strip those anywhere. The voice is the intellectual moves (altitude, sizing, the ledger, conceding weakness, one punchline) — keep those everywhere. Never flatten so far you become a generic explainer; that trades your edge away to dodge an accusation you can beat by roughing up the surface alone.
+
+Optional, and it works: disclose the AI, like the plain-register peer does ("the analysis and the positions are mine; I use AI to help write it up"). It disarms the gotcha — nobody can "expose" what you volunteered.
+
 ## A move that works: open with a correction or a concession
 
 The gold post opened by owning a 77% revision to the number it had weighted most, then asking whether the thesis survived. Disarming, credible, and it landed. Leading with "here is where I was wrong" or "here is the number that cuts against me" is as strong on Reddit as it is on Substack, and it pre-empts the reflex to tear you down.
