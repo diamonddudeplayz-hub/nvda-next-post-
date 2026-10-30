@@ -46,28 +46,7 @@ Borrow his surface, not his depth. His sourcing is secondary (news aggregators s
 
 And dial it by platform, do not flatten globally:
 - **Reddit and public hostile rooms:** flatten hardest. Plain, rough, conversational, zero crafted sentences. This is where the slop-reflex lives.
-- **Substack (home turf):** keep the full STRUCTURE — the ledger, the short-version box, the section flow, the sizing, the one closing punchline. That is the brand and the value; never dial it down. But turn the sentence-level CADENCE down a notch here too, not to zero. Write plainer sentences than your most-crafted mode: cut the running antitheses and the aphoristic kickers, keep the thinking exactly as deep. Your own evidence says to: your most aphoristic post (the duration one, "they are describing different durations") is the one that got flamed, while your plainer posts (gold, Itron) land and get appreciated. Target: plain AND deep — Matt Levine, not crafted-and-polished, and not plain-but-shallow.
-
-### Cadence dial: before / after (turn it down a notch, keep the thought)
-
-- Antithesis → plain:
-  - Before: "The two camps are not disagreeing about technical analysis. They are describing different durations."
-  - After: "The two camps think they're arguing about charts. They're really just describing different durations."
-- Balanced fragment → plain prose:
-  - Before: "Committed cash on one end, a discretionary multiple on the other."
-  - After: "On one end is cash you're paid no matter what. On the other, a multiple the market may or may not give you."
-- Aphoristic kicker → plain:
-  - Before: "That's the whole thesis in a single number, and it needs no model."
-  - After: "You don't need a model to see it. The spread in that one number is the whole point."
-- Tricolon → one concrete clause:
-  - Before: "It keeps the neoclouds ordering, it props up the stocks, it funds the demand."
-  - After: "It keeps the neoclouds ordering through a scare that would otherwise freeze them."
-- KEEP — the single earned punchline, placed at the close, is allowed:
-  - "The day repriced the beat. It did not re-rate the business."
-  - The rule is not "no punchlines ever." It is "no drumbeat running through the whole piece." Earn one, put it at the end, leave the rest plain.
-- ALREADY RIGHT — this is the target, plain and deep, leave it alone:
-  - "The old chip losing value is just the next, more expensive chip getting sold."
-  - "Two flat years earned that discount."
+- **Substack (home turf):** keep the full structure and voice — readers opted in for it. Still turn the sentence cadence down a notch there too; the full cadence-dial guidance and the before/after examples live in the `my-writing-style` (Substack) skill, where they belong.
 
 The AI tells are decorative cadence (balance, antithesis, rule-of-three, aphoristic mic-drops) — strip those anywhere. The voice is the intellectual moves (altitude, sizing, the ledger, conceding weakness, one punchline) — keep those everywhere. Never flatten so far you become a generic explainer; that trades your edge away to dodge an accusation you can beat by roughing up the surface alone.
 
