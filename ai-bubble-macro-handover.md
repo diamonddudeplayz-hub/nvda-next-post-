@@ -68,6 +68,22 @@ The bifurcation, pointed at the spenders: cash-flow players survive with poor re
 
 ---
 
+## The tail that breaks the whole thesis: AI gets smarter than humans
+
+Everything above is a bet on **pace** — does ordinary adoption show up fast enough to justify the spend. The smarter-than-human case is a different axis entirely: a bet on a **capability discontinuity**, not an adoption curve. If it lands, the frame inverts and the bear case is simply wrong.
+
+- **The overbuild becomes an underbuild.** If models can do real knowledge work (replace a worker, run R&D, operate autonomously), the demand ceiling isn't 9% of GDP — it's a claim on labor income (~55-60% of GDP). Against that, $3.5T of capex is *small*. Scarcity pricing holds and extends. The computer-template (saturation) bear case dies; it's Jevons all the way up. NVDA isn't overbuilt, it's short.
+
+Why it's still not the whole trade (the honest catches):
+
+1. **Right about the revolution ≠ right about the position.** 1999 bulls were directionally correct about the internet and still lost ~85%, because they paid for 2010's demand in 1999 and the cash-flow wall came first. "AGI is coming" and "NVDA at $204 is a buy" are different statements. You can win the thesis and lose the trade on the path.
+2. **The revolution cuts the bull case too.** Mass labor displacement (the "if everyone gets cut off" point) introduces unpriceable political/regulatory risk *even if the tech wins*: windfall taxes, nationalization pressure, House-resolution politics. The technology capturing the economy doesn't mean *shareholders* capture the gains.
+3. **Double-edged for NVDA even on the upside.** Near-term a monster tailwind. But the moat is "we're the scarce shovel." A superintelligence that designs better chips — or makes Trainium/TPU good enough — *un-scarces the shovel*. The thing that proves the demand also threatens the pricing power.
+
+**What it means for the decision:** this tail is the single best argument *against* trimming to zero — and it is NOT an argument against cutting a 36% concentration in a ~$10k account. They coexist. Keep a stake so if the revolution rips you still participate; cut the concentration so being wrong on timing (Scenario 3) doesn't break you. **Selling 10 of 17 and holding 7 *is* that barbell** — sized to survive the bust and still win the melt-up. The right shape precisely *because* this can't be ruled out. Don't let the AGI tail talk you out of de-risking; let it stop you from going flat.
+
+---
+
 ## Where it's priced / NOT priced (I over-claimed "consensus," corrected)
 - **Already repriced:** NVDA (30x → 14x), neoclouds (CoreWeave -50%, 16% bonds, record CDS), Intel -28%.
 - **NOT priced:** a real earnings reversal (14x prices a slowdown, not a decline), and the **broad S&P still near highs (only ~7-8% off)** — the systemic/GDP blast-radius scenario is not in the index. The un-priced risk lives in the broad index and the expensive mega-caps, NOT in already-de-rated NVDA.
