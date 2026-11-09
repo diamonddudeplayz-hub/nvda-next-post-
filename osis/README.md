@@ -1,11 +1,16 @@
 # OSI Systems (OSIS) — Research File
 
 The next-position candidate surfaced from the small-cap grid-edge/mission-critical screen (Nov 2026).
-Itron-*adjacent* setup: mispriced-by-category hardware hiding a recurring + defense-radar annuity;
-cheap, hated, non-discretionary, AI-disruption-proof; record backlog with a dated 2H-FY27 inflection.
+Itron-*adjacent* setup: regulation-moated #1 in cargo inspection, de-rated ~37%, funded+growing backlog,
+return = revenue growth + an undated-but-demonstrated re-rate; margins flat (not a margin story).
 
-**Price $196.36 (6 Nov 2026) · ~$3.1B mcap · ~16.7x NTM P/E · ~12.2x EV/EBITDA · ~30% off 1yr ·
-~5% off 52-wk low.**
+**Price $196.36 (6 Nov 2026) · ~$3.1B mcap · ~17x FY27 P/E / 15x FY28 · ~12.2x NTM EV/EBITDA ·
+~30% off 1yr · ~5% off 52-wk low.**
+
+> ## ⭐ START HERE: `FINAL-DECISION.md` — the decision + the steelmanned bear case + bull rebuttal.
+> **Decision: BUY a starter (~1/3), scale on the Jan/Apr prints. EV ~+6-10%, positively skewed,
+> downside mostly "wait" not "lose," resolved at the April Q3 print.** The rest of the file is the work
+> behind it. Also `MASTER-review-doc.md` = self-contained paste-for-second-opinion version.
 
 ## Read in this order
 1. **`01-business-overview.md`** — plain-English "what the hell do they do" (3 divisions, the model).
