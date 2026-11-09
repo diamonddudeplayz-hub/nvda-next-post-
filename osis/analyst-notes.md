@@ -6,12 +6,22 @@ most useful for the "what breaks it" view. Consensus PT ~$266 vs price ~$196 (~3
 ---
 
 ## Oppenheimer — Oct 30, 2026 — **Outperform, PT $265** (post Q1 FY27)
-*"Backlog Ramps, FY2H Growth/Mix Inflection Close at Hand"*
-- Thesis is literally the title: record **$2.1B backlog**, book-to-bill 1.4, sets up the **2H FY27
-  growth + mix (service) inflection**.
-- 3-5yr EPS growth ~12%. FY26A non-GAAP EPS basis; FY27E/FY28E rolling up. Quarterly non-GAAP EPS
-  anchors: FY26 Q1 1.42 / Q3 2.58; FY27 Q1 1.66A / Q2E ~2.53.
-- The most on-thesis bull: frames OSIS as a backlog-conversion + margin-mix story about to turn.
+*"Backlog Ramps; FY2H Growth/Mix Inflection Close at Hand"*
+- **Yes — the inflection IS their explicit call.** What they actually say (quoted):
+  - *"OSI continues to work through a softer organic stretch reflecting 2H-weighted backlog
+    conversion cadence and easier comps. We anticipate **+11% FY2H27 organic growth** (and modestly
+    favorable interest), net of softer FY1H mix trends."*
+  - **$583M bookings / 1.4x book-to-bill** in Q1 → record $2.1B backlog = the fuel for the ramp.
+  - Driver = **services growth supporting margin upside at Security**; they model **FY2H Security
+    margins flat y/y** (following FY1H mix pressure), with net tailwinds from RF + services outgrowth.
+- **But they're honest about the Q1 miss on mix** (don't gloss this): Q1 **adj. operating margin
+  9.5% contracted 80bps y/y**, and **Security op margin 12.6% came in BELOW their 14.0% estimate**
+  ("reflecting less favorable revenue mix"). So even the lead bull saw Q1 margins disappoint — the
+  bull case rests entirely on the **2H** turn, not on anything that's printed yet.
+- Takeaway: Oppenheimer's "inflection close at hand" = **2H FY27 (Jan→Apr prints), +11% organic,
+  services-mix-driven margin recovery.** It is a *forecast* of the turn, explicitly "close at hand"
+  but not yet in the numbers — which is exactly our "semi-dated catalyst" read.
+- Quarterly non-GAAP EPS anchors: FY26 Q1 1.42 / Q3 2.58; FY27 Q1 1.66A / Q2E ~2.53.
 
 ## Oppenheimer — Sep 23, 2026 — **Outperform** (pre-Q1)
 *"Banner Projects Win Streak Anchors Long-Term Compounding"*

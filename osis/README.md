@@ -14,7 +14,13 @@ cheap, hated, non-discretionary, AI-disruption-proof; record backlog with a date
 3. **`03-thesis-and-catalysts.md`** — the core: checklist scorecard, catalyst-hardness debate,
    catalyst calendar, the **May 5 & Aug 21 sell-off autopsy**, break conditions, and **the exact
    estimates I need from your terminal** (bottom of the doc).
-4. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear).
+4. **`04-consensus-and-segments.md`** — LSEG consensus (rev/EPS/EBITDA-margin FY24–29) + segment
+   revenue consensus + computed historical segment op margins. **Valuation correction: ~17x FY27,
+   not 15x.**
+5. **`05-fact-check.md`** — yfinance scrape vs LSEG reconciliation; the 3 things to verify on your
+   terminal; what I now have vs still want.
+6. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear) —
+   includes Oppenheimer's explicit "+11% FY2H27 organic / inflection close at hand" call.
 5. **`transcripts/`** — structured notes on the 4 calls:
    - `2026-10-29-Q1-FY27-call.md` (latest quarter)
    - `2026-08-20-Q4-FY26-call.md` (FY27 guide = Aug 21 capitulation)
@@ -31,7 +37,9 @@ AI-proof long-term moat), with the honest caveat that the catalyst is **backlog-
 (semi-dated), not earnings-already-printing** — Q1's beat was buyback-flattered. Entry is good
 *because* the ~40% de-rate (34x → 17x) already happened. **Make-or-break = the April Q3 FY27 print.**
 
-## Still open (need from Darren's terminal — see end of doc 03)
-Segment-level consensus (rev + margin for Security/Opto/Healthcare), service-vs-product split,
-FY28/FY29 consensus curve + dispersion, EBITDA/FCF, backlog history, buyback pace baked into
-consensus EPS, and a peer comp set. Then I build the SOTP + re-rate/downside model.
+## Status update (after LSEG data, 9 Nov)
+**Have now:** consolidated consensus (rev/EPS/EBITDA-margin FY24–29), segment revenue consensus,
+historical segment op margins (computed from CF-export), backlog from filings.
+**Still want (nice-to-have):** service-vs-product forward split, consensus FCF + buyback pace, and a
+peer comp set (Smiths, Leidos, Axon, Mesa Labs, ITRI). See `05-fact-check.md` for the 3 things to
+verify. Next build: SOTP + re-rate/downside model.

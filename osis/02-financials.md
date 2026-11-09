@@ -16,8 +16,8 @@ Price/valuation as of **6 Nov 2026 close = $196.36**. Confirm live figures on yo
 | Market cap | ~$3.09B | |
 | Net debt | ~$750M | Net debt/EBITDA ~2.6x (LTM), ~2.3x under credit agreement |
 | Enterprise value | ~$3.84B | |
-| **NTM P/E** | **~16.7x** | vs ITRI ~14x; its own 3-yr history much higher |
-| **NTM EV/EBITDA** | **~12.2x** | |
+| **P/E on consensus** | **~17.2x FY27 / ~15.3x FY28 / ~13.2x FY29** | NTM blend ~16.7x. NOTE: the yfinance "15.3x forward" = FY28, not NTM. It's ~17x the current year. See `05-fact-check.md`. |
+| **EV/EBITDA** | **~12.6x FY27E (12.2x NTM TIKR; 14.4x LTM)** | on consensus ~16% EBITDA margin |
 | NTM EV/Revenue | ~2.0x | |
 | Street PT (avg) | ~$266 | range $250 (JPM) – $300 (BofA); ~35% upside |
 
