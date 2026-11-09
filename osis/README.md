@@ -19,7 +19,10 @@ cheap, hated, non-discretionary, AI-disruption-proof; record backlog with a date
    not 15x.**
 5. **`05-fact-check.md`** — yfinance scrape vs LSEG reconciliation; the 3 things to verify on your
    terminal; what I now have vs still want.
-6. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear) —
+6. **`06-peer-comps-and-verdict.md`** — relative value vs Smiths/Leidos/Axon/Mesa/Itron, risk-reward,
+   and **the verdict + positioning call (small starter now, scale on Jan/Apr prints).** ← the "is it
+   time" doc.
+7. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear) —
    includes Oppenheimer's explicit "+11% FY2H27 organic / inflection close at hand" call.
 5. **`transcripts/`** — structured notes on the 4 calls:
    - `2026-10-29-Q1-FY27-call.md` (latest quarter)
@@ -28,8 +31,11 @@ cheap, hated, non-discretionary, AI-disruption-proof; record backlog with a date
    - `2026-05-12-BofA-fireside.md` (best plain-English business walk-through)
 
 ## Source filings in repo root
-- `251248071.pdf` — OSI **10-K, FY ended June 30, 2025** (business, risk factors, full financials).
+- `261305871.pdf` — OSI **10-K, FY ended June 30, 2026** (LATEST annual — backlog ~$1.9B confirmed).
 - `261502952.pdf` — OSI **10-Q, quarter ended Sep 30, 2026** (Q1 FY27 — latest financials).
+- `251248071.pdf` — OSI 10-K FY2025 (older; detailed business/risk-factor text still valid).
+- LSEG data: `../CF-Export-08-11-2026.xlsx` (segment actuals) + `../Estimate Details OSIS.O*.xlsx`
+  (consensus rev/EPS/EBITDA-margin/FCF/shares + segment revenue).
 
 ## One-line verdict
 Clears the bar on *both* halves (dated-ish short-term catalyst via backlog + 2H prints; durable

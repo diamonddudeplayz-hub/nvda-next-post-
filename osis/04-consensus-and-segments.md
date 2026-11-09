@@ -85,6 +85,22 @@ not consensus.
 
 ---
 
+## FCF & share-count consensus (LSEG, added 9 Nov)
+
+| Measure | FY24A | FY25A | FY26A | FY27E | FY28E |
+|---|---|---|---|---|---|
+| **Free cash flow ($M, mean)** | 42 | 141 | 191 | **209** | **162** |
+| FCF high/low | — | 107–166 | 127–242 | **147–289** | 93–235 |
+| **Shares out (M, mean)** | 17.37 | 17.09 | 17.35 | **13.6**⚠️ | 16.65 |
+
+- **FCF:** consensus **~$209M FY27** (Mexico collections inflate it — "FCF > net income" year), easing to
+  ~$162M FY28. On ~$3.09B mcap that's a **~6.8% FY27 FCF yield**, ~5.2% FY28. TIKR's NTM levered FCF
+  ($173M) = **5.6% yield**. Solid cash generation — this is the "paid to wait" cushion.
+- **Share count ⚠️:** the FY27 mean (13.6M) is a **garbage data point** — low estimate 5.3M, huge
+  predicted-surprise — one contributor is mis-modeling the convertibles. Reality: actual diluted shares
+  are ~16.25M (Q1 FY27) and **falling via buyback** (was 17.5M a year ago). Use ~16M, declining ~2-3%/yr.
+  Don't trust the 13.6M.
+
 ## What's still genuinely missing (can't get from these files)
 1. **Forward segment operating margin consensus** — doesn't exist in LSEG (only segment revenue).
    I'll model it; just know those SOTP margins are my estimates, not the Street's.
