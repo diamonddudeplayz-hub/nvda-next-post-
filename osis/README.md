@@ -22,8 +22,18 @@ cheap, hated, non-discretionary, AI-disruption-proof; record backlog with a date
 6. **`06-peer-comps-and-verdict.md`** — relative value vs Smiths/Leidos/Axon/Mesa/Itron, risk-reward,
    and **the verdict + positioning call (small starter now, scale on Jan/Apr prints).** ← the "is it
    time" doc.
-7. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear) —
+7. **`07-FAQ-and-deep-answers.md`** — plain answers to the real questions: airports correction (#2-3,
+   not #1), the moat, **the big margin correction (analysts model margins FLAT, not expanding —
+   EPS growth = revenue + buybacks)**, why it boomed/fell, the verbatim 2H-FY27 quotes, the
+   regression (OSIS is idiosyncratic — low correlation, pairs-timing won't work), Smiths vs OSIS,
+   buybacks confirmed, backlog history. ← read this after 01.
+8. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear) —
    includes Oppenheimer's explicit "+11% FY2H27 organic / inflection close at hand" call.
+
+> **Two corrections logged (9 Nov):** (1) OSIS is #1 in *cargo/border*, only #2–3 in *airports*.
+> (2) The "margin-expansion flywheel" was overstated — analysts model **gross margin flat ~33%**
+> (it's actually *declined* from 36% since 2017); the trade is **revenue re-accel + de-rate reversal
+> + buybacks**, NOT margin expansion. Details in `07-FAQ.md` §1 and §4.
 5. **`transcripts/`** — structured notes on the 4 calls:
    - `2026-10-29-Q1-FY27-call.md` (latest quarter)
    - `2026-08-20-Q4-FY26-call.md` (FY27 guide = Aug 21 capitulation)

@@ -7,7 +7,9 @@ Aug 2026 Q4 call, BofA fireside (May 2026). As of 9 Nov 2026.*
 
 ## One sentence
 OSI makes the **X-ray and scanning machines that governments use to look inside cargo, bags,
-vehicles and people** — and it's the #1 player in the world at it. Bolted onto that are a
+vehicles and people** — and it's the **#1 player in the world in CARGO/VEHICLE/BORDER inspection
+(>50% share)**, though only **#2–3 in airport passenger/baggage screening (~20–25%, behind Smiths
+Detection)**. See `07-FAQ-and-deep-answers.md` §1. Bolted onto that are a
 component-manufacturing arm that supplies the guts for those machines (and sells the same parts
 to Fortune 500 OEMs), and a small hospital patient-monitoring business.
 
@@ -77,9 +79,11 @@ impact more FY28). Optionality, not a current driver.
 2. **Then sell the service (recurring revenue).** As that installed base rolls **off warranty**,
    it converts to high-margin service/maintenance/SaaS contracts. Service carries **>10 points
    higher gross margin** than product. This is the margin-expansion flywheel.
-3. **Recurring mix today ≈ 30% of Security**, and management is steering it to **40%+**. This is
-   the single most important structural story: as recurring grows faster than product, blended
-   margins rise.
+3. **Recurring mix today ≈ 30% of Security** (≈25% of total company), steering to **40%+** within
+   Security. ⚠️ **Reality check:** this lifts blended margin only *slowly* — service is ~25% of total
+   and creeps up ~1pt/yr, so segment mix (more Opto, Mexico) has actually kept **gross margin FLAT-
+   to-DOWN** (36% in 2017→33% FY26). Analysts model margins ~flat, not expanding. EPS growth comes
+   from **revenue + buybacks**, not a margin explosion. See `07-FAQ.md` §4. Don't over-weight this.
 4. **SaaS layer:** CertScan and similar platforms let customs/border agencies review scans
    remotely over secure networks — a genuine software annuity sitting on top of the hardware.
 
