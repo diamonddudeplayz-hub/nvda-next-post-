@@ -10,19 +10,31 @@
 | Name | 1yr px | **NTM P/E** | **NTM EV/EBITDA** | 2yr rev CAGR | 2yr EPS CAGR | FCF yield | What it is |
 |---|---|---|---|---|---|---|---|
 | **OSIS** | **−30%** | **16.7x** | **12.2x** | 6.8% | 11.4% | 5.6% | **our name — detection #1 + RF** |
-| Smiths (SMIN) | +3% | 22.0x | 10.9x | 6.4% | 28.3%* | 3.4% | **direct detection rival** (Smiths Detection), net cash |
+| **Smiths Detection** (private) | — | — | **~12.5x EBITDA** | — | — | — | **the real pure-play peer — SOLD to CVC (PE) June 30 2026, £2B EV / £160M EBITDA** |
+| Smiths Group (SMIN) | +3% | 22.0x | 10.9x | 6.4% | 28.3%* | 3.4% | ⚠️ **NOT a detection peer any more** — post-sale it's John Crane + Flex-Tek (industrial) |
 | Itron (ITRI) | −7% | 14.5x | 12.7x | 3.2% | −1.3% | 7.6% | **your benchmark** — grid/metering |
 | Leidos (LDOS) | −32% | 11.4x | 9.6x | 4.0% | −0.7% | 8.7% | defense IT services — cheap, no growth |
 | Axon (AXON) | −47% | 36.4x | 24.5x | 29.2% | 18.1% | 2.2% | premium public-safety compounder |
 | Mesa Labs (MLAB) | +71% | 13.1x | 13.3x | 4.3% | 10.9% | 6.3% | calibration/recurring |
 
-\* Smiths' 28% EPS growth is restructuring/break-up-flattered, not organic.
+\* Smiths Group's 28% EPS growth is restructuring/break-up/IFRS-5-flattered, not organic — and it's no
+longer a detection business.
+
+### ⚠️ CORRECTION: the Smiths P/E comp was wrong — here's the right one
+Smiths **sold Smiths Detection to CVC (private equity), completed June 30 2026.** So public **SMIN (22x
+P/E) is now an unrelated industrial** (John Crane seals + Flex-Tek heating) — comparing OSIS to it is
+apples-to-oranges. **Drop it.**
+
+**The RIGHT detection comp is the transaction itself:** CVC paid **~12.5x EBITDA** (£2B EV / £160M FY25
+EBITDA) for the pure-play #2. **OSI trades at ~12.2x NTM EV/EBITDA.** So:
+> **The global #1 in cargo detection (OSI) trades at ~12.2x EBITDA — in line with what a sophisticated
+> PE buyer just paid (12.5x) for the pure-play #2.** A real-money private-market anchor on the exact
+> asset class. OSI's ~12x is **fair-to-slightly-cheap vs private detection value**, and with Smiths
+> Detection gone private + Leidos being services + Nuctech Chinese/state, **OSI is now ~the only sizable
+> *public* pure-ish detection play → a plausible PE/strategic takeout target at ~12–14x EBITDA (the
+> Smiths deal sets the comp).**
 
 ### What the comps actually say
-- **vs Smiths (the ONLY true detection peer):** OSIS is **~5 turns cheaper on P/E** (16.7x vs 22x) for
-  similar revenue growth. Smiths is cheaper on EV/EBITDA (10.9x) and has net cash — but it's a slow
-  UK breakup story. **The cleanest relative-value argument: the detection #1 trades at a discount to
-  the detection #2.**
 - **vs Itron (your benchmark):** OSIS grows **much** faster (6.8%/11.4% vs 3.2%/−1.3%) for only ~2
   turns more P/E. **On growth-adjusted terms OSIS is better value than ITRI right now** — Itron's
   forward EPS is going backwards; OSIS's compounds low-double-digit.
