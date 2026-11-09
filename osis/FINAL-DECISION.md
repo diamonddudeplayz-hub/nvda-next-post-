@@ -37,12 +37,14 @@ thinner than bulls claim — a big chunk of reported "services" is **low-margin 
 attached to hardware deployments**, not high-margin recurring maintenance. Nobody has broken out the
 *truly recurring* piece or its margin, because it probably isn't as pretty as the story.
 
-**2. The ENTIRE return requires a re-rate the market may refuse to grant.** The SOTP ≈ the current price.
-At 15× (no re-rate), hitting FY28 consensus = **flat**. The market de-rated this for *good reasons*:
-lumpy, government-dependent, margin-pressured, 2.6× levered, no dividend. A business like that
-**arguably DESERVES 13–15×, not 18–21×.** The bull case is "the market will change its mind" — which is
-*precisely the Adobe value-trap-timing risk from Darren's own framework*: an **undated** re-rate you
-cannot schedule. You can sit at 17× for two years earning the FCF yield and nothing else.
+**2. The ENTIRE return requires a re-rate — and the TIMING is undated.** The SOTP ≈ the current price.
+At 15× (no re-rate), hitting FY28 consensus = **flat**. You can sit at 17× for a year+ earning only the
+FCF yield while the market stays impatient — the Adobe value-trap-*timing* risk. [NOTE: the bear's
+stronger original claim — "it DESERVES 13–15×, the market finally figured it out" — **fails the
+historical data** (see `12-historical-multiple.md`): OSIS's 10-yr median P/E is ~21× and it traded
+25–32× repeatedly. 13–15× is the *trough* (2020/2022), not the fair value. So the bear's real point is
+narrower: **the re-rate's TIMING is unknowable and a macro risk-off could drag it to the 12–14× trough
+temporarily** — not that 17× is permanently fair.]
 
 **3. The catalyst has already slipped TWICE — betting on it is betting the same thing won't fail a third
 time.** The "2H ramp" was promised and missed in Q3 FY26 (−1.8%) and *blown up* in Q4 FY26 (−12%). The
@@ -90,9 +92,13 @@ no margin of safety — just a story about next year, again.*
 1. **Lumpy box-seller?** Partly — but a **regulation-moated #1** in cargo with 12% ROIC, expanding
    *operating* margin (8%→12.6% via real operating leverage), and a service mix that *is* growing, even
    if slowly. The moat is not fake; Nuctech is *banned* from its core market.
-2. **Needs a re-rate?** Yes — but it **traded 24–34× within 18 months**, so the re-rate isn't
-   hypothetical; the market has a *demonstrated* willingness to pay up for this exact name. And at a held
-   17× you still make ~+11% on EPS growth alone — the re-rate is upside, not a prerequisite for a return.
+2. **Needs a re-rate?** Yes — but the data *destroys* the bear's "deserves 13–15×" claim: OSIS's
+   **10-yr MEDIAN P/E is ~21×**, and it traded 25–32× in 2013/2016/2017/2019/2025 — repeatedly, across
+   cycles (`12-historical-multiple.md`). **A re-rate 17×→20× is reversion to the median, NOT a stretch.**
+   The market has a decade-long *demonstrated* willingness to pay 20×+ for this exact business. The real
+   question isn't "will it ever re-rate" (it reliably does) but "will the 2H ramp re-prove the narrative"
+   — a dated question. And at a held 17× you still make ~+11% on EPS alone; the re-rate is upside, not a
+   prerequisite. (Honest counter: the *trough* is 12–14×, so a macro risk-off can drag it there temporarily.)
 3. **Slipped twice?** True — but Q1 FY27 was **clean (beat)**, deliveries are resuming, and the misses
    were a *specific, external, temporary* cause (an active war zone), not a demand or execution failure.
 4. **Negative leverage now?** In the *seasonally weakest* quarter with the *worst mix* — the Street models
