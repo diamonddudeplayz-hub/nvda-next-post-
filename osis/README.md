@@ -27,8 +27,15 @@ cheap, hated, non-discretionary, AI-disruption-proof; record backlog with a date
    EPS growth = revenue + buybacks)**, why it boomed/fell, the verbatim 2H-FY27 quotes, the
    regression (OSIS is idiosyncratic — low correlation, pairs-timing won't work), Smiths vs OSIS,
    buybacks confirmed, backlog history. ← read this after 01.
-8. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear) —
-   includes Oppenheimer's explicit "+11% FY2H27 organic / inflection close at hand" call.
+8. **`08-backlog-coverage-seasonality.md`** — coverage ratio (1.16x, multi-yr high), book-to-bill,
+   Q4-heavy seasonality, external verification of the $1B+ funding.
+9. **`09-valuation-model-and-targets.md`** — SOTP, scenario P/E targets, reverse-DCF (market prices
+   ~4% growth), Secure America Act lock, de-rate corrected to 27x→17x fwd.
+10. **`10-catalyst-tracker.md`** — the position playbook: prob-weighted targets (EV +16%, base $231,
+    bull $284, bear $161), the dated catalyst calendar, price playbook, position log. ← run the position off this.
+11. **`11-final-questions-and-risks.md`** — the 6 DD gaps, honest risk table, bull/bear in one paragraph
+    each, and where you might be too bullish.
+12. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear).
 
 > **Two corrections logged (9 Nov):** (1) OSIS is #1 in *cargo/border*, only #2–3 in *airports*.
 > (2) The "margin-expansion flywheel" was overstated — analysts model **gross margin flat ~33%**
