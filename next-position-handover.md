@@ -40,9 +40,13 @@ A name must answer both. Cheap-with-a-good-story is NOT enough (see Adobe lesson
   mispriced-by-category** names (Itron). Decide which you're optimizing each time.
 
 ## Portfolio / positioning state
-- **NVDA:** trimmed to **5 shares (sold 7)**. At ~$188 / **12.6x NTM** it's only cheap if
-  ~70–90% growth prints (FY27 rev +90%, FY28 +70% consensus); a **miss cuts the E *and*
-  de-rates the multiple = "game over."** Keep core for the melt-up. Catalyst: **Nov 17**.
+- **NVDA:** **FULLY EXITED at $181** (sold the last 5 on **Nov 9** into the **Jensen Huang
+  board-investigation / affair-with-alleged-Chinese-spy scandal**; had already trimmed 7).
+  Now **flat NVDA** — capital freed for the barbell long-end. Prior thesis held: at 12.6x NTM
+  it was only cheap if ~70–90% growth printed (FY27 rev +90%, FY28 +70%); constrained reward +
+  **fat left tail** — and the tail just delivered an **unforecastable governance/key-man/
+  geopolitical** hit, which is *exactly why* you de-risk concentrated single-names. Nov 17
+  earnings now overshadowed by the probe.
 - **Owns:** **Itron** (ITRI — the benchmark), **Adobe** (ADBE — sum-of-parts floor, undated catalyst).
 - **Theme focus:** grid modernization / AI-power demand. Soros 13F is heavily long this,
   funded by trimming mega-tech (AMZN −39%, MSFT −10%, NVDA −0.8%; adding ETR, DLR, SPGI, SRE,
@@ -51,7 +55,7 @@ A name must answer both. Cheap-with-a-good-story is NOT enough (see Adobe lesson
 ## Names assessed (verdicts)
 | Name | Verdict | Catalyst |
 |---|---|---|
-| **NVDA** | Trim (done). Cyclical-peak de-rate risk; constrained reward, fat left tail. | Nov 17 earnings |
+| **NVDA** | **Fully exited at $181 (Nov 9 Huang board-probe/scandal).** Flat now. Cyclical-peak de-rate + fat left tail — the tail hit. | Nov 17 earnings (now under the probe's shadow) |
 | **NOW** | Cheap (22x, 6.3% FCF yld, −40% yr), cash-gen, "govern the agent exhaust," but **take-rate (assists vs seat erosion) unproven in cRPO + falling sub-GM.** Paid-to-wait, not a trade. | Fuzzy 2027 "hockey stick" — fails bar |
 | **GOOGL** | Buyer + own-silicon (TPU; Apple/Anthropic), 20x. The call is **Search** (AI accretive or cannibalistic). Not a catalyst trade. | — |
 | **ADBE** (own) | Two businesses; **enterprise (AEP) alone > EV = asset floor**; AI-content → governance demand. But **undated catalyst (Dec 9 / CEO reframe)** = the value-trap-timing risk. | Undated |
