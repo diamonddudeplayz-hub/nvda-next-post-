@@ -174,18 +174,24 @@ guidance and lost **18% in a day** — because a **premium multiple + any stumbl
 multiple pain, so it has LESS multiple-compression risk from here than a still-premium name like
 Axon.** You're buying OSIS *after* the de-rate, not before.
 
-## 13. Mechanics you asked about (you're right)
-- **DCF / working capital:** yes — rising accounts receivable = a *use* of cash = **subtracts from
-  FCF** = lowers the DCF. You had it right. OSIS's big Mexico AR is why FCF has lagged net income;
-  as it **collects** (~$190M coming in), FCF > NI for a couple years, then normalizes.
-- **"Consensus FCF holds flat at ~2026 — wtf?"** Right to notice. FCF $245M (FY26) → $224M (FY27E)
-  → $211M (FY28E) **declines slightly** because the **Mexico receivable collection is a one-time
-  cash harvest** — once it's collected, FCF drops back to ~normalized (~net income). So don't
-  extrapolate the FY27 cash bulge.
-- **Buybacks — are they real NOW?** Yes. Diluted share count: 17.9M (FY22) → 17.3M (FY25) → **16.25M
-  (Q1 FY27)** — down ~7% in the last year, *accelerating*. They bought ~$62M in Q1 FY27 alone,
-  ~$124M in Q4 FY26. Real, ongoing, and a genuine EPS tailwind at these prices. (No one "covers"
-  the buyback pace because coverage is thin — but the share count proves it.)
+## 13. Mechanics you asked about (you corrected me on two — both fixed)
+- **DCF / working capital — the general rule:** *rising* AR = cash you booked as revenue but haven't
+  collected = a use of cash = subtracts from FCF. That general rule is right.
+- **BUT for OSIS right now, AR is FALLING, not rising — you caught my sloppy wording.** The Mexico
+  receivable (~$190M) is being **COLLECTED** → AR goes **DOWN** → that's a cash **INFLOW** → it
+  **boosts** FCF above net income *now*. There is no rising AR. As Mexico winds down, the cash comes
+  **in**. My earlier "rising AR" line was wrong for OSIS's actual situation — apologies.
+- **"Consensus FCF holds ~flat FY27→FY28 — wtf?"** Exactly because of the above: the Mexico collection
+  is a **one-time cash harvest**. FCF $245M (FY26) → $224M (FY27E) → $211M (FY28E) *steps down* because
+  once the ~$190M is collected, that tailwind ends and FCF normalizes toward net income. So the FY27
+  cash is flattered by a non-repeating collection — don't extrapolate it.
+- **Buybacks — real, but I overstated the pace (you were right to push):** The "−7%" was a
+  **point-to-point** Q1'26→Q1'27 diluted-share comparison (17.47M → 16.25M, straight from the 10-Q).
+  It is NOT a sustained 7%/yr. Reality: shares were roughly **FLAT for years** (~17.2–17.9M, FY22–25),
+  then buybacks **accelerated recently** — ~$124M in Q4 FY26 + ~$62M in Q1 FY27. So the right forward
+  assumption is **~2–3%/yr share reduction** (continuing only if they keep spending ~$200M+/yr, which
+  depends on the Mexico cash). Source: 10-Q diluted share count + TIKR weighted-share history. Model
+  2–3%, not 7%.
 
 ## 14. The floor / backlog
 - **Revenue base ~$1.8B LTM + record $2.1B backlog = a real floor.** Backlog history: $1.08B (FY21)
