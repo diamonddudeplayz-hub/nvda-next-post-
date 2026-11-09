@@ -47,3 +47,39 @@ aggressive one.
 **Net: entry ~17x fwd (≈median on trailing) · realistic re-rate to 20–25x (historically normal) ·
 historical trough 12–14x (the real downside). Funded backlog skews odds away from the trough (those
 were macro/EPS-collapse events); median-plus re-rate is the base case if the ramp converts.**
+
+---
+
+## FORWARD P/E band (apples-to-apples with today's 17x forward)
+*Price ÷ next-12-month actual EPS — the correct comparison for "17x forward today."*
+
+| Year | Low | Median | High |
+|---|---|---|---|
+| 2012 | 19 | 23 | 28 |
+| 2015 | 23 | **32** | 47 |
+| 2016 | 19 | 22 | 38 |
+| 2017 | 16 | 21 | 26 |
+| 2019 | 16 | 21 | 25 |
+| 2020 | **11** | 15 | 21 |
+| 2022 | **11** | 15 | 17 |
+| 2023 | **11** | 14 | 17 |
+| 2024 | 14 | 15 | 20 |
+| 2025 | 16 | 22 | 27 |
+
+**12-yr forward-P/E median ≈ 18x. Today ≈ 17x. Range ~11x (trough) to ~27x+ (peak).**
+
+### The honest conclusion (corrects "it's cheap, 27x proves it")
+- **On forward, today's 17x ≈ the 18x median → you're at the MEDIAN, NOT at a discount to history.** The
+  "cheap" feeling is only vs the 2024-25 froth (22-27x), not vs how OSIS normally trades forward.
+- **27x forward was the PEAK (2015/2025), not normal.** Median is 18x. Underwrite the re-rate to **20x**
+  (above median, below peak) — conservative within the range.
+- **The re-rate IS real** (hit 24-27x+ in 2012/15/16/25 when growth was visible) — so a move to 20-22x is
+  the upper-half, not a stretch. But it needs the narrative (April ramp) to reignite.
+- **You are NOT buying a cheap multiple.** The margin of safety is the BUSINESS (funded backlog, RPO,
+  FCF yield, floor), NOT the valuation. Multiple is fair/neutral both ways.
+- **Downside is real & symmetric-ish:** forward trough 11-14x (2020/22/23) = −20% to −35% multiple hit
+  from here in a macro risk-off or failed ramp.
+
+**Net: entry at the median forward multiple (fair, not cheap) · return = EPS growth + re-rate to the
+20-25x upper range IF the April ramp reignites the narrative · downside = 11-14x trough in a bad
+scenario · the multiple is neutral — the floor is the business, not the price.**
