@@ -60,3 +60,26 @@ yield to wait, with a visible floor.**
   risk — same as your Itron.** Size for that: it's a *patient* re-rate, not a fast one.
 - **Discipline:** don't pay up past ~$230 (base) chasing; add on weakness toward $177; the asymmetry is
   best near the floor, worst near the target.
+
+---
+
+## Ownership (LSEG Shareholders Report) — answers DD gap #6
+Tiny share count (~15.7M) so each holder is a big %. **Heavily institutional, index-heavy, and majors
+ADDED into the de-rate:**
+| Holder | % out | Trend |
+|---|---|---|
+| BlackRock | 14.4% | rising (13.2%→14.4%) |
+| Fidelity (FMR) | 9.8% | rising (8.5%→9.8%) |
+| Vanguard (two entities) | ~12.5% | steady/rising |
+| Janus Henderson | 5.8% | **rising (4.4%→5.8%)** |
+| Capital Research/International | ~8% | steady |
+| State Street, Geode, DFA, etc. | index | steady |
+
+**Insiders (named):** **Deepak Chopra (founder/Exec Chairman) ~1.6%**, **Alan Edrick (CFO) ~1.75%** —
+combined ~3.3%. Moderate alignment (founder-led, real skin in the game, not huge). (Note: this Deepak
+Chopra is the OSI founder, not the wellness author.)
+
+**Read:** (1) **Major active managers (BlackRock, Fidelity, Janus) INCREASED stakes through the 2026
+de-rate** — smart money accumulated the weakness, a mild positive. (2) High institutional ownership =
+well-scrutinized, liquid, but also means **limited "undiscovered" edge** — this isn't an unfollowed
+microcap. (3) Founder + CFO hold ~3.3% — aligned, consistent with the cash buyback at ~$204.
