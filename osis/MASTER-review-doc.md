@@ -15,15 +15,23 @@ plus optoelectronic components and hospital patient-monitoring. Three segments:
   (vertical integration).
 - **Healthcare <10%** (Spacelabs) — patient monitoring; currently loss-making, recovery optionality.
 
-**Moat:** regulatory certification (TSA/ECAC: 3–5 yrs + millions per machine type to enter), software/
-operator lock-in, cargo-scale dominance, and a razor/blade service annuity (10–15 yr machine life).
-Mandated by regulation, AI-disruption-resistant (can't software away physical screening).
+**Moat — distinguish two:** (1) **Regulatory moat = strong & verifiable** (TSA/ECAC certification: 3–5
+yrs + millions per machine type; govs buy only from approved lists; can't software away physical
+screening). (2) **Competitive moat (winning contracts, pricing power, share) = credible but NOT fully
+proven** — the ">50% cargo share" is company/trade-press, not independently verified, and OSI's own
+10-K warns of "very competitive" markets with pricing-pressure/share-loss risk. So: strong regulatory
+barrier + leading-but-contested competitive position. Razor/blade service annuity on 10–15yr machine life.
 
 ## The numbers (fiscal year ends June 30)
 - **FY26 (actual):** revenue $1.79B (+4%), non-GAAP EPS $10.35 (+11%), EBITDA margin ~16%, OCF $276M.
 - **Q1 FY27 (Sep'26):** revenue $403.5M (+5%, record Q1), non-GAAP EPS $1.66 (+17%), **book-to-bill
-  1.4, record backlog $2.1B.** NOTE: EPS beat was partly buyback + lower interest, not operations;
-  gross margin was *down* YoY (30.7% vs 32.0%).
+  1.4, record backlog $2.1B.** ⚠️ **EPS quality LOW:** GAAP **operating income actually DECLINED**
+  (~$33.6M → $33.1M); the entire EPS gain came from **lower net interest + lower share count**, NOT
+  operating leverage. GM *down* YoY (30.7% vs 32.0%). The operating-leverage thesis is **unproven in
+  the prints** — it must appear in the 2H ramp.
+- **RPO (verified, 10-Q):** ~**$2.0B at Sep 30 2026, ~64% (~$1.28B) expected to convert within 12
+  months** — better near-term evidence than the 5-yr backlog (~2/3 of next-year revenue contracted),
+  though RPO can still slip on timing.
 - **Guidance FY27:** revenue $1.875–1.930B (+5–8%), non-GAAP EPS $11.28–11.64. Growth weighted to 2H.
 - **Consensus:** rev FY27 $1.90B / FY28 $2.04B / FY29 $2.24B; EPS FY27 $11.45 / FY28 $12.82 / FY29
   $14.86; EBITDA margin **flat ~16%**; FCF FY27 ~$209M (Mexico collection) → $162M FY28.
@@ -39,29 +47,44 @@ Mandated by regulation, AI-disruption-resistant (can't software away physical sc
    (deferred, not lost), and a US gov shutdown delayed orders. The multiple came out.
 2. **Record $2.1B backlog with RISING coverage (backlog/LTM rev 1.16x, a multi-year high vs ~1.05x),
    book-to-bill 1.4.** Objective proof of forward demand.
-3. **FY28/29 funding is legally LOCKED:** CBP has >$1B from the "One Big Beautiful Bill" for inspection
-   systems (CBP Jan-2026 testimony), and the Secure America Act (signed June 2026) locks ~$26B CBP
-   funding through FY2029 via reconciliation — "Democrat-proof" even after the Nov-2026 midterms. OSI
-   is **sole-sourced** on recent CBP IDIQs ($200M + $85M ceilings) and historically wins >40% share.
+3. **FY28/29 funding has unusually strong multi-year VISIBILITY (not "locked for OSI" — corrected):**
+   the Secure America Act (June 2026) includes **~$3.45B for CBP non-intrusive inspection/border tech**
+   and OBBBA a separate **~$6.168B broad CBP** appropriation, available through FY2029 via reconciliation
+   (hard to claw back). BUT these are *agency* appropriations, not guaranteed OSI purchases; the broader
+   "$26B CBP" figure includes personnel/ops. OSI's IDIQ awards ($200M + $85M **ceilings**, not
+   guaranteed spend — the $85M had a $21M initial task order) show it's positioned to compete, with
+   established procurement relationships and strong past share. **Reframe: "strong multi-year gov
+   funding visibility + established procurement position," NOT "legally locked funding for OSI."**
 4. **Reverse-DCF:** at $196 the market prices only **~4% perpetual FCF growth** for a 6–9% revenue
-   grower with locked funding — i.e. it's pricing the pessimistic "reset, no re-acceleration" case.
+   grower with strong funding visibility — pricing the pessimistic "reset, no re-acceleration" case.
 5. **Dated catalysts are close:** Q2 FY27 (~27 Jan 2027, service growth should double), Q3 FY27
    (~Apr, THE 2H-ramp print), FY28 revenue ramp from ~mid-2027.
-6. **Capital allocation:** buying back stock with cash (not debt) at ~$204 (above today) — management
-   signaling it's cheap.
+6. **Capital allocation:** buying back stock (~$62M Q1) at ~$204. ⚠️ **Caveat:** Q1 buyback **exceeded
+   FCF (~$29M)** — cash fell $360M→$302M, so it was partly funded by the Mexico-cash drawdown, not
+   organic FCF. A positive capital-allocation *signal*, NOT independent valuation proof, and it
+   **decelerates** once the Mexico harvest is done.
 
-## Valuation & targets (~1yr, probability-weighted)
+## Valuation & targets (~1yr, probability-weighted — 4 scenarios incl. a real adverse case)
 | Case | Method | Target | Return | Prob |
 |---|---|---|---|---|
-| Bear | FY28 EPS $11.5 × 14x | $161 | −18% | 27% |
-| **Base** | FY28 EPS $12.82 × 18x | **$231** | **+18%** | 43% |
-| Bull | FY28 EPS $13.5 × 21x | $284 | +45% | 30% |
-| Blue-sky | × 24x (traded there Sep'25) | $324 | +65% | — |
-| **Expected value** | | **$228** | **+16%** | |
+| **Severe bear** (ramp fails, margin contracts) | EPS $10.3 × 13x | $134 | **−32%** | 13% |
+| Bear (reset/flat, NO re-rate) | EPS $11.5 × 15x | $172 | −12% | 25% |
+| **Base** (converts, HOLDS 17x — no re-rate) | EPS $12.82 × 17x | **$218** | **+11%** | 37% |
+| Bull (beat + re-rate) | EPS $13.5 × 20x | $270 | +38% | 25% |
+| **Expected value** | | **~$209** | **~+6%** | |
 
-SOTP (FY27 segment EBIT × multiples) base ≈ **$182 ≈ today's price** — i.e. **you are NOT getting
-cheap assets; the upside is EPS growth + a multiple re-rate off the depressed 17x.** 3–5yr: ~7%/yr rev
-→ ~$2.5B / ~$17 EPS by FY31; at 18x ≈ $314.
+**Corrected from an earlier +16% EV** — the reviewer was right to insist on a genuine adverse operating
+scenario, and the base should NOT auto-assume an 18x re-rate. **No-re-rate "paid to wait" return = hold
+17x + hit FY28 consensus = ~$218, +11% over ~1.5yr (~7%/yr).** The +38% needs the re-rate; the −32%
+is real if the 2H ramp fails and operating leverage reverses.
+
+**Multiple sensitivity (FY28 EPS $12.82):** 14x=$179 (−9%), 15x=$192 (−2%), 16x=$205 (+4%), 18x=$231
+(+18%), 21x=$269 (+37%). **At 15x (no re-rate) hitting consensus EPS = FLAT.** The return genuinely
+needs BOTH the operating inflection AND a re-rate — two separate bets (reviewer's central point, valid).
+
+SOTP (FY27 segment EBIT × multiples) base ≈ **$182 ≈ today's price** — confirms **you are NOT getting
+cheap assets; the return is EPS growth + a multiple re-rate off 17x.** 3–5yr: ~7%/yr rev → ~$2.5B /
+~$17 EPS by FY31; at 18x ≈ $314 (requires the quality premium being earned).
 
 ## The honest bear case
 Lumpy, government-timing-dependent hardware company whose **gross margin has FALLEN from ~36% (2017)
