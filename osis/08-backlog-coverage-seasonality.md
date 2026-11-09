@@ -76,3 +76,25 @@ beating (+2.4%). → **Management/analysts run conservative; the company usually
 evidence. **The real test is Q3/Q4, where +11%/+15% is already the bar** — hitting it = in line (no
 surprise), beating it = the bull catalyst, missing it = thesis-stall. Only **2 analysts cover it**
 (Oppenheimer, Roth) — thin coverage = more room for an edge, but also less scrutiny.
+
+---
+
+## Forward quarterly estimates — the 2H ramp, decomposed [LSEG files 10-12]
+Consolidated revenue estimate vs prior-year actual (the bar):
+| Quarter | Est | YoY | Note |
+|---|---|---|---|
+| Q2 FY27 (Jan) | $452M | **−2.5%** | easy bar (down YoY) — a beat here is pre-loaded, weak evidence |
+| Q3 FY27 (Apr) | $498M | **+9.8%** | THE ramp — not sandbagged, this is the expectation |
+| Q4 FY27 | $549M | **+13.4%** | ramp (recovery off the slipped Q4 FY26) |
+
+**The entire ramp is Security** (Q3 +11%, Q4 +15%); Opto steady (~+5%), Healthcare modest recovery (~+5%).
+So the 2H bet = **Security converting backlog.** What the guide assumes: ~$30M deferred Middle East
+converts in 2H, Mexico headwind 1H-only, CBP small in FY27 (bulk FY28), service growth accelerating.
+
+**What would stop them:** Middle East slips again (the Q4 FY26 −12% miss was exactly this, #1 risk) ·
+gov shutdown/procurement delay · site/installation delays (GAO bottleneck) · bad-margin mix (hit
+revenue, miss margin — the Q1 problem).
+
+**Seasonality share:** Q1 ~21% / Q2 ~25% / Q3 ~25% / Q4 ~28% of annual. Read each quarter vs its
+seasonal share + YoY, never vs the prior quarter. The 2H carries both the seasonal bulge AND the
+backlog conversion AND the operating leverage.
