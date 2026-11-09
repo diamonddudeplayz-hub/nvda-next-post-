@@ -43,3 +43,4 @@ re-rate option. Not a rocket — a steady compounder bought on sale.
 | Date | Action | Price | Size | Note |
 |---|---|---|---|---|
 | | starter | | | |
+| 2026-11-10 | STARTER | ~$199-200 | 6 sh (self) + 3 sh (uncle Tom) = 9 sh | wide bid/ask (thin name ~0.25M ADV); waiting for a leg down to add |
