@@ -198,3 +198,36 @@ Axon.** You're buying OSIS *after* the de-rate, not before.
   → $1.2B → $1.8B → $1.7B → $1.8B → $1.9B (FY26) → **$2.1B (Q1 FY27)**. ~14% CAGR, still growing,
   book-to-bill 1.4. **Backlog > annual revenue = >1x coverage** and rising = the downside cushion.
 - **Price floor: $186.50** (Aug low), base-building $186–210 for 3 months. Watch it hold.
+
+---
+
+## 15. Gross margin "decline" — it's a round-trip + mix, and operating margin went UP
+**GM is a round-trip, not a secular fall:** 33.7% (2017) → ~36% (2018–21 peak) → 33.2% (FY26) → 32.9%
+(LTM). It *rose* to 36% then normalized back to ~33% — driven by **segment mix** (Opto, the lowest-GM
+segment, grew double-digit; Healthcare, the highest-GM segment, shrank; larger lower-margin cargo/
+Security product). NOT a broken business.
+
+**The line that matters for an owner — OPERATING margin DOUBLED over the same span:**
+- Operating margin: **8.3% (2017) → 12.6% (FY26)**, via **SG&A+R&D % of sales falling 8 straight years**
+  (operating leverage). So the business got *more* profitable per revenue dollar even as GM mix-normalized.
+- ROIC ~12%, ROE ~18% — value-creating.
+
+**Service % — three different numbers, don't conflate:**
+- **40%** = target for recurring as % of the **Security segment** (now ~30% of Security).
+- **~25%** = service as % of **total company** ($441M / $1,786M FY26).
+- Consolidated GM modeled **flat ~33%** — so **don't underwrite GM expansion**; the proven lever is
+  operating leverage, with service mix a slow tailwind on top.
+
+**Owner's takeaway:** don't fixate on GM. The business mix-normalized GM but expanded operating margin
+through cost discipline — a well-run operation. Watch whether operating margin HOLDS (it has) more than GM.
+
+## 16. Middle East exposure & the GAO/CBP stall (business-risk sizing)
+- **Middle East is ~4.4% of revenue (~$78M); at-risk backlog ~$50M deferred.** Even a total regional
+  wipeout is a single-digit-% revenue hit. Structurally OSIS is a **hedge** — conflict → more global
+  border/aviation/defense demand (their core). Middle East re-escalation = near-term timing drag on a
+  small slice, NOT a thesis risk. (Nuclear tail-risk = a whole-portfolio problem, not OSIS-specific.)
+- **GAO "unused scanners" = the government's civil-engineering problem, not OSI's demand problem.**
+  Stalls are site-space, X-ray interference, railroad/municipal red tape — a *deployment lag*. CBP's fix
+  is to **pivot to mobile/relocatable systems**, exactly what OSI just won ($200M + $85M IDIQs). Money's
+  appropriated; stalled units eventually trigger high-margin service. **A timing lag, mildly mix-positive
+  for OSI — not demand destruction.**
