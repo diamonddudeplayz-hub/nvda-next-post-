@@ -58,3 +58,21 @@ government Sept-30 year-end**. Implications:
   (inference); Golden Dome funding timing is the analyst-flagged risk (mgmt: "2H of fiscal year").
 - **Nothing got worse recently:** Q1 FY27 (Oct 29) *beat* ($403.5M vs $393M est) and raised the EPS
   guide. Stock based $186–210 for 3 months, no new lows, no fresh negative catalyst.
+
+---
+
+## Security revenue — estimate beat history (sandbag check) [LSEG file 9]
+OSI **beats Security revenue estimates ~85% of the time (11 of last 13 quarters)**, typically +2–8%.
+The only 2 misses: Q3 FY26 (−1.8%) and **Q4 FY26 (−12%, the Middle East slip)**. Q1 FY27 was back to
+beating (+2.4%). → **Management/analysts run conservative; the company usually clears the bar.**
+
+**Forward Security bar (the sandbag):**
+- **Q2 FY27 (Dec-26): est $326M = −2% YoY** → a LOW bar (matches "Q2 modestly down" guide) → **beat likely.**
+- **Q3 FY27 (Mar-27): est $355M = +11% YoY** → the 2H ramp is BAKED IN (not sandbagged — this is the expectation).
+- **Q4 FY27 (Jun-27): est $392M = +15% YoY** → recovery from the slipped quarter, ramp baked in.
+- FY27 Security est $1,331M = +7% vs FY26.
+
+**Read:** Q2 is set low → a beat there is probable (85% base rate) but on an easy comp, so it's weak
+evidence. **The real test is Q3/Q4, where +11%/+15% is already the bar** — hitting it = in line (no
+surprise), beating it = the bull catalyst, missing it = thesis-stall. Only **2 analysts cover it**
+(Oppenheimer, Roth) — thin coverage = more room for an edge, but also less scrutiny.
