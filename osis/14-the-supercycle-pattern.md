@@ -44,3 +44,29 @@ the median multiple, post-crash. The next cycle is bigger and legally funded.
 you're standing where the stock was in 2022-2023 — before the next, bigger, legally-funded super-cycle
 (CBP/BBB, $26B through 2029) recognizes. Same movie; you've got a ticket before the opening scene. The
 trick is not to still be holding at the credits.**
+
+---
+
+## THE SMOKING GUN: deal-vs-price overlay proves "recognition, not announcement"
+| Date | Price | Event |
+|---|---|---|
+| Apr 2021 | $101 | **CBP IDIQ up to $480M ANNOUNCED** |
+| Oct 2021 | $96 | $200M CBP orders announced |
+| Jan 2023 | $89 | $200M+ international order |
+| **Mar 20 2023** | **$98** | **$600M SEDENA Mexico award (the catalyst)** |
+| Jan 2024 | $125 | Mexico RECOGNIZING |
+| Jun 2025 | $225 | peak recognition |
+| Apr 2026 | $310 | PEAK (34x) |
+| May 2026 | $240 | crash (Mexico $69M→$11M) |
+| **Aug 2026** | **~$225** | **$200M + $85M CBP IDIQs ANNOUNCED** |
+| **Now** | **$196** | range-bound, waiting on recognition |
+
+**The proof on the tape:** OSI announced a **$480M CBP IDIQ in April 2021** and the stock sat FLAT at
+$96-101 for ~2 years. The announcement did nothing. The 3x came only as **Mexico's $600M RECOGNIZED**
+(2024-26). The market ignored the announcement and paid for the recognition — exactly as the thesis says.
+
+**The exact parallel NOW:** OSI announced **$285M CBP IDIQs + sits on $1B+ BBB funding (2026)**, and the
+stock is range-bound at $196 — just as it was range-bound at $96 after the LAST CBP announcement in 2021.
+Recognition (FY28) is the catalyst, same as Mexico's recognition was. **The last time OSI sat flat on
+announced-but-unrecognized government contracts, the wait paid 3x.** (Pre-catalyst range Jul-2020 to
+Mar-2023: $67-102, flat ~2.5yr.)

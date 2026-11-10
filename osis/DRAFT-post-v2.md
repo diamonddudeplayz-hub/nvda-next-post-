@@ -101,6 +101,8 @@ and beyond. **Right now you are buying in the gap** — Mexico off the books, CB
 median multiple, with the stock flat and cheap, which is exactly where it sat in 2022 before the last
 one recognized.
 
+Here's the detail that turns this from analogy into evidence. OSI announced a $480M CBP contract vehicle in April 2021. The stock sat flat at ~$96-101 for nearly two years. The announcement moved nothing. The 3x came only as Mexico's $600M actually recognized, fiscal 2024 through 2026. The market ignored the press release and paid for the income statement — the whole thesis, printed on the tape. And the parallel to today is exact: OSI announced $285M of CBP contract vehicles in August 2026 and sits on over $1B of appropriated border-inspection funding, and the stock is range-bound at $196, right where it was range-bound at $96 after the last CBP announcement. The recognition comes in FY28. The last time this company sat flat on announced-but-unrecognized government contracts, the wait paid 3x.
+
 The warning is on the same chart: the people who bought at $310 and 34x, at full recognition, lost 40%.
 Super-cycles are cyclical. You want to be early, in the gap, not late, at the peak. I am buying the
 2022-analog setup and writing myself a rule to trim when CBP is fully in the numbers and the multiple is
