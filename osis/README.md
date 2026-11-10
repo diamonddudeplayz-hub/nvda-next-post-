@@ -41,6 +41,10 @@ return = revenue growth + an undated-but-demonstrated re-rate; margins flat (not
 11. **`11-final-questions-and-risks.md`** — the 6 DD gaps, honest risk table, bull/bear in one paragraph
     each, and where you might be too bullish.
 12. **`analyst-notes.md`** — the 4 sell-side notes summarized (Oppenheimer x2, Roth, JPM bear).
+13. **`15-operational-database.md`** — **the Itron treatment: 17 quarters of operating ratios rebuilt
+    from SEC filings** (service vs product gross margin [~16pt spread], service-share U-curve, contract-
+    liability trend, DSO/Mexico-WC unwind, SBC/R&D/capex intensity). The metrics no sell-side note
+    tracks. Confirms the core thesis, sharpens the bear's working-capital point.
 
 > **Two corrections logged (9 Nov):** (1) OSIS is #1 in *cargo/border*, only #2–3 in *airports*.
 > (2) The "margin-expansion flywheel" was overstated — analysts model **gross margin flat ~33%**
