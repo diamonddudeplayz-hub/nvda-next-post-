@@ -70,3 +70,31 @@ stock is range-bound at $196 — just as it was range-bound at $96 after the LAS
 Recognition (FY28) is the catalyst, same as Mexico's recognition was. **The last time OSI sat flat on
 announced-but-unrecognized government contracts, the wait paid 3x.** (Pre-catalyst range Jul-2020 to
 Mar-2023: $67-102, flat ~2.5yr.)
+
+---
+
+## CORRECTION (11 Nov): verified day-of announcement reactions (I overclaimed "flat through every announcement")
+Pulled the actual daily tape around each announcement:
+| Announcement | Day-of | Held |
+|---|---|---|
+| $480M CBP IDIQ (Apr 2021) | **+1.1%** | faded to −2.9% in 3 days |
+| $200M CBP orders (Oct 2021) | **+0.2%** | flat |
+| $200M+ international (Jan 2023) | +1.0% | +2.5% by day 3 |
+| **$600M Mexico SEDENA (Mar 2023)** | **+7.8%** | held +8% |
+
+**Refined mechanism (more precise than "announcements do nothing"):**
+- **IDIQ *ceilings* (permission to buy) → ~zero reaction** (both 2021 CBP IDIQs did nothing).
+- **A firm *award* (an actual order, e.g. the $600M Mexico) → a modest pop (+8%).**
+- **RECOGNITION → the 3.6x** ($98→$310, 2024-26), which dwarfed the +8% pop.
+
+**Maps onto now:** the current CBP awards ($200M + $85M) are IDIQ *ceilings* → ~no announcement reaction
+(confirmed, no pop Aug 2026). Re-rate waits for recognition (FY28).
+
+## The margin reality of the wave (the product-vs-service point)
+The CBP super-cycle = scanners = **lower-margin PRODUCT**; high-margin **service is the tail** (installed
+base off warranty, years later). So the wave likely **compresses** margin, not expands it. PROOF: during
+the Mexico super-cycle the stock went **3.6x WHILE gross margin fell 36%→33%** — it re-rated on **EPS/
+volume**, not margin. So the super-cycle re-rate is a **volume/EPS story, not a margin story.** The real
+metric is **EPS growth** (captures volume minus margin drag), not margin alone. Temper any "margin
+expansion" framing — the wave is product-heavy and margin-dilutive near-term; margin recovery is the
+later service tail. Honest net: a B+ volume-recognition bet, correctly sized as a starter, not a table-pound.
