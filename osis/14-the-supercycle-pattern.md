@@ -98,3 +98,46 @@ volume**, not margin. So the super-cycle re-rate is a **volume/EPS story, not a 
 metric is **EPS growth** (captures volume minus margin drag), not margin alone. Temper any "margin
 expansion" framing — the wave is product-heavy and margin-dilutive near-term; margin recovery is the
 later service tail. Honest net: a B+ volume-recognition bet, correctly sized as a starter, not a table-pound.
+
+---
+
+## Decomposing the 3.6x — what actually drove it, and why THIS entry is different (GAAP diluted EPS, from filings)
+The 3.6x wasn't an earnings explosion. Split into its two drivers:
+
+| | Start (2022, ~$85) | Peak (Apr 2026, $310) | Driver |
+|---|---|---|---|
+| GAAP trailing EPS | ~$6.45 (FY22) | ~$8.71 (FY25) | EPS **+35% → 1.35×** |
+| P/E | **~13x** | **~35x** | Multiple **13→35 → 2.7×** |
+
+**3.6x = 1.35× (EPS) × 2.7× (multiple).** The **re-rate did ~75% of the work; EPS only ~25%.** The stock
+tripled chiefly because it **started cheap (13x)** and ran to froth (35x). EPS over the whole cycle grew
+just ~35%.
+
+**Why that matters for the entry now ($196):**
+- Today is **17x fwd / ~21x trailing = the MEDIAN** (doc 12), **not** the 13x cheap-start. The free
+  re-rate leg is largely *gone* — you won't get 13→34 again. Target **20-22x** (above median, below froth).
+- So this cycle the **engine must swap to EPS.** The fuel is far bigger: **CBP/BBB ~$26B funded vs
+  Mexico ~$800M.** If it converts, EPS can run **$11 → $16-17+ (+45-55%)** — the EPS leg does the heavy
+  lifting the cheap multiple did last time.
+- **You don't need froth.** A move to just **21x (the trailing *median*)** × good earnings is already a
+  strong return (see matrix). Both legs each do a little; neither has to be heroic.
+
+### The target matrix (non-GAAP EPS × exit multiple; price $196)
+| Exit P/E ↓ / EPS → | FY28 $12.82 | FY29 $14.86 |
+|---|---|---|
+| 15x (de-rate, no re-rate) | $192 (−2%) | $223 (+14%) |
+| 17x (hold current) | **$218 (+11%)** ← paid-to-wait | $253 (+29%) |
+| 18x (fwd median) | $231 (+18%) | $267 (+36%) |
+| 20x (modest re-rate) | $256 (+31%) | $297 (+51%) |
+| **21x (trailing median)** | **$269 (+37%)** | **$312 (+59%)** |
+
+**Read:** the base case (hold 17x, hit consensus EPS) = **+11% "paid to wait."** The realistic bull is
+**not** 34x froth — it's **21x × FY28-29 earnings = +37-59%**, i.e. a *median* multiple on *converted*
+earnings. The bear (EPS stalls, de-rate to 14-15x) = **$179-192, −2 to −9%.** Skew ~2-3:1 up.
+
+### Why the ladder starts here and waits for the drop
+This is the discipline the decomposition forces: at **$196/17x you pay FAIR** (business + option). At
+**$177 you buy back the 13x cheap-start** — $177 ÷ FY28 $12.82 = **~13.8x**, the *exact multiple the last
+3.6x launched from.* So "add hard at $177" isn't charting — it's **re-acquiring the deep-value entry that
+historically tripled.** Start a starter at fair (now), keep powder, and let the drop hand you the cheap
+multiple the model actually wants.
