@@ -32,10 +32,26 @@ the conversion by ~a year.
 is the second variable (why we underwrite flat margins and watch GM). Further tests: cancellation rate
 (10-K: firm orders, minimal cancellations), book-to-bill lead, conversion-margin stability.
 
-## The reverse-DCF ("~4% implied growth") — exact math
-Single-stage Gordon perpetuity solved backwards: **EV = FCF/(WACC − g) → g = WACC − FCF/EV.**
-EV $3,841M, FCF ~$190M, WACC 9% → g = 0.09 − 190/3841 = **4.1%.**
-Sensitivity: WACC 8%/9%/10% → g 3.1%/4.1%/5.1%; FCF $180M/$209M → 4.3%/3.6%.
-**Crude and input-sensitive — DON'T quote "exactly 4%."** The robust claim: **the price embeds ~3–5%
-perpetual growth, below the consensus 6–9% near-term revenue growth → the market prices less growth
-than the Street's own estimates.**
+## The reverse-DCF — CORRECTED to 2-stage (single-stage was misleading)
+**WACC ≈ 9.0%** (Ke 11.3% CAPM = 5% Rf + 1.26β × 5% ERP; Kd 1.7% after-tax on cheap 0.5%/2.25% converts;
+76/24 E/D weights).
+
+⚠️ **The single-stage Gordon model ("implied g = WACC − FCF/EV = 4%") is WRONG to cite as "pessimistic"**
+— 4% *perpetual* growth is ~GDP, a normal terminal assumption; the model conflates near-term and terminal.
+
+**Proper 2-stage** (stage-1 growth for 5yr → 3% terminal, 8.8% WACC, FCF₀ ~$190M):
+| Stage-1 growth | Fair EV | vs actual $3,841M |
+|---|---|---|
+| 5%/yr | $3,680M | −4% (rich) |
+| **6%/yr** | ≈ today | **fair — what's priced** |
+| 7%/yr | $4,008M | +4% (cheap) |
+| 9%/yr | $4,361M | +14% (cheap) |
+
+**The price implies ~6% stage-1 growth — the LOW END of the 6–9% consensus, NOT 4%.** So: modestly cheap
+IF OSI delivers mid-to-high consensus (7–9%, which the $2.1B backlog supports), roughly fair at 5–6%. The
+honest claim for the post: **"the market prices ~6%, the low end of its own consensus"** — a modest edge
+contingent on conversion, not a screaming mispricing.
+
+## What $2.1B backlog implies (forward)
+Backlog ~1.0x next-yr revenue → **$2.1B now → ~$2.0–2.1B following-year revenue ≈ FY28 consensus $2.04B**
+(slightly above). The orders to hit consensus FY28 already exist; rising backlog supports the 7–9% upside case.
