@@ -98,3 +98,19 @@ revenue, miss margin — the Q1 problem).
 **Seasonality share:** Q1 ~21% / Q2 ~25% / Q3 ~25% / Q4 ~28% of annual. Read each quarter vs its
 seasonal share + YoY, never vs the prior quarter. The 2H carries both the seasonal bulge AND the
 backlog conversion AND the operating leverage.
+
+---
+
+## Inventory composition — a tangible leading indicator of the 2H ramp (Q1 FY27 10-Q)
+| Component | Jun 2026 | Sep 2026 | Change |
+|---|---|---|---|
+| **Raw materials** | $262M | $298M | **+$36M (+14%)** |
+| **Work-in-process** | $77M | $87M | **+$10M (+12%)** |
+| Finished goods | $77M | $79M | +$2M (+3%) |
+| Total | $416M | $463M | +$48M (+11%) |
+
+**The $48M build was ~entirely raw materials + WIP; finished goods barely moved.** That's the BULLISH
+kind of inventory build: they're buying inputs and starting production to SHIP the backlog in 2H — not
+piling up unsold scanners. Corroborates mgmt's "inventory built to support 2H scheduled deliveries from
+backlog." A balance-sheet signal that conversion is being physically prepared. WATCH: raw/WIP continuing
+to build into Q2 = ramp on track; finished goods ballooning = something's not shipping.
