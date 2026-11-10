@@ -102,3 +102,23 @@ Consensus models service *revenue* recovery but NOT the *margin* benefit (flat 1
 and margin returns to FY25's 16.9%: **~+0.8pt → ~+$15M EBITDA → ~+$0.74 EPS → ~6% above consensus**, plus
 the re-rate. Un-priced three ways (revenue partly in, margin out, multiple at median). Modest lever
 (service = 25% of rev) but real + un-modeled.
+
+---
+
+## ⚠️ CORRECTION (11 Nov): the service-margin upside was OVERSTATED — and service is a side-story
+Prior section claimed service recovery = ~0.8pt margin = ~6% EPS upside. **That was wrong.** Magnitude check:
+- Service is **25% of revenue, ~88% of it in Security** (est. Security service ~$389M of $441M total;
+  Healthcare ~$48M; Opto ~$4M).
+- A service recovery lifts the **BLENDED margin only ~0.1pt/yr** — tiny. The FY25→FY26 margin drop
+  (16.9%→16.1%) was **mostly OTHER mix** (Mexico product roll-off, low-GM Opto growth, Healthcare), NOT
+  service. Service's own share of that was ~0.1-0.2pt.
+- **Real service-margin lever: ~0.1-0.3pt/yr ≈ 1-2% EPS, NOT 6%.**
+- This RESOLVES the "flat-margin despite service recovery" puzzle: consensus flat margin **is consistent**
+  with a service recovery — service is just too small to move the blend. The Street isn't ignoring a big
+  lever; the lever is small.
+
+**Re-centering (service is NOT the thesis):** the real re-rate drivers are (a) total **backlog conversion**
+(FY27 base) and (b) the **CBP/BBB/Secure-America super-cycle recognizing (FY28)** — the new, bigger,
+FY2029-funded version of the Mexico super-cycle that drove the 2024-25 premium. Service (25% of rev) was
+the de-rate *trigger* but is a minor recovery contributor. **Post framing: fund-driven government
+super-cycle (Mexico → CBP/BBB) + backlog conversion, NOT a service bounce.** Don't lead with service.
