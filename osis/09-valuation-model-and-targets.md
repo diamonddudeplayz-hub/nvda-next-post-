@@ -107,3 +107,45 @@ decelerating to ~2–3%/yr** once that harvest is done.
   real 2H-ramp print; FY28 (from ~mid-2027) = CBP/BBB/Secure-America revenue ramps.
 - **Action:** starter now, accumulate in the $188–209 range, add hard at ~$177 if offered, scale to
   full on the Jan/Apr confirmation. Break below ~$186 post-weak-Q2 = stop adding.
+
+---
+
+## 5-7yr LONG-TERM case (margin U-curve + Healthcare + the driver stack) — added 11 Nov
+
+### The margin story is a U-curve, not flat
+- **Near-term (FY27-28): margin COMPRESSES** on the product-heavy CBP/backlog wave (scanners = lower
+  margin), exactly as it did during Mexico (stock 3.6x'd while GM fell 36%→33% — a volume/EPS re-rate,
+  NOT a margin one).
+- **Long-term (FY29+): margin RECOVERS** as those product waves roll off warranty into high-margin
+  SERVICE. Service ~25%→~32% of revenue over 5-7yr (mgmt: recurring 30%→40% of Security) ≈ **+1-1.5pt
+  EBITDA margin** over the period. The near-term "flat margin" assumption is only the FRONT of the curve.
+
+### Healthcare (Spacelabs) — a small, asymmetric free option
+~9% of revenue, currently LOSING money (−1.8% op margin Q1), but highest contribution margin when it
+works (hit 10% in Q4 FY26). Recovery from loss→~10% ≈ **+$0.80 EPS (~7%)**. New mgmt + next-gen monitor
+(FY28). **Structurally SUBSCALE** (a #4-5 player vs Philips/GE/Medtronic/Masimo — can't win share) +
+aging product + non-core. So the realistic option is **"stabilize to profit" OR "divest"** (removing the
+drag either way), NOT "grow into a leader." Low-probability, asymmetric (can't get much worse, tiny) —
+pocket it if it comes, don't underwrite it.
+
+### Refined 5-7yr ceiling
+| Case | FY32 EPS | At 18-20x | vs $200 |
+|---|---|---|---|
+| Base (flat margin) | ~$19 | ~$350-390 | ~2x |
+| + service-margin recovery + Healthcare | ~$22 | ~$390-435 | ~2.2-2.3x |
+**~12-14%/yr over 5-7yr — a solid compounder (beats the ~8-10% market avg), NOT a moonshot.**
+
+### The driver STACK (why it's not a single-catalyst bet)
+1. Near-term **volume re-rate** (FY27-28 backlog conversion → 17x→20x)
+2. **FY28 CBP super-cycle** recognizing (the big optionality)
+3. Long-term **service-margin recovery** (FY29+, the U-curve back half)
+4. **Healthcare turnaround** option (~7% EPS)
+5. **Buybacks** (per-share compounding)
+Multiple shots on goal, different timelines, de-risking each other. You need only SOME to work.
+
+### Balance sheet (Q1 FY27 10-Q) — adequate, not a fortress
+Liquidity ~$302M (revolver untapped); total debt ~$1.0B (>90% fixed, 0.5%/2.25% converts); net debt
+~$700M → **2.6x net debt/EBITDA**; interest coverage ~9.9x. **No distress risk.** Knocks: WC-intensive
+(AR $747M + inventory $463M = $1.2B tied up); **thin tangible equity (~$181M** — $602M is acquisition
+goodwill/intangibles, so a Healthcare impairment would dent book equity, not cash); **2029 convert strike
+$191.98 near spot** (dilution/cash-settle watch). Minor negative vs net-cash peers; fine for the thesis.
