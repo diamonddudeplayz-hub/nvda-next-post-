@@ -160,8 +160,9 @@ OSI is a lumpy government hardware contractor whose gross margin has quietly sli
 you can sit at 17x for a year earning nothing but a shrinking share count. The 2H ramp everyone
 underwrites has already slipped twice: down 1.8% in one quarter, down 12% in the next. The easy comps
 that make this year's ramp "achievable" exist precisely because management missed. Q1 looked great on
-EPS, up 17%, but GAAP operating income actually fell year-over-year, from about $33.6M to $33.1M, and
-gross margin was down. The EPS gain was lower interest and a smaller share count — and the buyback was
+EPS, up 17%, but the quality was thin: adjusted operating income fell year-over-year, from about
+$39.6M to $38.3M, and the adjusted operating margin contracted from 10.3% to 9.5% (GAAP operating income
+was roughly flat). The EPS gain was lower interest and a smaller share count — and the buyback was
 partly funded by a one-time Mexico cash harvest that ends, which is why consensus free cash flow steps
 down from ~$209M in FY27 to ~$162M in FY28. And there's no informational edge: the stock is ~90%
 institutionally owned, with BlackRock, Fidelity and Vanguard already in it. If it were obviously cheap,

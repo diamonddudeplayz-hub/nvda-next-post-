@@ -46,7 +46,8 @@ Q1 is seasonally the lightest quarter. It was a **record Q1** across the board:
 | — Services | $113.6M | +4% (modest, as expected — accelerates from Q2) |
 | Gross margin | **30.7%** | down from 32.0% (mix: Healthcare down, Opto up, Security mix) |
 | Non-GAAP adj. operating margin | 9.5% | vs 10.3% PY |
-| GAAP operating income | $33.6M | ~flat |
+| GAAP operating income | $33.6M | ~flat (up ~1.5%) |
+| **Adjusted operating income** | **$38.3M** | **DOWN from $39.6M** (adj op margin 10.3%→9.5%) |
 | GAAP net income | $24.6M | vs $20.6M |
 | **Non-GAAP EPS** | **$1.66** | **+17%** (Q1 record) |
 | GAAP diluted EPS | $1.51 | |

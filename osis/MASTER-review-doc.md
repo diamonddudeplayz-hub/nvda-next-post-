@@ -26,7 +26,7 @@ barrier + leading-but-contested competitive position. Razor/blade service annuit
 - **FY26 (actual):** revenue $1.79B (+4%), non-GAAP EPS $10.35 (+11%), EBITDA margin ~16%, OCF $276M.
 - **Q1 FY27 (Sep'26):** revenue $403.5M (+5%, record Q1), non-GAAP EPS $1.66 (+17%), **book-to-bill
   1.4, record backlog $2.1B.** ⚠️ **EPS quality LOW:** GAAP **operating income actually DECLINED**
-  (~$33.6M → $33.1M); the entire EPS gain came from **lower net interest + lower share count**, NOT
+  (adjusted op income ~$39.6M → $38.3M, adj margin 10.3%→9.5%; GAAP op income roughly flat); the EPS gain came from **lower net interest + lower share count**, NOT
   operating leverage. GM *down* YoY (30.7% vs 32.0%). The operating-leverage thesis is **unproven in
   the prints** — it must appear in the 2H ramp.
 - **RPO (verified, 10-Q):** ~**$2.0B at Sep 30 2026, ~64% (~$1.28B) expected to convert within 12
