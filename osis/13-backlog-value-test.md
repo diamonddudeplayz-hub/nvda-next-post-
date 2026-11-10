@@ -78,3 +78,27 @@ Backlog ~1.0x next-yr revenue → **$2.1B now → ~$2.0–2.1B following-year re
 management guided and the Street hasn't put in margins — if the Jan/Apr prints show it, the recovery is
 un-priced on both estimates and multiple, so it re-rates. You're paid the median multiple to wait for a
 proof the backlog supports.*
+
+---
+
+## Two precision corrections (caught 10 Nov) + the margin-vs-service proof
+**(a) "Pure-play" was wrong:** OSI is DIVERSIFIED (~70% detection + Opto + Healthcare). Smiths Detection
+(now private) was the pure-play + #1 in AVIATION; OSI is #1 in CARGO. Correct framing: "OSI is the main
+sizable PUBLIC detection franchise left," not "the #1 pure-play."
+**(b) "Paid to wait / earning the yield" is figurative:** OSI pays NO dividend. The 5.6% FCF yield is
+cash the BUSINESS generates (~$190M ÷ $3.1B mcap), spent on buybacks (~2-3% share reduction) + debt +
+M&A — it compounds per-share value, you don't collect it. Say "the business compounds value via buybacks
+while you wait," not "you earn 5.6%."
+
+**Margin-vs-service proof (the un-modeled upside, quantified):**
+| | Service | EBITDA margin |
+|---|---|---|
+| FY25 | double-digit (peak) | **16.9%** |
+| FY26 | decelerated (Q3→5%) | 16.1% |
+| FY27E | GUIDED to recover | **16.1% ← modeled FLAT** |
+
+Q3 FY26 (service→5%): adj op margin 11.7%, −250bps. So margins compressed WITH the service slowdown.
+Consensus models service *revenue* recovery but NOT the *margin* benefit (flat 16.1%). If service recovers
+and margin returns to FY25's 16.9%: **~+0.8pt → ~+$15M EBITDA → ~+$0.74 EPS → ~6% above consensus**, plus
+the re-rate. Un-priced three ways (revenue partly in, margin out, multiple at median). Modest lever
+(service = 25% of rev) but real + un-modeled.

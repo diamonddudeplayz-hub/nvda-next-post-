@@ -30,9 +30,10 @@ EBITDA) for the pure-play #2. **OSI trades at ~12.2x NTM EV/EBITDA.** So:
 > **The global #1 in cargo detection (OSI) trades at ~12.2x EBITDA — in line with what a sophisticated
 > PE buyer just paid (12.5x) for the pure-play #2.** A real-money private-market anchor on the exact
 > asset class. OSI's ~12x is **fair-to-slightly-cheap vs private detection value**, and with Smiths
-> Detection gone private + Leidos being services + Nuctech Chinese/state, **OSI is now ~the only sizable
-> *public* pure-ish detection play → a plausible PE/strategic takeout target at ~12–14x EBITDA (the
-> Smiths deal sets the comp).**
+> Detection gone private + Leidos being services + Nuctech Chinese/state, **OSI is now the main sizable
+> *public* detection franchise left — a plausible PE/strategic takeout target at ~12–14x EBITDA.** ⚠️ NOTE:
+> OSI is NOT a pure-play (it's ~70% detection + Opto + Healthcare); Smiths Detection was the pure-play and
+> #1 in AVIATION; OSI is #1 in CARGO. Don't call OSI a 'pure-play' in the post.
 
 ### What the comps actually say
 - **vs Itron (your benchmark):** OSIS grows **much** faster (6.8%/11.4% vs 3.2%/−1.3%) for only ~2
