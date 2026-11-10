@@ -55,3 +55,26 @@ contingent on conversion, not a screaming mispricing.
 ## What $2.1B backlog implies (forward)
 Backlog ~1.0x next-yr revenue → **$2.1B now → ~$2.0–2.1B following-year revenue ≈ FY28 consensus $2.04B**
 (slightly above). The orders to hit consensus FY28 already exist; rising backlog supports the 7–9% upside case.
+
+---
+
+## The sharpest framing: the service recovery is UN-PRICED (the variant perception)
+- **Margin assumption underneath every number here: FLAT (~16% EBITDA / ~10% FCF margin)** — matches
+  consensus. No margin expansion underwritten. Expansion = upside; erosion = downside.
+- **Management explicitly guided service back to double-digit** (Alan Edrick, Q1 FY27 call): *"strong
+  double-digit growth in FY27 service revenues... doubling, if not more than doubling, in Q2."*
+- **But the market prices the median multiple (17x) and consensus models FLAT margins** — i.e. **neither
+  the multiple nor the Street's margins price the service recovery.** The market is on "show me" after
+  being burned (service decelerated 13%→5%→4%, breaking the old 34x premium).
+- **So if service recovers as guided, it's largely un-priced → it re-rates:** margins beat flat consensus
+  (estimate revisions up) + the premium narrative reignites (multiple up). You get paid twice.
+- **The two re-rate tiers:** to ~20x (median+) needs only revenue conversion (service-independent); to the
+  old 25-34x premium needs service back to double-digit (guided, not priced).
+- **Honest nuance:** the market's skepticism is RATIONAL (service must be *shown*, not promised). The edge
+  is not "market is wrong" — it's **"market prices 'show me,' and the backlog/warranty-roll-off/visibility
+  support the show-me getting delivered."**
+
+**One-line thesis:** *Priced at the median multiple on "show me" skepticism about a service recovery
+management guided and the Street hasn't put in margins — if the Jan/Apr prints show it, the recovery is
+un-priced on both estimates and multiple, so it re-rates. You're paid the median multiple to wait for a
+proof the backlog supports.*
