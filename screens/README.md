@@ -24,3 +24,13 @@ Excluded: already-run (ATKR +30%, VICR, SLAB +68%, DGII, MG, MLAB, BE +75%, WTS,
 (FLNC −77% + losses, ERII rev −65%, PRIM rev −10%, AMRC policy headwind).
 
 **Winner → OSIS.** Full deep-dive in `../osis/`.
+
+---
+
+# Next-position screen, 11 Nov 2026
+
+Wider follow-up to the 9 Nov screen: 880-ticker universe, 519 in the $1-15B band, a filing-based
+product/service scan, and first-pass diligence on five finalists (NSSC, TRMB, ARLO, DGII, VNT) with
+ITRI and OSIS as benchmark rows. **Read `next-position-2026-11-11.md`.** Scripts are `nextpos_*.py`
+and `secutil.py`; outputs are in `data/`. Run scripts from this directory. They need the Yahoo and
+SEC hosts on the network allowlist and send a generic SEC User-Agent.

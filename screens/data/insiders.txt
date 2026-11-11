@@ -1,0 +1,5 @@
+ARLO: Forms 4 since 2025-11-11: 37; open-market buys 1 ($0.10M) [('Faison Ralph E', '2026-11-10')]; sales 34 ($22.0M)
+NSSC: Forms 4 since 2025-11-11: 12; open-market buys 0 ($0.00M) []; sales 8 ($33.7M)
+TRMB: Forms 4 since 2025-11-11: 48; open-market buys 0 ($0.00M) []; sales 15 ($5.3M)
+DGII: Forms 4 since 2025-11-11: 25; open-market buys 0 ($0.00M) []; sales 14 ($11.2M)
+VNT: Forms 4 since 2025-11-11: 28; open-market buys 0 ($0.00M) []; sales 2 ($0.7M)
