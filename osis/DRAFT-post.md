@@ -1,86 +1,93 @@
-# The Backlog Set Records All Year. The Stock Fell 40%.
+# The Backlog Hit a Record. The Stock Fell 40%.
 
-*OSI Systems' order book hit a new high every quarter while the market de-rated it from 27x to 17x. Backlog floors the business; only conversion moves the price. Conversion has a date, and it's the April print.*
+*OSI Systems' order book grew from $1.8B to a record $2.1B while its forward multiple went from 27x to 17x. I think bookings were never what moved this stock, and recognized revenue is. The test is fiscal Q3 revenue against a +10% bar, reported in April 2027.*
 
-Primary Source Arbitrage · November 10, 2026
+Primary Source Arbitrage · November 11, 2026
 
-I found OSI Systems on a small-cap screen and almost scrolled past it. What stopped me was one chart I built by hand: the backlog, quarter by quarter, making a new high at the same time the stock was cut in half. That is not supposed to happen. A company's order book is the market's favorite forward indicator, and here it was setting records into a 40% drawdown. I pulled the numbers three times because I assumed I had a data error. I didn't. The gap between those two lines is the whole post.
+Last week I had Itron's daily chart open next to OSI Systems' and for a second I thought I'd typed the wrong ticker. Itron ran straight up to $138, lost 21% in one session on October 30, 2025, slid to $78 by May (down 44%), and then went nowhere for months. OSI ran straight up to $310, lost 17% in one session on May 5, 2026, slid to a $192 close (down 38%, or 40% to the intraday low), and has gone nowhere since. Measured crash to crash, OSI is about six months behind.
+
+On the numbers, OSI screens better. Consensus has its revenue growing 6.8% a year and EPS 11.4% over the next two fiscal years, against 3.2% and -1.3% for Itron, for about two and a half more turns of P/E (17.2x against 14.7x).
+
+A chart that rhymes is a reason to look, not a thesis, and this rhyme is imperfect. Itron fell 9% through its 200-week average before it recovered. OSI has never come closer than about 8% above its own, which sits near $178, and its lowest close of the whole decline was last Thursday. The useful part of Itron's chart is how the base ended: on July 28, with a 26% day on an earnings report. In "When to Buy Is a Duration Question" I argued that entry matters most when the payoff is a re-rate you can't date. OSI is that trade, and its order book has been doing its part for a year without the stock caring.
 
 ## The short version
 
-- **What happened.** OSIS (NASDAQ: OSIS) went from $311 in April to $186 in August and sits around $197. On a like-for-like basis that's a 37% de-rate, forward P/E from ~27x to ~17x. Over the same stretch, backlog rose every quarter to a record $2.1B and book-to-bill hit 1.4 in the September quarter.
-- **Why.** A momentum stock priced at 34x trailing delivered a merely fine year: service growth slowed to ~5%, a Middle East war slipped roughly $50M of deliveries, and a US shutdown delayed orders. The business didn't break. The narrative did, and the multiple came out.
-- **What's next.** Backlog floors the revenue but doesn't earn it. The market pays for converted earnings, not booked orders, and FY27 is openly a reset year. The 2H ramp (Security revenue guided +11% and +15% year-over-year in the March and June quarters) is the test. Management has guided a back-half recovery and missed it twice.
-- **What I hold.** A 9-share starter, entered around $199 on November 10. I plan to add toward the 200-week line near $177 if it's offered.
-- **What would prove me wrong.** The April 2027 (fiscal Q3) print. Revenue below the +10% bar, operating margin flat or down, and service growth still single-digit would tell me the reset is becoming a stall.
-
-This is a starter near a floor with a dated test, not a table-pound. The honest expected value is modestly positive and positively skewed. I'll show you the math and the bear case, because on this one the bear is good.
+- **What happened.** OSIS peaked at $311.72 on April 21, 2026, touched $186.50 on August 21, and closed at $197.00 on November 10. Forward P/E went from about 27x to 17x. Over that stretch the backlog went from $1.9B to a record $2.1B.
+- **Why.** Fiscal 2026 revenue came in at $1.786B, $39M under the bottom of guidance, after Middle East deliveries slipped. Then FY27 guidance landed below the Street. A stock on 33x trailing earnings had no room for either.
+- **What's new.** On October 29 OSI reported a record fiscal Q1: revenue $403.5M, up 5% and ahead of the $396M consensus, and non-GAAP EPS of $1.66, up 17%. It raised FY27 EPS guidance to $11.28-11.64 from $11.13-11.49 and held revenue guidance at $1.875-1.930B. That is a real beat and I'm crediting it. How the EPS got there is in the bear section.
+- **What I hold.** Nine shares, bought near $199 on November 10. I plan to add toward the 200-week average near $178 if the stock gets there.
+- **What would prove me wrong.** Fiscal Q3 revenue, reported in late April 2027, below +10% year over year, which is about $499M.
 
 ## The two lines
 
-[Exhibit 1: coverage ratio. Backlog divided by trailing-twelve-month revenue, quarterly, Q4 FY25 to Q1 FY27. Flat at ~1.05-1.08x for six straight quarters, then 1.16x in Q1 FY27, a multi-year high. Source: backlog from company filings, revenue from LSEG.]
+[Exhibit 1: backlog divided by trailing-twelve-month revenue, June 2025 to September 2026. Source: backlog from OSI earnings releases, revenue from 10-Q and 10-K filings.]
 
-Coverage is the cleaner signal than the raw backlog number, because it adjusts for the size of the business. It sat at roughly 1.05x for a year and a half, then jumped to 1.16x in the September quarter. Rising coverage means the order book is growing faster than revenue, so forward visibility is improving, not just holding. For a lumpy government-contract business, 1.16x is about fourteen months of revenue already contracted. That's the objective version of the backlog story, the part that doesn't depend on management's tone on a call.
+Backlog divided by trailing revenue is a cleaner signal than the raw backlog, because it adjusts for the size of the business. It read 1.05x, 1.08x, 1.00x, 1.05x and 1.06x over the five quarters to June 2026, then 1.16x in September. OSI reports backlog rounded to the nearest $0.1B, so each reading carries about 0.03x of noise, and the September move is well outside it. It came from $583M of bookings against $403.5M of revenue.
 
-There's a harder number underneath it. In the Q1 FY27 10-Q, OSI disclosed remaining performance obligations of about $2.0B, with roughly 64% expected to convert inside twelve months. That's about $1.28B of next year's revenue already under contract. RPO can still slip on timing, but it's a stronger near-term tell than a five-year backlog figure, because it carries its own clock.
+The 10-Q carries a harder number. Remaining performance obligations were about $2.0B at September 30, 2026, with roughly 64% expected to be recognized within twelve months. That is about $1.28B, two thirds of this fiscal year's guided revenue, already under contract.
 
-So the forward demand is real and improving. And the stock fell anyway. Here's why that isn't a contradiction.
+## A year-long experiment in what moves this stock
 
-## Why it fell, and why that's the setup
+A correction before the argument. My first draft said the backlog rose every quarter. It dipped to $1.8B in December 2025 and sat at $1.9B in March and June. What holds up is narrower: from the April peak to today the order book grew about 10% to a record, and the stock lost 36%.
 
-The de-rate happened on two days. On May 5, after a record-looking Q3 FY26, the stock went from $282.87 to $234.74, down 17% in a session. The quarter was fine on the surface, but service growth, the high-margin recurring line that the entire premium rested on, decelerated to mid-single-digits after four strong quarters, and the Middle East and the shutdown showed up as fresh overhangs. On August 21, after Q4, the stock printed $186.50 intraday on five times normal volume when initial FY27 guidance landed below the Street. JPMorgan's note title said it plainly: "FY27 Sales, Margin Forecasts Below Expectations."
+The damage came on two days. On May 5 the stock fell from $282.87 to $234.74 after fiscal Q3 results showed service growth slowing to mid single digits. On August 21 it traded down to $186.50 on about five times normal volume after FY27 guidance came in light. JPMorgan titled its August 28 note "FY27 Sales, Margin Forecasts Below Expectations."
 
-That's the mechanism I keep coming back to. A booked order improves the backlog today. It improves earnings only when the product ships and the revenue is recognized, which for this company is a year or two later, on a government timeline, through an active war zone. The market stopped paying for the order book the moment it doubted the conversion. Rising backlog floored the business. It could not lift the price, because price follows the income statement, and the income statement was being told to wait.
+Read the year as an experiment. The market was handed a growing order book, a book-to-bill above 1 for the fiscal year, and then $583M of bookings in a single quarter, and it declined to pay for any of it. The stock even fell 4.2% the day after the record backlog was announced, on a day small caps fell 1.7%. The older tape says the same thing. Federal procurement records show a $186.9M CBP delivery order to OSI's Rapiscan unit on September 28, 2021. The stock was near $96 that month and $91 eighteen months later. It went to $310 only as the Mexico contracts were recognized as revenue in fiscal 2024 through 2026.
 
-If you own the stock, that distinction is the whole game. Backlog accruing is value accruing, whether or not the market claps. You get paid a 5.6% free-cash-flow yield to hold near a floor while the orders queue up. The re-rate is the bonus, and it arrives when conversion re-proves the narrative. If you're trading it, backlog is noise until a print turns it into earnings.
+So I don't think the market missed the backlog. It saw every booking and shrugged, because bookings don't move this stock and recognized revenue does. The edge I'm claiming is narrower: I think the market is too sour on whether this backlog converts on schedule.
 
-## Is it actually cheap? No, and that matters
+The same evidence cuts the other way, and I can't dismiss that. Management guided a second-half ramp in fiscal 2026 and missed, with Q4 revenue down 4.1%. A year of not paying for bookings is exactly what a market would do if it were right to doubt the ramp. Both readings fit the data, which is why this only settles in April. Backlog is the floor, and recognition is the catalyst.
 
-I wanted this to be a cheap stock. It isn't, and pretending otherwise would be the easy, wrong version of this post. So I built the thing sell-side doesn't publish: OSI's P/E band back to 2010, from 29 years of daily price and 20 years of fiscal EPS.
+## Fair, on a band I rebuilt
 
-[Exhibit 2: forward and trailing P/E band by year, 2010-2026. 12-year forward median ~18x; 10-year trailing median ~21x; troughs 11-14x in 2020 and 2022; peaks 25-32x+ in 2013, 2016, 2017, 2019, 2025. Today ~17x forward, ~21x trailing. Source: LSEG price history and non-GAAP EPS.]
+I wanted this to be cheap, so I rebuilt OSI's P/E band from daily prices and the non-GAAP EPS in every year-end release back to 2010.
 
-The band settles two arguments at once. The bull claim that 17x is cheap is weak: on forward earnings the median is about 18x, so today you're at the median, not at a discount to it. The "cheap" feeling is only against the 2024-25 froth of 22-27x. But the bear claim, that OSI "deserves" 13-15x and the market finally figured it out, is weaker still. That level is the 2020 and 2022 trough, printed in a pandemic and a rate shock. It is the floor, not the fair value. The ten-year median is ~21x and this stock has traded 25-32x repeatedly, across cycles, when the growth was visible.
+[Exhibit 2: forward and trailing P/E by year, 2010-2026. Source: author's calculation from price history and OSI earnings releases; forward uses subsequently reported EPS as a proxy for consensus at the time.]
 
-So the multiple is fair both ways. A re-rate from 17x to 20x is reversion to the median, not a stretch, and the market has a decade-long habit of granting it. The downside multiple is real too. The margin of safety on this name is the business, the funded backlog and the floor, not the price.
+On forward earnings the ten-year median is 16.7x and the twelve-year median is 17.6x. Today is 17.2x, which is the median. On trailing earnings the ten-year median is 21.5x and today is 18.6x, a modest discount. My notes had trailing at 21x because they divided by fiscal 2025 EPS, five quarters stale. The troughs were 10.5-11x forward in 2020, 2022 and 2023, and the peaks were 25-28x. So the multiple offers no margin of safety in either direction. A move to 20x would sit inside the normal range, and so would a move to 13x.
 
-One more valuation anchor, and it comes with a correction I owe you. My first comp was embarrassing. I called OSI cheap against Smiths at 22x. But Smiths sold its detection arm to CVC, a private equity buyer, on June 30, so the 22x public company is now industrial seals and heating elements, unrelated to detection. The right comp is the transaction itself: CVC paid about 12.5x EBITDA (£2B enterprise value on ~£160M EBITDA) for the #2 pure-play. OSI, the global #1 in cargo, trades at ~12.2x. A sophisticated buyer just set a real-money price on the exact asset class, and the public #1 trades in line with it. With Smiths Detection now private, Leidos a services business, and Nuctech Chinese and banned from the core market, OSI is close to the only sizable public pure-play left.
+A second correction. I first compared OSI to Smiths Group at 22x. Smiths sold its detection business to CVC, completed June 30, 2026, at £2.0B enterprise value, 12.5x headline EBITDA of £160M. That deal is the right comparison, and OSI trades at about 12.2x to 12.6x next-twelve-month EBITDA depending on how you count leases. By its own account OSI leads in cargo and vehicle inspection; in airports it is second or third, behind the business CVC just bought.
 
-## What the market is actually pricing
+Run the price backwards and it implies free cash flow growing 6-7% a year for five years, then 3%, at an 8.8-9% discount rate. Consensus revenue growth is 6-9%. I had written that the market was pricing 4%, which came from a single-stage shortcut that mixes up near-term and terminal growth. The stock is priced for the low end of its own consensus.
 
-Run it backwards. At ~$197, on a 9% discount rate, the market is pricing roughly 4% perpetual free-cash-flow growth. Consensus has revenue growing 6-9% through FY29, with coverage rising and the FY28-29 funding base appropriated through reconciliation. The edge isn't a secret contract the market missed. The CBP awards and the record backlog are public and partly in the stock. The edge is narrower and more honest: the market is anchored on the near-term reset and the war, and is under-weighting a contracted, improving order book. You're paid for 4% growth and buying a business set up to do better. Modest mispricing, not a screaming one.
+## The border money is an option, and you can track it
+
+The Secure America Act, signed June 10, 2026, gives Customs and Border Protection about $26B through September 30, 2029, including a $3.45B line that covers non-intrusive inspection alongside surveillance towers and biometric entry-exit. OSI won two CBP contracts, signed in late July and announced in August, with ceilings of $200M and $85M. Both are IDIQs. In plain English, a ceiling is permission for the agency to buy up to that amount through future task orders, and it promises nothing. Only funded task orders count in backlog.
+
+I checked the orders on USAspending.gov. Both contracts are single-award. CBP has obligated $7.2M against the $200M ceiling and $21.2M against the $85M one, $28.4M in total or 10% of the ceilings. Total new federal awards to OSI's subsidiaries since October 2025 come to about $56M, against $583M of bookings last quarter alone. The record backlog was built without this money.
+
+How big could it be? OSI's Security division did $1.25B of revenue in fiscal 2026. Rapiscan took roughly 38% of CBP's detection-equipment obligations among the main vendors over fiscal 2021-2026, with Leidos, Astrophysics and Smiths sharing the rest. A third of a multi-billion-dollar line would matter. It would also be slow: the DHS inspector general reported in June 2025 that of 150 large-scale scanners bought from 2020 to 2024, 50 were installed and 43 were in storage. The one Security estimate I can see for fiscal 2028 has the division growing 5%, so I don't think it is in the numbers. I'm treating it as upside I'm not paying for, with a test in the ledger.
 
 ## The bear case, at full strength
 
-If I were short this, the case is good, and I don't want to wave it away.
+If I were short, this is what I'd say.
 
-OSI is a lumpy government hardware contractor that gross margin has quietly abandoned, from ~36% in 2017 to ~33%, with the Street modeling it flat. The entire return requires a re-rate whose timing is undated, and you can sit at 17x for a year earning only the yield. The 2H ramp everyone underwrites has already slipped twice: down 1.8% in Q3 FY26, down 12% in Q4. The easy comps that make this year's ramp "achievable" exist precisely because management missed. Q1 FY27 looked great on EPS, up 17%, but the quality was thin: adjusted operating income fell year-over-year, from about $39.6M to $38.3M, and the adjusted operating margin contracted from 10.3% to 9.5% (GAAP operating income was roughly flat). The EPS gain was lower interest and a smaller share count, the buyback partly funded by a one-time Mexico cash harvest that ends, which is why consensus free cash flow steps down from ~$209M in FY27 to ~$162M in FY28. And there's no informational edge: the stock is ~90% institutionally owned, with BlackRock, Fidelity and Vanguard already in it. If it were obviously cheap, they'd have bid it to 20x. They haven't. The bear's verdict: a fairly valued, margin-declining, timing-dependent box-seller whose upside is a re-rate the market has no obligation to grant and whose catalyst has failed twice. 15x is fair. There is no margin of safety, just a story about next year, again.
+OSI sells hardware to governments on timelines it doesn't control. Gross margin was 33.2% in fiscal 2026, the bottom of a 33-36% ten-year range. The ramp everyone is underwriting already failed once, and this year's comparisons are easy because of that failure.
 
-I think that's the honest downside, and it's why this is a starter and not a full position. My rebuttal is narrow: the backlog and coverage data are objective and rising, Q1 was a clean revenue beat ($403.5M against $393M expected), the historical band destroys the "deserves 13-15x" line, and I'm paid 5.6% to wait near a visible floor. But I can't date the re-rate, so I size it so that being wrong until April doesn't hurt.
+The Q1 beat was thinner than the headline. Pre-tax income rose $4.6M, and $4.1M of that was lower interest expense. Operating income rose $0.5M on $18.8M more revenue. Adjusted operating margin fell from 10.3% to 9.5%, and service gross margin fell from 45.4% to 42.0%. Service revenue, the line the old premium rested on, grew 5.0%, -1.4% and 4.4% in the last three quarters. The interest saving and much of the 7% drop in diluted shares trace to one source, a $575M convertible sold in November 2025 at a 0.50% coupon. Fiscal 2026 buybacks of $272M exceeded free cash flow of $245M, and consensus has free cash flow falling to about $162M in fiscal 2028 as Mexico collections end. The older 2029 convertible converts at $191.98, so a rally to $270 adds about 3% to the share count.
 
-While I'm confessing: I also wrote "margin-expansion flywheel" and "legally locked funding" in my first notes. Both were too strong. Margins are modeled flat, so the trade is revenue plus operating leverage plus buybacks, not margin expansion. And the funding is agency money, about $26B at CBP through FY2029, hard to claw back but spread across many vendors and uses, with OSI's own awards being IDIQ ceilings rather than spend (the $85M award had a $21M first order; the $200M disclosed none). The honest word is visibility, not a lock. The thesis got better when I stopped overselling it.
+Nobody close to the company is buying. I read all 46 insider filings since the April peak and found no open-market purchase. Institutions own most of the float and have not bid it to 20x, and Fidelity, the second-largest holder, cut its position 13% in the June quarter. The bear's verdict is a fairly valued box-seller whose earnings growth is borrowed and whose catalyst has already failed.
+
+I think most of that is right, which is why I own nine shares. My answer is that the contracted book is real and growing, the revenue beat was real, and 13x was a pandemic and rate-shock multiple. I also wrote "margin-expansion flywheel" and "locked funding" in my early notes. Margins are modeled flat, and the funding is an appropriation to an agency. Both phrases are gone.
 
 ## What I hold, and what would change my mind
 
-A 9-share starter at ~$199, entered November 10. I'll add toward the 200-week near $177 if the market offers it, and scale on the January and April prints if they confirm. The base case is roughly $218 on FY28 consensus at a held 17x, about +11% over a year and a half with no re-rate at all. The bull case needs the re-rate and gets you to the high $200s. The severe bear, if the ramp fails and leverage reverses, is about $134. Probability-weighted, the expected value is only modestly positive. I'm fine with that, because the downside is mostly "wait," not "lose."
-
-The whole thing resolves on one date. Everything before April, including a likely low-bar beat in January, is noise.
+At 17x fiscal 2028 consensus EPS of $12.82 the stock is worth about $218, roughly 10% above my entry over eighteen months with no re-rate. A re-rate to 20-21x gets to the high $200s. If the ramp fails and the multiple goes to its trough, I get about $134. Weighting those, I come out near $209, about 5% above where I bought. That is a thin edge, and it's why the position is small until April. The harder half of the April bar is profit: consensus has fiscal Q3 EPS at $3.18, up 22% on 10% more revenue, from a company whose operating margin just went the wrong way.
 
 | Rule | Set | Metric / threshold | Window | Action | Status |
 |---|---|---|---|---|---|
-| 1 | Nov 10, 2026 | Q3 FY27 revenue below +10% YoY | April 2027 print | The ramp failed; stop adding, reassess | Pending |
-| 2 | Nov 10, 2026 | Operating margin flat or down YoY while revenue grows | Q3 and Q4 FY27 | Quality thesis is hollow; cut | Pending |
-| 3 | Nov 10, 2026 | Service revenue growth still single-digit | Q2 FY27 print (January) | First crack; warning, not an exit | Pending |
-| 4 | Nov 10, 2026 | Middle East deliveries slip a third straight time | Through FY27 | "Deferred" is becoming "lost"; stop adding | Pending |
+| 1 | Nov 11, 2026 | Q3 FY27 revenue below +10% YoY (below ~$499M) | April 2027 print | The ramp failed; stop adding, reassess | Pending |
+| 2 | Nov 11, 2026 | Adjusted operating margin flat or down YoY while revenue grows | Q3 and Q4 FY27 | Volume isn't reaching profit; cut | Pending |
+| 3 | Nov 11, 2026 | Service revenue growth still single-digit | Q2 FY27 print (January) | Warning, not an exit | Pending |
+| 4 | Nov 11, 2026 | Middle East deliveries slip a third straight time | Through FY27 | "Deferred" is becoming "lost"; stop adding | Pending |
+| 5 | Nov 11, 2026 | Under $71M (25% of ceilings) obligated against the two CBP IDIQs on USAspending | By July 30, 2027 | Remove CBP from the upside case | $28.4M |
 
-## The close
+The order book has been right for a year and the stock hasn't paid for it once. In April the income statement gets a vote.
 
-I'm not paying up for an inflection I can't see yet. I'm buying a floored business at a fair multiple and letting the backlog do the waiting. The order book has been right for a year. In April we find out whether the income statement agrees.
-
-If you follow one number on OSI, follow Q3 revenue against a +10% bar. That's the one I'm watching. What's yours?
+I'm watching Q3 revenue against $499M. If you own this or are short it, what number are you watching?
 
 ---
 
-*Disclosure: I hold 9 shares of OSIS, entered around $199 on November 10, 2026, and plan to add toward the 200-week. This is not investment advice.*
+*Disclosure: I hold 9 shares of OSIS, bought near $199 on November 10, 2026, and plan to add toward the 200-week average. This is not investment advice.*
 
-*Sources: OSI Systems 10-K, fiscal year ended June 30, 2026; 10-Q, quarter ended September 30, 2026 (RPO disclosure); Q1 FY27 earnings call, October 29, 2026; Q4 FY26 call, August 20, 2026; Q3 FY26 call, May 4, 2026; BofA fireside, May 12, 2026; CBP non-intrusive inspection testimony, January 2026; Secure America Act, signed June 10, 2026; Smiths Group sale of Smiths Detection to CVC, completed June 30, 2026; LSEG consensus estimates and price history; Oppenheimer, Roth and JPMorgan notes.*
+*Sources: OSI Systems 10-K for the fiscal year ended June 30, 2026; 10-Q for the quarter ended September 30, 2026 (remaining performance obligations, Note 8 convertible terms); earnings releases of October 29, August 20, May 4 and January 29, 2026, and year-end releases 2010-2025 (non-GAAP EPS); Forms 4 filed April 20 to November 9, 2026; USAspending.gov contract records 70B03C26D00000030, 70B03C26D00000031, 70B03C26F00000506, 70B03C26F00000549 and 70B03C21F00001132, plus CBP obligations under product code 6665, retrieved November 11, 2026; Smiths Group completion announcement, June 30, 2026; Secure America Act (S. 2), signed June 10, 2026; DHS Office of Inspector General report on CBP non-intrusive inspection, June 2025; LSEG consensus and shareholder report as of November 8-9, 2026, and Yahoo Finance consensus and prices as of November 10, 2026; JPMorgan note, August 28, 2026.*
