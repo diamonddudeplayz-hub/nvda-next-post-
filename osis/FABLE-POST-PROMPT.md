@@ -1,83 +1,88 @@
 # Prompt for Fable 5.2 — write the OSIS Substack post
 
-*(Paste everything below the line into Fable. Attach/paste the repo files it names — start with
-`POST-READING-LIST.md`.)*
+*(Paste everything below the line into Fable, and give it the whole `osis/` folder.)*
 
 ---
 
 You're writing a long-form investing post for my Substack, **Primary Source Arbitrage**
-(darrenleung1.substack.com). The subject is **OSI Systems (OSIS)**. I've done the research; your job is
-to turn it into a publishable essay in my voice — not a summary, an *argument*.
+(darrenleung1.substack.com). The subject is **OSI Systems (OSIS)**. I've done months of research across
+many documents; your job is to read **all of it** and turn it into a publishable essay in my voice — not
+a summary, an *argument*.
 
-## What to read, in this order
-1. **`POST-READING-LIST.md`** — read this FIRST. It's the master map: every source, the narrative arcs,
-   the original data work, the voice notes, and the honest corrections. Everything else hangs off it.
-2. **`FINAL-DECISION.md`** — the spine: decision, steelmanned bear (8 pts), bull rebuttal, the April resolver.
-3. **`15-operational-database.md`** — the freshest original work: 17 quarters rebuilt from SEC filings
-   (service-vs-product gross margin, the service-share U-curve, the Mexico working-capital unwind).
-4. **`14-the-supercycle-pattern.md`** — the precedent: the deal→price overlay, the 3.6x decomposition
-   (EPS vs multiple), the target matrix, and why $177 = the cheap entry.
-5. **`12-historical-multiple.md`** — the 29-year P/E band (kills both "it's cheap" and "it deserves 13x").
-6. **`09-valuation-model-and-targets.md`** and **`MASTER-review-doc.md`** — valuation + the self-contained thesis.
-7. Pull sentence-level voice from my `my-writing-style` profile if you have it.
+## Read everything — the whole `osis/` folder
+Don't cherry-pick. Read the entire folder so you have the full picture and all the nuance we worked out:
+- **`POST-READING-LIST.md`** — the master map (start here: it indexes every doc, the narrative arcs, the
+  original data work, the voice, and the honest corrections).
+- **`FINAL-DECISION.md`** and **`MASTER-review-doc.md`** — the distilled thesis + the self-contained version.
+- **`01-` through `15-`** — the full numbered set: business, financials, thesis, consensus/segments,
+  fact-check, peer-comps, FAQ, backlog/coverage/seasonality, valuation model, catalyst tracker, risks/
+  ownership, the 29-yr P/E band, backlog-value test, the super-cycle pattern, and the 17-quarter
+  operational database.
+- **`transcripts/`** — the 4 earnings-call notes (verbatim management quotes).
+- **`analyst-notes.md`** — the sell-side framing.
+- My **`my-writing-style`** profile for sentence-level voice, if you have it.
 
-(If I haven't pasted a file you need, ask me for it by name rather than guessing.)
+If I haven't given you a file you need, ask me for it by name rather than guessing a number.
 
-## The one-line thesis (the through-line)
-A regulation-moated #1 cargo-detection business, de-rated ~37% to its forward-median multiple, with
-funded, non-discretionary government demand the market is pricing for ~4-6% growth — where the filings
-themselves prove the high-margin service annuity is intact (the "margin decline" is recoverable
-product-mix), the Mexico cash is physically unwinding into buybacks, and the market has a decade-long,
-just-demonstrated habit of re-rating this name on *revenue* even as margins compress. The return is EPS
-growth + a re-rate that *rhymes* with 2023 — and the whole thing resolves at the April print.
+## Where we landed (the conclusion of all that work — this is the post's backbone)
+After stress-testing it hard, here's the honest synthesis you're writing from:
 
-## Pick ONE spine (recommend the first, or tell me why another is stronger)
-1. **⭐ "Same movie, cheaper ticket" / recognition vs announcement.** The super-cycle precedent: the stock
-   sat flat for ~2.5 years on *announced* government contracts, then 3.6x'd only as Mexico *recognized*.
-   You're standing where it stood in 2022-23, before the next, bigger, funded wave (CBP/BBB, ~$26B). Lead
-   with the deal→price overlay and the 3.6x decomposition.
-2. **"The ledger proves the annuity."** The operational database: the gross-margin "decline" is product-mix
-   dilution; the ~16pt-richer service annuity is intact and its share U-curves exactly as the thesis needs.
-   Primary data confirming a claimed mechanism — the purest "arbitrage" angle.
-3. **"The P/E band nobody builds."** The 29-year multiple study — lead with the data.
+- **What it is:** the regulation-moated #1 in cargo/border inspection (not airports — that's #2-3 behind
+  the now-private Smiths Detection), de-rated ~37% (27x→17x fwd) off the April 2026 peak, trading at its
+  **forward-median multiple** — fair, *not* cheap.
+- **The core bet is a re-rate with a floor — and it's two separate bets, not one:** the 2H-FY27 operating
+  ramp has to *convert backlog into recognized EPS* (SOTP ≈ spot, so you're not getting cheap assets),
+  **and** the multiple has to re-rate off 17x. You need both to work; neither has to be heroic.
+- **The precedent is the spine:** last super-cycle the stock **3.6x'd as Mexico *recognized*** (it sat
+  flat for ~2.5 years on the *announced* contracts first — the market pays for recognition, not
+  announcements). That 3.6x decomposed to **1.35× EPS growth × 2.7× multiple expansion** — the re-rate
+  did ~75% of the work *because it started cheap at 13x.* You're now at the 2022-23 analog: standing
+  before the next, bigger, *funded* wave (CBP/BBB, ~$26B through FY2029) recognizes (FY28+).
+- **The twist this cycle:** you're starting at 17x (median), not 13x (cheap), so the free re-rate leg is
+  largely gone — **the engine has to swap to EPS**, and the fuel is bigger (CBP ~$26B >> Mexico ~$800M).
+  You don't need froth: **21x (the trailing *median*) × converted FY28-29 earnings = +37-59%.**
+- **The filings back the story (the original "arbitrage" work):** (a) the gross-margin "decline" is
+  *product-mix dilution* — product GM fell 35→26 on low-margin gov hardware while the **~16pt-richer
+  service annuity held 42-48%**; (b) **service share U-curves** exactly as the thesis needs (dollars +60%,
+  share fell 25→21.5 in the product boom, recovering to 24.7); (c) the **Mexico working-capital unwind is
+  physical** — net WC $605M→$1,197M→$1,100M, AR −$123M, DSO 178→151 — the real "FCF > net income" engine
+  and the buyback fuel; (d) it's a **clean owner-operator** (SBC ~1.5% and falling, shrinking share count).
+- **The honest knocks (state them at full strength):** working-capital heavy (151-day DSO even post-
+  unwind, and it re-absorbs cash on the next CBP wave); slow mix-shift (~1pt/yr); **lumpy** service growth
+  (recently ~4-5%, not a smooth 13%); fair-not-cheap entry; 2.6x leverage; and a real **−18 to −32% left
+  tail** if the April ramp fails.
+- **Targets:** base (hold 17x, hit consensus) ≈ **+11% "paid to wait"**; realistic bull (21x median ×
+  FY28-29 EPS) ≈ **+37-59%**; bear −2 to −9%, severe bear −32%. **Skew ~2-3:1 up.**
+- **The plan I'm actually running:** a fair-value starter now (9 sh, ~$199, 10 Nov 2026), ladder down —
+  add at ~$188, **add hard at ~$177 (= ~13.8x = the exact multiple the last 3.6x launched from)** — scale
+  to full on the Jan/April confirmation; stop adding below ~$186 on a weak Q2. It resolves at the **April
+  Q3-FY27 print.**
 
-## Must-use exhibits (these are the "arbitrage" — original work, not sell-side)
-- **The 3.6x decomposition:** last cycle = 1.35× EPS × 2.7× multiple → the re-rate (13x→35x) did ~75% of
-  the work *because it started cheap*. Today's 17x is the median, so this cycle the engine must be EPS
-  (CBP ~$26B >> Mexico ~$800M). You don't need froth — 21x (the trailing *median*) × converted earnings
-  = +37-59%. And $177 = ~13.8x = the exact multiple the last 3.6x launched from.
-- **The service/product margin split** (~16pt spread; product GM fell 35→26 on mix, service held 42-48%).
-- **The service-share U-curve** (dollars +60%, share fell 25→21.5 in the product boom, recovering to 24.7).
-- **The working-capital unwind** (net WC ~$605M→$1,197M→$1,100M; AR −$123M; DSO 178→151 = the "FCF > NI"
-  engine and the buyback fuel) — and the honest catch: it re-absorbs on the next CBP wave.
-- **The coverage ratio** (backlog ÷ LTM rev → 1.16x multi-year high) and **RPO** ($2.0B, 64% <12mo).
-- **The deal→price tape** (IDIQ ceilings moved the stock ~0%; the firm $600M Mexico award popped +8%;
-  recognition did the 3.6x).
+## Pick ONE spine (recommend the first, or argue for another)
+1. **⭐ "Same movie, cheaper ticket"** — recognition vs announcement; the 3.6x precedent; you're early,
+   before the bigger funded wave. Lead with the deal→price overlay and the decomposition.
+2. **"The ledger proves the annuity"** — the operational database confirming the claimed mechanism.
+3. **"The P/E band nobody builds"** — the 29-year multiple study; lead with the data.
 
-## Non-negotiables (these ARE the credibility of the blog)
-- **State the bear at full strength, then answer it.** Don't sell. The honest knocks: working-capital
-  heavy (151-day DSO), slow mix-shift (~1pt/yr), lumpy service growth (recently ~4-5%, not 13%), a fair
-  (not cheap) 17x entry, 2.6x leverage, and a real −18 to −32% left tail if the April ramp fails.
-- **Show the corrections I made under pressure** (they're in the reading list §5): #1 in *cargo* not
-  airports; margins modeled *flat* (revenue + operating-leverage story, not margin expansion); "legally
-  locked funding" → "strong visibility, IDIQ ceilings ≠ spend"; the Smiths-Detention-is-now-private comp
-  fix. The self-correction is the voice.
-- **Targets, honestly:** base (hold 17x, hit consensus) ≈ +11% "paid to wait"; realistic bull (21x median
-  × FY28-29 EPS) ≈ +37-59%; bear −2 to −9%, severe bear −32%. Skew ~2-3:1 up.
-- **Disclosure:** I hold a 9-share starter entered ~$199 on 10 Nov 2026, accumulating toward the 200-week
-  (~$177). Not investment advice.
-- **End with "what would change my mind"** = the ~April Q3 FY27 print (revenue vs the ~+10% bar, operating
-  leverage showing, service re-accel, Middle East conversion) + the one-quarter-early balance-sheet warning
-  (finished-goods inventory spiking or AR re-stretching).
+## Non-negotiables (these ARE the blog's credibility)
+- **State the bear at full strength, then answer it.** Don't sell.
+- **Show the corrections made under pressure** (reading list §5): cargo-not-airports; margins *flat* not
+  expanding; "legally locked funding" → "visibility, IDIQ ceilings ≠ spend"; the Smiths-went-private comp
+  fix; EV walked from a rosy +16% to a defensible ~+6-10% with a real left tail. The self-correction *is*
+  the voice.
+- **Disclosure:** I hold a 9-share starter (~$199, 10 Nov 2026), accumulating toward ~$177. Not advice.
+- **End with "what would change my mind"** = the ~April Q3-FY27 print (revenue vs the ~+10% bar, operating
+  leverage showing, service re-accel, Middle East conversion) + the one-quarter-early balance-sheet
+  warning (finished-goods inventory spiking or AR re-stretching).
 
 ## Voice & format
 - Framework-first, primary-source-driven, conversational-but-rigorous, intellectually honest. Lead with a
-  built-from-scratch dataset, not a claim. Use my recurring devices: the duration lens, "a catalyst
-  removes the reason the market resisted," drawdown/standard-deviation empirics, and the "what would
-  change my mind" close.
-- ~2,000-3,000 words. Clean section headers. A couple of tight tables max (the decomposition and the
-  target matrix earn their place; don't over-table). No hype, no price-target bravado, no emoji.
-- Give me a draft I can edit — if you're unsure between two framings or numbers, flag it inline rather
-  than paper over it.
+  built-from-scratch dataset, not a claim. Use my recurring devices (the duration lens; "a catalyst
+  removes the reason the market resisted"; drawdown/standard-deviation empirics; the "what would change my
+  mind" close).
+- ~2,000-3,000 words, clean section headers, a couple of tight tables max (the 3.6x decomposition and the
+  target matrix earn their place). No hype, no emoji, no price-target bravado.
+- Give me a draft I can edit — flag any spot you're unsure between two framings or numbers inline rather
+  than papering over it.
 
 First tell me which spine you'd run and why (one paragraph), then write the post.
