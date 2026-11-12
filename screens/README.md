@@ -34,3 +34,12 @@ product/service scan, and first-pass diligence on five finalists (NSSC, TRMB, AR
 ITRI and OSIS as benchmark rows. **Read `next-position-2026-11-11.md`.** Scripts are `nextpos_*.py`
 and `secutil.py`; outputs are in `data/`. Run scripts from this directory. They need the Yahoo and
 SEC hosts on the network allowlist and send a generic SEC User-Agent.
+
+---
+
+# Next-position screen v2, 12 Nov 2026
+
+Four-mechanism search (misclassification, contracted floor, overhang, pre-recognition) over 1,692 US-listed
+names at $1B+, including every company above $15B. Finalists: KBR, HESM, LDOS, AMTM, with ITRI, LNG and ADBE
+as benchmark rows. **Read `next-position-2026-11-12.md`.** Scripts are `np2_*.py` (they reuse `secutil.py`
+and `nextpos_valuation.py`); outputs are in `data/np2_*`. Run from this directory.
