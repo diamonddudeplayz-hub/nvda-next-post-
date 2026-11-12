@@ -1,0 +1,490 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2024 KBR Inc Earnings Call
+OCTOBER 23, 2024 / 11:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jamie DuBray
+   KBR Inc - Vice president of Investor Relation
+ * Mark Sopp
+   KBR Inc - Chief Financial Officer, Executive Vice President
+ * Stuart Bradie
+   KBR Inc - President, Chief Executive Officer, Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Michael Dudas
+   Vertical Research Partners LLC - Analyst
+ * Sangita Jain
+   KeyBanc Capital Markets Inc - Analyst
+ * Steven Fisher
+   UBS - Analyst
+ * Jerry Revich
+   Goldman Sachs - Analyst
+ * Gautam Khanna
+   TD Cowen - Analyst
+ * Jasper Bibb
+   Truist Securities Inc - Analyst
+ * Andy Kaplowitz
+   Citigroup Inc - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and welcome to KBR third quarter 2024 earnings conference call. My name is Emily, and I'll be coordinating your call today. (Operator Instruction). I will now turn the call over to our host, Jamie Dubray, Vice President of Investor Relations. Please go ahead. Jamie.
+
+--------------------------------------------------------------------------------
+Jamie DuBray,  KBR Inc - Vice president of Investor Relation    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Emily. Good morning and welcome to KBR’s third quarter fiscal 2024 earnings call. Joining me are Stuart Bradie, President and Chief Executive Officer, as well as Mark Sopp, Executive Vice President and Chief Financial Officer. Stuart and Mark will provide highlights from the quarter and then open the call for your questions.
+Today's earnings presentation is available on the Investor section of our website at KBR.com. This discussion includes forward-looking statements reflecting KBR's views about future events and their potential impact on performance as outlined on slide 2. These matters involve risks and uncertainties that could cause actual results to differ significantly from these forwardlooking statements as discussed in our most recent Form 10-K available on our website.
+This discussion also includes non-GAAP financial measures that the company believes to be useful metrics for investors. A reconciliation of these non-GAAP measures to the nearest GAAP measure is included at the end of our earnings presentation.
+I will now turn the call over to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Jamie, and welcome to our third quarter earnings presentation. I would like to start on slide 4, if I may. Now we show this on every earnings presentation, so no surprise. It lays us at Zero Harm program and the pillars, both environmental and social that underpin that program. The progress we’ve made in each of these pillars is highlighted in our Annual Sustainability Report, which takes me nicely on to slide 5.
+So this month, we issued our 2023 Sustainability Report. I mean, the team does an amazing job in showcasing all that we are doing across these pillars. We’ve shown only a few highlights on the slide here and I'll pick up on a few. Our health and safety performance is once again top quintile. I think really demonstrating our commitment to really looking after our people. 37% of KBR Group ‘23 revenue actually, over $2.5 billion is directly linked to sustainability. And I think thus shows clear alignment with shareholder value, which we talked about before is a clear differentiator for KBR.
+The result from our people survey, which is run by an independent company and done anonymously, resulted in KBR being classified as a great place to work in multiple countries. Now the survey showed us a couple of things. I think the first, our focus on people is truly making a difference and secondly, but of course, we are not perfect and we still have lot to do.
+On the side of the slide, you will see our continued commitment to strong governance and we continue to make progress in I&D advancing our agenda on multiple fronts. Our maturity and commitment and delivery of sustainability has been externally scored by various agencies and you’ve seen that that before. And MSCI, we believe, is the most cited and we are of course delighted to have achieved for the second consecutive year, the very highest ranking of AAA. As I said, these are only a few highlights and I would encourage you if you have time to have a look at the field document, which is on our website.
+Now, on to Slide 6 and the group financial highlights for the quarter. This was another clean quarter and frankly, another set of terrific and consistent results. Group revenue was up double-digit at 10% year-on-year. Adjusted EBITDA increased 18% over the same period. I think once again demonstrating the focus and discipline to deliver on our strategy to winning the right work and then executing with excellence the prudent cost management. And this has resulted, as you would expect, in enhanced margins which were up 70 bps. Cash was once again a standout, with year-to-date convergent at a 129%, an absolutely spectacular performance.
+Now on to book-to-bill. Now as you know, we've been providing a book-to-bill figure ex the Plaquemines project for the last several quarters to convey underlying business performance without the large LNG burn. And beginning this quarter, we will switch to only using this figure in our materials, especially in light of the new JV with Technip, which I will cover in a moment. On this basis, I'm really pleased to report that our book-to-bill at the group level was 1.2x in the quarter and both STS and GS in particular had strong quarter.
+And this sets us up well to close out the year, but this together with our attractive pipeline, really gives the group a solid foundation heading into ‘25 and increases confidence to achieve industry-leading long-term targets. At this point, I would like to publicly recognize and thank our people all across the world who continued to deliver every day doing what that truly matters. And without them, these results would not be possible.
+Now as you are also aware, we closed on the LinQuest acquisition, and I'm pleased to report that the integration is well underway and the expected alignment and values and culture are shining through. We've had numerous Town Hall meetings with LinQuest employees all over the country, and we could not be more pleased with their warm reception to KBR.
+Their deep domain expertise really, outstanding technical capability and their dedication to serve the mission of the customer, which is a 100% aligned with how we operate doing things that matter. Lastly, I'm pleased to report that we will be increasing our guidance for revenue, adjusted EBITDA and adjusted EPS this year to reflect the addition of LinQuest and our ongoing organic strong performance.
+Now on to Slide 7 on some key awards. Let me start with STS and Saudi Arabia. Now, there's been quite a bit of speculation on this and we're now in a position to talk about our role on the liquid to chemicals project for Aramco LTC. As we've discussed previously, there was an opportunity across multiple world scale projects for olefin crackers where initially tendered as pre-front end design and PMC project management contracts, plus there was an overarching coordinating project management contract or CPMC.
+Now KBR won one of the crackers and the overarching CPMC. And this was actually the maximum any single company could win. Now the cracker project that KBR secured due to competing Aramco’s priorities was actually suspended and this has been made public.
+That said, the CPMC, we believe, is the key role. This is a multi-year endeavor employing critical resources covering and not only touching all the olefin’s projects at all stages, but also developing and working via integrated schedule, supply chain management strategy, data and digital management plus where Aramco really managing the data in a digitalized way and really sort of looking at continuity of safety systems and the data digitalization of those safety systems and being the project-wide technical authority.
+And to be clear, we will have teams embedded in each of the pre-FEED CPMC contractors during the other large projects on Aramco's behalf. Now this will ramp up progressively through the rest of this year and in 2025, and as a matter of fact, we’ll continue well beyond our longterm targets. Now to give you a feel, revenue through the pre-FEED will be between $50 million to $100 million. And then going through FEED and into execution, revenue will be several times this magnitude, so quite significant.
+In addition, again, with Aramco, we have also secured another of the offshore gas development front-end designs. This is asked third to date, that are really key enablers for the LTC program itself. This is another substantial and important piece of work, again, setting us up well for 2025 and a significant contribution to our long-term targets.
+I would remind you that Aramco are replacing crude by gas - with gas, sorry to generate power, and the crude will then go via the LTC program into various petrochemicals. This is both value add for the crude, but reduces the carbon footprint of energy production in the Kingdom significantly.
+So now let me turn to LNG, again quite a bit of speculation on this market. So, firstly on Plaquemines. We expect first LNG. This will be one of the industry benchmarks for speed to market. And further LNG will people will be produced as the individual smaller trains are commissioned progressively through 2025 and into 2026.
+In the quarter, we secured the Lake Charles project in joint venture with Technip. This is a partner with worked with successfully many times to have strong construction and fabrication capability. And the customer is energy transfer. To be clear, the contract terms are firmly aligned with our stated risk profile and KBR will be performing management and technical services similar to our rule on Plaquemines. And again, similar to Plaquemines, this will be reported through equity in earnings.
+Energy transfer is making solid progress in offtakes and has the balance sheet to move the project through to final investment decision. In fact, they’ve actually placed long lead orders already. That said, there's a bit more wood to chop on this, and I think the election will have an impact on timing. We do not expect FID until the second half of 2025.
+In addition and also in the LNG market, in this quarter, we secured the Front End Design for an additional LNG train for a confidential LNG producer in the Middle East, which could lead to bigger segments as that project progresses. And also in LNG we secured the project management contract, the PMC for and behalf of ADNOC the Abu Dhabi National Oil Company for their new LNG project in Abu Dhabi.
+To be clear, this is for the execution phase, so again this is multi-year and valued circa $130 million and this follows on from a successful PMC of the Front End Design that we completed earlier in the year. And finally, we just announced the award of the Shell Manatee gas project in Trinidad and this is an enabler for LNG in that part of the world.
+As we said previously, LNG is a global business that truly affords KBR’s lots of opportunities aligned with our desired risk profile and leveraging a differentiated capability. Now let me shift a little bit to emerging technology areas. We announced our acquisition of Sustainable Aviation Field Technology, early in 2024. And since then, we have digitalized and modernized the tech while ensuring we can deliver an end-to-end solution.
+And this solution now trademarked as Fuel SAF it’s the first AFTM SAF certified SAF technology. And we're particularly excited for what's to come as we're now at an intersection of increased demand, supportive legislation across the world and progressive incentives. And the project we announced with Avina is the first in an exciting pipeline of opportunities and obviously more to come through 2025.
+On circularity and in particular, related to our investment in Mura Hydro-PRT Plastics recycling technology, I personally visited the site in the UK at Wilton and saw the progress first hand recently. Commissioning is well advanced and although progress was impacted by skilled labor shortages due predominantly to BREXIT, the plant will be producing product before year end.
+The LG Chemicals plant in Korea, our first modular solution is on the same timetable, and the Mitsubishi plant Japan is looking to produce products in early 2025. So in the world of new technology, having the first-at-scale plant is absolutely terrific, but three operating at-scale plants is actually the watershed and we believe this will catalyze new license and project partnership opportunities in 2025 and beyond. So again, very, very exciting.
+STS book-to-bill was 1.0 in the quarter, but actually this does not include the large ADNOC LNG PMC, I referred to earlier. That was signed a few days after quarter close and will be booked in Q4. And now with that, and what’s in the hopper, we expect Q4 to be a strong booking quarter for STS.
+Now onto government solutions. In the US, as expected, Q3 was a strong bookings quarter due to Department of Defense annual budget cycles. However, our international business also had a great quarter. And together achieving 1.3x for the quarter and 1.1 on a trailing 12 months basis. And some highlights this quarter were nine awards in our Systems Engineering business via the IAC MAC Contract Vehicles we’ve talked about many times. Actually, this year we have been awarded approximately$1.5 billion in task orders under that contract, $1.2 billion of which were actually in Q3.
+Now as you are aware, we booked only backlog that’s funded and the $1.21 billion this quarter is the ceiling value of those combined contracts, which we will expect to book and burn over time. So, one significant contract worth highlighting contained within that $1.2 billion reflects the increased attention focus and funding expected for the Pacific with a circa $200 million multi-year contract supporting the Naval Warfare Center Pacific program, which is actually a new digital customer for KBR, where we will play a significant role in introducing and testing new technology as we progress the digital transformation and zero trust environment for that customer.
+In space, as you know, a key strategic vector for KBR, we continued momentum with a followon strategic award by the Naval Research Lab, as shown on the slide. The acquisition of LinQuest was made to accelerate our growth in military space, interoperability and digital engineering. And in the months since we've closed, LinQuest had secured over $60 million of new orders under a unique contract vehicle that KBR does not currently utilize and not LinQuest actually does not utilize IAC MAC so with KBR and LinQuest now able to use each other’s contract vehicles the revenue synergy opportunities are exciting because the procurement cycles for these are very, very quick.
+Now, before I move on, I would be remised if I did not give you a HomeSafe update, the systems testing for the interstate moves were successful. And moves have started now. This is very significant as a significant milestone as it clears the way for essentially through domestic moves.
+While we expect to see an increase in moves in Q4 as new lanes are turned on, revenue for the full year 2024 will be below our expectation. And to be clear, there's no impact to profit because as you are aware, we were conservative in our original guide for 2024. And as a matter of fact, our long-term targets also contain a conservative ramp as presented at Investor Day. So the lower volume in ‘24 has no impact at all to our targets.
+Our solid relationship TRANSCOM continues to be collaborative and we look forward to progressively ramping up on the program and enhancing the moving experience for our men and women in uniform and their families through ‘25 and beyond.
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Terrific. Thank you, Stuart. And good day, everyone. I'll pick it up on slide 9. So as you've heard from Stuart already, the results for Q3 were really good across the board with every single metric you see here up double-digits over last year. Margins and cash flow were the particular highlights with profitability running consistently in the mid-11% range all year. And cash flow super strong at $422 million on a year-to-date basis.
+DSOs, days sales outstanding continued to run at the lowest levels we have ever seen at KBR averaging about 60 days through this year so far. And as you know, low DSOs reflect high customer satisfaction and also importantly superb teamwork, across our operations, our functions and customer touch points.
+Let me just here quickly go on to slide 10 on results of the segments. Over on the left, as you see STS is humming along with continued good momentum and superb profit growth, consistently above the 20% margin level. As I said before, this team does remarkable job delivering intellectual property capabilities to customers all around the world, while continuing to grow its services platform also a very attractive overall margins. This is attributed to specialized domain expertise, scarce skill sets in a very cost, competitive delivery mechanism.
+On the right, Government Solutions had an excellent quarter as well with revenues up 11% and profit up 14% on improved margins. A particular importance we saw increased award decisions in the US, many of which came in our favor as towards said after experiencing delays in the first half. Our win rate on award decisions was well over 50%. So it's really a testament to the great team effort there.
+And as Stuart said, the government book-to-bill was 1.3x in the quarter, all the while international grew at an impressive 13% with contributions from the UK, Australia, and the Middle East, which well demonstrates our expanding global reach. On to slide 11 and capital matters. As said earlier, cash flow generation has been outstanding, which enabled deleveraging in September, coming off of the LinQuest acquisition, which closed in August.
+So just stepping back is terrific to have made such a sizable and high quality acquisition like LinQuest, plus deploy about a quarter of a billion in buybacks and dividends year-to-date and still have a leverage ratio well south of three times. This underscores, the power of our EBITDA growth and also cash generation. It's worth noting we received a credit upgrade attendant with the LinQuest deal with all agencies now at Double B plus rating equivalents.
+Together with the quality of the acquisition, we lowered the borrowing rate on both the new debt associated with the deal and existing debt. We added committed liquidity and pushed out maturities. These actions will help contain interest cost and also enable more deployment options as we go down the road. All forms of capital deployment spanning M&A, buybacks and debt reduction deliver benefits to us. So we'll balance doing those based on what generates in our view, the most attractive long-term value for our shareholders.
+Now, I'll finish up with slide 12 and our forward view of guidance. Delinquent contribution for 2024 is consistent with the information we provided in the acquisition announcement. We are moderately increasing the revenue guide to $7.5 billion to $7.7 billion reflecting four months of LinQuest in this year’s results. And also reflecting lower topline contribution from HomeSafe that Stuart just mentioned.
+And the profit side was strong year-to-date results and adding LinQuest. We are increasing our adjusted EBITDA guidance range to $840 million to $870 million. For EPS, the net effect of the LinQuest EBITDA contribution and also the incremental interest that stems from that transaction enables a moderate increase to the adjusted EPS guide, raising the floor to a range of $3.20 to $3.30.
+As I said, cash flow generation has been strong all year and because the EPS bump modest with four months of LinQuest activity, we're sticking with the original cash flow range of $460 million to $480 million. So to wrap it up, another quarter of well-rounded execution, spanning program, delivery winning new work, generating cash flow and adding LinQuest to the team. This also enabled us to improve the capital structure for better earnings production and future deployment optionality as we look to 2025 and beyond.
+Thanks everyone for tuning in this morning. I'll turn it back over to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+
+          Thanks Mark. Terrific job as always, I will finish off on slide 13 with some key takeaways. So as Mark and myself have said, earlier, outstanding third quarter performance with double-digit year-over-year growth across all key metrics, revenue profit and operating cash flow absolutely terrific. On LinQuest, really performed well since closing, it’s won over $60 million of new work and really delivered solid strong September results. The more importantly, integration is progressing really, really well and with revenue synergy opportunities crystallizing, it's a very exciting acquisition indeed.
+As a result of our strong year-to-date performance, and of course the addition of LinQuest, we're raising guidance as Mark just talked about on revenue, adjusted EBITDA and adjusted EPS. And finally on bookings, 1.2 times book-to-bill at the Group level together with our attractive pipeline sets us up nicely for the remainder of this year of course, but more importantly gives momentum going into 2025.
+So thank you again for joining us on today's call. And I'll now pass it back to Emily, who will open the call for questions. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instruction)
+Andy Kaplowitz, Citi.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citigroup Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [3]
+--------------------------------------------------------------------------------
+
+          Hi, Andy.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citigroup Inc - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Stuart or Mark, I know it's a bit early to talk. Good morning. I know it’s a bit early to talk too much about ‘25, but could you give us a little more color into visibility and particularly in STS growing in line with that algorithm you gave us earlier this year the 11% to 15% revenue growth as it looks like as you said, trailing 12-month book-to-bill reaccelerated a bit in Q3, I know you talked about the strong expected Q4.
+Last quarter I think you talked about some delays in energy transition projects. Are you still seeing those delays? And how do you think about the sustainability, the one times book-to-bill that you recorded in Q3 moving forward?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [5]
+--------------------------------------------------------------------------------
+
+          So, lots of questions in one there, Andy.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citigroup Inc - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          I pretty good at leaving them together, Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [7]
+--------------------------------------------------------------------------------
+
+          Yeah, that's good. I would say that, it's still quite early, We are in obviously started our budgets for next year. I think that we're confident that we're aligned with our 11% to 15% growth expectations in STS going into next year. Our book-to-bill obviously picked up in Q3 and it’s looking strong in Q4 to underpin that. The margin performance continues to be very strong.
+I think energy transition projects we are seeing more activity in the Middle East in particular around market share, around ammonia and the gas green hydrogen. But I think in general, a lot will depend on the election results and in terms of the speed in the US. But overall, the energy security market, combined with a growing energy transition albeit probably slower than we expected, a still growing market really gives us good confidence that will be aligned with what was presented at Investor Day in terms of STS targets. Hopefully, that helps.
+
+--------------------------------------------------------------------------------
+Andy Kaplowitz,  Citigroup Inc - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          It does, Stuart. And then, Mark, just I want to ask you about the guidance, just on the context of LinQuest, obviously, you put in four months, you mentioned that sort of the offset is HomeSafe. I guess, if I just look at the sort of guidance raise, it seems like -- is there anything else that's a little slower than you thought I guess because LinQuest I think would be pretty sizable if not more than the EBITDA change in the guidance.
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [9]
+--------------------------------------------------------------------------------
+
+          Yeah. Thanks, Andy. Just one clarification, if you will, is while HomeSafe is an offset to LinQuest on revenues, we did not really factor in profits for HomeSafe as Stuart said. So that's not a reason for contributing to your question relative to Q4 and the guide. So that is as expected for the year from a profit perspective on HomeSafe. But we do have interest expense coming in for LinQuest. So we have good news is we have three full months of LinQuest, but we have three full months of interest.
+So we have that occurring, as good as of a job, our treasurer has done with minimizing the impact of that. LinQuest is accretive, but it's like a couple of pennies. So we didn't think that warranted a big bump and we just moved up the midpoint by taking up the floor. We do have some seasonality that does kicking in the fourth quarter, a little bit on things like just the efficiency of our labor coming into the fourth quarter with holidays and things like that as a little off pace for parts of government and parts of STS.
+So we're being conservative on our outlook there. And that's about it. So not trying to get too fancy. Where we're adding some to the guide here, but cautiously so heading into the fourth quarter and really in context capping off a brilliant year of growth on all metrics and doing out or above a week set out to do at the beginning of the year.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [10]
+--------------------------------------------------------------------------------
+
+          And I think just to finish off and I think the original question was on EBITDA guide. I mean, we think that the LinQuest revenue is about a $175 million that’s coming in at double digits. That's about a $17 million EBITDA return and that's actually the raise that we've put into the announcement, Andy, so completely consistent.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+
+          Tobey Sommer, Truist Securities.
+
+--------------------------------------------------------------------------------
+Jasper Bibb,  Truist Securities Inc - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Hey, good morning, everyone. This is Jasper Bibb on for Tobey. It sounds like a lot of the exciting wins in STS just kind of curious like how do you think mix in some of these LNG recycling wins ramping up might impact the segment margins over the next couple of years, maybe relative to the flattish margin you outlined at your Investor Day this spring? Thank you.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [13]
+--------------------------------------------------------------------------------
+
+          I think we - I think having margins in the circa 20% range with a business that's growing a 11% to 15%, I think, is the targets we set out and that's the targets we're going to hold to. And maybe obviously mix volatility around margins mostly growing as we've seen, we've achieved ‘21, ‘22 in second quarters depending on mix. But I think our overall guidance stands in our long-term targets over time, particularly through the ‘27 stands. So I don't think there's going to be much change.
+
+--------------------------------------------------------------------------------
+Jasper Bibb,  Truist Securities Inc - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Thanks. And then the another follow-up on HomeSafe. Good to hear no impact to your targets for a little bit of a total spike there. Just to clarify, do you think it’s still on plan with the, I guess, underlying ‘25 assumptions for HomeSafe revenue from the Investor Day? Or is that maybe a little bit below plan now, and that's the offset by other wins across the portfolio or LinQuest?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [15]
+--------------------------------------------------------------------------------
+
+          No, it's very much in -- on target. As I said in my prepared remarks, we took a quite a conservative view through ’25, ‘26 and ‘27. In fact, in terms of the way the program ramps up, and certainly now we've kind of opened the aperture if you like, but the systems testing to really progress the domestic moves, I think, if there's any surprise that I think there's opportunity to the upside. That is a new program, however. But I do feel that we've got the right sort of numbers on a conservative basis within the ‘25 long-term target guide that we gave at Investor Day. And obviously, more will come out as we guide for ‘25 in February.
+
+--------------------------------------------------------------------------------
+Operator    [16]
+--------------------------------------------------------------------------------
+
+          Michael Dudas, Vertical Research.
+
+--------------------------------------------------------------------------------
+Michael Dudas,  Vertical Research Partners LLC - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Hello, Jamie, Stuart, Mark.
+
+--------------------------------------------------------------------------------
+Jamie DuBray,  KBR Inc - Vice president of Investor Relation    [18]
+--------------------------------------------------------------------------------
+
+          Hi, Mike.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [19]
+--------------------------------------------------------------------------------
+
+          Good morning, Mike.
+
+--------------------------------------------------------------------------------
+Michael Dudas,  Vertical Research Partners LLC - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          So with the positive progress, you mentioned with the energy projects in the Middle East in Saudi in particular, maybe you could – like what type of workforce, how is it being staffed towards has been maybe in 24? And how that may ramp in 2025? And I assume that's going to be used throughout many of your offices globally. And you - given some of the opportunities that you have in your current opportunity could you see further, on contractor bookings over the next 12 to 18 months in some of these other LNG or related opportunities there?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [21]
+--------------------------------------------------------------------------------
+
+          Yeah, I mean, that's a really good question, Mike. We, so for LTC program, that will be led out to the Houston Office, supported by predominantly the Saudi office. As you can expect as things move into Saudi Arabia the work on the gas developments offshore as we led from our Leatherhead office again supported by Saudi on Chennai in particular. The LNG projects that we are looking at are actually again led either out of particularly out of Houston or Leatherhead, but predominantly in that case supported at Chennai in our India office. And so it really is a global impact and allows us to derisk concentration.
+I would also say that in terms of the opportunity when we are doing front end design then obviously the followon opportunity is clear depending on where you are in the world. And I think if it's in the Middle East that will like maybe, maybe a broader packages, but really in the project management realm. If it’s in places that are not in the Middle East but different contract vehicles that pursue our risk profile.
+So but in all Occasions, I think being involved early in the project performing well, often means that you actually have a role going forward. So that's why we put a lot of emphasis and in explaining to the market where we sit and sort of pre front end’s concepts and front end designs because it really positions us not only for broader rules but also around understanding technology opportunities and things like that, so. Hopefully that helps.
+
+--------------------------------------------------------------------------------
+Michael Dudas,  Vertical Research Partners LLC - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          It does Stuart. And my follow-up is that, you mentioned in your prepared remarks about some of the energy transition opportunities, maybe more uncertain because of US elections, maybe turning to the government side, any change into your thoughts on what you said given your significant business units in Government Solutions relative to what you're seeing out of the Pentagon or what anticipated change could occur and anything that would cause them any move in minor change your thoughts given how things looks like to turning out?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [23]
+--------------------------------------------------------------------------------
+
+          No, I don't think materially, Mike, I think that the strong bipartisan support around military spending and the Department of Defense budgets as we’ve seen in the past, I think that it is where we've positioned the business, whether that be in military space or in the Pacific or looking at hypersonics or cyber or even civil space with NASA, are going to be strongly supported regardless of how the elections turn out.
+So we are feeling pretty good at that. There is usually a question on what happens in Europe on low cap, but we feel that that’s moving more to or move more to a sustainment type solution depending on what happens with Russia and the Ukraine. But obviously that’s not a near term resolution we see. But you never know. But I don’t think there is going to be a material change in where are the priority spending is going to be and I think that we will guide appropriately is it going to ’25 and we are pretty confident of our targets of growth that we are going present at Investor Day.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Steven Fisher, UBS.
+
+--------------------------------------------------------------------------------
+Steven Fisher,  UBS - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Thanks a lot. So Stuart you mentioned, potential election impact on Lake Charles. I'm just curious what are some of the scenarios that could play out with that project based on the elections and kind of what was the timing implications be for those various scenarios? And I don't want to put words in your mouth, but it sounded like the answer to Andy's question was that, maybe in the – that Lakes Charles as they delayed by a longer period of time, say a couple of years. You still think you could have enough work in STS to hit those 11% to 15% targets. I don’t want to put words in your mouth, but just clarifying that that’s what you are messaging?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [26]
+--------------------------------------------------------------------------------
+
+          So in terms of the election and LNG, as you know, there's a pause in LNG projects in the US. If the democrats remain, there is that strong indications that some projects will be released for going forward as long as they meet certain probably environmental hurdles and things like that. And we feel that Lake Charles is very well placed to be part of that cadre. If the Republicans go forward, I think they – their state positioning is to really go faster and there is a consequence of that I think that the project will go faster and that was really my comment there.
+The FID that we gave you in the second half of next year is probably based on the conservative view. It could go quicker on that, but again there is obviously, as I said wood to chop there. In terms of our ability to look further field for and looking at our pipeline and the way that we will perform, I think there is absolute credibility in the numbers we put forward regardless of timing of Lake Charles. And so, it's just we had one particular analyst who raised the fact that it would be difficult in an LNG market to replace what we are doing in Plaquemines moves announced for the associated LNG projects in one quarter.
+And so, I really want to be strong on that point, and you can see that the opportunity set that’s been realized in a very short order. So I think there's got to be more opportunity not less. And certainly energy demand is not reducing, it’s increasing particularly in the global side. So that’s really my answer to the question, Steven. Unless Mark you want to see something further?
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [27]
+--------------------------------------------------------------------------------
+
+          I think you covered it beautifully well, Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [28]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Steven Fisher,  UBS - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Okay. Terrific, and then, maybe just on the Saudi side, just curious if you have a sense of how fluid, that situation is with their programs there, like, can we take this now, to take this PMC contract to the bank if you will or could it still change either to the upside or the downside and then you're talking to due to about some other opportunities? But I am just wondering is this thing now kind of locked in?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [30]
+--------------------------------------------------------------------------------
+
+          Well, they will make a final investment decision, I believe, Steve, when the EPC pricing comes in after the front-end designs are completed. But obviously, we are at pre-FEED and FEED and it will take a couple of years to come through that exercise. Right now Aramco is committed and so we feel very strongly that this is a very solid set of bookings. But we won’t book it into backlog until such times as we reach the various milestone gates and but it was really to give you an indication of our rule on LTC.
+The fact that Aramco view us as really a very strong capability and we have very strong relationship of course and we got that broader CPMC rule which actually is bringing a whole set of different skill sets, but have never really delivered under a PMC environment before and KBR was chosen to do that. So I think ultimately it’s a future tick it’s a really positive news. We are trying to give you a sense of the scale. It’s a multi-year program. So really underpins a long lead targets and, yeah we are feeling really good about it.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          Jerry Revich, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Jerry Revich,  Goldman Sachs - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Yeah, hi, good morning, everyone. Stuart, if we just take a -- hi, if we just take a step back, maybe five, six years ago, the risk terms on a lot of these LNG projects and other large-scale energy projects weren’t very attractive to you folks. Now the win rates have been really attractive for you folks including Lake Charles LNG. Can you just talk about, what's changed over that time frame in terms of industry discipline and that's enabled the opportunity for you folks to have such a high win rate with acceptable and attractive risk terms for KBR?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [33]
+--------------------------------------------------------------------------------
+
+          Yeah, I mean, that we've been very clear. We're not taking lump sum EPC risk and we don't take instructions we call out. And we've been very true to that. We're not going back to the future if you like and what we're doing here. So, I think that particularly with VG and the success of Venture Global and their first phase and in Plaquemines, I think there are certainly new models that are, that new customers, new developers are looking at because it allows them to carry the continuity and manage the risk directly and also allows them to be heavily engaged in the decision-making.
+And, and that doesn't suit all customers. There's still lump sum EPCs out there. Many of them you'll know about, and we're not interested in them whatsoever. So I just think the market is realizing that there could be a different way. It doesn't suit everyone, but it does suit some and where it sits on we are actively engaged. In the Middle East, where there's a project management, a contract or front-end design with PMC's where, of course, that's fits our model very, very well.
+And we'll continue to chase those types of opportunities. But I think if the -- I think the two things, I think really the, I guess the intent of your question is there is a market for the risk profile that that we are - we have appetite for, absolutely. And I think we've proven that. And secondly are we positioned well enough globally to take advantage of that? I think the answer and we've demonstrated that put me on our bone in Q3 in particular is absolutely yes.
+
+--------------------------------------------------------------------------------
+Jerry Revich,  Goldman Sachs - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Super, and can I ask you on the Heritage Tech pipeline, could you just talk about what you expect to book over the next couple of quarters in areas like ammonia and plastic recycling? I know there's a pretty strong visibility on the pipeline and when you expect bookings to play out, can you just expand on what that looks like over the next couple of quarters?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [35]
+--------------------------------------------------------------------------------
+
+          Yeah, we don't -- I mean, I think the, we are very excited obviously with - and plastics recycling as we start to look at the pipeline of opportunities and where the markets are going for those. I think, as I said in my prepared remarks, the catalyst for change in terms of active a final investment decisions on the dozen or so licenses we’ve already sold for Hydro PRT, they're really down to the performance of what happens at Wilton or in Korea or in Japan.
+And so, I think we'll update the market more on that as these start to produce product, at year end and slightly into ‘25. So very excited about that. I think the bookings will come later in the year associated that with that, Jerry just given the timing. But very, very strong pipeline there.
+In terms of ammonia, I mean, it continues to be an attractive market. The ammonia pricing came down as through the coast of the year. But there's still a lot of interest in actually moving forward particularly in the Middle East around the fact they’ve got very attractive gas prices. They're looking at market share. Theirs is also growing demand for fertilizers, as well as commitment around positioning for hydrogen as we move forward. So I think, as we go into ‘25, we expect to see continued buoyancy in the ammonia market. The exact timing is very difficult to tell, and -- but I think the market itself remains very attractive.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Sangita Jain, KeyBanc Capital Markets.
+
+--------------------------------------------------------------------------------
+Sangita Jain,  KeyBanc Capital Markets Inc - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Hi, good morning. If I can ask one on the LTC project that you said was suspended by Aramco. If Aramco changes its priorities to move more investment to other parts of Asia, would you be able to follow them there for similar projects?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [38]
+--------------------------------------------------------------------------------
+
+          I mean, I think, I mean, it depends on the contractual structure, but yes if it's a front-end design PMC of course, we can uh and we've got offices in Asia that could support that depending on where it is. I think, historically they've, done more in China and increasingly looking at India. They've used SABIC as really their overseas investment vehicle. Remember that Aramco owns the majority of SABIC at least 50% if not more.
+So I think yes, in theory, but I don't suspect that's going to happen because I think that as I said, the reason I said what I said in my prepared remarks was that, they are looking to decarbonize in the kingdom. They're trying to use gas to produce power which at the moment they burn crude and the utilization of crude into petrochemicals is value-add over time and that's where they are pointing the investment dollars. So, I don't think it's just an investment in liquid to chemicals globally. I think there is a strategic and a sustainability play inside itself that’s driving these investments.
+
+--------------------------------------------------------------------------------
+Sangita Jain,  KeyBanc Capital Markets Inc - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Got it. And I know you've referenced the long-term guidance a couple times but I think this project was in your long-term risk-adjusted guidance that you gave us at your Analyst Day. So I just want to know how you're thinking about that long-term guidance without this project in it?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [40]
+--------------------------------------------------------------------------------
+
+          I'm sorry, I'm confused.
+
+--------------------------------------------------------------------------------
+Sangita Jain,  KeyBanc Capital Markets Inc - Analyst    [41]
+--------------------------------------------------------------------------------
+
+          (multiple speakers) On your Analyst Day, you gave us long-term guidance right, which included this LTC project on a risk-adjusted basis?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [42]
+--------------------------------------------------------------------------------
+
+          Yeah, it does. But remember, we've got a very prominent role on LTC, which is the coordinating PMC which I said would be $70 to $100 million through pre-FEED and several times that value through execution which is aligned to our multi-year project, so it’s our long-term target. So we've got a very prominent role in LTC. That's why I spend quite a bit of time talking to that particular project. We have going to a bit of a blackbox up to date and apologies for that but we are not allowed to say anything about the customer, but now we can.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Gautam Khanna, TD Cowen.
+
+--------------------------------------------------------------------------------
+Gautam Khanna,  TD Cowen - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Well hey, good morning, guys. I curious on LinQuest. There was some language in the briefing about small business awards. I was curious do they have a lot of small business set aside work? If so can you quantify how much and how that runs through or runs us?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [45]
+--------------------------------------------------------------------------------
+
+          Yeah, they don't really have any small business set aside. We obviously go out to stop through the acquisition. So it's no such feature at all, Gautam.
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [46]
+--------------------------------------------------------------------------------
+
+          I'll just expand the work we refer to as SBIR 3. So that is not restricted to small business. It reflects initially was perhaps under that set aside type of construct, but now it's preferential type of contract vehicle. It can put money to work quickly. It is fully available to large businesses and it largely is done on the sole source basis to progress and commercialize the technologies that are at play that started off small and have become something bigger. So it's really an attractive type of vehicle for not only LinQuest, but part of the KBR Group, as well.
+
+--------------------------------------------------------------------------------
+Gautam Khanna,  TD Cowen - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Well, thank you. That’s helpful. And just last one for me on. You may have addressed it but I joined late. CR, the budget CR, I mean, what is your expectation for bookings over the next couple quarters if in fact the CR extends?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [48]
+--------------------------------------------------------------------------------
+
+          I mean, I think, we've got enough in flight being looked at. We've got a number and that will be awarded on the protest, but we don’t talk about them until the protest is resolved and quite sizable. So we - I mean, assuming they come in our favor, and you never of course, Gautam, the way the protest go, but I think bookings will remain pretty strong as a consequence of what’s in flight. And obviously there will be some delays with CR, but we don’t expect it to in any way change what we think we will guide to for next year aligned with our long leads targets.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          At this time, we have no further questions. I'll turn the call back to Stuart Bradie for final remarks.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - President, Chief Executive Officer, Director    [50]
+--------------------------------------------------------------------------------
+
+          Thank you, Emily. And thank you again for listening and thank you for your interest as always in KBR. I think another terrific quarter. A double-digit growth across all key metrics, really it’s not just revenue, it’s actually delivering that revenue into greater profit with enhanced margins. So really a terrific effort by our people all across the world. So yeah, thank you again and I am sure we’ll be on calls later today and tomorrow and through the course of the next little while. So, thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Thank you, everyone for joining us today. This concludes our call and you may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

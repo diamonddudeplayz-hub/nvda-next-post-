@@ -1,0 +1,477 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2026 KBR Inc Earnings Call
+MAY 05, 2026 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Shad Evans
+   KBR Inc - Chief Financial Officer, Executive Vice President
+ * Stuart Bradie
+   KBR Inc - Chairman of the Board, President, Chief Executive Officer
+ * Rachael Goldwait
+   KBR Inc - Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mariana Perez Mora
+   Bofa Merrill Lynch Asset Holdings Inc - Research Analyst
+ * Steven Fisher
+   UBS AG - Analyst
+ * Tobey Sommer
+   Suntrust Robinson Humphrey Capital Markets - Equity Analyst
+ * Adam Bubes
+   Goldman Sachs Group Inc - Analyst
+ * Jerry Revich
+   Wells Fargo Securities LLC - Equity Analyst
+ * Ian Zaffino
+   Oppenheimer & Co Inc - Analyst
+ * Unidentified Participant
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome, everyone. The KBR's first quarter 2026 earnings call conference will begin shortly. (Operator Instructions) Thank you for your patience.
+Hello, everyone, and thank you for joining the KBR's first quarter 2026 earnings conference call. My name is Gabriel, and I will be coordinating your call today. (Operator Instructions) I will now hand over to your host, Rachael Goldwait, Head of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Rachael Goldwait,  KBR Inc - Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, and good morning. Welcome to KBR's first quarter 2026 earnings call. Joining me today are Stuart Bradie, President and CEO; and Shad Evans, Executive Vice President and CFO. Stuart and Shad will cover highlights from the quarter, and then we'll open the line for your questions.
+Today's earnings presentation is available on the Investors section of our website at kbr.com. This discussion includes forward-looking statements reflecting KBR's views about future events and their potential impact on performance as outlined on slide 2.
+These matters involve risks and uncertainties that could cause actual results to differ materially from these forward-looking statements as discussed in our most recent Form 10-K available on our website. This discussion also includes non-GAAP financial measures that the company believes to be useful metrics for investors. A reconciliation of these non-GAAP measures to the nearest GAAP measure is included at the end of our earnings presentation. I will now turn the call over to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Rachael, and good morning, everyone. I'll pick up on slide 4. Now before we get into the results, I wanted to share a brief Zero Harm moment on staying connected, especially in challenging times. At KBR, Zero Harm starts with keeping our people informed and supported even when they're hard to reach, whether they're on a remote site, a project location or in an office.
+The focus on reaching the unreachable is what led to the launch of the KBR Pulse app. Pulse was not built in response to a crisis. It actually came out of a global employee hackathon where our teams identified a better way to stay connected across our diverse and distributed workforce.
+It is employee-driven, built by our people for our people, and it provides easy access to news, safety updates and company resources wherever work happens. When the conflict in the Middle East escalated, Pulse quickly became a critical channel for sharing timely updates on guidance. Most importantly, it helped us stay closely connected with our teams in the region and all of our people have remained safe, supported and informed.
+Pulse helps us reach employees who are not sitting at desks and reinforces our ability to act as one team, even in the most challenging environments. It is a practical example of how listening to our people and then investing in the right digital tools strengthens our Zero Harm culture and supports resilience when it most matters.
+On to slide 5. Today's call will cover these key topics. Firstly, I'm pleased to report that we started the year well, demonstrating disciplined execution and resilient operations. Secondly, we continue to see demand in our core markets with clear pipeline visibility. Third, we're advancing our planned spin transactions, more on that later, and thus, sharpening our strategic focus. And finally, we are reaffirming our 2026 guidance and remain committed to execution, margin discipline and strong cash generation.
+Moving to slide 6, where I'll start by covering the STS business. Over the last few quarters, we've seen customer priorities move toward energy security, reliable supply and resilient infrastructure. A more complex geopolitical environment is reinforcing these trends and shaping both capital spending and services demand across our end markets.
+With that context, I want to provide a bit of color on where we're winning work today and how those wins align to our strategy and how that sets up the near-term pipeline on the next slide. For the third consecutive quarter, STS delivered book-to-bill ex LNG well above 1.0.
+Demand continues to be anchored in energy security, downstream reliability and long-duration asset services with a balanced mix of capital projects and recurring services work, supporting growth and improving backlog visibility. In energy security and transition, customers are prioritizing execution certainty across upstream, downstream and gas infrastructure.
+This quarter, highlights include project management services for the Zallaf South Refinery in Libya, integrated field management services at the Majnoon Oil Field in Iraq and a long-term general maintenance contract at SATORP in Saudi Arabia. These wins reflect continued investment in mission-critical assets where reliability really matters.
+In Critical Materials and Circularity, we are winning life cycle orientated work that extends asset life and improves performance. During the quarter, we secured a long-term catalyst supply agreement supporting Indorama's ammonia operations alongside optimization work across chemicals and materials assets.
+In Infrastructure and Transport, we continue to pursue selective program and project management opportunities, including water infrastructure work in the Middle East and sustained activity in Australia across rail, water and defense-adjacent infrastructure.
+Overall, our bookings reflect a capital-linked engineering and project foundation with selective layering of recurring operations and maintenance services. This deepens our customer relationships and extends our role across the asset life cycle and, of course, improves backlog visibility.
+We're also adding digital capabilities where they strengthen our role with the customers. Our partnership with Applied Computing supports data-driven and AI-enabled solutions that are expected to connect project execution to maintenance and operations while staying disciplined within our capital-light model.
+To put this in context with some key metrics, STS first quarter book-to-bill ex LNG was 1.2 times, with a trailing 12-month book-to-bill of 1.2 times. Backlog ended the quarter at approximately $4.7 billion, and that is up 9% year-over-year. Near-term pipeline, again, excluding LNG, is more than $5 billion, with roughly 80% from repeat customers.
+And work under contract today now covers approximately 67% of our 2026 revenue guidance, which is a good place to be at this time of the year. The momentum we're seeing in bookings is consistent with the pipeline outlook, which brings me to slide 7. This matrix shows where near-term pipeline activity is clustering by market and region. It's directional, not a forecast of timing, size or conversion. Stepping back, the pattern reflects two core dynamics.
+First, we are seeing broader distribution of critical programs rather than reliance on single large awards. Second, customers are advancing work through early engineering and phased scopes, reflecting disciplined progression across project life cycles. From there, five themes explain how demand is showing up across regions.
+First, energy security and resilience in the Middle East. Customers continue to prioritize reliability, redundancy and throughput expansion across critical infrastructure. Recent geopolitical conflict is reinforcing these priorities with increasing emphasis on resilience alongside restoration and rebuilding efforts where needed.
+Importantly, we have not seen any material change in capital spending priorities as customers continue to fund essential programs already underway. These tend to move as multiyear programs that award engineering work early, supporting a steady and visible near-term opportunity set. With a strong local footprint and established relationships, KBR remains well positioned to support customers across the region, particularly as they navigate evolving conditions.
+Second, resource security within Critical Minerals and Circularity across the Middle East, Africa and parts of the Americas. Governments and producers remain focused on maintaining and expanding supply of essential inputs particularly ammonia. This includes continued demand for licensed ammonia technology and proprietary solutions with customers increasingly engaged early with engineering-led scopes, again supporting durable near-term booking opportunities.
+Thirdly, pragmatic transition activity in Europe. Near-term transition demand remains largely engineering-driven including design, permitting and modularization across key transition value chains. We are seeing particular demand in areas such as sustainable aviation fuel alongside policy-driven feasibility and pre-FEED studies as customers assess options and navigate regulatory frameworks.
+Fourth, energy security and critical materials across the Americas. Customers are pursuing targeted programs that strengthen energy exports, improve reliability and, of course, support domestic supply chains, particularly across LNG adjacent infrastructure and processing and separation assets tied to critical materials.
+And finally, Infrastructure and Transport in Australia. Near-term opportunities remain concentrated in government-funded transport, defense and enabling infrastructure programs with a strong emphasis on alliances, framework agreements and stage delivery models. Work is predominantly engineering, PMC and early works rather than full greenfield execution, which supports recurring capital-light bookings and reflects customers' focus on resilience, capacity expansion and program continuity.
+Overall, the Matrix reinforces the STS bookings and near-term pipeline are diversified and concentrated in staged programmatic work aligned with resilience and resource security priorities. And this plays directly to our engineering-led, capital-light model and repeat customer relationships.
+Now on to slide 8 for the Mission Tech business. As we've discussed over the last few quarters, awards are not flowing at historical levels. In this environment, our focus remains on what we can control, increasing both the volume and quality of our bid activity, expanding access to IDIQ vehicles and continuing to position the business for future awards.
+While several larger opportunities remain pending, and, in some cases, under protest, we continue to win work that aligns with our core capabilities and the government's most enduring priorities. Recent Mission Tech wins reflect a consistent set of strengths. We are applying digital engineering and analytics to help accelerate time lines, leverage AI and data-driven insights to support higher confidence decisions, and delivering trusted execution in mission-critical environments.
+In space and national security, we won new work supporting the US Space Force, applying digital engineering and analytics to help accelerate the development and deployment of next-generation space capabilities. We also secured a new role, providing joint data and analytical support to senior defense leaders focused on translating complex data into actionable insight for critical decisions.
+On the civilian side, we were awarded a recompete with the Department of Transportation's Volpe Center, extending a long-standing partnership focused on using AI, analytics and systems engineering to modernize transportation and improve safety.
+And lastly, we secured contract extension under the Army's LOGCAP program, reinforcing KBR's role supporting the US military with mission-critical logistics and sustainment in complex operating environments. Before moving on, I wanted to briefly address what we're seeing at NASA. KBR has supported NASA missions for more than 60 years. And recently, the administrator has indicated an interest in in-sourcing certain core workforce competencies.
+If implemented, these changes would affect the mix of work across some programs and that impact is reflected in our '26 outlook, which Shad will discuss in more detail as we walk through the guidance. Importantly, KBR continues to support NASA in areas where deep mission experience, independent technical expertise and operational continuity are essential. We are very proud of our team's contribution to the Artemis II mission and have a decade's long service to the agency.
+As you'll hear from Shad, these Mission Tech dynamics are being offset by strength in Sustainable Tech, so the impact is primarily mix as we reaffirm our full year guidance. Stepping back and looking across the portfolio, recent wins reinforce where MTS is differentiated. We operate in mission-critical environments that demand speed, technical depth and trusted execution with digital and data capabilities playing an increasingly central role in mission's success.
+So to put this in context with some key metrics, MTS' first quarter book-to-bill was 1.0, with trailing 12 months book-to-bill of 1.0. Backlog and options ended the quarter at $18.5 billion, with 39% of that funded, excluding the PFIs. Bids awaiting award totaled $16 billion and work under contract now covers approximately 91% of our '26 revenue guidance.
+And we continue to make progress towards our bid volume goal of $25 billion in 2026 with significant submissions expected in the next two quarters. With that, I'll turn to slide 9 and our near-term pipeline opportunities. This slide provides a directional view of where we see the MTS near-term pipeline forming across markets and customer sets.
+It is not intended to indicate precise timing, size or conversion, but rather to highlight where demand is clustering based on our current visibility. We see two core dynamics shaping the pipeline. First, customers are prioritizing a more selective set of enduring mission-critical programs with long-term relevance and funding durability, a trend evident across US and allied defense markets, including Australia.
+Second, we are increasingly valuing partners who can integrate across domains and translate software and data-driven architectures into operational capability at speed. Those dynamics translate into several clear demand themes across the portfolio. First, national security space and space mission operations where programs award technical depth and integrated delivery from digital engineering through operations.
+This includes long-standing work supporting the US Space Force's military satellite communications mission and related space architecture. Second, integrated air and missile defense, including Counter-UAS and directed energy. Here, customers are prioritizing layered, scalable solutions that reduce cost per engagement. Our role centers on integrating new capabilities into existing architectures, so customers can field solutions faster and, of course, more affordably.
+Third, connected battlespace and decision advantage as customers invest to compress decision cycles by linking sensors to decisions at the edge. We are supporting architecture and integration efforts aligned with JADC2 objectives, including work related to the Air Force battle network.
+Finally, we continue to see durable demand in readiness, sustainment and deployed mission support, including allied life cycle programs. These missions place a premium on reliability, scale and end-to-end accountability, and we're increasingly applying AI-enabled tools, including through our partnership with Tagup AI to help improve sustainment workflows and readiness outcomes.
+Across these areas, the common thread is customers prioritizing speed, integration and measurable mission outcomes, areas where MTS is positioned to deliver. On to slide 10 and an update on the spin. Next, I'll provide an update on the tax-free spin of MTS, which remains central to our strategy and to sharpen focus and, of course, create long-term shareholder value. The strategic rationale for the separation remains unchanged.
+This spin reflects the culmination of a decade-long portfolio transformation and will result in two independent pure-play companies with clear strategic focus, distinct investment profiles and dedicated leadership aligned to their end markets. As part of this process, we evaluated all strategic alternatives and concluded that a spin is the right path to unlock value and position both businesses for long-term success. We are executing on this path while ensuring the separation is completed in a way that protects continuity, minimizes risk and positions both companies for success from day 1.
+We continue to believe a quarter-end spin is the most practical approach both operationally and financially. And given the scope and complexity of separation, a fourth quarter time line provides additional runway to address these complexities. As a result, we are working toward an effective spin date of January 4, 2027, so the first business day of fiscal '27.
+On the regulatory front, we have confidentially resubmitted our Form 10 including the fiscal 2025 audited carve-out financials. We expect continued confidential refinement through the SEC review process before transitioning to a public filing, which we currently anticipate in September. In parallel, we're advancing the IRS private letter ruling process to support a tax-free transaction.
+From a leadership standpoint, we are now well advanced on talent migration. The MTS CEO search is in its final stages, with Board interviews planned for later this month. And the CFO process is expected to follow shortly thereafter. At the same time, additional leadership and functional appointments are beginning to be announced across both organizations, helping to build clarity and momentum.
+Operational separation continues to progress. We have completed the IT stand-up project plan and are now executing against it, supporting coordinated separation across systems, processes and controls. And in parallel, teams are advancing real estate and legal entity rationalization to position both companies to operate independently at close.
+Looking ahead, we plan to host two Investor Days in the second week of November. These events will outline the stand-alone strategy, operating models and long-term priorities for both the STS and MTS businesses ahead of the transaction close. Overall, the dedicated spin transaction team remains fully engaged across all work streams and coordination across the organization continues to build, reinforcing our confidence in execution. With that, I'll turn it over to Shad.
+
+--------------------------------------------------------------------------------
+Shad Evans,  KBR Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Stuart. I'll pick up on slide 12 with the consolidated first quarter results. We started the year with solid momentum despite a challenging backdrop. Revenues declined $95 million year-over-year, driven primarily by the planned reduction in EUCOM contingency as outlined on our last call. Excluding EUCOM, revenues were largely consistent with prior year, and we did not experience any material impact from the Middle East conflict during the quarter.
+Despite lower revenue, adjusted EBITDA increased by $3 million year-over-year, supported by strong program execution and favorable mix across the portfolio. As a result, adjusted EBITDA margin expanded to 13.1%, up from 12.3% last year. Adjusted EPS was $0.96, down $0.05 year-over-year, primarily due to higher financing expenses from unconsolidated joint ventures.
+This was partially offset by lower average shares outstanding following open market repurchases throughout 2025. Cash flow was a key highlight for the quarter. Adjusted operating cash flow totaled $119 million, up $28 million year-over-year, reflecting strong DSO performance and resulting in 98% adjusted OCF conversion. Overall, the quarter reflects disciplined execution, margin resilience and strong cash generation even as revenues were impacted by known and anticipated program dynamics.
+On to slide 13 for segment performance. Results this quarter demonstrated solid execution and performance was in line with expectations across both Sustainable Tech and Mission Tech. Starting with Sustainable Tech, revenues were down $10 million year-over-year, primarily reflecting new awards that are still ramping and have not yet contributed meaningfully to revenue.
+Adjusted EBITDA increased by $2 million year-over-year with margins expanding approximately 70 basis points to 21.9%, driven by equity and earnings contributions from an LNG project. Excluding this project, underlying margins in the business were 16.1%.
+Turning to Mission Tech. Revenues were down $85 million year-over-year, driven primarily by the planned reduction in EUCOM contingency work. Excluding EUCOM, Mission Tech revenues were in line with prior year with the growth in the US and Australian defense programs, offset by the combination of award delays, protest activity and funding restrictions at NASA. Adjusted EBITDA was essentially flat year-over-year, declining $1 million, while margins expanded to 10.6%.
+Margin performance reflected the roll-off of lower EUCOM work, continued disciplined execution and increasing mix of higher-value offerings. Overall, segment results reflected solid execution, expected mix dynamics and continued focus on disciplined margin management across both businesses.
+Turning to slide 14. As we committed last quarter, this slide breaks out the underlying sustainable tech margin structure, separating the LNG project and showing how the broader portfolio is positioned as that project rolls off and our JV footprint expands over time. As you see on the left, you can see the margin tiering across the STS portfolio.
+Higher margins are driven by technology licensing and differentiated engineering, while international OpEx services, PCM and proprietary equipment sit on the middle. At the lower end is domestic maintenance, which we primarily access through our recurring JV structure, including BRIS, allowing us to participate with appropriately managed risks and returns.
+As shown on the right, that mix supports a 20%-plus weighted STS margin profile in 2026, driven by technology, engineering and JV participation. Over the last several years, growth in our services business has outpaced technology sales, resulting in margins of approximately 15% with the LNG project adding an incremental 500 basis points.
+Importantly, the backfill of this LNG project is portfolio based rather than a one-for-one replacement. As that project rolls off, growth in higher margin and more recurring streams, particularly technology licenses and JV OpEx work support a more durable margin profile over time. Overall, this slide reinforces the STS margins are structural, supported by deliberate portfolio shaping, disciplined program selection and contract structures that align risk and return.
+With that, let me turn to slide 15. As mentioned earlier, cash generation was strong in the quarter, particularly given the fact that the first quarter is typically a low cash flow period for us. That performance reflects disciplined execution and the underlying cash-generative nature of the portfolio.
+Net leverage increased modestly following our investment in BRIS to fund the SWAT acquisition, ending the quarter at approximately 2.3 times trailing adjusted EBITDA. That remains comfortably below our stated ceiling of 2.5 times and maintaining that leverage discipline remains a key guardrail for us. More importantly, our approach to capital allocation remains balanced and disciplined.
+We continue to invest for growth, return capital to shareholders, maintain prudent leverage and incorporate the expected cash outflows associated with executing the spin-off transaction. Overall, our strong cash generation provides flexibility across these priorities and supports disciplined capital deployment going forward.
+On to slide 16 and full year guidance. Today, we are reaffirming our full year guidance and range across all metrics. Within that framework, we're operating in an environment where the range of potential outcomes is wider than normal for our Government Services portfolio. Geopolitics and policy shifts across the US and Australia can create both opportunity and funding risk, and those factors are influencing how demand flows across the portfolio.
+Building on Stuart's comments, the dynamics we're seeing are reflected primarily in segment mix rather than a change in our full year outlook. In Mission Tech, we expect revenue to be flat to modestly down year-over-year, largely reflecting unresolved protests in the first half that delayed anticipated ramp activity. Those impacts, particularly related to the MIST contract, are timing-driven, and we feel good about the underlying award and the transition profile as regional disruptions get resolved.
+In addition, given the uncertainty around potential program-level changes at NASA relating to the workforce directive Stuart referenced earlier, we have incorporated a modest second half decline, assuming those changes are implemented.
+These impacts are more than offset by strong performance in Sustainable Tech, where we now expect to deliver mid-teens year-over-year revenue growth, driven by award momentum and elevated service demand. Taken together, this results in revenue phasing of approximately 47% in the first half and 53% in the second half, reflecting a relatively stable Mission Tech run rate and second half growth in Sustainable Tech as customer activity normalizes and recent wins ramp, particularly in regions impacted by the Middle East disruptions.
+Importantly, there are no changes to our adjusted EBITDA, adjusted EPS or adjusted operating cash flow guidance. However, we may see some volatility in adjusted operating cash flow during the second quarter as the Middle East conflict is resolved. Our underlying assumptions remain consistent with what we outlined on our last call, with today's puts and takes reflected in segment mix rather than a change in our overall outlook. With that, I'll pass it back to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Shad. On to slide 17 to wrap up. There are four key takeaways from the quarter. Firstly, we delivered a solid start to the year with disciplined execution, resilient operations and continued margin and cash focus. Second, demand in our core markets remains durable, and we have clear visibility, work under contract today now covers approximately 67% of our 2026 revenue guidance in STS and 91% in MTS.
+Third, we continue to advance our planned spin transaction with key milestones progressing as we prepare for a targeted distribution on January 4, 2027. And finally, we are reaffirming our '26 guidance ranges, and we remain committed to execution, margin discipline and strong cash generation. We appreciate your continued interest and support, and we look forward to updating you on our progress throughout the year. With that, I'll turn it back to the operator for Q&A. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Adam Bubes, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Adam Bubes,  Goldman Sachs Group Inc - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Margins in the quarter, I think, 13.1%, appear modestly ahead of your expectations, and it's above the full year guide. I recognize that equity income can drive some quarter-to-quarter margin noise. But can you just help us parse out what came in better than expected on the margin line this quarter? And anything we should keep in mind when thinking about the trajectory of margins and equity income through the balance of the year?
+
+--------------------------------------------------------------------------------
+Shad Evans,  KBR Inc - Chief Financial Officer, Executive Vice President    [3]
+--------------------------------------------------------------------------------
+
+          Yes. So I'll take that one, Adam. So again, as you point out, margins remain in line with our long-term targets with 10% plus for MTS and circa 20% for STS through 2026. We do expect continued contributions from the LNG project to continue into early '27.
+And we'll be kicking off our 2027 budgeting process here shortly, which will, of course, have the stand-alone costs for corporate structures and margin expectations for both businesses that we really look forward to highlighting in Investor Days in November.
+
+--------------------------------------------------------------------------------
+Adam Bubes,  Goldman Sachs Group Inc - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          And then can you just help us think about the Brown & Root equity income contribution on a run-rate basis following the SWAT acquisition? And maybe can you talk about the magnitude of the M&A pipeline for Brown & Root, what's your vision for that piece of the business in the medium term?
+
+--------------------------------------------------------------------------------
+Shad Evans,  KBR Inc - Chief Financial Officer, Executive Vice President    [5]
+--------------------------------------------------------------------------------
+
+          Sure. I'll take the first one, and then Stuart can cover the M&A piece. So as you'll see on our website in the fact sheet, the recurring joint venture contributions generated approximately $18 million of EBITDA in the quarter. And we expect that contribution to tick up modestly as the year progresses. Strong year-to-date bookings really begin to ramp in that portfolio, and that will provide incremental volume in the back half of the year.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [6]
+--------------------------------------------------------------------------------
+
+          And on the M&A pipeline, we continue to not sit in our hands. We continue to look at opportunities that will take us both into new geographies and into all reasonably adjacent industries. And I guess more to come on that as we look forward.
+There's plenty of opportunity. We need to be very disciplined in the way we look at that, both from margin accretion and fit and obviously, values and culture perspective, but certainly more on the table to look at as we go through the year.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Andrew Kaplowitz, Citi.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [8]
+--------------------------------------------------------------------------------
+
+          This is Natalia on behalf of Andy Kaplowitz. I guess first question, I'll start off with just on the margins -- on STS margins. I appreciate the call out on margin ex LNG this quarter. But could you help us think about the underlying STS margin profile ex LNG and the margin trajectory going forward over time? And as compared to your long-term framework, you're like 20% plus margin as well?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [9]
+--------------------------------------------------------------------------------
+
+          So as promised, we gave more transparency into the buildup of the margin profile within STS and contribution that comes from the large project and equity and earnings. And hopefully, that's been useful. In the quarter, ex that project, we made 16.1%. I think that was in Shad's prepared remarks. And so the circa 15% that we put in that slide generally is the mark for the base business as we look forward and ex that LNG project.
+Now that could change over time if we do win something with that sort of commercial construct, but hopefully, that gives you a good indicator of how this business performs. And we've got -- just to add to that, we -- there are margin expansion opportunities on mix, particularly around technology, where you can see in that breakdown where the margins in that business are well in excess of 20% in truth.
+And the more we do in licensing and I guess, the sort of initial sort of engineering, the better for margins. And the timing of that is difficult to predict. So you get some variability. And the more we grow the operational OpEx side of the business under BRIS, which is obviously part of our strategic push. Obviously, that comes through equity and earnings, and you'll see that growing stronger as the year progresses, which again is good for margins.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [10]
+--------------------------------------------------------------------------------
+
+          Got it. That's helpful. So underlying margin ex LNG, you still see it creeping up over time to that 20% plus range.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [11]
+--------------------------------------------------------------------------------
+
+          Well, 15% going upwards, I would say.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+
+          Jerry Revich, Wells Fargo.
+
+--------------------------------------------------------------------------------
+Jerry Revich,  Wells Fargo Securities LLC - Equity Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Nice quarter. I wanted to ask on NASA. Can you just talk about what the ebbs and flows look like from a booking standpoint? There's been volatility between the President's request and Congress' reinstatement of funding. Can you just talk about how that has impacted timing, if at all, for you folks and what we should be looking for in terms of booking and activity levels over the remainder of the year?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          Yes. The main comment, Jerry, on NASA related to the new administrator's push for greater in-sourcing. So effectively moving people who are on contractor staff back on to government payroll. That is being discussed and being looked at today. And we think that may or may not happen over the next little while. But certainly, if it does, it will be gradual. But we did call that out in the call. That's a recent event in the quarter. In terms of the scale of that to KBR, it's $50 million, $60 million or so through the course of this year, but happened today.
+So it will be a lesser impact than that likely. So that's really the discussion there. In terms of the broader impact to NASA budgets, we're not seeing any real issue there in terms of what's happening in terms of the levels of service and the commitment to funding that we've experienced over the last little while. So that feels pretty steady at the moment.
+
+--------------------------------------------------------------------------------
+Jerry Revich,  Wells Fargo Securities LLC - Equity Analyst    [15]
+--------------------------------------------------------------------------------
+
+          And separately, can I ask on STS just to unpack the prepared remarks, it sounds like you folks feel pretty good about the ability to backfill to replace the LNG project. Can we just expand on that conversation? How much visibility do you have on replacing that project and the earnings power of STS '27 versus '26?
+And then you had really favorable project closeout performance in the quarter, which was great to see. Can you just help us quantify that and help us understand in '26, are we a trend line level of closeouts higher or lower, just to give us context as we start to think about the bridge into '27?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [16]
+--------------------------------------------------------------------------------
+
+          Jerry, you've followed us for quite a long time now. You know that we are prudent as we look at project accounting. We don't want to surprise to the downside. So we manage that carefully and prudently. So there are always ongoing favorable project closeouts, so nothing unusual there. And I'm sure that will continue into the foreseeable future as long as we continue our current practice, which we will do.
+In terms of bookings momentum, third quarter in a row of very strong bookings for STS, well over 1.2 across that spectrum with a significant pipeline of opportunities that gives us really good confidence about continued momentum in that bookings profile and the growth that comes with it effectively.
+We are ramping up new awards as we announced those awards in late last year and early this year, and those projects are ramping up right now, in fact, with numerous people coming on to KBR's books in over a couple of thousand people in truth. And so we're starting to see really strong cadence there. We started this quarter pretty well.
+We're only a month in or so, but it's been a solid start to this quarter also. And the pipeline of opportunities, we tried to give you color as to where that activity is in the slides and the different mix of drivers that are driving those awards, and we expect to see that to continue.
+It's a global operation with a very strong footprint in areas where there's strong commitment to funding and project development driven by whether it be energy security, food security, energy transition or what's happening in critical infrastructure and minerals. So again, we're feeling pretty good about that and feeling very confident in terms of the ongoing performance of that STS business.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          Ian Zaffino, Oppenheimer.
+
+--------------------------------------------------------------------------------
+Ian Zaffino,  Oppenheimer & Co Inc - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Great. Would you guys be able to give us a little bit more color on kind of the Middle East bookings? How is that going? What's kind of the current environment? And I guess we kind of stick on that a little bit with -- on the MTS side, how do we think about maybe the US reducing NATO exposure or the troop movement? Would that be somewhat of an impact to you guys? Or how do you think about that as well?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [19]
+--------------------------------------------------------------------------------
+
+          Okay. So let me start with the Middle East and STS, mainly because I was there last week for a visit and went to Saudi and Bahrain and into Abu Dhabi and Dubai to visit our folks and all the key customers. there. I have to say I was really uplifted with that visit, the resiliency and just the commitment was absolutely amazing.
+I think the customers really appreciated that we have performed all through this volatility and that management were actively supporting and doing the right thing for our people, but they were doing the right thing for their customers. We have seen no slowdown in activity.
+Our ambition and our desire to staff up work that we've won in Saudi continues without really interruption, similarly in what's happening in Qatar. And the Abu Dhabi businesses continue to grow as does Dubai in terms of the work that they are doing. So really all up a really positive visit with strong award cadence and ongoing performance.
+So there's obviously richness in being on the ground and with the sort of delivery reputation and the capability set that we have locally as well as being able to support that internationally serves us well as we look to support those customers as they look to do restoration and repairs and really sort of look at their long-term strategy of lessons learned through the war, if you like, in terms of things like protection of critical areas.
+Some of the missile strikes were very targeted in critical areas like operations rooms and things like that and how we can provide more resilience or sparing into existing facilities, but also looking at whether there should be additional export routes and things like that so that they are not so handcuffed as they are today.
+So I think lots to do there and very positive about the outlook in the Middle East. Turning to your sort of last question on what's happening with the activity in Europe and recently all over the press about troop reduction in Germany.
+I think there's two pieces just to put in context. I think that it's about 5% of the overall troop strength in Europe is that number. And I think some of that may well have been encapsulated in some of the planned drawdowns already. We are not expecting any material impacts to our business as a consequence.
+
+--------------------------------------------------------------------------------
+Ian Zaffino,  Oppenheimer & Co Inc - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Okay. And then just as a follow-up, as far as the timing, what was kind of the -- it looks like it's a little bit behind schedule. What was driving that? And maybe any other color that you could give us as far as -- because I know in the past, you talked about giving us more detail at the Investor Day, but that now seems to be delayed a little bit.
+So how are you thinking about delivering maybe that information to us maybe at the same time that you had thought even though there's not an Investor Day? And maybe any other type of color you would think about delays with the spin, et cetera?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+
+          Yes, I'll give you a little bit of color there. We've made good progress with the regulatory piece in the spin. The discussions with the SEC and IRS have been highly constructive. And so we're feeling good about that. And I gave an update on how we're doing with people and sort of people transitions and obviously bringing the new CEO in, et cetera.
+So I'll try to cover all that in the prepared remarks. So that is progressing very well. We were targeting around the late Q3 for the spin originally, so I think October. And when we start to look at this, when you think about accounting, if you think about benefits and salary adjustments, et cetera, it makes it so much more sensible and logical to do this at the beginning of a fiscal year when all that lines up.
+And also in truth, it also builds in a little bit of float into the schedule as we work through IT complexities and things like that, that I've never seen an IT project finish on time anywhere really. I don't know if anyone has. So having a little bit of float in there means that we mitigate any risk of being able to operate as two independent entities with their own ERP systems and things.
+So nothing more sinister than that. And obviously, by moving that date, it makes more sense to hold the Investor Days closer to the actual spin, so the data is more relevant and in people's top of mind, if you like, as they're looking to separate. And then when you kind of work back from that, everything else lines up in terms of the public filings and things like that.
+So again, nothing sinister. We committed to giving more color as we've gone through the year as we've done in this earnings call in truth about the breakdown of STS and how that operates and the performance associated with that, and we'll continue to build on that as we go forward so that there's not a void between now and Investor Day. We won't tell you everything or it'll be pointless having Investor Day, but we will give you more color as the year progresses, and I commit to doing it.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Mariana Perez Mora, Bank of America.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Research Analyst    [23]
+--------------------------------------------------------------------------------
+
+          So my first one is a detailed one, and then I'll follow up with more of an end-market growth one. On the first one, could you please measure how large was the closeout at STS?
+
+--------------------------------------------------------------------------------
+Shad Evans,  KBR Inc - Chief Financial Officer, Executive Vice President    [24]
+--------------------------------------------------------------------------------
+
+          So on the closeout piece, as Stuart covered, these are pretty recurring items in the business, as you know, Mariana. And so it would -- it probably wouldn't be appropriate for us to detail the specific counterparty or nature of the reserve release. But what I'll say is we're really pleased to reach a resolution in the quarter, which was consistent with our expectations.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Research Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Okay. And then when we think about all these like moving pieces, right, in both markets, the pipeline, but then like the joint ventures you're having, the opportunities in the Middle East and everything on STS and on the other side, MTS also having opportunities, but also headwinds from NASA and the European Command involvement. How should we think about like next couple of years or three years growth trajectory?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          We -- that really is an Investor Day question, I think, Mariana, and I'm not trying to punt it. But I would say that from an STS perspective, where we are positioned, I commented earlier on the pipeline and the lack of concentration risk in terms of the global nature of that business and the drivers, the market drivers that are driving that sort of those global opportunities.
+So I think you can see from that, that there will be a change in thought processes around food security, just given what the impact has been from the Middle East and I think similarly in energy security also. And we're well positioned to take advantage and help our customers think that through. In terms of MTS, very much focused in quality of earnings and positioning the business where we feel the funding is going to flow apposite the priorities of today and tomorrow.
+And I think you'll have seen that coming through in the awards, particularly around data and digital and AI solutioning that really help speed to mission, data analysis to help sort of decision-making and really that sort of impact to mission that is really at the front of the agenda of the Trump administration.
+So we're seeing that across Space Force, missile defense, connected battlefield, electronic warfare, et cetera. So -- and also probably our most -- best performing business in the last quarter in that sense has been in the intelligence side of what we do, including space intelligence. So I think that's going to be the key thematics that are going to endure over the next couple of years.
+And with the sort of presidential funding request for a substantial increase in defense spending, I think that those are the areas where you're going to see the greatest demand. And I believe KBR is very well positioned and have been positioning in that area for some time.
+This is nothing new. We've talked about it many times and the LinQuest acquisition, et cetera, kind of doubled down on that strategic positioning. So we feel pretty good about the growth opportunities over time.
+I mean part of the rationale of the spin is exactly that to get focused in on these growth areas with 100% leadership focus and making sure that we're building capability as things evolve and also be able to deploy capital in a very focused way. So I guess more to come on the actual targets, but over the medium term, we're feeling really good about both businesses and their prospects.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Research Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Perfect. And I have one more because -- you mentioned in the prepared remarks, you were doing like this like separation works already like is progressing. And you just mentioned MTS has really strong like high-growth businesses and verticals. As you do this exercise, are you open to prune out, sell some like parts of the business? Or that's going to be an effort that will be done whenever MTS is a stand-alone cost?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [28]
+--------------------------------------------------------------------------------
+
+          I mean you can never say never if someone comes over the hill, if you like, and makes an offer, we would have to look at that from a shareholder value perspective as we do with any offer across the KBR portfolio or KBR as a whole or whatever. We would look at shareholder value as the North Star in that review. But as we sort of said about the positioning of this business where it is today, in our minds unless something does happen from that field, which we'd be open to, but right now, we are heading towards the businesses as they are today separately.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          Tobey Sommer, Truist.
+
+--------------------------------------------------------------------------------
+Tobey Sommer,  Suntrust Robinson Humphrey Capital Markets - Equity Analyst    [30]
+--------------------------------------------------------------------------------
+
+          I wanted to ask a question on STS with the war and elevated petrochemical prices. How are -- what are you hearing from customers? And how are they planning? Anybody -- are they planning for prices to remain high and therefore, get into development? Does the impact -- direct physical impact of the war facilitate a better medium- or long-term outlook for KBR in the region? If you could speak to those questions, that would be great.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [31]
+--------------------------------------------------------------------------------
+
+          So from a petrochemical perspective and really an oil price perspective, I think that's -- these are moments in time, I think, Tobey. Ultimately, the fuller market dynamics in a normal trading environment would be similar to what they were pre-war. So I don't think there's going to be a massive expansion in petrochemicals or anything as a consequence. The asset base that's there will be in the case of the Middle East, if it's damaged and then will be repaired.
+And if it's not, it will be, I guess, they will sweat the asset while the pricing is high, which obviously leads to greater maintenance services and things which fits our strategy very nicely. In terms of the broader Middle East, their stated objectives over time will be far more driven to, I guess, security of supply and making sure they've learned a lot of lessons, as I covered earlier as a consequence of the war.
+But in the meantime, doubling down on things like food security and doubling down on really gas is really the main driver in the development cycle in the Middle East over the next little while rather than petrochemicals per se. So -- and I think we're very well positioned in all of those areas to assist and to add value to our customers with an increasing focus on digital and AI solutioning, and we covered a bit of that in the scripted remarks as well as to how we're moving firmly in that direction. So we're feeling good about the long-term opportunity or even medium-term opportunities in the Middle East, but more broadly from a global perspective than STS to be fair.
+
+--------------------------------------------------------------------------------
+Tobey Sommer,  Suntrust Robinson Humphrey Capital Markets - Equity Analyst    [32]
+--------------------------------------------------------------------------------
+
+          And then if I could ask you to expand a little bit on NASA. What elements of your exposure there are growing and see strong demand signals and then maybe a little bit more granularity on where the weakness is within the portfolio on either a functional or some other basis?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [33]
+--------------------------------------------------------------------------------
+
+          I mean the primary -- I mean, certainly, with the success of the Artemis II mission, which we are very proudof, our people were instrumental in the success of that mission. So really human spaceflight is where we're seeing where the activity is. And as you know, we're firmly engaged in across that spectrum, and we've talked about that many, many times.
+So I won't go into it again. So that's the key element for us, and we expect that to continue. And as we move on to Artemis III and putting boots on the ground, that's obviously something we'll be heavily engaged in. So across both what we do technically and from a human health performance perspective. So that's probably the best way to answer that.
+The softness, if you like, really comes down to the uncertainty on these people moves that we covered earlier. It really only affects one main contract of ours. It's an industry-wide directive, not targeted in any way at one particular company. It's a changing or evolving strategic move by NASA that's still got to play out in truth.
+And as I say, it really only impacts one element of our contractual base. So reasonably contained but in the spirit of transparency, just calling it out as we move through the course of this year. So really, that's human space flight is the key thematic, and we are heavily engaged in that area.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Steven Fisher, UBS.
+
+--------------------------------------------------------------------------------
+Steven Fisher,  UBS AG - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Congrats on managing a tricky environment. Just Stuart or Shad, related to the guidance, I think in the past, you've been prudent or cautious to raise guidance in the first quarter. But with the solid start, are you perhaps kind of trending above midpoint and leaning towards upper end? Or do you think this year, there's sort of just too many uncertainties going on with some of the things you mentioned in NASA and the Middle East and the separation to kind of call any directional trend at the moment?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [36]
+--------------------------------------------------------------------------------
+
+          Doing well in the quarter and being above consensus is a good start, I think, to the year, Steve, and not just one metric, but across all metrics, of course, is terrific. Our bookings are really solid as we described, and we're feeling good about the year ahead. But as is normal, we are not known for raising guidance in Q1, and we've proven that again today.
+But you're quite right. I mean, let's face it. If you just step back and think about the world at large, there's still significant volatility and to get out over your skis right now would not generally be viewed positively, we don't think by market nor is it prudent for us to do so. So yes, just bear with us, I think.
+
+--------------------------------------------------------------------------------
+Steven Fisher,  UBS AG - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          Fair enough. And then on the STS side, just in terms of kind of pace of progress and status of projects that could potentially move forward into something more material. I guess I'm curious to what extent you have, say, completed engineering on some bigger projects that are really just kind of pending FIDs?
+Or are we still sort of embedded in sort of very early stages of projects? And if you are towards the latter stages, what are the conditions you think that are needed to kind of move ahead on some of these projects?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [38]
+--------------------------------------------------------------------------------
+
+          So we try to be very choosy about what we get engaged in, making sure there's -- it doesn't always work out, as you know, but trying to be very considered about where we point our resource base and the chance of that project actually going forward. Today, we're engaged in front-end designs for three LNG projects. We're engaged in -- but just commitment, I think, beyond sort of your conceptual early sort of estimate to sort of put good money into making that definition a bit tighter.
+So we feel that those projects have legs. And then on the broader pipeline itself, it's engaged, I believe, with a level of maturity in terms of our understanding of the need for those projects to go ahead and the drivers to do so and the funding flow that will support them. So in terms of the pipeline that we've put forward, we feel pretty good about the enduring nature of the STS performance as a consequence. That's probably the best way to describe it, Steve.
+So we're not sort of betting the farm on early concepts or early engagements thinking some huge project is going to come as a consequence of someone's good idea. We're actually basing our positivity and outlook on maturing projects across the globe, as I said before, with these energy and food security sort of drivers that ultimately we believe will turn into fundamental revenue generation for KBR.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          We currently have no further questions. So I will hand back to Stuart for closing remarks.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [40]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you very much. And so a few final thoughts, I guess. You've heard today, our strategy and priorities are clear and some good questions around the dynamics there. We're operating in markets where our capabilities are highly relevant. I think our customer relationships are really deep and that really plays to our advantage.
+And our model is really designed to deliver disciplined execution across a range of operating environments, and that drives the resilience of what we do. And I think you're seeing that coming through the numbers. Across Sustainable Tech, durable demand tied to energy security, resource efficiency and resilient infrastructure and our engineering-led, technology-led capital-light approach and growing mix of recurring services, another key thematic, continue to support backlog visibility, strong margin performance and resilience and cash generation.
+In Mission Tech, the near-term award environment remains uneven. It's a good way to describe it. The underlying mission priorities we support, we do believe, however, are enduring. I had a good question on that during the call. And we remain focused on increasing our bid volume and importantly, the quality of earnings associated with that bid volume and really expanding access through contract vehicles and positioning the business to convert opportunities as funding and award activity normalizes.
+And the recent executive order looking at more fixed price within the government environment is something we really welcome. We've got a strong commercial acumen through KBR, and that plays well to our strengths. And importantly, none of this will happen without our people.
+I want to thank our employees across KBR for their amazing resilience and commitment, nothing more so than in the Middle East recently, and particularly as they continue to deliver for our customers in complex and of course, in some cases, really challenging environments. The focus on safety is paramount and they deliver the focus on execution excellence and teamwork is central to our performance and a key part of our culture.
+And finally, we continue to execute the planned separation of the two businesses with discipline and real intent, and the spin is designed, as we've said, to sharpen strategic focus, aligning each company with its end markets and ultimately position both organizations to pursue their long-term objectives with clarity and accountability. So thank you again for your time. Thank you for your continued interest in KBR, and we look forward to speaking with many of you soon. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [41]
+--------------------------------------------------------------------------------
+
+          Thank you, Stuart. This concludes today's KBR's first quarter 2026 earnings conference call. Thank you for joining. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2026 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

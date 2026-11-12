@@ -1,0 +1,364 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+KBR Hosts Special Investor Call
+SEPTEMBER 24, 2025 / 12:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jamie Dubray
+   KBR Inc - Vice President - Investor Relations
+ * Mark Sopp
+   KBR Inc - Chief Financial Officer, Executive Vice President
+ * Stuart Bradie
+   KBR Inc - Chairman of the Board, President, Chief Executive Officer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mariana Perez Mora
+   Bofa Merrill Lynch Asset Holdings Inc - Analyst
+ * Tobey Sommer
+   Truist Securities - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Hello, everyone, and welcome to KBR's special investor webcast. My name is Lydia, and I'll be your operator today. (Operator Instructions) I'll now hand you over to your host, Jamie DuBray, Vice President of Investor Relations at KBR to begin. Please go ahead.
+
+--------------------------------------------------------------------------------
+Jamie Dubray,  KBR Inc - Vice President - Investor Relations    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning, and welcome to KBR's special investor webcast. Joining me today are Stuart Bradie, President and Chief Executive Officer; and Mark Sopp, Executive Vice President and Chief Financial Officer. Stuart and Mark will discuss today's announcement regarding our strategic intent to spin off Mission Technology Solutions in support of unlocking meaningful value creation. Please note that we will not be answering any questions related to 2025 financial performance at this time.
+Today's presentation is available on the Investors section of our website at kbr.com. This discussion includes forward-looking statements reflecting KBR's views about future events and their potential impact on performance as outlined on slide 2. These matters involve risks and uncertainties that could cause actual results to differ significantly from these forward-looking statements as discussed in our most recent Form 10-K and other filings available on our website. This discussion also includes non-GAAP financial measures that the company believes to be useful metrics for investors.
+I will now turn the call over to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Jamie. Good morning and thank you for joining. I will start on slide 3. As you may have seen from our press release today, we are announcing our strategic intent to spin off our Mission Technology Solutions segment into a stand-alone publicly traded company. This is the culmination of a multiyear strategic transformation, whereby we have deliberately created two strong businesses that have innovation, science, technology, and digital engineering as differentiated capabilities.
+Upon completion of the spin-off, the result will be two independent pure-play public companies positioned to unlock meaningful shareholder value creation. New KBR will comprise what today is our Sustainable Technology Solutions segment, or STS; and SpinCo will comprise what is today our Mission Technology Solutions segment or MTS. Both companies will benefit from dedicated focus and independent financial flexibility. And importantly, this transaction is intended to be tax-free to KBR and its shareholders. And from a timing perspective, it is expected to be completed mid to late 2026.
+On to slide 4. The decision announced today builds on a decade-long portfolio transformation to simplify KBR and convert into a resilient technology and engineering solutions provider aligned to strong secular growth trends. This has really helped to derisk the company and has supported stable, predictable earnings growth and associated strong free cash flow over time.
+Let me provide some background as our history is relevant to our future. In 2015, we began transforming our legacy Government Services business. We have since continued to scale our high-end technology services portfolio, both organically and, as you're well aware, inorganically, across the globe, including the strategic acquisition of LinQuest in 2024. The acquisitions we made over this time are now fully integrated and performing really well.
+In 2020, we reshaped STS. Having made the decision to exit lump-sum turnkey a few years prior, we set about exiting commoditized services, including direct construction, and really focusing on expanding our IP-protected technology portfolio and leveraging our higher-end engineering and project delivery capability, again, globally across energy security, energy transition, and critical infrastructure.
+You may recall, in early January of this year, we announced a segment realignment, which was the final major step of preparing our business for today's announcement.
+The results of our decade-long transformation are clear, as revenue has grown from around circa $5 billion to $8 billion over that period, margins have almost doubled from a bit over 6% to a little under 12% in the same period. And impressively, adjusted EBITDA has grown by over 180% in the same period with commensurate increases in adjusted EPS and operating cash.
+Now I think this clearly demonstrates our consistent focus on continually moving upmarket and, of course, reaping the commercial benefits of doing so. We drove the portfolio mix towards higher growth, higher-margin businesses, divesting non-core assets while acquiring and integrating 13 businesses and realizing meaningful synergies over that period.
+We also fostered a cultural shift to a high-performing values-led ethos, attracting and retaining industry-leading talent with an unwavering focus on delivering excellence to our customers. Our people are our most valuable asset and are at the heart of everything we do, and I've said that often. And I wish to take this moment to recognize our incredible people, circa 37,000 strong around the world for their dedication and making this a reality.
+That said, we are not an organization that stands still, and the next logical step in our portfolio transformation to unlock incremental value is to enable these two businesses to operate and be owned independently, which will, of course, be achieved via the spin of MTS.
+This is a nice segue on to slide 5. Our team has successfully built two leading businesses with the necessary scale and strong financial profile to enable us to take this next exciting step. We expect this will unlock further value creation and growth opportunities for both MTS and our remaining STS business, and we see meaningful strategic benefits.
+First, the spin is expected to enable enhanced strategic and management focus at each stand-alone entity. New KBR and SpinCo will each build on a strong existing foundation with a focused Board and management team, aligned incentives, and increased end market focus.
+Second, the spin is expected to enable greater organizational agility by streamlining decision-making and driving increased accountability while also enabling fit-for-purpose operating models.
+Third, the spin is expected to better align our capabilities and importantly, our talent to our customer needs and the goal of increased end market focus, prioritized commercial resources, and sharpened go-to-market approaches. We anticipate even greater customer intimacy, which is critically important in today's fast-moving environment.
+Fourth, each business will have greater flexibility to optimize its capital structure and capital allocation policies to best support their respective growth objectives and investment opportunities, including, of course, potential M&A.
+And finally, New KBR and SpinCo will have distinct investment profiles that we believe will be compelling, allowing each company the opportunity to better align their unique value proposition with a natural shareholder base.
+To that end, it is anticipated that the spin will enable New KBR with attractive growth and margin performance and low capital intensity to be compared to a more relevant group of peers with similar attributes. And the same will apply, of course, to SpinCo.
+On to slide 6 for a review of the New KBR and SpinCo businesses. We are creating two scaled independent pure-play public companies with leading positions in the respective categories, distinct competitive advantages, and compelling long-term secular growth trends. Today, KBR is a highly regarded and trusted global brand. And New KBR, comprising our STS segment, is expected to continue to be a leader in IP-protected process with circular technologies and services, enabling greater energy security, energy transition, circularity, and critical infrastructure across the asset life cycle.
+In the trailing 12 months ending July 4, 2025, our fiscal second quarter end, the STS segment had reported revenue of $2.2 billion, strong segment adjusted EBITDA margins of around 22%, which excludes corporate and anticipated stand-alone costs, and a robust backlog of $3.7 billion. SpinCo, comprising MTS, is expected to continue to be a leading pure-play global government solutions provider with an upmarket portfolio aligned to high-demand national security and space priorities with growing budgets. The business is well positioned to continue to capture growth with backlog and options totaling $17.8 billion. In the trailing 12 months ending July 4, 2025, the MTS segment had reported revenue of $5.8 billion and adjusted EBITDA margins of around 10%, again, excluding corporate and anticipated stand-alone costs.
+On to slide 7. Over the next few slides, I will touch on both businesses at a high level. Highlighting some key points. There will be a dedicated Investor Day for each of the businesses near to completion of the spin-off where we will, of course, provide a far deeper dive.
+So first, New KBR, a portfolio of trusted, proven IP-protected technologies. It's a global business, a very global business, and it has significant and established presence in key geographies underpinned by a trusted and respected brand. It offers attractive margins, strategic discipline, and strong commercial acumen with low capital intensity which are very attractive attributes.
+It is increasingly aligned with our customer OpEx and, importantly, CapEx revenue cycles, and operates close to customers all around the world with proximity and access serving as meaningful success factors given national agendas vary for energy security and transition. Over the past several months, we've enhanced our digital delivery and operational platforms, and we look forward to sharing more of this in the future Investor Day.
+New KBR will continue to offer a good balance of adjusted EBITDA mix and geographical spread, as shown in the pie chart. As a stand-alone business with $2.2 billion of revenue; double-digit historical growth, all organic; and attractive margins, it is expected that New KBR will offer a best-in-class financial profile.
+Importantly, this business is a low capital intensity business given its focus on licensing its process technologies and asset-light solutions. It is not a catalyst manufacturing business. With CapEx accounting for less than 1% of sales, it produces strong free cash flow and high conversion rates. New KBR will emerge as an independent company with a strong track record of successful risk-adjusted international and domestic joint ventures, including Brown & Root Industrial Services, which was formed in 2015 to unlock further profitable growth opportunities.
+On to slide 8. Now, we have outlined New KBR's capabilities set across its two business platforms, sustainable solutions, and sustainable technologies. We are a subject matter experts and offer a unique full life cycle customer value proposition to blue-chip customer base globally. We are proud of the relationships we've built, which includes Aramco, BP, Energy Transfer, and Venture Global to name but a few. In short, New KBR is a solutions provider to a diversified energy, chemicals, circularity, and critical infrastructure customer base.
+On to slide 9 and an overview of SpinCo. SpinCo today is a very different company to the legacy KBR Government Services business pre-2015. In 2015, Readiness & Sustainment made up close to 100% of the revenue. And this has grown substantially, but now makes up only 25% as we strategically added deep domain expertise across the defense, intel and space domains.
+The pie charts on the right depict the business and geographical mix. SpinCo is a global business, really important point, with a portfolio of mission-critical, technically-enabled capabilities aligned to national security priorities and at a time when defense budgets are increasing around the world.
+This business benefits from a bedrock of long-duration, very sizable contracts that support future earnings and cash generation. With the historical strategic push, both organically and through acquisition into higher-end solutions in areas like digital interoperability, model-based engineering, connected battle space and military space, SpinCo is very well positioned for both growth and margin expansion over time.
+On to slide 10. Here, we are highlighting SpinCo's high-level capabilities and some of our key customers. Our diverse portfolio is balanced across Defense & Intel, Science & Space, and Readiness & Sustainment capabilities, which support our customers' most challenging missions. In the US, we are a go-to partner for long-tenured customers, including the DoD, the Navy, Air Force, Army, NASA, and the NRO; and overseas, the Ministries of Defense in the UK and Australia, and more.
+On to slide 11. In connection with the decision to spin off MTS, I'm really excited to announce a few executive leadership updates. Post spin, I will remain in my current position at New KBR. Beyond the decade-long transformation of KBR, we have been preparing and working towards today for over a year. We want to ensure the successful execution of this transaction.
+And to this end, Mark Sopp, our current CFO, will be transitioning into a new role overseeing the spin-off of MTS. Mark has been an absolutely outstanding CFO, a colleague and a friend, and has been absolutely instrumental in transforming KBR. He has my and, frankly, all of KBR's thanks. For the spin, he also has the relevant experience, having successfully executed a spin in his prior role before coming to KBR. And Mark is ideally suited to lead the spin to completion and to ensure that two strong, capable and well-positioned stand-alone public companies emerge.
+Additionally, I'm also pleased to announce that Shad Evans will transition into the New KBR CFO role effective January 5, 2026, and post spin will remain the CFO at New KBR. Shad has held a number of senior roles at KBR, including the CFO of STS and Chief Accounting Officer. And is a standing member of the executive leadership team in his current role as SVP of Financial Operations. I have worked closely with Shad over the past five-plus years, and I'm really confident he will help us strengthen our business and execute our priorities. Congratulations to both Mark and Shad.
+We have also engaged a leading executive search firm to help identify CEO and CFO candidates to lead SpinCo, and we will, of course, share updates at the appropriate time.
+And finally, on to slide 13 and to sum up. The proposed spin-off is intended to be tax-free to KBR and its shareholders. We expect the transaction to be completed by mid- to late 2026. And the transaction is subject to review and final approval of KBR's Board of Directors, the filing and effectiveness of a Form 10 registration statement to be filed with the SEC relating to SpinCo and other customary conditions.
+We will provide you with updates as we work toward completing the separation, and we will maintain our continued commitment to our customers, our employees, our partners and shareholders as we enter this next super exciting phase of our portfolio transformation.
+We are very excited about the underlying strength in both businesses, and that is a key point, both businesses, and are ready to take the next step and further unlock the potential of our portfolio.
+And now, we will open the line for questions. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Tobey Sommer, Truist.
+
+--------------------------------------------------------------------------------
+Tobey Sommer,  Truist Securities - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          I was wondering if you could give us your perspective of the consolidation of the international business into the two STS and MTS? How that's gone over the last several quarters and whether there will be any changes or have you sort of made the right decisions in terms of fit at the time? Thanks.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Tobey. We, of course, were very deliberate in that action to enable two more stand-alone entities that we have today to enable what we announced today. The separation and putting the component parts into the relevant elements of STS and MTS has gone extremely well. Both the business models and the synergies that have been realized as a consequence have shown through. And that's now bedded down and working very nicely. So we're very pleased with that decision. It certainly shows the forethought towards the decision that we're announcing today, and I'm pleased to say that that has gone really well.
+
+--------------------------------------------------------------------------------
+Tobey Sommer,  Truist Securities - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          And if I could ask a follow-up, what comparables do you think are best suited in competitors when you look at the New KBR? What sort of firms do you have in mind?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+
+          Good question. I would say that, really, STS has limited perfect public comps given its unique business model with sort of asset-light, as we said on the call, IP-protected process technologies and circular services that obviously generate leading margins and strong cash flow. And so the comps that I would point you to are businesses that have the same financial attributes.
+I mean, typically, we are compared with companies like Lummus and Honeywell's UOP business, but that's very much contained within the broader business base, as you know. But our business uniquely combines attractive features of energy security and energy transition enablers, best-in-class engineering design, and of course, complex project delivery.
+But I would point out, Tobey, on that question, I want to be clear that the recent transactions with Ecovyst and Johnson Matthey are not comps for STS. They are very much catalyst business, more asset-heavy. They are manufacturers. And we've got a very different business mix and profile, as you're aware. We're very much serving diverse end markets aligned to secular growth trends that we've discussed previously with extremely limited CapEx. So very, very different businesses than those types of businesses.
+
+--------------------------------------------------------------------------------
+Tobey Sommer,  Truist Securities - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Last one for me. You said you hired a search firm to look for leadership of MTS. When did that process begin?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [7]
+--------------------------------------------------------------------------------
+
+          Recently. Until we go public, it's difficult to really sort of do that with full throttle in earnest. We typically do what others would do and try to do that in a confidential no-names basis, so that process has started and now it can amp up now this news is out.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Mariana Perez Mora, Bank of America.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          My first question is more strategically. A couple of years ago, you did an Investor Day that was focused all about this One KBR synergies. And I do understand the synergies, and we have discussed the valuation of how the sum of the parts was naturally unlocked for the two companies separate, but you always said there was operational synergies that was the beauty of having these two business together. What happened to that? And why now is different?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [10]
+--------------------------------------------------------------------------------
+
+          It's very different, Mariana, because, I guess, the piece of the glue that created the synergies we discussed at Investor Day were contained within what was our international government business, which we, of course, decided to, I guess, expand and reduce complexity and move the relevant entities and capabilities into STS and MTS in January of this year. So that was what has changed from that Investor Day to where we are today.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          And then when I think about long-term growth and profitability of these two business units, how should we think about that in the next three to five years? Or at least the three years that we were talking before, especially for, I'll say, MTS with this changed government environment and some good things like getting not cap extended, but others that is more challenging to get US transport command contracts.
+And then on STS, how we think about that growth going forward and details about what is there because this has been more of a one-, two-line type of business as a stand-alone company if we will see different segments. And last one is, what is the profitability that you expect to see a couple of years from now?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [12]
+--------------------------------------------------------------------------------
+
+          That's a lot of questions in one question, Mariana.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Sorry. I started with growth, and it was like I want to know everything about growth and markets going forward.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+
+          We want to know everything. Yes. I mean, today, we're not providing any statements beyond we reaffirm guidance in the press release for this year. We're not discussing future long-term targets on this call. Of course, there will be stand-alone Investor Days for both RemainCo and SpinCo later in this process where we will do a deeper dive.
+I think it's worth saying without mentioning numbers that we have seen on the MTS side during the course of this quarter, a little bit later than expected, but certainly, you'll have seen a number of announcements of recent awards, which shows in our view that we're well-positioned opposite government priorities. And that's not just in the US, that's internationally as well. And similarly, in the STS business. So we feel that the businesses are building solid backlog for them to continue to perform well. And we'll give updates on numbers and targets as we progress through this process.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  Bofa Merrill Lynch Asset Holdings Inc - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Great. And last one from me. I'm making like many, many questions. Why did you choose to go for a spin-off versus selling this business to someone else? Especially in an industry where M&A and consolidation and this scale-and-scope strategy for Government Services has played out so well.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [16]
+--------------------------------------------------------------------------------
+
+          We've always taken a really sort of proactive view of portfolio transformation, and I hope that came through in the prepared remarks as how we've transformed KBR over time. And we've been continually assessing our portfolio. And the decision today builds on really a decade-long transformation. We've really looked at a number of different ways to increase shareholder value and our assessment through that process, which has been ongoing for some time, again, as you're all aware. Today's announcement was the result of that analysis.
+And I'd reiterate that this will be tax-free to KBR shareholders, which I'm sure everyone is pleased to hear. And all the things that we do going forward will ensure that we maintain that tax-free status. So this is not a sudden a decision. This is a decision that's been contemplated over time. There's been a lot of work associated with this.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Andy Kaplowitz, Citi.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [18]
+--------------------------------------------------------------------------------
+
+          This is Natalia, on behalf of Andy Kaplowitz. I guess the first question I'd like to ask is if you can quantify the expected level of stranded or stand-alone costs post spin? And how should we think about those as largely like near-term transition expenses or ongoing structural overhead?
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [19]
+--------------------------------------------------------------------------------
+
+          Natalia, this is Mark. There will be some transaction expenses that we will incur over time, of course, as is standard with this sort of thing. And we'll give -- as time progresses, starting with our Q3 earnings report to the extent we have an outlook for the near term, we'll provide there and '26 will be the bulk of the transaction-related expenses that we'll quantify and enumerate for everybody.
+Relative to stranded costs, we're going to work very hard to minimize those, of course. There are some dis-synergies that come with two separate companies. There's a pretty well-trodden path in determining those and instantiating those in the two different businesses.
+But we intend to engineer an outcome that delivers a financial profile that is attractive to both companies together with an attractive capital structure that we are committed to deliver here. We're not going to overlever the SpinCo or anything like that. We're going to have a responsible capital structure for both.
+And so we expect that both businesses will remain cost competitive through the transaction, reflecting those stranded costs, and we expect to have margin profiles, to the earlier question, that are consistent with what we now experience. We will, of course, have some cost-cutting opportunities that we'll pursue as we always do. And having done this before, I'm very confident that the cost competitiveness part and the increased focus and the bespoke cost structure designs of both will enable that outcome.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [20]
+--------------------------------------------------------------------------------
+
+          Got it. That's helpful. And just to follow up on that, like what are the key buckets of the stand-alone stranded costs that you anticipate? How quickly do you expect to offset them through either cost takeout or revenue synergies?
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [21]
+--------------------------------------------------------------------------------
+
+          Well, the buckets are you have two Board of Directors and two C-suites and things like that. You'll probably have some incremental IT infrastructure spend on both and governance costs to some degrees. But that's kind of the pecking order of those categories. And we already are down the path of -- and I'll talk about this in a moment, but putting together teams that design that and optimize that that are really bespoke to the two businesses as they operate in different markets and have different dynamics in their end markets today that we will be designing to.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [22]
+--------------------------------------------------------------------------------
+
+          Yeah. I think it's worth also saying that these businesses have operated for several months as two pretty much stand-alone entities, which I think really helps with figuring out the level of stranded costs as we go forward. And I do think the organizational design around the corporate structures around them, there's a forcing function to allow us to make sure that these are fit-for-purpose, which really I think we will make sure that we're not overburdened on either side as a consequence of the organizational design.
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [23]
+--------------------------------------------------------------------------------
+
+          And just further to that point, STS and MTS as two separate segments, have been operating pretty much autonomously in their own right for a long time. We did a reorganization about a year ago. But even before that, you're talking about ERP systems that are fit-for-purpose for both of those businesses are well in place today. The overhead support and the G&A support are separated today and are aligned to those business objectives and market conditions. So there's not a lot of dissection that we have to do here to enable the separation out in 9, 12 months.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [24]
+--------------------------------------------------------------------------------
+
+          Got it. That's super helpful. And if I could just squeeze in one more question. You previously talked about synergies to keep the business together. But how do you think about the potential dis-synergies? And maybe more specifically, just given the inherent lumpiness of your projects and backlog, how do you intend to manage or smooth out that inherent lumpiness across the portfolio of the two sub-entities that are not smaller?
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [25]
+--------------------------------------------------------------------------------
+
+          First, I'll say there are not any significant share contracts between the two today. So there is not an overt dis-synergy of breaking any one program apart. So with the reorganization that Stuart mentioned earlier, the portfolios of each are distinct and run separately. And so there's not that need of any breakage.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [26]
+--------------------------------------------------------------------------------
+
+          I mean, we have thousands of contracts across each business, across the globe with, I guess, different sort of market drivers in each sort of geographical area that helps us really grow consistently over time. And I think we have proven that. We're not overexposed to one contract or another. And that served us very well as to how we position the businesses. And both have these attributes over the past several years, and that's been done very deliberately to mitigate cycle risk. And so we're not concerned about being overexposed or having concentration risk in terms of one project or one jurisdiction or one customer or one funding stream.
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [27]
+--------------------------------------------------------------------------------
+
+          A critical part of the timing of this decision is achieving scale and diversification within each business. And so we've been very measured and patient to deliver, well, the answer and the setting about it today, because of the deliberate globalization of both businesses. The diversification within multiple market streams, you've got OpEx, CapEx mix on the STS side. You've got domestic, international, and multiple lines within MTS. And so both have scale, both have diversification to the question relative to any concentration risk.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Tobey Sommer, Truist.
+
+--------------------------------------------------------------------------------
+Tobey Sommer,  Truist Securities - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Conceptually, when it comes to leverage, how do you think about the distribution and differences of New KBR in terms of its ability to appropriately sustain certain kinds of leverage as well as SpinCo. We have public company comp group that's a little bit more visible for SpinCo, so we can look at averages there. But STS, as you mentioned in the comparable discussion, not quite as clear.
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [30]
+--------------------------------------------------------------------------------
+
+          Tobey, Mark here. What I would say is, we've got quite some time until the separation or the spin-off itself. And so what we do between now and then relative to capital deployment can change, what I'm about to say, by some measure, but I don't think a lot. But by its nature, the MTS business can withstand a little bit more leverage than the STS business due to the duration of long-term government contracts that you're well aware of.
+And so think about leverage that the three-handle is sort of the zone we would target relative to that business, and that's consistent with peers you would see. And on the STS side, think about a two-handle number ballpark, which is a business that has great diversity and global reach and things we mentioned earlier, but it does have some shorter visibility compared to MTS. And with that, a capital structure that is a little bit more conservative.
+So that's how we would initially allocate the capital structures today. Again, that can move a little bit between now and spin date. And we consider both of those attractive capital structures in a separate company instance.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+          We have no further questions. So I'll pass you back over to Stuart Bradie for any closing remarks.
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [32]
+--------------------------------------------------------------------------------
+
+          Thank you. Thank you again. I know this was done at short notice. So thank you for making time, and thank you for your interest in KBR. We do look forward to successfully executing on our proposed spin and speaking with you next month when we announce our fiscal third-quarter results. And of course, we'll update you along the way as this process evolves.
+And before I finish, I'd quite like to hand over to Mark just to say a few words really relating to his new role. Mark?
+
+--------------------------------------------------------------------------------
+Mark Sopp,  KBR Inc - Chief Financial Officer, Executive Vice President    [33]
+--------------------------------------------------------------------------------
+
+          Well, great, Stuart. Thanks for the opportunity. Thanks, everyone, for joining us this morning on short notice. First, I'll say it's been an enormous honor and privilege to be the CFO of this company for the past 8.5 years. This is a really great place to work. It's been a lot of fun and it's been a lot of hard work. And I will say that KBR is very different today than it was 8.5 years ago, and it's been a great honor to be part of the change that has taken place here in such a positive way.
+I'll also say that it's really exciting for me to have Shad Evans as my successor here. I've worked with Shad a long time even before KBR, and I'm enormously confident that he is going to be a brilliant CFO for New KBR going forward and the existing KBR until the spin-off date. And so I think you're going to find that he is very sharp and he has all the intangibles to make the great CFO, and that's going to be fun to see for everybody really.
+And so with that confidence, I will say that for the spin-off itself, I've had the experience of doing this before. Our General Counsel, Sonia Galindo, sitting right here with me, has done this before. And so we have some experience on the team. And what we know is that a separate team that has been constructed already will be focused on the transaction itself. A very professional team that will have and does have already workstreams for all the elements that you would expect to make this transaction successful from legal to tax to accounting, everything like that, as well as taking care of our people in this process.
+What's really important to us, besides delivering a successful transaction, is to make sure our business leaders stay focused on running the business at hand. That is priority one. We have customers to serve. We have missions to serve with all of our customer sets, and we're going to be very focused on continuing our success there.
+Meanwhile, the transaction has a timetable that is normative. And what I really look forward to the most is when we have Investor Days for both SpinCo, MTS, and for New KBR STS, we're going to present to you two very compelling investment thesis that are going to be different. They're going to be focused on the end markets they serve, and I think you're going to be really excited about it. Stuart?
+
+--------------------------------------------------------------------------------
+Stuart Bradie,  KBR Inc - Chairman of the Board, President, Chief Executive Officer    [34]
+--------------------------------------------------------------------------------
+
+          Thank you. Perfect, Mark. So with that, I think that concludes today. Thank you again for listening, and I'm sure we'll talk again in the near future. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+
+          This concludes our call today. Thank you very much for joining. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2025 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

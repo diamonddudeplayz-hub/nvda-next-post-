@@ -1,0 +1,347 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2024 KBR Inc Earnings Call
+APRIL 30, 2024 / 12:30PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Mark W. Sopp
+   KBR, Inc. - Executive VP & CFO
+ * Jamie DuBray
+   KBR, Inc. - VP of IR
+ * Stuart John Baxter Bradie
+   KBR, Inc. - CEO, President & Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mariana Perez Mora
+   BofA Securities, Research Division - Research Analyst
+ * Sangita Jain
+   KeyBanc Capital Markets Inc., Research Division - Associate
+ * Michael Stephan Dudas
+   Vertical Research Partners, LLC - Partner
+ * Adam Samuel Bubes
+   Goldman Sachs Group, Inc., Research Division - Research Analyst
+ * Tobey O'Brien Sommer
+   Truist Securities, Inc., Research Division - MD
+ * Andrew Alec Kaplowitz
+   Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head
+ * Bert William Subin
+   Stifel, Nicolaus & Company, Incorporated, Research Division - Associate
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good morning, everyone, and welcome to the KBR Inc. First Quarter 2024 Earnings Conference Call. My name is Drew, and I'll be the operator on today's call. (Operator Instructions). 
+At this time, I would like to turn the conference over to Jamie DuBray, Vice President of Investor Relations. Please go ahead.
+
+--------------------------------------------------------------------------------
+Jamie DuBray,  KBR, Inc. - VP of IR    [2]
+--------------------------------------------------------------------------------
+Thank you. Good morning, and welcome to KBR's First Quarter Fiscal 2024 Earnings Call. Joining me are Stuart Bradie, President and Chief Executive Officer; as well as Mark Sopp, Executive Vice President and Chief Financial Officer. Stuart and Mark will provide highlights from the quarter and then open the call for your questions. 
+Today's earnings presentation is available on the Investors section of our website at kbr.com. This discussion includes forward-looking statements reflecting KBR's views about future events and their potential impact on performance as outlined on Slide 2. These matters involve risks and uncertainties that could cause actual results to differ significantly from these forward-looking statements as discussed in our most recent Form 10-K available on our website. This discussion also includes non-GAAP financial measures that the company believes to be useful metrics for investors. A reconciliation of these non-GAAP measures to the nearest GAAP measure is included at the end of our earnings presentation. 
+I will now turn the call over to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Thank you, Jamie. I will start on Slide 5 on developing our people. Today, I wanted to take just a few moments to talk about our people because our people, as you all know, are key to our success. They are the ones who deliver value to our customers, they solve the complex challenges and they drive innovation at KBR. And they are the ones who make KBR an absolutely great place to work. And that's why we are dedicated to creating a culture of learning and growth for all our employees. We want to empower them to reach their full potential and, of course, have fulfilling careers. 
+In recent years, our Chief People Officer, Jenny Miles, has greatly expanded our talent development programs, spanning all parts of the globe and from new hires to senior leadership, there are development opportunities for every level. And I'm pleased to say that this has actually been recognized recently by MSCI, where we've received a 4-star rating, the top rating actually in human capital development this year, an exceptional milestone and recognition. 
+Now I won't spend too much time on the slide, but as you can see, we've highlighted a few examples of these global programs from mentoring to internal career mobility and importantly, communities of interest and development around skills of the future. And this, in particular, is an area that we have recognized is really important, and we're positioning to get in front of. 
+Nurturing key talent for the future is a challenge that almost all businesses across the world are facing today. And we've topped often, and for quite a while, actually, about our people focus at KBR to help mitigate this risk, but it will be an ongoing part of our future, no doubt. 
+So to conclude, as you heard me say before, KBR is a values-driven organization with our people at the heart of all that we do, our unwavering commitment to hiring the best and the brightest rewarding and recognizing our people at all levels and developing talent and skills for the future are all key enablers and frankly, the true driver of shareholder value, short, medium and longer term. 
+So now on to Slide 6, and I'll cover our consolidated performance. Today, our presentation will actually be quite short. It's been a great start to the year with a very clean first quarter. From a safety perspective, we started the year well, which is always pleasing as reinvigorating the organization post the holidays is a task we take by seriously. 
+Now looking at financial performance. We started the year well and ahead of pace, especially in STS and GS International. All businesses delivered at or above expectations, which was absolutely great, and the expected slowness in EUCOM in our readiness and sustainment business continued, reflecting funding delays in Congress. 
+Consolidated revenues was $1.8 billion, up 7% year-on-year and was actually an all-time high since our transformation in 2020 when you exclude the peaks of OAW in 2021. Adjusted EBITDA outpaced expectations with a 14% year-on-year increase with margins bumping up 70 bps. So very pleasing. Cash was also a bit above expectation at $91 million. And given Q1 is typically the slowest quarter, we're very pleased with this result. The strong performance across all key metrics certainly derisks the following quarters and positions us very well to deliver our '24 guidance. As of Q1, we have circa 84% work under contract to deliver that guide. 
+Now on to Slide 7 and some key awards. For STS, activity levels remain high, opposite the energy to Trilemma as we covered in the STS Primer webinar recently. And we've highlighted a couple of key wins and milestones that happened in Q1. Now these have been announced during the quarter, so I won't read them all again. But collectively, you can see that ammonia, decarbonization, energy security and energy transition remains the key drivers. 
+As everyone is aware, the one key change from last quarter in the government side was the government defense budget was approved but should increase the award activity in the U.S. going forward. We also expanded our human health and performance franchise to include U.S. Air Force Combat Command, in addition to our ongoing work with NASA and the special forces that you're aware of. 
+Another nice one of note in the quarter was effectively a 4-year IDIQ award to provide cybersecurity services and risk management to the Defense Health Agency. GSI, as I said earlier, had an excellent quarter, growing year-on-year in the mid-teens and securing the post PFI award for the heavy equipment transport contract being the standout. This is a multiyear contract with margins aligned with expectations for GSI, so a great outcome. 
+I'm also very pleased to announce that we have successfully completed our first moves under the HomeSafe Alliance. This is a significant milestone. As planned, these were all in-state moves and the volume will slowly ramp up in the coming months. Bookings in both segments were actually very, very similar at 1.2x on a trailing 12-month basis. When you exclude the large burn on the LNG project in STS. As you'll see on the slide, STS trailing 12-month book-to-bill was 0.9x due to that large burn but the rest of STS' performance continues to be strong, delivering a 1.1 book-to-bill in the quarter. Historically, Q1 is a slow bookings quarter and we are pleased with the results, especially with the strength of the pipeline. So in short, a great start to the year with positive momentum. Outside of the normal course of business this quarter was very quiet, which is very pleasing. 
+And now I'll hand on to Mark, who will take you through the numbers in a bit more detail. Mark?
+
+--------------------------------------------------------------------------------
+Mark W. Sopp,  KBR, Inc. - Executive VP & CFO    [4]
+--------------------------------------------------------------------------------
+Fantastic. Thank you, Stuart. Hello, everyone. I'll pick up on Slide 9. So reiterating Stuart's remarks a little bit, the team is off to a great start for the year with ongoing growth this quarter, up 7% in revenue and particularly strong adjusted EBITDA growth at 14% on substantially improved margins. 
+Core profitability has been consistent from quarter-to-quarter. We're really pleased to see that, that's a key element of our strategy, of course. We also had some profit pull forward in STS from things planned later in the year, bumping up the consolidated adjusted EBITDA margin to about 0.5%. I'll hit that in the segment's chart here in a moment. 
+Adjusted EPS was $0.77, up 15%, consistent with the EBITDA growth. Below the line expenses were up quite a bit, primarily from a $5 million nonrecurring charge for the cost to complete our refinancing transactions in January. That headwind was offset by the lower share count, enabled by the buybacks we've been making over the past year and vitally important, cash flow was terrific registering at $91 million, a great job by the team. This demonstrates, of course, good quality of earnings and our low capital intensity model also central to our strategy. 
+I'll move on to Slide 10 for the segment results. On the left, STS is continuing to drive great momentum with 15% top line and adjusted EBITDA growth. Customer attraction and retention continues to build with STS' targeted strategy to tap global demand driven by the energy trilemma. We'll talk quite a bit about that in the IR Day. 
+We believe the trust being registered with blue-chip customers around the world will offer enduring benefits to this business area and to KBR for years to come. The adjusted EBITDA margin of 22% was a little higher than expected. Here is where we had a favorable closeout in Q1, which benefited the segment margins by about 2 percentage points. We had planned that to spread over the full year, so that benefit shifted left. Always happy to have that happen. 
+Over to Government Solutions on the right side of the chart, top line was up about 4.5% with adjusted EBITDA up 6% on modestly higher margins. This can be attributed to mix as the stronger growth drivers in the quarter with a higher-margin international and D&I business units, Defense and Intelligence. Defense & Intel and International had double-digit growth. S&S science and space was at 7%. R&S contracted about 12%. And as Stuart said earlier, this is tied to activities in the European Command theater which have been soft given the lack of progress on funding to support Ukraine. 
+I'll move over to Slide 11 on capital matters, the refinancing we did at the beginning of this year and covered in our previous Q4 call sets us up well for capital matters in 2024 and beyond. We have a terrific balance sheet with plenty of capital deployment options. For starters, the team generated terrific cash flow, I said earlier, of $91 million in Q1 despite that being a seasonally low quarter for cash. You'll recall we upped the dividend about 10% this quarter and also completed $50 million in buybacks. 
+With that, we exited Q1 with a leverage ratio of 2.0, quite important as the high interest rate environment seems stickier than the market had expected. You might recall us saying that we expect that the interest rate environment stays higher for longer and so far it's so true. Deployment priorities remain the same. We can lever up moderately for accretive M&A should opportunities present themselves and absent that expect buybacks and debt management. 
+I'll finish up on Slide 12. We're off to a really good start in Q1 with excellent work under contract coverage for the remaining quarters. And as such, we're reaffirming our guidance for the year on all measures. Finally, as with the rest of the folks around the table here, we're looking forward to seeing you at our IR Day on May 8, so I can't wait for that to happen. 
+With that, I'll turn it back over to Stuart.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+Thanks, Mark, and very concise. I'll finish up on Slide 13 with some key takeaways. Firstly, a strong start to the year across all our key metrics, so really pleasing. Continued momentum in our key markets with the exception of R&S, of course, due to Ukraine funding delays as we've covered a few times in this presentation. Solid bookings and backlog in what is typically a slow quarter, so a good start again in that area. And circa 84% of our work under contract plus a strong Q1 really derisk future quarters, and we're well-positioned to deliver the full year '24 guidance. First, HomeSafe moves successfully completed another great milestone in the quarter. So like Mark, I look forward to seeing you all on May 8 in New York for our Investor Day. 
+And with that, I'll say thank you for listening, and I'll now hand back to the operator who will open the call up for questions. Thanks.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our first question today comes from Andy Kaplowitz from Citigroup.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head    [2]
+--------------------------------------------------------------------------------
+Stuart and Mark, you mentioned Q1 does tend to be a little lighter seasonally in terms of STS bookings and I think you said 1.1x the LNG burn. But could you elaborate on the pipeline of opportunities you're seeing any delays across any of the end markets in that business? And what's your confidence level at this point regarding continued double-digit EBITDA growth in STS?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [3]
+--------------------------------------------------------------------------------
+Yes. I mean I think we're quite clear, Andy, in the call that ex VG, the book-to-bill for STS in 12 months is 1.2, which really underpins sort of, I guess, 20% growth. And the quarter stand-alone was 1.1. So our pipeline of opportunities, the activity levels in the ammonia market, the olefins markets and really this energy trilemma that we've discussed in the Primer are continuing unabated in truth, and we're seeing high levels of bid activity. We're seeing good momentum in the market. So we're very confident on the continued growth and the continued performance of STS. And that's been the case for some while, and we see that continuing going forward. And we'll talk a bit more about that in Investor Day and give you more -- we'll build on the STS Primer, particularly around the ammonia story, and particularly around the ROIC associated with that business. So I think it's a very positive outlook for that business.
+
+--------------------------------------------------------------------------------
+Andrew Alec Kaplowitz,  Citigroup Inc., Research Division - MD & U.S. Industrial Sector Head    [4]
+--------------------------------------------------------------------------------
+Very clear. And then maybe on the GS side, more color into how you're thinking about revenue growth moving forward. Do you see the Ukraine supplementals beginning to positively affect our mass as early as Q2? Is it more second half? And maybe the other businesses breakdown of momentum in those businesses in GS.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [5]
+--------------------------------------------------------------------------------
+Yes. Again, we'll give more color at Investor Day, but I guess at a high level, I think those -- the performance in R&S, we're very clear on that was down 12% year-on-year. We had high levels of activity Q1 in Ukraine, due to Ukraine that the delayed funding impacted that. And I think there'll be some -- we'll have to see. It's kind of too early to call that. But logic would detect there would be some level of at least modest increase in activity in the European theater as a consequence of that increased funding as we move through the year, which quarters it will impact at this point, Andy, we can't be clear. 
+But I think there's a good balance to the overall in R&S portfolio with HomeSafe now starting moves again. We're being quite cautious there just with a slower ramp expected, but I think there's good balance across that segment. So I think that's R&S in a nutshell, but we're seeing double-digit growth in -- at a high level in GSI. We're seeing similar in D&I, as Mark said, and these are high-margin areas. So that's really pleasing.
+S&S, as we said before, we'll talk a little bit more, but that's kind of growing modestly in single digits. And so I think all up, the portfolio is performing between the 5% to 8% that we said kind of ex HomeSafe and there's puts and takes, but I think you'll see more balance coming into R&S as the year progresses.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+Our next question comes from Tobey Sommer from Truist.
+
+--------------------------------------------------------------------------------
+Tobey O'Brien Sommer,  Truist Securities, Inc., Research Division - MD    [7]
+--------------------------------------------------------------------------------
+I was wondering if you could comment on your customer relationship in HomeSafe and there, the customer sort of enthusiasm and conviction for what has been a long customer, a long sort of vendor transition.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [8]
+--------------------------------------------------------------------------------
+Well, I think through all the relationship with TRANSCOM has been terrific. I mean, their commitment to the program, the representation to Congress of why they're doing this program and I guess they're phased in more cautious approach has resonated in Congress and with the folks themselves, the first moves have gone well. And the feedback from the personnel we've moved has been hugely positive. And -- but we've got to scale that up over time. 
+And so I think rightfully, they are being considered about how they do that, and we're very supportive of that. But the commitment from TRANSCOM has been unwavering. The relationship is actually terrific, although zippered all the way up through our organization and theirs. It really is now focused on in this program that really has effectively started, and it's just ramping up over time. And I think so far, so good.
+
+--------------------------------------------------------------------------------
+Tobey O'Brien Sommer,  Truist Securities, Inc., Research Division - MD    [9]
+--------------------------------------------------------------------------------
+I was wondering if you could comment also on the Mura plants and licensed plants and maybe speak to update us on the pipeline of interested parties watching the efficacy of that process in potential sales for the company out in the future?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [10]
+--------------------------------------------------------------------------------
+Yes. I think we covered this a little bit earlier on. I mean I think this continued delay in the Wilton site due to really availability of resources on the contractor side. It's still looking likely that they'll produce first material as we head into next quarter. They will then get that plant commissioned and up at full capacity as we head into late Q2, early Q3 as we sit today. 
+But I think coming in behind it and I think impressively so is the Korean facility where we modularize the solution, and that's moving far faster. And there is actually an opportunity all started probably a year later for that facility to actually get up in mind before the one in the U.K. So again, in the summertime. And then behind it is the Mitsubishi facility, which is later in the year in Japan. 
+So I think before -- as the year progresses, that we'll see that those facilities producing. I think the enthusiasm for the technology and actually going ahead with the licenses we sold, which is I think, so far, 8, 9 licenses and we've quite a strong pipeline looking into the future. But I guess it's everyone's as ever with tech new technology. They want to see the first facility up and running. And I think that will be the bottleneck and actually, once that's done, that will free up the market opportunity around this quite considerably as we move towards you. 
+I guess, later in the year and into next year. And I think the other important thing for us is when you look at the way that we develop and bring technology into KBR and then, I guess, commercialize that and globalize the opportunity through our global sales pipeline and personnel who are terrific. 
+Again, the ROIC returns are terrific. And again, we'll highlight some test cases around that and related back to Mura and other technologies as we move forward. So more on that at Investor Day, but a very good -- in fact, a very good lead in to one of the key points we want to make in Investor Day about how we actually commercialize technology and the value it brings to KBR and its shareholders.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+Our next question comes from Bert Subin from Stifel.
+
+--------------------------------------------------------------------------------
+Bert William Subin,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate    [12]
+--------------------------------------------------------------------------------
+I just wanted to ask, I guess, first, just about sort of the thought process on guidance. It seems like you got off to a good start to the year. Core performance EBITDA was a little better. You've got the supplemental, which should drive some incremental improvement in R&S. And it sounds like you feel pretty good about the book-to-bill across the business, and you started repurchasing shares. 
+So as we think about, I guess, that relative to 90 days ago, is it just sort of taking a cautious approach to, I think, unfold because it seems like your work under contract is essentially the exact same as it was last year. So I'm just curious how you're thinking about the next few quarters relative to how you were thinking about them 3 months ago?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [13]
+--------------------------------------------------------------------------------
+Yes. I mean I think -- I mean it's a question we debated, as you can imagine, internally for some time. But I think where we landed sorry for Scottish conservatism, but we decided that we would look to see how the supplemental start to flow through into next quarter. We wanted to get through our Investor Day and just get those messages clearer and resonate and again, just with HomeSafe now going, just to get a little bit more clarity. We've done successfully the first move, just what is the program ramp associated with that, et cetera. 
+So I think too early in the year, if you annualize, although we're ahead of pace, I think we had said originally 45, 55, now that obviously is more in balance now in terms of percentages first half, second half. And I think if you annualize $0.77, you come and see later or something, which is still below our midpoint in our guide. So I think all up on balance, we thought a fantastic start of the year. We're ahead of pace of book-to-bills terrific. The business is performing and we will certainly look at whether we should be maintaining or reviewing or changing guidance as we head to Q2 but I think it was too early in Q1, and all our focus in truth is actually in really explaining the business better and Investor Day and what this business can do, not just this year but actually into the future years. And I think that's where the energy has gone over the last little while and rightly so given what's happening next week.
+
+--------------------------------------------------------------------------------
+Bert William Subin,  Stifel, Nicolaus & Company, Incorporated, Research Division - Associate    [14]
+--------------------------------------------------------------------------------
+Got it. Okay. That helps, Stuart. On -- I guess, as a follow-up question, maybe focusing more on STS, I guess this is the first call sort of the fiber. And the Primer, you talked about Middle East growth being sort of 20% plus over the next half decade. I think a little bit of that is predicated on some significant awards in Saudi Arabia. I was wondering if there's sort of any update as we think about that? And if there's any update on some of the transition that we've seen in NEOM and whether that's been a positive, neutral or negative, this pertains to your business over there.
+
+--------------------------------------------------------------------------------
+Mark W. Sopp,  KBR, Inc. - Executive VP & CFO    [15]
+--------------------------------------------------------------------------------
+Bert, Mark, yes, as you'll see in the Q filed shortly, the Middle East performance continues to grow really well year-over-year. That's been the case for some time. That is our expected case going forward. And as Stuart said, relative to an earlier question, the zippered up relationships we have, not only HomeSafe, but in the Middle East are fantastic, led by Jay Ibrahim, our leader there and his large team. 
+Relative to new awards. We are -- we've announced some, but we are subject to some customer requirements on some others. And so those pace accordingly. And I think for some that are talked about in the market, some big ones, all I'll say is we are very well-positioned with those customers. They trust us, and we expect to be part of many of the developments that happen in that part of the world as it pertains to energy security and energy transition for years to come.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [16]
+--------------------------------------------------------------------------------
+And I think just to layer on, that I think there's a lot of focus now on Saudi and rightfully so, given their capital spend and their 2030 vision. And we've been in that market now for, I think, over 60 years, very well-positioned there with established relationships and capability and a large Saudi workforce, including a large percentage of a good gender balance there as well, which is terrific.
+But the Saudi isn't the only story in the Middle East, and we'll expand on that at Investor Day. We've got a significant presence in the UAE and certainly, companies like ADNOC have got a huge capital spend program themselves. And I think we're well over 1,000 people now in the UAE. We support Iraq from an engineering perspective there as a lot of activity in Iraq right now, and we're supporting multiple efforts to stop flaring and things like that, that are very aligned with our sustainability mission but also energy security for that country. 
+So I think again, terrific. We're now establishing wait. We didn't have a presence there 2 years ago, now we do. We've got a 5-year contract that's starting to build up there. We just announced wins in Qatar as well around our more sort of smart maintenance solutions I think so. We've got a very, very strong presence across the Middle East and the capital spend profile. A lot of the attention goes to Saudi as I say, rightfully so, but it's a market trend across the Middle East and in our history and our positioning, our ability to operate globally, I think, uniquely allows us to take advantage of those trends.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Our next question comes from Mariana Perez Mora from Bank of America.
+
+--------------------------------------------------------------------------------
+Mariana Perez Mora,  BofA Securities, Research Division - Research Analyst    [18]
+--------------------------------------------------------------------------------
+I was wondering if you could dig into the growth seen in D&I and kind of where that's stemming from.
+
+--------------------------------------------------------------------------------
+Mark W. Sopp,  KBR, Inc. - Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+Mariana, this is Mark here. Thanks for calling today. So D&I, as we've said many times, is the part of GS that is higher technology, advanced space, command and control, electronic warfare, modernization, et cetera. In addition to the technical presence and leadership across primarily Air Force, Space Force and the other parts of Navy and some Intel agencies. We have a very strong IDIQ portfolio. We said that a number of times, particularly IAC MAC, and we've been a leader on generating business out of that vehicle for a long time. That vehicle is often used to -- by agencies for RDT&E funds, which we've seen increase quite a bit in the defense budget and rightfully so, given the threats we're facing. 
+And so the tapping of the IDIQ portfolio there has been strong by our customer and in turn, D&I, the recipient. So it's particularly effective when the procurement process struggles in the government for bigger single awards. And so the team is more agile that way, and it helps the customer put missions together quickly. And so that's really the hallmark of the ability of that business to grow with a combination of technical expertise and the commercial acumen relative to tapping the IDIQ portfolio. Space superiority is a pretty common driver of our capabilities there, for capabilities we had prior to the Centauri acquisition, but certainly amplified by the Centauri acquisition a couple of years ago. So that capability is quite strong.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [20]
+--------------------------------------------------------------------------------
+And I think it's quite interesting when you look at budgets that have come out recently pleasingly CR is now behind us. But on the face of it, it looks like things like the Space Force budget is flat but it's so co-mingled with what happens in Air Force, a bit like, I guess, the readers inside the Navy budget, a sort of similar dynamic there. And a lot of what they do is in the Intelligence side, which is a budget that's not disclosed openly as you can imagine. So I think there's -- on the face of it, you might think things like Space Force is flat, but actually the activity levels are really high within that budget environment. So -- but again, I think those dynamics and where we're positioned are driving a lot of activity in that realm.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+Our next question comes from Sangita Jain from KeyBanc.
+
+--------------------------------------------------------------------------------
+Sangita Jain,  KeyBanc Capital Markets Inc., Research Division - Associate    [22]
+--------------------------------------------------------------------------------
+So I just wanted to ask about your initial experience with HomeSafe. Any internal learnings that you feel could possibly change the cadence of moves for the rest of the year versus what you guided us to last quarter?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [23]
+--------------------------------------------------------------------------------
+Yes, good question. I think certainly, as we start to do actual real moves, I think there's always going to be learnings, I think, tweaks in the system and making sure there's enough flexibility for small moves and large moves and things that happened in 1 day versus multiple days if you think of houses being packed up and shifted to next day if it's a small load it all happens in 1 day. 
+So just making sure there's agility and flexibility and that operationally, we can actually scale for these various different elements within the system environment. So I think we are learning on that. And both ourselves and TRANSCOM are aligned to make sure the interface between the 2 systems is actually working very, very well. I think what has been quite nice to see, if you like, is that we've got obviously this digitally enabled system, which is working very well for the service person and the digitally enabled service person has gone online and registered and boom-boom and it all happened very quickly and probably quicker than we expected, in fact, and so there's a bit of learning there, but that's a really, really good sign. We're happy for that to happen. 
+But the other piece that worked well in this and something we've got to make sure that we continue to scale up, is that the servicemen and women who were not tech-savvy actually formed the help desk talk to a real person, not a bot and we're able to basically do what they needed to do over the phone rather than digitally. And so enabling both sides of that equation has been a key part of the learning as well, and we'll keep that going. 
+So I think as we scale up, I think we continue to learn. I think the openness of our team to do that. We've got the right level of capability, operational focus there today as does TRANSCOM and as does the various services themselves, who as you can imagine, new system, new processes new provider, they had quite a few quality control people involved in those first moves and the reports coming back are very positive. So I think -- yes, but still lots to learn for sure. I mean, it's -- we don't want to overplay that. I'm sure there's going to be lots of learnings as we go forward and scale this thing.
+
+--------------------------------------------------------------------------------
+Sangita Jain,  KeyBanc Capital Markets Inc., Research Division - Associate    [24]
+--------------------------------------------------------------------------------
+Great. And if I can follow up with 1 on the LNG landscape now that we know Plaquemines may be coming online sometime later this year. On your thoughts on how you could potentially backfill that backlog and what you may be seeing on what can come out of the U.S. LNG review?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [25]
+--------------------------------------------------------------------------------
+Yes. I think just to put Plaquemines in context, I think we -- remember, this is -- these are like 0.5 million tonne trains. It's 20 million tonnes of LNG across Phase I and Phase 2. So although we'll produce LNG later in the fall, it's 1 train after another, after another, after another for quite a while into the future through to '26. So I just want to put that in context. In terms of the activity levels, I think we're seeing quite a bit of activity inside the DOE themselves looking at the future of LNG, I guess, in a decarbonized way within the U.S. context, I think everyone recognizes that, that ultimately LNG will go forward, but it will go forward with using electric drives or CO2 sequestration or whatever it might look like from a lesser carbon footprint perspective. 
+So I think some of the projects will be reconfigured but the activity levels, we are very upbeat about the future of LNG in the U.S. We've got cheap gas in this country, and that needs to be monetized one way or the other. And if it's not through LNG, it will be through ammonia or hydrogen or some other activities, but LNG itself, I'm sure will be an attractive market going into the future, and there will be opportunities for us to continue with VG themselves have ambitious plans. 
+And as long as we do well, I'm sure we'll be part of those plans going forward. But there's certainly others in the market that are very active and waiting for this LNG, I guess, reconfiguration of the landscape to be sort of clear as we head towards the end of the year. But there's a good opportunity, I think, for some of these to go ahead even before the end of the year. But we'll see how that plays out. There's just noise in the market that there's some softening around that. We'll see how that plays out in the next little while.
+
+--------------------------------------------------------------------------------
+Operator    [26]
+--------------------------------------------------------------------------------
+Our next question comes from Jerry Revich from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Adam Samuel Bubes,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [27]
+--------------------------------------------------------------------------------
+This is Adam on for Jerry today. Can you just update us on your ammonia prospect list? How many plants do you expect to reach final investment decision this year? How does that compared to 2023?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [28]
+--------------------------------------------------------------------------------
+Yes. I mean the trend is obviously positive. And we are going to cover the ammonia story in some depth in Investor Day. I think the EBITDA contribution opportunity to KBR as we look into the future, given the demand on ammonia as it relates to not only fertilizers, but hydrogen and sources of energy going forward is very, very attractive in terms of -- remember, FID for us is only part of the journey when the project actually is initiated, we get involved with the license fee and basic engineering and cost estimation and things like that. So even pre FID it's very attractive for us to be in that market. 
+And so FID isn't really the piece for us. It's actually when the license is sold and the project starts to move forward, even pre-FID, we've got some very good returns in our portfolio. So I think if you don't mind, I think the way I cover this high level is to say that the ammonia market remains extremely attractive, and we're going to do quite a deeper dive into ammonia, the ammonia story and its impact to KBR next week. And you'll be very pleased and pleasantly surprised what a modest increase in number of plants per year does to our EBITDA.
+
+--------------------------------------------------------------------------------
+Adam Samuel Bubes,  Goldman Sachs Group, Inc., Research Division - Research Analyst    [29]
+--------------------------------------------------------------------------------
+Understood. Look forward to that. And could you just provide some color on the M&A pipeline? So how active is the pipeline on the technology side versus government solutions right now?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [30]
+--------------------------------------------------------------------------------
+Yes. I mean technology for us is we're always open to acquire smart technology and new technologies, and we did -- we launched a number of those last year as we disclosed in the Primer, but it's difficult to acquire because it doesn't come to market, you've got to be ready. So that pipeline is more -- although it's strategic for us, and we know what we like, it's kind of opportunistic if things come to market, we're more likely, I think, unless something changes to look at, I would say, newer technologies that are being developed, I think the same way we saw identified Mura or SAF technologies and enhance those work with the people who in the white coats, if you like to develop them and try and commercialize them in a more global way. 
+So that's kind of where the focus area is in our tech business. We've got existing technologies that we've got a lot of headroom I think, going forward. So I don't think acquisition is often the best source of funds. I think internal development and protection of IP in that realm is a good place to spend our money and time, and we'll talk more about that next week also. In terms of GS, I think activity levels interest rates down a little long -- higher for longer, as Mark said, I think there's belief that the stability now and over time will come down. So you're starting to see more activity, I think, in the GS world. And certainly, there's more things coming across the desk that we're looking at. 
+But I'll reiterate, we're in a real good organic growth state, the best use of funds is to support organic growth. But if there's something that's compelling, accretive strategic and fits our values, then we've got the balance sheet to be able to pass. And I think speed to market is going to be important, particularly as we head through an election year as well. So I think -- yes, so in short, more activity in the GS space, but it's got to make sense. It's going to take us upmarket, be digitally enabled, give us margin accretion, et cetera, and good synergy opportunities. And in tech, I think it's more opportunistic. But I mean our organic growth outlook is terrific, and that's going to be the focus for us unless it's compelling.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+Our next question comes from Michael Dudas from Vertical Research.
+
+--------------------------------------------------------------------------------
+Michael Stephan Dudas,  Vertical Research Partners, LLC - Partner    [32]
+--------------------------------------------------------------------------------
+I'm more of a phone guy than a digital guy, as you can tell. So on the -- regarding on the STS front, just as you indicated about the strong book-to-bill and the pipeline being good and how revenues are growing in EBITDA flow this year, how is that in the context of the 4 phases that you discussed in the Primer that we had last month and where that stands and how that can impact the kind of how the EBITDA growth and margins flow this year, maybe into next?
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [33]
+--------------------------------------------------------------------------------
+Yes. I think, I mean -- yes, sorry, sorry, Mike, I'm just break it up a little bit. Yes. So I think what you're asking was really through the -- I guess, the project life cycle in the phases across when we sell technology, we can then get engaged in and obviously, the basic design and then PMC or execution or whatever, those 4 phases. We'll cover that a bit next week, and we'll get Jay to do that himself. 
+But where are we in that cycle? I think the more that we do in technology and particularly that's the core catalyst for what we do in the services business as well. I think the bigger that Phase 4, 3 and 4 opportunity becomes. And our bookings in Q1 would suggest that, that trend is continuing and really starting to build out and giving us attractive longer-term books of business. And I think that, again, we're going to work pretty hard to demonstrate the noncyclical nature of this business in New York next week. 
+So I think it's all shaping up as we predicted. I mean, it's not perfect, of course, but I think the market trending is -- as we described in the Primer. And of course, the more technology we sell, the greater the opportunity is move into Phase 3 and Phase 4, and we're seeing that across the globe at the moment, particularly in what is called the Global South, which this new economic term for really a lot of the Southern Hemisphere where growth is outpacing the North Hemisphere.
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+(Operator Instructions) Our next question comes from Gautam Khanna from TD Cowen. We're currently getting at no audio from Gautam. We have no further questions in the queue. So I will hand back over to Stuart Bradie for any closing remarks.
+
+--------------------------------------------------------------------------------
+Stuart John Baxter Bradie,  KBR, Inc. - CEO, President & Director    [35]
+--------------------------------------------------------------------------------
+Thank you. Thanks, Drew. And so just to close out a fairly shorter call given, we've got Investor Day coming up next week. Clean quarter, very strong start to the year. I think key takeaways continued momentum in STS, strong margin performance across the businesses. I think outside of R&S, really strong performance in government also milestones in HomeSafe with successful first moves. And obviously, the Ukrainian supplemental in terms of funding looking positive as we move into the latter parts of the year. So I think really a strong start to the year, sets us up nicely to really build on that in Investor Day, and we look forward to seeing you in New York. 
+So with that, we will close the call, and thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+That concludes today's call. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2024 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,213 @@
+
+
+LSEG StreetEvents Event Transcript
+E D I T E D  V E R S I O N
+
+Q3 2026 KBR Inc Earnings Call
+October 29, 2026 / 12:30PM UTC
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Rachael Goldwait
+   KBR Inc - Head of Investor Relations
+ * Stuart Bradie
+   KBR Inc - Chairman of the Board, President, Chief Executive Officer
+ * Shad Evans
+   KBR Inc - Chief Financial Officer, Executive Vice President
+
+================================================================================
+Conference Call Participants
+================================================================================
+
+ * Operator
+   
+ * Andrew Azzi
+   Wells Fargo Securities - Analyst
+ * Tobey Sommer
+   Truist Securities - Analyst
+
+================================================================================
+presentation
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+Hello, everyone. Thank you for joining us and welcome to KBR's third quarter 2026 earnings call. After today's prepared remarks, we will host a question-and-answer session. (Operator Instructions)
+I will now hand the conference over to Rachael Goldwait, Head of Investor Relations. Please go ahead.
+--------------------------------------------------------------------------------
+Rachael Goldwait, KBR Inc - Head of Investor Relations    [2]
+--------------------------------------------------------------------------------
+Thank you and good morning. Welcome to KBR's third quarter 2026 earnings call. Joining me today are Stuart Bradie, President and CEO, and Shad Evans, Executive Vice President and CFO. Stuart and Chad will cover highlights from the quarter and then we'll open the line for your questions.
+Today's earnings presentation is available on the investor relations section of our website at KBR.com. As outlined on slide 2, today's discussion includes forward-looking statements and certain non-GAAP financial measures. Additional information, including reconciliations to the nearest GAAP measure, can be found in the presentation appendix.
+With that, I'll turn the call over to Stuart.
+--------------------------------------------------------------------------------
+Stuart Bradie, KBR Inc - Chairman of the Board, President, Chief Executive Officer    [3]
+--------------------------------------------------------------------------------
+Thank you, Rachael, and good morning, everyone. I will pick up on slide 4. As you know, we start every earnings call with a zero harm moment because looking after our people is fundamental to who we are. Over this past year in particular, that commitment has been tested as our teams have taken on the enormous task of creating two independent companies, of course, continuing to deliver for customers around the world and their holders.
+We saw this quarter with the successful cutover systems, including the Transition Payroll Systems, a major milestone. And it's a great example when talented people come together with a common purpose. What gives me confidence is that the same culture that defines KBR today will endure in both KBR and Trinzic going forward. And that is a commitment to our people, our customers, our shareholders, and doing the right thing. Everyone across both organisations for their hard work, their teamwork and focus as we move closer to separation.
+With that, let's move to slide 5. Today, there are four key messages from the quarter. First, strong execution drove profitable growth and reinforced confidence in the full year outlook. Second, sustainable tech continues to deliver stellar growth both year-over-year and sequentially, supported by strong bookings momentum and broad-based demand. Third, mission tech performed well through the expected NASA headwinds, strong margins and excellent cash conversion. And finally, the separation continues to advance with key leadership, governance and regulatory milestones in place ahead of the January 4 separation date.
+Moving to slide 6. Sustainable tech delivered another strong quarter driven by structural demand shifts across energy security, food security and critical infrastructure. Book-to-bill was 1.3 times for the quarter, making another period of strong bookings and bringing trailing 12 months book-to-bill to 1.3 times as well. Backlog increased to another record at $5.8 billion, and that is up more than 50% from a year ago.
+Excluding the Brown & Root joint venture, BRISK, year-to-date bill was 1.5 times, supporting a continued revenue growth outlook. BRISK booked softer, with deferred maintenance and shutdown in response to market conditions. We expect those deferrals to continue into Q4, with activity expected to recover in 2027 as critical maintenance needs are addressed.
+The strong bookings secured over the last 12 months are now translating into accelerating growth and revenue increasing 13% sequentially as projects continue to ramp across the portfolio. This keeps us on track for a mid-teens full-year revenue growth outlook.
+The Middle East remains a key growth driver, with project activity demonstrating resilience amid regional conflict. New PMC awards with ADNOC and Abu Dhabi, and an expanded role on Aramco's Marjan offshore field reinforce our position with strategic customers and our participation in critical energy investment.
+In technology, SABIC in Saudi Arabia selected a purifier technology for a new 3,500 metric ton per day facility, a second large-scale Ammonia award this year following the Pampa award in Argentina. Together with Ammonia revamp wins in Europe, these awards demonstrate continued investment in food security and supply resilience.
+We also secured another Bursath award this quarter for Kazakhstan's first sustainable aviation project, reflecting continued demand for technologies that advance decarbonisation. In critical infrastructure, we secured a central program management role at Diriyah Gate, one of Saudi Arabia's largest GIGA projects, and a major program engineering and integration award in Texas. Both extend our role in delivering complex critical infrastructure. Altogether, a record backlog and strong pipeline gives us increasing visibility into growth in Q4 and onwards into 2027.
+Moving to slide 7. Turning to mission tech, the business continues to perform as expected. Michael has stepped seamlessly into the role, and the team delivered another solid quarter, including strong margins that Shad will discuss shortly. During the quarter, we secured important work supporting PATRIOT Air Missile and Defence and mission critical radio frequency engineering, extending long-standing customer relationships across high-priority national missions.
+And recently, Firefly was selected as one of four directed energy systems for a passenger drone pilot focused system. As follows, its selection launches at Cape Canaveral and further demonstrates the relevance of a technology addressing critical and emerging customer needs. Both international businesses in the UK and Australia also perform well, with strong and healthy pipelines entering Q4 and 2027.
+In the US, procurement timelines continue to extend, weighing on book-to-bill, which was 0.8 times, excluding the NASA insourcing debooking. Importantly, customers aren't walking away. Funding generally remains in place and priorities are intact, but projects are moving a little bit more slowly.
+On NASA, insourcing continued during the quarter, consistent with what we discussed earlier this year. As the programme ramps down, we remove the remaining out-of-year revenue from the backlog to align the expected workload, bringing reported book-to-bill to 0.6 times. The anticipated 2026 revenue impact was already reflected in our guidance, so our full-year outlook remains unchanged.
+Awards under protest remain largely unchanged during the quarter, and that includes the National Science Foundation Antarctica subcontract, which we secured through re-award following the GAO protest process. We are a customer on transition, although the award is not yet reflected in the backlog.
+Finally, we ended the quarter with $9.9 billion of submitted proposals awaiting customer decisions, and together with the wins under protest, that represents $20.5 billion in the outside backlog, approximately 80% of which is new business, underscoring the depth of growth opportunities across the portfolio. Overall, the business is performing well. The pipeline remains robust, and recent wins reinforce Michigan Tech's strong competitive position as we prepare to launch Trinzic.
+On to slide 8, and an update on the spin. My last slide today, I'll finish with a brief update on the separation progress. We continue to make excellent progress and have now completed many of the key milestones required to launch KBR and Trinzic as independent companies. The leadership teams are fully in, and the boards have largely been published on both sides. We expect to announce the KBR and Trinzic over the coming weeks, and we're very pleased with Caliber, who will help guide the respective companies from day one.
+We also made important progress on the regulatory front. The form 10 is now public, as you're aware, giving investors the first detailed look at Trinzic's standalone company. We have the SEC's comments to date. The PLR continues to progress, and we expect formal notification regarding the spin's tax-free treatment soon. As I mentioned earlier, the successful cutover of key systems was another important section of readiness. Organisations are increasingly operating as standalone businesses ahead of separation, including financial reporting, providing additional time to validate processes and ensure a smooth transition.
+Now, while I wasn't directly a part of the rating agency meetings, the feedback has been very positive. Preparations for the Trinzic debt continue to move forward, and we currently expect to launch in mid-November. We've seen strong interest from the market, particularly given the quality and the current environment. In two weeks, we will be hosting investor days for KBR and Trinzic. Michael, James and I look forward to sharing more about each company's strategy, their opportunities and financial outlook. And for those interested in joining us, register available through our investor relations website. While there is still work to be completed, the key building blocks are now in place, and we remain firmly on track for separation.
+With that, I'll hand over to Shad.
+--------------------------------------------------------------------------------
+Shad Evans, KBR Inc - Chief Financial Officer, Executive Vice President    [4]
+--------------------------------------------------------------------------------
+Thanks, Stuart. I'll pick up on slide 10 with our consolidated third quarter results. The headline is another quarter of profitable growth with strong execution driving higher revenue, adjusted EBITDA and adjusted EPS.
+Revenue was approximately $2.03 billion, up $97 million or 5% from the prior year. Growth in sustainable tech more than offset the expected NASA headwinds in mission tech, which I'll cover more in detail on the next slide. Adjusted EBITDA increased $28 million to $268 million, and adjusted EPS expanded 80 basis points to 13.2%. The improvement reflects strong execution of both businesses, including EBITDA from unconsolidated favorable portfolios and lower corporate costs. Adjusted EPS was $1.12, up $0.10, driven by stronger operating performance, lower below-the-line expenses and lower share count from repurchase activity over the last 12 months.
+The quarter also included $15 million in interest income associated with a tax benefit that reduced our year-to-date tax rate below the guided range. We excluded that benefit from adjusted EPS, and our underlying tax rate remains in line with a guided range of 26% to 28%. Year-to-date adjusted operating cash flow was $371 million, which remains strong at 95%, reflecting improved collections during the quarter. We remain on pace to deliver our full-year cash flow outlook, cash flow expected to be ted towards the fourth quarter. I'll discuss the remaining collection timing considerations when I cover guidance. Overall, the quarter reflects strong execution and keeps us on track to deliver full-year expectations.
+Returning to slide 11. Starting with sustainable tech, revenue increased $157 million, or 26%, to $762 million. The strong booking activity we've seen over the past year is now continuing to accelerate revenue growth. Adjusted EBITDA increased $19 million, or 15%, to $147 million. Quarterly adjusted EBITDA margin was 19.3%, compared with 21.2% in the prior year. Growth trailed revenue primarily due to higher contribution from an LNG joint venture in the period.
+Importantly, excluding the LNG joint venture, the quarter-to-date adjusted EBITDA margin was 13.9%, up 80 basis points from the prior quarter. On a year-to-date basis, adjusted EBITDA margin, excluding the LNG joint venture, was 14.3%. That's consistent with our mid-teens full-year adjusted EBITDA margin outlook.
+And MTS, approximately $1.7 billion, and that was down $60 million, or 1%, as anticipated reductions in NASA-related programs were partially offset by growth across defense and intel and international government covers. These NASA headwinds reflect the insourcing impact on the IMOC contract and the 2025 loss of IMSOC, which has since been insourced.
+Importantly, adjusted EBITDA was $145 million, up $7 million, or 5% from prior year, with adjusted EBITDA margins exceeding 110 basis points to 11.5%. The improvement reflects higher unconsolidated joint venture contributions, favorable portfolio mix from the roll-off of lower-margin NASA programs, and the earlier-than-expected timing of favorable closeouts. Year-to-date adjusted EBITDA margin was 11.4%, which remains above the full-year margin outlook due to the timing of favorable closeouts. Margins in Q4 are expected to return to normative levels. Overall, sustainable tech delivered strong revenue and adjusted EBITDA growth, while mission tech increased profitability despite lower volume.
+Turning to capital allocation on slide 12. Our balance sheet remains strong, and our approach to capital allocation remains disciplined. Net leverage ended the quarter at 2.1 times, below our 2.5 times target, providing financial flexibility as we prepare for separation. Our immediate cash focus is collecting outstanding receivables and carrying more collections momentum into year-end. During the quarter, we returned $21 million to shareholders through our regular dividend. As we approach separation, we're taking a prudent approach to capital allocation, funding the remaining one-time spin-related costs while preserving flexibility and strong balance sheets for companies.
+Turning to slide 13. Based on our year-to-date performance and current visibility, we are reaffirming up-to-year 2026 guidance on all metrics. Outlook assumes flat to modestly lower sequential revenue in mission tech and continued low double digits in sustainable tech, supported by strong bookings and demand trends we continue to see across the portfolio.
+Cash collection timing remains an area of focus, particularly in the Middle East. While the conflict has not changed our outlook, continued delays in customer collections could shift approximately $25 million to $50 million of cash flow beyond year-end. Despite that potential timing, we expect to remain in our full-year cash flow guidance range.
+With that, I'll hand it back to Stuart.
+--------------------------------------------------------------------------------
+Stuart Bradie, KBR Inc - Chairman of the Board, President, Chief Executive Officer    [5]
+--------------------------------------------------------------------------------
+Thank you, Shad, and on to slide 14, and I'll close with the four takeaways. We are growing profitably, we're executing well, and this gives us confidence in our commitments. Sustainable tech continues to deliver exceptional results, with record backlog and strong revenue growth as bookings over the past year continue to convert into execution.
+Mission tech continues to perform well, delivering strong margins despite the expected NASA headwinds while continuing to win important work across the portfolio and globally. And we continue to major separation milestone, with the leadership, governance, and operational foundations all in place, ready to recruit strong independent companies. We remain excited about the opportunities ahead for both KBR and Trinzic, and look forward to seeing more at our investor days in two weeks.
+With that, we'll open the line for questions. Thank you.
+
+================================================================================
+q-and-a
+--------------------------------------------------------------------------------
+Operator,     [1]
+--------------------------------------------------------------------------------
+(Operator Instructions)
+Adam Bubes, Goldman Sachs.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [2]
+--------------------------------------------------------------------------------
+Hi, good morning. This is Anuj on behalf of Adam. Can you help us frame the NASA headwind, like how large it is on annualized basis when it laps and whether there is further debooking risk in it? Thank you.
+--------------------------------------------------------------------------------
+Shad Evans, KBR Inc - Chief Financial Officer, Executive Vice President    [3]
+--------------------------------------------------------------------------------
+Yes, thanks for the question. As we've said before, there's no material change to the '26 expectations. IMSOC was already contemplated in our guidance, and IMOC remains within the roughly 60 impact we outlined in Q1.
+So really what you're seeing now is the remaining contract value coming out of backlog, really with no additional P&L impact. We are seeing some potential insourcing on additional NASA programs, which will create a larger headwind as we move into '27, but we'll provide more detail on that during Investor Day. But importantly, we've got strong business momentum, including the NSF win on Antarctica and the Classified Award, which provides meaningful offsets heading into 2027.
+--------------------------------------------------------------------------------
+Operator,     [4]
+--------------------------------------------------------------------------------
+Jerry Revich, Wells Fargo.
+--------------------------------------------------------------------------------
+Andrew Azzi, Wells Fargo Securities - Analyst    [5]
+--------------------------------------------------------------------------------
+Hi, everyone. Thank you for taking my question. This is Andrew Azzi on for Jerry Revich. I just wanted to take a deeper look into the guidance. It implies a bit of a step down in 4Q. With one quarter left, what gets you to the low end, I think it looks like a $60 million range, the top end to the low end. What's driving that in 4Q? Thank you.
+--------------------------------------------------------------------------------
+Shad Evans, KBR Inc - Chief Financial Officer, Executive Vice President    [6]
+--------------------------------------------------------------------------------
+Yeah, thanks for the question, Andrew. We're really pleased, I think, with the year-to-date performance. We looked at the puts and takes for Q4. We continue to believe that our full-year guidance is really the right framework. We expect MTS to be flat to slightly down in Q4, and STS to deliver that double-digit growth that's implied in the guide.
+And so with both businesses operating at normalized margins and no change meaningfully to the tax rate or share count, when you put all that together, we feel really comfortable about the full-year outlook. And we're really focused now on what's ahead of us with both companies at our respective investor days.
+--------------------------------------------------------------------------------
+Andrew Azzi, Wells Fargo Securities - Analyst    [7]
+--------------------------------------------------------------------------------
+Thank you. I appreciate that. I cut out a little bit, but I think I got most of what you were saying. For my next question, how can we think about the Plaquemines runoff quarterly through its completion. And let's say, 1H next year, and are there any completion items we have to be aware of, like contingency releases or final close that land? I appreciate any color there.
+--------------------------------------------------------------------------------
+Shad Evans, KBR Inc - Chief Financial Officer, Executive Vice President    [8]
+--------------------------------------------------------------------------------
+LNG, sorry, the line's cutting in and out a little bit, Andrew. LNG contributions have been about $115 million through Q3, and so we expect another $25 million to $35 million in Q4, depending on milestone. That contribution does step down in '27, and we'll share that specific information with you during investor day and ahead of our guide.
+But really, the strength around the book-to-bill gives us confidence that we can absorb that headwind and still grow the business going into '27.
+--------------------------------------------------------------------------------
+Andrew Azzi, Wells Fargo Securities - Analyst    [9]
+--------------------------------------------------------------------------------
+Thank you very much. I'll pass it on.
+--------------------------------------------------------------------------------
+Operator,     [10]
+--------------------------------------------------------------------------------
+Tobey Sommer, Truist.
+--------------------------------------------------------------------------------
+Tobey Sommer, Truist Securities - Analyst    [11]
+--------------------------------------------------------------------------------
+Thanks. Based on what you know and what you're hearing of incremental NASA outsourcing -- or insourcing, excuse me, when might the process be completed, just so we could get a sense for when that headwind for Trinzic would sort of cease, based on our best information today?
+--------------------------------------------------------------------------------
+Stuart Bradie, KBR Inc - Chairman of the Board, President, Chief Executive Officer    [12]
+--------------------------------------------------------------------------------
+Yeah, good question, Toby. Thanks for that. We expect that to be all done this year, and so as we look into '27, the first two-quarter comps are going to be challenging, because we obviously have full run rate of NASA in the first two quarters. But as I said, I think it's all done this year, so we'll start from a [green] slate, if you like, and I'm sure the team will describe that in detail.
+--------------------------------------------------------------------------------
+Tobey Sommer, Truist Securities - Analyst    [13]
+--------------------------------------------------------------------------------
+Fair enough. Thank you. And then, could you describe on the new KBR side STS what the pipeline looks like in ammonia? Could you kind of refresh us, just so we can interpret your perspective wins, what a project size from a dollar and duration looks like? I know they're not all equal, but a framework would be helpful.
+--------------------------------------------------------------------------------
+Stuart Bradie, KBR Inc - Chairman of the Board, President, Chief Executive Officer    [14]
+--------------------------------------------------------------------------------
+Thanks, Toby. Again, another good question. We're seeing, as I said in my prepared remarks, quite a structural change in that market around food security, as countries start to look at certain kinds of supply and supply chain resilience, growth in GDP and people moving into middle classes, wanting better quality food sector in the world.
+So it's a really strong pull from the market. The pipeline of opportunities is significant. I'm going to talk a little bit about Investor Day, as you would expect, but that market is buoyant today. It's global. And it's not just UX, it's actually revamps as well, as companies start to look at how they can be more efficient and really give them that market. And you've seen that coming through in Europe this quarter with the wins and actually wins in Europe.
+Thinking about that in terms of, again, we'll get more detail on Investor Day, but one out of two or three projects we've managed to position KBR to extend scope significantly. And so the share of the project wallet, for want of a better description, is substantially larger. And so the revenue opportunity and associated EBITDA and margin cash are actually very, very attractive.
+And we feel that that market is enduring and it's not just a flash in the pan, so to speak, given the structural change. So we should come to Investor Day, but certainly we're feeling really good about that part of the business.
+--------------------------------------------------------------------------------
+Tobey Sommer, Truist Securities - Analyst    [15]
+--------------------------------------------------------------------------------
+Thank you.
+--------------------------------------------------------------------------------
+Operator,     [16]
+--------------------------------------------------------------------------------
+(inaudible)
+--------------------------------------------------------------------------------
+Unidentified Participant,     [17]
+--------------------------------------------------------------------------------
+Hi, thank you very much. Very strong backlog on this. What is the time frame that backlog will need to live in? And maybe you could also talk about the market as well, because I know there's we are kind of giving up some of the EBITDA on the document next year. So just trying to, and I know a lot of this will be discussed at the Investor Day, but maybe we could get a preview as far as how we feel about that backlog being delivered and then maybe what's the margin there and do our own numbers. Thanks.
+--------------------------------------------------------------------------------
+Stuart Bradie, KBR Inc - Chairman of the Board, President, Chief Executive Officer    [18]
+--------------------------------------------------------------------------------
+Yeah, again, very good question. And quite frankly, we have to get into that and Investor Day in more detail. But I think the headline would be very, I think, purposeful and transparent about the contribution from Plaquemines throughout the year and its impact on margins. Ex-Plaquemines were sitting in sort of mid-teens, as you're aware, and that's been consistent through the course of the year. So that's sort of the way the business.
+And as Shad said, we're confident we can, with the bookings and the strength of those bookings and the quality of earnings associated with those bookings, we can continue our momentum into '27 and offset the Plaquemines sort of equity and earnings piece as we head forward. So you should take confidence in that book to build translating into revenue and earnings to do just that. And that's probably all I'll say now, because we've got to really get more detail in yesterday and we'll break it down in a very transparent way where we're starting from, et cetera, as we go forward.
+--------------------------------------------------------------------------------
+Unidentified Participant,     [19]
+--------------------------------------------------------------------------------
+Okay, thank you very much.
+--------------------------------------------------------------------------------
+Operator,     [20]
+--------------------------------------------------------------------------------
+We've reached the end of the Q&A session. I will now turn the call back to Stuart Bradie for closing remarks.
+--------------------------------------------------------------------------------
+Stuart Bradie, KBR Inc - Chairman of the Board, President, Chief Executive Officer    [21]
+--------------------------------------------------------------------------------
+Thank you. Thank you for this morning. A fairly clean water for KBR, but very exciting as well. The businesses continue to perform. The growth around STS, particularly a standout, but the performance on margins in both businesses was terrific, as was the cash generation.
+The progress on separation remains firmly on track. All things are converging and we're having more and more confidence around the achieving not only the regulatory pieces of this, but actually the hard work around systems and the bifurcation of those. And we're testing them and they're working the way they should. So we're feeling really good about that.
+So all up, looking forward to Invester Day and describing in detail more about both businesses. As I said, Michael and I and the whole team are looking forward to that to show our wares, so to speak. And we'll see you there.
+Thank you very much.
+--------------------------------------------------------------------------------
+Operator,     [22]
+--------------------------------------------------------------------------------
+This concludes today's call. Thank you for attending. You may now disconnect.
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+Preliminary Transcript: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+THE LONDON STOCK EXCHANGE GROUP AND ITS AFFILIATES (COLLECTIVELY, "LSEG") RESERVES THE RIGHT TO MAKE CHANGES TO DOCUMENTS, CONTENT, OR OTHER INFORMATION ON THIS WEB SITE WITHOUT OBLIGATION TO NOTIFY ANY PERSON OF SUCH CHANGES. NO CONTENT MAY BE MODIFIED, REVERSE ENGINEERED, REPRODUCED, OR DISTRIBUTED IN ANY FORM BY ANY MEANS, OR STORED IN A DATABASE OR RETRIEVAL SYSTEM, WITHOUT THE PRIOR WRITTEN PERMISSION OF LSEG. THE CONTENT SHALL NOT BE USED FOR ANY UNLAWFUL OR UNAUTHORIZED PURPOSES. LSEG DOES NOT GUARANTEE THE ACCURACY, COMPLETENESS, TIMELINESS, OR AVAILABILITY OF THE CONTENT. LSEG IS NOT RESPONSIBLE FOR ANY ERRORS OR OMISSIONS, REGARDLESS OF THE CAUSE, FOR THE RESULTS OBTAINED FROM THE USE OF THE CONTENT. IN NO EVENT SHALL LSEG BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, EXEMPLARY, COMPENSATORY, PUNITIVE, SPECIAL, OR CONSEQUENTIAL DAMAGES, COSTS, EXPENSES, LEGAL FEES, OR LOSSES (INCLUDING, WITHOUT LIMITATION, LOST INCOME OR LOST PROFITS AND OPPORTUNITY COSTS OR LOSSES CAUSED BY NEGLIGENCE) IN CONNECTION WITH ANY USE OF THE CONTENT EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+--------------------------------------------------------------------------------
+Copyright 2026 LSEG. All Rights Reserved.
+--------------------------------------------------------------------------------
