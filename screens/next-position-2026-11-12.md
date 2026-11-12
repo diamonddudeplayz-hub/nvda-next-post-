@@ -4,7 +4,9 @@ Prices are the 11 Nov 2026 close. Working notes for Darren's decision, not a pos
 
 ## 1. The answer
 
-Nothing clears the full bar, and I would not move the OSIS capital at full size today. The closest fit is **KBR ($36.29, $4.6B)**. It is the only name where three mechanisms show up in filings at once: a dated reclassification (the government business is spun off as Trinzic on 4 January 2027, Form 10 on file), a de-rate from $69 to $36 that left it on 9.0x earnings against a 15.4x median since 2020 (5th percentile), and a record $5.8B backlog (+35%) in the half that stays. Four directors bought $0.95M of stock in May and no insider has sold in twelve months. The problem arrived yesterday. At its investor day KBR reportedly set the standalone margin target at "above 12%" against the 19.7% segment margin it reports today, and the stock fell 6.7% on about 1.8 times normal volume. I could not open the release or the deck (both hosts are blocked here), so the number that decides the sum of the parts is one I only have second hand. My weighted value is $38.8, 7% above price, which is no better than OSIS (+6%), Napco (+8%) or Trimble (+11%). **Hess Midstream ($30.92)** pays the most for waiting: a 10.5% distribution covered about 1.4x by guided 2027 free cash flow, under a new Chevron contract with a minimum revenue commitment through 2033. It also fails two trap tests (revenue is shrinking, leverage goes to 3.75-4.0x), and when I ran the symmetry test the 15% drop on the deal looked about right. Leidos and Amentum are cheap for a reason I can't falsify from here: federal budgets. I'd put it at 60/40 that the right move is no switch, with at most a 3-5% starter in KBR. What would change my mind on KBR: the investor-day deck showing standalone 2026 adjusted EBITDA at or above $430M with net debt at or below $0.6B after the Trinzic cash comes back, which would put the remaining company near 6x EBITDA. Below $375M, the split is just two small companies at the multiple they deserve.
+*Revised later on 12 Nov after reading the KBR investor-day transcript, both sell-side notes, the LSEG estimates and 14 transcripts. Detail and the eight corrections are in `../kbr/KBR-review-2026-11-12.md`.*
+
+Nothing clears the full bar, and I would not move the OSIS capital at full size today. On the first pass **KBR ($36.29, $4.6B)** was the closest fit: a dated reclassification (the government business is spun off as Trinzic on 4 January 2027), a de-rate from $72 to $36, and a growing backlog in the half that stays. The full read took most of that away. The investor day on 11 November put the standalone company at about $425M of 2027 EBITDA on a 12% margin, 11% under the more cautious of the two segment models I have, and the stock's 6.7% fall matches that cut. On EV/EBITDA the stock is near its own average (about 7x against 7.5x), the backlog that converts to revenue is $4.2B and not $5.8B, and I had double counted the retained Trinzic stake. My weighted value is now $37.6, about 4% above price, behind OSIS (+6%), Napco (+8%) and Trimble (+11%). I would not buy KBR before the spin. **Hess Midstream ($30.92)** pays the most for waiting: a 10.5% distribution covered about 1.4x by guided 2027 free cash flow, under a new Chevron contract with a minimum revenue commitment through 2033. It fails two trap tests (revenue is shrinking, leverage goes to 3.75-4.0x), and on the symmetry test the 15% drop on the deal looked about right. Leidos and Amentum are cheap on a fear I can't falsify from here, which is federal budgets. What would change my mind on KBR now: Trinzic's own 2027 numbers, and the price either half trades at once KBR starts selling its 19.9% stake in 2027.
 
 One thing the wider screen did show. In this market the cheapest names against their own ten years are not small hardware companies. They are large franchises under a single named fear: Adobe (2nd percentile), Intuit (4th), FICO (1st), Zoetis (5th), Gartner (7th), Accenture (7th), Leidos (4th). You already own the cleanest one.
 
@@ -14,7 +16,7 @@ Tests: 1 reported evidence of the mechanism; 2 the "market thinks X, actually Y"
 
 | Name | Mech. | Market thinks X, actually Y | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 (last four, oldest first) | Multiple vs own median (percentile) | Implied 5-yr FCF growth (8.5% / 10%) | Weighted value vs price | Dated event | Number to watch |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| **KBR** | A + C + D | A government contractor with a shrinking NASA book. From 4 Jan it is two companies, and the one that keeps the name grew revenue 26% in Q3 on a record backlog. | P | P | P | P | ~ | P: net debt 2.1x, shares falling | P: 7 analysts | P: +4.4%, +5.5%, +9.5%, +11.7% | 9.0x fwd vs 15.4x since 2020 (5th) | 0.3% / 5.9% | $38.8 vs $36.29 (+7%) | Spin 4 Jan 2027; Q4 and first standalone guide, late Feb | Standalone 2027 adj. EBITDA guide: $430M+ confirms, under $375M breaks |
+| **KBR** | A + C + D | A government contractor with a shrinking NASA book. From 4 Jan it is two companies. The one that keeps the name grew revenue 26% in Q3, but starts at a 10% margin once costs are allocated. | P | P | P | P | ~ | P: net debt 2.1x, shares falling | P: 7 analysts | P: +4.4%, +5.5%, +9.5%, +11.7% | 9.0x fwd vs 15.4x since 2020 (5th); EV/EBITDA about 7x vs 7.5x average (Wells Fargo) | 0.3% / 5.9% on $415M trailing FCF; Wells has $302M for 2026 | $37.6 vs $36.29 (+4%) | Spin 4 Jan 2027; Q4 and first standalone guide, 24 Feb (LSEG) | 2027 guide against the $425M target; Trinzic's 2027 EBITDA |
 | **HESM** | B + C | A Bakken pipe whose sponsor just cut its own tariffs. 80% of expected Chevron revenue is now a contractual minimum through 2033 and the public float owns 100%. | P | ~ | P on yield | P | P | F: revenue falling, leverage 3.75-4.0x | P: 7 | P: +8.8%, +4.9%, +13.7%, +9.2% | 10.1% trailing yield vs 7.5% median (96th percentile of yield) | perpetual -1.8% / -0.3% (single-stage, see page) | $33.5 incl. distribution vs $30.92 (+8%) | Deal close by year-end; updated 2027 guide after close; Q4 late Jan | 2027 adj. FCF: $575M+ confirms, under $500M puts the distribution in play |
 | **LDOS** | C + (D) | Federal IT is being cut. EPS grew 19% in Q3 and guidance was raised three quarters running. | P | P | P | P | ~ | ~: 2027 EPS consensus down 7% after the SES joint venture | F: 15 | P: +5.9%, +7.6%, +12.1%, +19.4% | 10.5x trailing vs 15.4x (3rd); 11.2x fwd vs 13.7x (14th) | -8.3% / -3.3% | $135.6 vs $133.89 (+1%) | Q4 and 2027 guide, mid Feb 2027 | 2027 EPS guide midpoint: $12.00+ confirms, under $11.50 breaks |
 | **AMTM** | C + D | A levered roll-up with falling revenue. Backlog is $48.2B (+8%) and EPS guidance went up in the quarter revenue guidance went down. | P | ~ | ~: 9.3x, no history | P | ~ | F: revenue -2%, leverage 3.0x | ~: 12 | P: +6.5%, +4.4%, +6.8%, +9.6% | 9.3x FY26 guide; listed Sept 2024 | 3.1% / 8.9% | $23.8 vs $22.73 (+5%) | FY26 results and FY27 guide, about 23 Nov 2026 | FY27 revenue guide: flat or better confirms, a decline of 3% or more breaks |
@@ -82,7 +84,7 @@ The ITRI median here is 18.5x because this band starts in June 2015; yesterday's
 | 9 months to 2 Oct 2026 (release, 29 Oct) | Revenue $M | vs 2025 | Segment adj. EBITDA $M | Margin | Backlog $M | vs year ago |
 |---|---|---|---|---|---|---|
 | Mission Technology (becomes Trinzic) | 3,870 | -4.3% | 441 | 11.4% | 11,890 (17,294 with options) | -5.3% |
-| Sustainable Technology (stays KBR) | 2,065 | +11.1% | 407 | 19.7% (21.4% a year ago) | 5,828 | +35.2% |
+| Sustainable Technology (stays KBR) | 2,065 | +11.1% | 407 | 19.7% (21.4% a year ago) | 5,828, of which 4,200 converts to consolidated revenue and 1,600 is joint-venture share | +35.2% |
 
 - Third quarter alone: Sustainable Technology revenue $762M against $605M (+26%), book-to-bill 1.3. Mission revenue $1,266M against $1,326M, with a NASA insourcing debooking.
 - Consolidated: TTM adjusted EBITDA $1,015M, net leverage 2.1x, FY26 guide reaffirmed at adjusted EPS $3.87-4.22 and adjusted EBITDA $980-1,040M.
@@ -92,31 +94,32 @@ The ITRI median here is 18.5x because this band starts in June 2015; yesterday's
 - Insiders: four open-market purchases totalling $0.95M on 15 and 21 May 2026, no sales in twelve months (Forms 4).
 - Adjusted EPS by year, from the year-end releases: $1.69, $1.73, $2.42, $2.71, $2.91, $3.34, $3.93 (2019-2025). Before 2019 KBR was a different company and I left it out, so the band is seven years, not ten.
 
-**The investor day, which I only have second hand.** Press summaries of the 11 November release say standalone KBR targets organic revenue growth above 10% a year for 2026-2029 (excluding megaprojects over $1B), an adjusted EBITDA margin above 12% for 2027-2029, free cash flow conversion above 85% and net leverage below 2.5x. The stock closed down 6.7% (3.35M shares against 1.2-2.2M on the prior eight days). Segment margin less all corporate cost is 16.3% for the nine months ($336M on $2,065M), so 12% is either a floor with room in it, a mix shift toward lower-margin engineering work, or stranded cost I can't see. I don't know which, and it is the whole valuation.
+**The investor day (transcript, 11 Nov 2026).** Standalone 2026 revenue about $2.9B. The segment exits 2026 near $550M of EBITDA including about $140M from the LNG joint venture, which falls to $40-50M in 2027. Excluding LNG the margin is about 14%; after corporate allocation and the UK pension transfer the reported baseline is about 10%, or roughly $425M including LNG. The 2027 target is above $425M at about 12% excluding LNG, on a $55M standalone corporate cost base. To 2029: organic growth of at least 10% a year excluding megaprojects, revenue about $3.85B, margin 12% or better, free cash flow conversion 85% or better. Net leverage is below 2x at separation and below 1x once the 19.9% Trinzic stake is sold, which the CFO expects within about twelve months. A dividend will be evaluated "one to two years following separation." The LNG split itself was not new: it has been disclosed each quarter since 5 May 2026. The stock closed down 6.7% (3.35M shares against 1.2-2.2M on the prior eight days).
 
 **Valuation.**
-- Band: 9.0x forward and trailing against medians of 15.4x and 17.9x since January 2020; 5th and 4th percentile; the low of the period was 7.0x. By year the forward median ran 11.0, 15.2, 17.4, 18.5, 17.6, 12.4, 9.1.
-- EV to TTM adjusted EBITDA: 6.6x. Amentum is at 7.9x on its own adjusted figure and Leidos about 9.1x.
-- Reverse DCF on $415M trailing free cash flow: 0.3% growth at 8.5%, 5.9% at 10%.
-- Sum of the parts, per KBR share. Trinzic at 7.5x on about $530M of standalone EBITDA with $1.6B net debt is roughly $2.4B of equity, or $19. That leaves $17, or $2.2B, for the rest. With about $0.5B of net debt after the cash distribution, the remaining company's enterprise value is about $2.7B: 6.0x if standalone EBITDA is $450M and 7.2x at the $375M the 12% target implies on about $3.1B of 2027 revenue. Every input after the first sentence is my estimate.
-- Transaction reference: none found on the same denominator. The Leidos and Altaris security joint venture did not disclose a value.
-- If the multiple never changes and 2027 consensus of $4.02 is met: about $36, flat, plus a 1.8% dividend.
+- P/E band: 9.0x forward and trailing against medians of 15.4x and 17.9x since January 2020; 5th and 4th percentile; low 7.0x.
+- EV to TTM adjusted EBITDA: 6.6x on my figures; Wells Fargo values it at 7.5x 2027 EBITDA, "broadly in line with its historical average." On this measure the stock is not at a trough.
+- Reverse DCF on $415M trailing free cash flow: 0.3% growth at 8.5%, 5.9% at 10%. Wells has free cash flow of $302M for 2026 and $471M for 2027, and LSEG shows it below consensus in each of 2022 to 2025, so the trailing figure flatters.
+- Consensus before the day (LSEG, 12 Nov): EPS $4.06, $4.00, $3.96 for 2026 to 2028; EBITDA $1,009M, $991M, $973M.
+- Transaction reference: none found on the same denominator.
+- If the multiple never changes and 2027 EPS is the $3.83-3.85 the two notes carry: about $34.5, down 5%.
 
-| Scenario | Prob. | Assumption | Value per KBR share |
+Sum of the parts per KBR share. Trinzic inputs are my estimates until its investor day is read.
+
+| | Bear | Base | Bull |
 |---|---|---|---|
-| Deep bear | 15% | Earnings miss: NASA and a megaproject slip, combined EPS $3.60, 7.5x | $27.0 |
-| Bear | 25% | Combined EPS $3.85, 8.5x; Trinzic sold by holders who don't want it | $32.7 |
-| Base | 40% | Consensus met ($4.04), 10x as two cleaner companies | $40.4 |
-| Bull | 20% | Remaining company at 10x EBITDA, Trinzic at peer multiple; about 12.5x combined | $52.0 |
-| **Weighted** | | | **$38.8 (+7%)** |
+| Remaining KBR, $425M of 2027 EBITDA at 6.5x / 7.5x / 9.0x, less about $425M net debt after the stake is sold | $18.5 | $21.9 | $27.0 |
+| Trinzic, $470M at 6.5x / $490M at 7.5x / $490M at 8.0x, less about $1.6B net debt | $11.5 | $16.5 | $18.4 |
+| Total | $30.0 | $38.4 | $45.4 |
+| Probability | 30% | 45% | 25% |
 
-The base case assumes one turn of re-rating. Without it the weighted value is about $37.2 (+3%).
+**Weighted: $37.6 (+4%).** Wells Fargo's own range is $27, $40 and $54. The bear case assumes both companies miss, not just a lower multiple.
 
-**Bear case at full strength.** The market just watched management describe the standalone company and sold it. A 12% margin target against a 20% segment margin says the segment figure flattered the business, probably through joint-venture equity income and unallocated cost. Sustainable Technology's margin already fell from 21.4% to 19.7% as engineering work outgrew licensing, and the ">10% growth" excludes megaprojects, which is where the lumpy risk sits. Trinzic is a shrinking government contractor with 3x leverage entering a market that has de-rated every peer; index funds and energy-minded holders may sell it on arrival. Two $2B companies carry two sets of public-company cost. And the stock has been at or near this multiple since mid-2025 without the Form 10 changing anyone's mind.
+**Bear case at full strength.** Management hits quarters and misses plans. EPS beat consensus in all 15 quarters from Q1 2023, but the May 2024 investor day promised $11.5B of revenue and $1.15B of EBITDA for 2027, revenue was cut to $9B in July 2025 when HomeSafe was terminated, and the two companies now add up to roughly $915-975M. In May 2026 the CFO said margins were "circa 20% for STS through 2026" and the CEO said of NASA "we're not seeing any real issue there"; NASA work was debooked in Q3. Reported EBITDA at the remaining company is flat near $425M through 2028 as LNG rolls off. Trinzic is a shrinking contractor with about 3x leverage, and KBR itself will be selling a fifth of it in blocks during 2027. The event funds that pushed for the split (Permian, Franklin Mutual, Irenic) have largely left, and Fidelity has trimmed from 15.2M to 13.5M shares.
 
-**Symmetry check.** If the investor day had guided a 17% margin and the stock had risen 7%, I would have called the thesis confirmed. So yesterday counts against, and I've cut the bull probability to 20% for it. The directors' purchases predate the targets and don't offset them.
+**Symmetry check.** If the investor day had guided a 17% margin and the stock had risen 7%, I would have called the thesis confirmed. So the day counts against, and the bull probability is 25% with a lower bull value. The directors' purchases predate the targets and don't offset them.
 
-**Catalyst and the number.** 4 January 2027: distribution completes (source: 29 Oct release). Late February 2027: first standalone guidance (last year's Q4 release was 26 February). Confirms: standalone 2027 adjusted EBITDA guided at $430M or more with year-end net debt at or below $0.6B. Breaks: below $375M, or the spin date slipping.
+**Catalyst and the number.** 4 January 2027: distribution completes (29 Oct release). 24 February 2027 (LSEG): first standalone guidance. Q2 to Q4 2027: block sales of the Trinzic stake. Confirms: 2027 guided at or above $425M with the LNG tail no more than $50M of it. Breaks: a guide below $425M, or the spin date slipping.
 
 ### Hess Midstream (HESM), $30.92, $3.96B for the public Class A shares, debt $3.6B
 
@@ -189,10 +192,10 @@ V verified in a primary source this session. S secondary only. I inferred or my 
 | KBR segment revenue, EBITDA, backlog, leverage, guidance, spin date, investor-day dates | Release, 8-K ex. 99.1, 29 Oct 2026 | V |
 | Trinzic debt $1,725M, $1,682M distribution, 80.1%, pro forma income | Form 10-12B/A ex. 99.1, 9 Nov 2026 | V |
 | One Trinzic share per two KBR shares | Form 10 pro forma assumption; final ratio is blank in the filing | V as an assumption |
-| KBR standalone targets (10% growth, 12% margin, 85% conversion, 2.5x) | Search summaries of the 11 Nov release and Benzinga | S |
-| Why 12% differs from 19.7% | Not found | U |
+| KBR standalone targets, bridge, leverage, stake sale, dividend | LSEG transcript of the 11 Nov investor day | V |
+| Why 12% differs from 19.7% | Transcript: 5-6 points LNG joint venture, 4 points allocated cost and pension, 2 points back at a $55M cost base | V |
 | KBR corporate cost about $95M a year; 16.3% margin after it | Segment EBITDA less consolidated | I |
-| Sum of the parts (Trinzic $530M EBITDA, 7.5x; remaining net debt $0.5B) | Mine | I |
+| Sum of the parts (Trinzic $470-490M EBITDA, $1.6B net debt) | Mine; Truist segment estimate $552M less an assumed corporate load | I |
 | KBR adjusted EPS 2019-2025 | Year-end releases; 2019-2020 and 2021-2022 pairs each from one release, later years cross-checked | V |
 | KBR insider purchases | Forms 4, code P | V |
 | KBR -6.7% on 11 Nov; volumes | Yahoo daily | V |
@@ -237,7 +240,7 @@ Then I stop and wait for the files.
 
 ## 7. Sizing
 
-- **KBR.** A starter of 3-5% is what the evidence supports. The deck is the gate to anything larger: standalone EBITDA of $430M+ and net debt under $0.6B would support 8-10%. Two timing notes. Spun-off shares often trade poorly in their first weeks as holders who didn't choose them sell, so buying after 4 January may be cheaper than buying before, and you can then own whichever half you actually want. It trades about $57M a day, so liquidity is not a constraint.
+- **KBR.** None before the spin. Spun-off shares often trade poorly in their first weeks, and here KBR is itself a seller of 19.9% of Trinzic during 2027. If either half becomes interesting it should be after 4 January, on filed standalone numbers.
 - **Hess Midstream.** Up to 5% if you want the yield while waiting on OSIS, and I would not call it a thesis. It overlaps Cheniere more than anything else here (correlation 0.48); both are US hydrocarbon volume under long contracts, though the commodity and the customer differ.
 - **Leidos, Amentum.** Zero for now. They move with KBR (correlations 0.61 and 0.53), so owning two of the three is one bet on federal budgets. If you want that bet, Amentum's 23 November print is the nearest dated test in the whole list and costs nothing to watch.
 - **Overlap with the book.** KBR, Leidos and Amentum correlate 0.2-0.3 with Itron and OSIS, 0.1-0.2 with Cheniere and Nvidia, and under 0.15 with Wheaton. KBR's energy half sells engineering into LNG and ammonia projects, a mild overlap with Cheniere's capital cycle.
@@ -246,8 +249,8 @@ Then I stop and wait for the files.
 
 ## 8. What I could not do
 
-- **Read the KBR investor-day release or deck.** `www.globenewswire.com` and `investors.kbr.com` do not resolve from this environment and no 8-K has been filed yet. If you want me to fetch them, those two hosts need adding to the allowlist. Every standalone KBR target above is from search summaries.
-- **Transcripts and sell-side notes** for any of the four. Claims about what analysts think are from aggregator headlines and marked S.
+- **The KBR slide deck and the Trinzic investor day (12 Nov).** The KBR transcript, two notes and LSEG files are now read. The two hosts are on the allowlist; the deck has not been fetched.
+- **Transcripts and sell-side notes** for Hess Midstream, Leidos and Amentum. Claims about what analysts think are from aggregator headlines and marked S.
 - **Beat history beyond four quarters,** and any segment-level beat rate.
 - **13G and 13F holders.** Not pulled. Amentum's sponsor stakes are from memory of the 2024 deal and I left the percentages out.
 - **USAspending.** I did not check funded obligations for Leidos, Amentum or Trinzic. For a larger position in any of them that is the first thing to run.
