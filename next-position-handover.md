@@ -40,13 +40,18 @@ A name must answer both. Cheap-with-a-good-story is NOT enough (see Adobe lesson
   mispriced-by-category** names (Itron). Decide which you're optimizing each time.
 
 ## Portfolio / positioning state
-- **NVDA:** **FULLY EXITED at $181** (sold the last 5 on **Nov 9** into the **Jensen Huang
-  board-investigation / affair-with-alleged-Chinese-spy scandal**; had already trimmed 7).
-  Now **flat NVDA** — capital freed for the barbell long-end. Prior thesis held: at 12.6x NTM
-  it was only cheap if ~70–90% growth printed (FY27 rev +90%, FY28 +70%); constrained reward +
-  **fat left tail** — and the tail just delivered an **unforecastable governance/key-man/
-  geopolitical** hit, which is *exactly why* you de-risk concentrated single-names. Nov 17
-  earnings now overshadowed by the probe.
+- **NVDA:** **holds a 5-share stub** (trimmed 7 earlier; kept 5 ≈ ~$800 now). The Huang scandal
+  **escalated hard (Nov 11–12):** board reportedly **preparing to OUST Huang** (WSJ/CBS/NYT);
+  **FBI investigating** his ties to Alice Huang (suspected MSS asset, ex-Megaspeed, ~$5B NVDA
+  chip buyer); a **second affair** (with a direct report); **shareholder suit**; **Congress**
+  probing China chip-diversion. Stock ~$187 (Nov 6) → ~**$160 AH**, **−~$450B mkt cap since
+  Nov 8**. Baird/Aletheia cut. This is now **key-man + national-security/export + governance**,
+  not just a personal scandal. **The stub is noise by design** — the fat-left-tail the trim was
+  sized for fired in its most lurid form; barbell working. Prior thesis held: 12.6x NTM only
+  cheap if ~70–90% growth prints; constrained reward + **fat tail** that keeps printing (Jul
+  pacing, Oct lab-rev, Nov 5 DC-slowdown, Nov 8–12 Huang). Catalyst: **Nov 17** earnings, now a
+  sideshow to the ouster drama. Note: adding here = catching a knife mid-crisis (ouster + FBI +
+  China + earnings all unresolved) — a gamble, not an edge; framework doesn't support it.
 - **Owns:** **Itron** (ITRI — the benchmark), **Adobe** (ADBE — sum-of-parts floor, undated catalyst).
 - **Theme focus:** grid modernization / AI-power demand. Soros 13F is heavily long this,
   funded by trimming mega-tech (AMZN −39%, MSFT −10%, NVDA −0.8%; adding ETR, DLR, SPGI, SRE,
@@ -55,7 +60,7 @@ A name must answer both. Cheap-with-a-good-story is NOT enough (see Adobe lesson
 ## Names assessed (verdicts)
 | Name | Verdict | Catalyst |
 |---|---|---|
-| **NVDA** | **Fully exited at $181 (Nov 9 Huang board-probe/scandal).** Flat now. Cyclical-peak de-rate + fat left tail — the tail hit. | Nov 17 earnings (now under the probe's shadow) |
+| **NVDA** | **Holds 5-share stub** (trimmed 7). Cyclical-peak de-rate + fat left tail — Nov 9 Huang board-probe is the latest tail hit. Stub too small to matter = barbell working. | Nov 17 earnings (under the probe's shadow) |
 | **NOW** | Cheap (22x, 6.3% FCF yld, −40% yr), cash-gen, "govern the agent exhaust," but **take-rate (assists vs seat erosion) unproven in cRPO + falling sub-GM.** Paid-to-wait, not a trade. | Fuzzy 2027 "hockey stick" — fails bar |
 | **GOOGL** | Buyer + own-silicon (TPU; Apple/Anthropic), 20x. The call is **Search** (AI accretive or cannibalistic). Not a catalyst trade. | — |
 | **ADBE** (own) | Two businesses; **enterprise (AEP) alone > EV = asset floor**; AI-content → governance demand. But **undated catalyst (Dec 9 / CEO reframe)** = the value-trap-timing risk. | Undated |
