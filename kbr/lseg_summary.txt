@@ -1,0 +1,373 @@
+
+=== Revenue | Government Solutions | Estimate Details KBR (1).xlsx
+current contributors: D.A. DAVIDSON & COMPANY (Thielman, Brent E); TRUIST SECURITIES (Sommer, Tobey O)
+FY Dec-19  n=  2 mean=   4039.5 actual=   3925.0   -2.8% hi=4118.0 lo=3961.0 
+FY Dec-20  n=  3 mean=3953.33333 actual=   3934.0   -0.5% hi=4000.0 lo=3901.0 
+FY Dec-21  n=  3 mean=6169.33333 actual=   6149.0   -0.3% hi=6275.0 lo=6112.0 
+FY Dec-22  n=  3 mean=5365.33333 actual=   5320.0   -0.8% hi=5369.0 lo=5363.0 
+Q1 Mar-23  n=  3 mean=   1281.0 actual=   1328.0   +3.7% hi=1299.0 lo=1250.0 
+Q2 Jun-23  n=  3 mean=1355.33333 actual=   1352.0   -0.2% hi=1413.0 lo=1300.0 
+Q3 Sep-23  n=  2 mean=   1374.0 actual=   1345.0   -2.1% hi=1398.0 lo=1350.0 
+Q4 Dec-23  n=  3 mean=   1344.0 actual=   1328.0   -1.2% hi=1356.0 lo=1325.0 
+FY Dec-23  n=  3 mean=   5369.0 actual=   5353.0   -0.3% hi=5381.0 lo=5350.0 
+Q1 Mar-24  n=  3 mean=1339.33333 actual=   1386.0   +3.5% hi=1390.0 lo=1300.0 
+Q2 Jun-24  n=  3 mean=   1431.0 actual=   1397.0   -2.4% hi=1448.0 lo=1420.0 
+Q3 Sep-24  n=  3 mean=   1471.0 actual=   1490.0   +1.3% hi=1479.0 lo=1460.0 
+Q4 Dec-24  n=  2 mean=   1554.0 actual=   1598.0   +2.8% hi=1575.0 lo=1533.0 
+FY Dec-24  n=  2 mean=   5827.0 actual=   5871.0   +0.8% hi=5848.0 lo=5806.0 
+Q1 Mar-25  n=  2 mean=   1598.0 actual=   1505.0   -5.8% hi=1606.0 lo=1590.0 
+Q2 Jun-25  n=  2 mean=   1506.5 actual=   1412.0   -6.3% hi=1525.0 lo=1488.0 
+Q3 Sep-25  n=  2 mean=   1419.0 actual=   1406.0   -0.9% hi=1425.0 lo=1413.0 
+Q4 Dec-25  n=  2 mean=   1301.5 actual=   1885.0  +44.8% hi=1325.0 lo=1278.0 
+FY Dec-25  n=  2 mean=   5624.5 actual=   7786.0  +38.4% hi=5648.0 lo=5601.0 
+Q1 Mar-26  n=  2 mean=   1355.5 actual=   1296.0   -4.4% hi=1375.0 lo=1336.0 
+Q2 Jun-26  n=  2 mean=   1362.0 actual=   1308.0   -4.0% hi=1425.0 lo=1299.0 
+Q3 Sep-26  n=  2 mean=   1479.5 actual=        -         hi=1525.0 lo=1434.0 
+Q4 Dec-26  n=  2 mean=   1485.0 actual=        -         hi=1500.0 lo=1470.0 
+FY Dec-26  n=  2 mean=   5666.5 actual=        -         hi=5825.0 lo=5508.0 
+Q1 Mar-27  n=  1 mean=   1348.0 actual=        -         hi=1348.0 lo=1348.0 
+Q2 Jun-27  n=  1 mean=   1354.0 actual=        -         hi=1354.0 lo=1354.0 
+Q3 Sep-27  n=  1 mean=   1477.0 actual=        -         hi=1477.0 lo=1477.0 
+Q4 Dec-27  n=  1 mean=   1473.0 actual=        -         hi=1473.0 lo=1473.0 
+FY Dec-27  n=  2 mean=   5976.0 actual=        -         hi=6300.0 lo=5652.0 
+
+=== EBITDA | Sustainable Technology Solutions | Estimate Details KBR (10).xlsx
+current contributors: D.A. DAVIDSON & COMPANY (Thielman, Brent E); TRUIST SECURITIES (Sommer, Tobey O)
+FY Dec-19  n=  1 mean=     91.0 actual=        -         hi=91.0 lo=91.0 
+FY Dec-20  n=  2 mean=     89.5 actual=    130.0  +45.3% hi=92.0 lo=87.0 
+FY Dec-21  n=  1 mean=    192.0 actual=    191.0   -0.5% hi=192.0 lo=192.0 
+FY Dec-22  n=  3 mean=221.33333 actual=    224.0   +1.2% hi=224.0 lo=216.0 
+Q1 Mar-23  n=  2 mean=    126.5 actual=     82.0  -35.2% hi=193.0 lo=60.0 
+Q2 Jun-23  n=  3 mean=     73.0 actual=     80.0   +9.6% hi=76.0 lo=70.0 
+Q3 Sep-23  n=  2 mean=     83.0 actual=     89.0   +7.2% hi=85.0 lo=81.0 
+Q4 Dec-23  n=  3 mean= 84.33333 actual=     85.0   +0.8% hi=90.0 lo=80.0 
+FY Dec-23  n=  3 mean=335.33333 actual=    336.0   +0.2% hi=341.0 lo=331.0 
+Q1 Mar-24  n=  3 mean= 85.33333 actual=     94.0  +10.2% hi=88.0 lo=83.0 
+Q2 Jun-24  n=  3 mean= 92.33333 actual=     98.0   +6.1% hi=95.0 lo=90.0 
+Q3 Sep-24  n=  3 mean= 96.66667 actual=     98.0   +1.4% hi=100.0 lo=93.0 
+Q4 Dec-24  n=  2 mean=     95.0 actual=    108.0  +13.7% hi=95.0 lo=95.0 
+FY Dec-24  n=  2 mean=    385.0 actual=    398.0   +3.4% hi=385.0 lo=385.0 
+Q1 Mar-25  n=  2 mean=    101.5 actual=    124.0  +22.2% hi=103.0 lo=100.0 
+Q2 Jun-25  n=  2 mean=    117.0 actual=    131.0  +12.0% hi=118.0 lo=116.0 
+Q3 Sep-25  n=  2 mean=    129.0 actual=    123.0   -4.7% hi=130.0 lo=128.0 
+Q4 Dec-25  n=  2 mean=    131.0 actual=    121.0   -7.6% hi=137.0 lo=125.0 
+FY Dec-25  n=  2 mean=    507.0 actual=    497.0   -2.0% hi=513.0 lo=501.0 
+Q1 Mar-26  n=  2 mean=    127.5 actual=    137.0   +7.5% hi=130.0 lo=125.0 
+Q2 Jun-26  n=  2 mean=    128.0 actual=    123.0   -3.9% hi=130.0 lo=126.0 
+Q3 Sep-26  n=  2 mean=    131.5 actual=        -         hi=140.0 lo=123.0 
+Q4 Dec-26  n=  2 mean=    133.0 actual=        -         hi=140.0 lo=126.0 
+FY Dec-26  n=  2 mean=    524.5 actual=        -         hi=540.0 lo=509.0 
+Q1 Mar-27  n=  1 mean=    130.0 actual=        -         hi=130.0 lo=130.0 
+Q2 Jun-27  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q3 Sep-27  n=  1 mean=    119.0 actual=        -         hi=119.0 lo=119.0 
+Q4 Dec-27  n=  1 mean=    123.0 actual=        -         hi=123.0 lo=123.0 
+FY Dec-27  n=  2 mean=    548.5 actual=        -         hi=600.0 lo=497.0 
+
+=== Backlog Value | Consolidated | Estimate Details KBR (11).xlsx
+current contributors: VERTICAL RESEARCH PARTNERS (Dudas, Michael S)
+FY Dec-19  n=  1 mean=  14600.0 actual=        -         hi=14600.0 lo=14600.0 
+FY Dec-20  n=  1 mean= 11494.17 actual=  15115.0  +31.5% hi=11494.17 lo=11494.17 
+FY Dec-21  n=  1 mean= 18153.59 actual=  14973.0  -17.5% hi=18153.59 lo=18153.59 
+FY Dec-22  n=  1 mean=  18548.0 actual=        -         hi=18548.0 lo=18548.0 
+FY Dec-23  n=  1 mean=  19758.0 actual=        -         hi=19758.0 lo=19758.0 
+FY Dec-24  n=  1 mean=  22086.0 actual=        -         hi=22086.0 lo=22086.0 
+FY Dec-25  n=  1 mean=  22762.0 actual=        -         hi=22762.0 lo=22762.0 
+FY Dec-26  n=  1 mean=  23485.0 actual=        -         hi=23485.0 lo=23485.0 
+FY Dec-27  n=  1 mean=  23432.0 actual=        -         hi=23432.0 lo=23432.0 
+
+=== Revenue | Sustainable Technology Solutions | Estimate Details KBR (2).xlsx
+current contributors: TRUIST SECURITIES (Sommer, Tobey O); D.A. DAVIDSON & COMPANY (Thielman, Brent E)
+FY Dec-19  n=  2 mean=    383.5 actual=    374.0   -2.5% hi=384.0 lo=383.0 
+FY Dec-20  n=  3 mean=314.66667 actual=    303.0   -3.7% hi=326.0 lo=307.0 
+FY Dec-21  n=  3 mean=   1170.0 actual=   1190.0   +1.7% hi=1180.0 lo=1155.0 
+FY Dec-22  n=  3 mean=1236.66667 actual=   1244.0   +0.6% hi=1242.0 lo=1231.0 
+Q1 Mar-23  n=  3 mean=    323.0 actual=    375.0  +16.1% hi=350.0 lo=300.0 
+Q2 Jun-23  n=  3 mean=363.66667 actual=    401.0  +10.3% hi=375.0 lo=351.0 
+Q3 Sep-23  n=  2 mean=    400.5 actual=    425.0   +6.1% hi=425.0 lo=376.0 
+Q4 Dec-23  n=  3 mean=431.33333 actual=    402.0   -6.8% hi=450.0 lo=422.0 
+FY Dec-23  n=  3 mean=1632.33333 actual=   1603.0   -1.8% hi=1651.0 lo=1623.0 
+Q1 Mar-24  n=  3 mean=416.33333 actual=    432.0   +3.8% hi=420.0 lo=414.0 
+Q2 Jun-24  n=  3 mean=449.33333 actual=    458.0   +1.9% hi=450.0 lo=449.0 
+Q3 Sep-24  n=  3 mean=    478.0 actual=    457.0   -4.4% hi=483.0 lo=475.0 
+Q4 Dec-24  n=  2 mean=    450.0 actual=    524.0  +16.4% hi=450.0 lo=450.0 
+FY Dec-24  n=  2 mean=   1797.0 actual=   1871.0   +4.1% hi=1797.0 lo=1797.0 
+Q1 Mar-25  n=  2 mean=    472.0 actual=    550.0  +16.5% hi=484.0 lo=460.0 
+Q2 Jun-25  n=  2 mean=    587.0 actual=    540.0   -8.0% hi=590.0 lo=584.0 
+Q3 Sep-25  n=  2 mean=    551.5 actual=    525.0   -4.8% hi=558.0 lo=545.0 
+Q4 Dec-25  n=  2 mean=    556.5 actual=   1295.0 +132.7% hi=583.0 lo=530.0 
+FY Dec-25  n=  2 mean=   2171.5 actual=   5581.0 +157.0% hi=2198.0 lo=2145.0 
+Q1 Mar-26  n=  2 mean=    547.5 actual=    627.0  +14.5% hi=550.0 lo=545.0 
+Q2 Jun-26  n=  2 mean=    556.0 actual=    676.0  +21.6% hi=562.0 lo=550.0 
+Q3 Sep-26  n=  2 mean=    592.0 actual=        -         hi=609.0 lo=575.0 
+Q4 Dec-26  n=  2 mean=    613.5 actual=        -         hi=652.0 lo=575.0 
+FY Dec-26  n=  2 mean=   2407.0 actual=        -         hi=2564.0 lo=2250.0 
+Q1 Mar-27  n=  1 mean=    665.0 actual=        -         hi=665.0 lo=665.0 
+Q2 Jun-27  n=  1 mean=    679.0 actual=        -         hi=679.0 lo=679.0 
+Q3 Sep-27  n=  1 mean=    664.0 actual=        -         hi=664.0 lo=664.0 
+Q4 Dec-27  n=  1 mean=    698.0 actual=        -         hi=698.0 lo=698.0 
+FY Dec-27  n=  2 mean=   2602.5 actual=        -         hi=2705.0 lo=2500.0 
+
+=== Earnings Per Share | Consolidated | Estimate Details KBR (3).xlsx
+current contributors: KEYBANC CAPITAL MARKETS INC. (Jain, Sangita); WELLS FARGO SECURITIES, LLC (Revich, Jerry D); TRUIST SECURITIES (Sommer, Tobey O); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); OPPENHEIMER & CO., INC. (Zaffino, Ian A); EQUISIGHTS (Talsania, Parth); UBS EQUITIES (Fisher, Steven); VERTICAL RESEARCH PARTNERS (Dudas, Michael S)
+FY Dec-19  n= 11 mean=  1.67982 actual=     1.69   +0.6% hi=1.71 lo=1.638 guide=1.64 : 1.74
+FY Dec-20  n= 10 mean=   1.7049 actual=     1.73   +1.5% hi=1.78 lo=1.65 guide=1.60 : 1.80
+FY Dec-21  n= 10 mean=   2.3606 actual=     2.42   +2.5% hi=2.4 lo=2.34 guide=2.30 : 2.40
+FY Dec-22  n= 10 mean=   2.6338 actual=     2.71   +2.9% hi=2.65 lo=2.614 guide=2.60 : 2.65
+Q1 Mar-23  n= 10 mean=   0.5824 actual=     0.67  +15.0% hi=0.64 lo=0.52 
+Q2 Jun-23  n= 10 mean=   0.7184 actual=     0.74   +3.0% hi=0.75 lo=0.668 
+Q3 Sep-23  n=  8 mean=  0.74363 actual=     0.75   +0.9% hi=0.79 lo=0.704 
+Q4 Dec-23  n=  9 mean=    0.686 actual=     0.69   +0.6% hi=0.737 lo=0.601 
+FY Dec-23  n= 11 mean=  2.87673 actual=     2.91   +1.2% hi=2.94 lo=2.84 guide=2.76 : 2.96
+Q1 Mar-24  n=  9 mean=  0.70222 actual=     0.77   +9.7% hi=0.76 lo=0.65 
+Q2 Jun-24  n=  9 mean=  0.79233 actual=     0.83   +4.8% hi=0.81 lo=0.77 
+Q3 Sep-24  n=  8 mean=  0.83838 actual=     0.84   +0.2% hi=0.89 lo=0.8 
+Q4 Dec-24  n=  7 mean=  0.81643 actual=     0.91  +11.5% hi=0.86 lo=0.77 
+FY Dec-24  n=  9 mean=  3.25056 actual=     3.34   +2.8% hi=3.3 lo=3.21 guide=3.20 : 3.30
+Q1 Mar-25  n=  6 mean=    0.862 actual=     0.98  +13.7% hi=0.89 lo=0.84 
+Q2 Jun-25  n=  6 mean=    0.884 actual=     0.91   +2.9% hi=0.99 lo=0.805 
+Q3 Sep-25  n=  6 mean=  0.95517 actual=     1.02   +6.8% hi=0.98 lo=0.93 
+Q4 Dec-25  n=  9 mean=  0.94889 actual=     0.99   +4.3% hi=1.03 lo=0.89 
+FY Dec-25  n=  9 mean=  3.85333 actual=     3.39  -12.0% hi=3.95 lo=3.8 guide=3.78 : 3.88
+Q1 Mar-26  n=  8 mean=  0.90913 actual=     0.96   +5.6% hi=0.96 lo=0.84 
+Q2 Jun-26  n=  8 mean=  0.90363 actual=     0.99   +9.6% hi=1.0 lo=0.852 
+Q3 Sep-26  n=  8 mean=  1.00175 actual=     1.12  +11.8% hi=1.04 lo=0.956 
+Q4 Dec-26  n=  7 mean=  0.99243 actual=        -         hi=1.06 lo=0.92 
+FY Dec-26  n=  8 mean=  4.06438 actual=        -         hi=4.14 lo=3.99 guide=3.87 : 4.22
+Q1 Mar-27  n=  4 mean=   0.9905 actual=        -         hi=1.062 lo=0.92 
+Q2 Jun-27  n=  4 mean=  0.95875 actual=        -         hi=1.055 lo=0.87 
+Q3 Sep-27  n=  4 mean=   0.9595 actual=        -         hi=0.99 lo=0.9 
+Q4 Dec-27  n=  2 mean=    1.015 actual=        -         hi=1.04 lo=0.99 
+FY Dec-27  n=  8 mean=  3.99988 actual=        -         hi=4.25 lo=3.83 
+Q1 Mar-28  n=  2 mean=    0.905 actual=        -         hi=1.04 lo=0.77 
+Q2 Jun-28  n=  2 mean=     0.96 actual=        -         hi=0.97 lo=0.95 
+Q3 Sep-28  n=  2 mean=    1.005 actual=        -         hi=1.08 lo=0.93 
+Q4 Dec-28  n=  2 mean=     1.11 actual=        -         hi=1.16 lo=1.06 
+FY Dec-28  n=  5 mean=    3.964 actual=        -         hi=4.25 lo=3.62 
+
+=== EBITDA | Sustainable Technology Solutions | Estimate Details KBR (4).xlsx
+current contributors: D.A. DAVIDSON & COMPANY (Thielman, Brent E); TRUIST SECURITIES (Sommer, Tobey O)
+FY Dec-19  n=  1 mean=     91.0 actual=        -         hi=91.0 lo=91.0 
+FY Dec-20  n=  2 mean=     89.5 actual=    130.0  +45.3% hi=92.0 lo=87.0 
+FY Dec-21  n=  1 mean=    192.0 actual=    191.0   -0.5% hi=192.0 lo=192.0 
+FY Dec-22  n=  3 mean=221.33333 actual=    224.0   +1.2% hi=224.0 lo=216.0 
+Q1 Mar-23  n=  2 mean=    126.5 actual=     82.0  -35.2% hi=193.0 lo=60.0 
+Q2 Jun-23  n=  3 mean=     73.0 actual=     80.0   +9.6% hi=76.0 lo=70.0 
+Q3 Sep-23  n=  2 mean=     83.0 actual=     89.0   +7.2% hi=85.0 lo=81.0 
+Q4 Dec-23  n=  3 mean= 84.33333 actual=     85.0   +0.8% hi=90.0 lo=80.0 
+FY Dec-23  n=  3 mean=335.33333 actual=    336.0   +0.2% hi=341.0 lo=331.0 
+Q1 Mar-24  n=  3 mean= 85.33333 actual=     94.0  +10.2% hi=88.0 lo=83.0 
+Q2 Jun-24  n=  3 mean= 92.33333 actual=     98.0   +6.1% hi=95.0 lo=90.0 
+Q3 Sep-24  n=  3 mean= 96.66667 actual=     98.0   +1.4% hi=100.0 lo=93.0 
+Q4 Dec-24  n=  2 mean=     95.0 actual=    108.0  +13.7% hi=95.0 lo=95.0 
+FY Dec-24  n=  2 mean=    385.0 actual=    398.0   +3.4% hi=385.0 lo=385.0 
+Q1 Mar-25  n=  2 mean=    101.5 actual=    124.0  +22.2% hi=103.0 lo=100.0 
+Q2 Jun-25  n=  2 mean=    117.0 actual=    131.0  +12.0% hi=118.0 lo=116.0 
+Q3 Sep-25  n=  2 mean=    129.0 actual=    123.0   -4.7% hi=130.0 lo=128.0 
+Q4 Dec-25  n=  2 mean=    131.0 actual=    121.0   -7.6% hi=137.0 lo=125.0 
+FY Dec-25  n=  2 mean=    507.0 actual=    497.0   -2.0% hi=513.0 lo=501.0 
+Q1 Mar-26  n=  2 mean=    127.5 actual=    137.0   +7.5% hi=130.0 lo=125.0 
+Q2 Jun-26  n=  2 mean=    128.0 actual=    123.0   -3.9% hi=130.0 lo=126.0 
+Q3 Sep-26  n=  2 mean=    131.5 actual=        -         hi=140.0 lo=123.0 
+Q4 Dec-26  n=  2 mean=    133.0 actual=        -         hi=140.0 lo=126.0 
+FY Dec-26  n=  2 mean=    524.5 actual=        -         hi=540.0 lo=509.0 
+Q1 Mar-27  n=  1 mean=    130.0 actual=        -         hi=130.0 lo=130.0 
+Q2 Jun-27  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q3 Sep-27  n=  1 mean=    119.0 actual=        -         hi=119.0 lo=119.0 
+Q4 Dec-27  n=  1 mean=    123.0 actual=        -         hi=123.0 lo=123.0 
+FY Dec-27  n=  2 mean=    548.5 actual=        -         hi=600.0 lo=497.0 
+
+=== EBITDA Margin | Consolidated | Estimate Details KBR (5).xlsx
+current contributors: KEYBANC CAPITAL MARKETS INC. (Jain, Sangita); TRUIST SECURITIES (Sommer, Tobey O); OPPENHEIMER & CO., INC. (Zaffino, Ian A); WELLS FARGO SECURITIES, LLC (Revich, Jerry D)
+Q4 Dec-24  n=  3 mean=     11.1 actual=    10.74   -3.2% hi=11.5 lo=10.7 
+FY Dec-24  n=  3 mean= 10.86667 actual=    11.24   +3.4% hi=11.3 lo=10.4 
+Q1 Mar-25  n=  3 mean=     10.9 actual=    11.82   +8.4% hi=11.1 lo=10.6 
+Q2 Jun-25  n=  3 mean=     10.8 actual=     12.4  +14.8% hi=11.0 lo=10.6 
+Q3 Sep-25  n=  3 mean=     12.2 actual=   12.428   +1.9% hi=12.4 lo=11.9 
+Q4 Dec-25  n=  5 mean=    12.52 actual=    12.63   +0.9% hi=13.2 lo=11.8 
+FY Dec-25  n=  6 mean= 12.16667 actual=   12.429   +2.2% hi=12.4 lo=11.6 
+Q1 Mar-26  n=  4 mean=   12.375 actual=    13.05   +5.5% hi=12.9 lo=11.9 
+Q2 Jun-26  n=  4 mean=   12.225 actual=     13.0   +6.3% hi=12.5 lo=12.0 
+Q3 Sep-26  n=  4 mean=   11.875 actual=    21.17  +78.3% hi=12.0 lo=11.6 
+Q4 Dec-26  n=  4 mean=     11.8 actual=        -         hi=12.4 lo=11.1 
+FY Dec-26  n=  4 mean=     12.4 actual=        -         hi=12.9 lo=11.4 
+Q1 Mar-27  n=  2 mean=    11.75 actual=        -         hi=12.3 lo=11.2 
+Q2 Jun-27  n=  2 mean=    11.45 actual=        -         hi=11.7 lo=11.2 
+Q3 Sep-27  n=  2 mean=    11.05 actual=        -         hi=11.8 lo=10.3 
+Q4 Dec-27  n=  2 mean=     11.2 actual=        -         hi=11.9 lo=10.5 
+FY Dec-27  n=  4 mean=   11.925 actual=        -         hi=12.1 lo=11.8 
+Q1 Mar-28  n=  1 mean=     12.6 actual=        -         hi=12.6 lo=12.6 
+Q2 Jun-28  n=  1 mean=     11.5 actual=        -         hi=11.5 lo=11.5 
+Q3 Sep-28  n=  1 mean=     12.2 actual=        -         hi=12.2 lo=12.2 
+Q4 Dec-28  n=  1 mean=     12.4 actual=        -         hi=12.4 lo=12.4 
+FY Dec-28  n=  3 mean=     11.1 actual=        -         hi=12.2 lo=10.2 
+
+=== Free Cash Flow | Consolidated | Estimate Details KBR (6).xlsx
+current contributors: KEYBANC CAPITAL MARKETS INC. (Jain, Sangita); EQUISIGHTS (Talsania, Parth); WELLS FARGO SECURITIES, LLC (Revich, Jerry D); VERTICAL RESEARCH PARTNERS (Dudas, Michael S)
+FY Dec-19  n=  4 mean= 192.1185 actual=    236.0  +22.8% hi=210.094 lo=156.38 
+FY Dec-20  n=  4 mean=140.25225 actual=    347.0 +147.4% hi=363.0 lo=-256.3 guide=T
+FY Dec-21  n=  4 mean=149.72825 actual=    241.0  +61.0% hi=266.913 lo=-107.0 guide=T
+FY Dec-22  n=  5 mean=  407.701 actual=    325.0  -20.3% hi=674.204 lo=312.0 guide=T
+Q1 Mar-23  n=  2 mean=     58.5 actual=     16.0  -72.6% hi=59.0 lo=58.0 
+Q2 Jun-23  n=  2 mean=    165.5 actual=    234.0  +41.4% hi=194.0 lo=137.0 
+Q3 Sep-23  n=  2 mean=     24.5 actual=    -62.0 -353.1% hi=127.0 lo=-78.0 
+Q4 Dec-23  n=  2 mean=     89.0 actual=     63.0  -29.2% hi=125.0 lo=53.0 
+FY Dec-23  n=  4 mean=  317.025 actual=    251.0  -20.8% hi=364.1 lo=241.0 guide=T
+Q1 Mar-24  n=  2 mean=     47.5 actual=     66.0  +38.9% hi=70.0 lo=25.0 
+Q2 Jun-24  n=  2 mean=    115.5 actual=    160.0  +38.5% hi=126.0 lo=105.0 
+Q3 Sep-24  n=  1 mean=     66.0 actual=    142.0 +115.2% hi=66.0 lo=66.0 
+Q4 Dec-24  n=  1 mean=     66.0 actual=     17.0  -74.2% hi=66.0 lo=66.0 
+FY Dec-24  n=  3 mean=433.66333 actual=    385.0  -11.2% hi=482.49 lo=408.0 guide=T
+Q1 Mar-25  n=  1 mean=     94.0 actual=     93.0   -1.1% hi=94.0 lo=94.0 
+Q2 Jun-25  n=  1 mean=    114.0 actual=    203.0  +78.1% hi=114.0 lo=114.0 
+Q3 Sep-25  n=  1 mean=     97.0 actual=    190.0  +95.9% hi=97.0 lo=97.0 
+Q4 Dec-25  n=  2 mean=    125.0 actual=     33.0  -73.6% hi=153.0 lo=97.0 
+FY Dec-25  n=  4 mean=    698.9 actual=    515.0  -26.3% hi=1101.5 lo=490.1 guide=T
+Q1 Mar-26  n=  1 mean=    159.0 actual=     98.0  -38.4% hi=159.0 lo=159.0 
+Q2 Jun-26  n=  1 mean=    164.0 actual=     34.0  -79.3% hi=164.0 lo=164.0 
+Q3 Sep-26  n=  - mean=        - actual=    163.0         hi=None lo=None 
+FY Dec-26  n=  4 mean=  602.935 actual=        -         hi=1235.66 lo=301.6 guide=T
+FY Dec-27  n=  4 mean=   649.66 actual=        -         hi=1185.01 lo=387.6 guide=2,000
+FY Dec-28  n=  3 mean=523.86667 actual=        -         hi=581.0 lo=458.4 
+
+=== Number of Shares Outstanding | Consolidated | Estimate Details KBR (7).xlsx
+current contributors: KEYBANC CAPITAL MARKETS INC. (Jain, Sangita); TRUIST SECURITIES (Sommer, Tobey O); OPPENHEIMER & CO., INC. (Zaffino, Ian A); WELLS FARGO SECURITIES, LLC (Revich, Jerry D)
+FY Dec-19  n=  7 mean=141.15214 actual=    142.0   +0.6% hi=142.0 lo=140.865 
+FY Dec-20  n=  4 mean=    143.0 actual=  141.176   -1.3% hi=143.0 lo=143.0 
+FY Dec-21  n=  3 mean=    142.0 actual=    150.0   +5.6% hi=143.0 lo=141.0 guide=141.00
+FY Dec-22  n=  6 mean=146.96667 actual=  150.793   +2.6% hi=152.8 lo=142.0 guide=142.00
+Q1 Mar-23  n=  4 mean=    146.0 actual=    140.0   -4.1% hi=153.0 lo=139.0 
+Q2 Jun-23  n=  4 mean=    149.5 actual=    138.0   -7.7% hi=154.0 lo=139.0 
+Q3 Sep-23  n=  3 mean=142.66667 actual=    139.0   -2.6% hi=153.0 lo=137.0 
+Q4 Dec-23  n=  5 mean=    136.4 actual=    137.0   +0.4% hi=138.0 lo=135.0 
+FY Dec-23  n=  6 mean=137.33333 actual=    135.0   -1.7% hi=142.0 lo=135.0 guide=138.00
+Q1 Mar-24  n=  5 mean=    136.1 actual= 134.7826   -1.0% hi=138.0 lo=134.0 
+Q2 Jun-24  n=  5 mean=    135.4 actual=    134.0   -1.0% hi=138.0 lo=134.0 
+Q3 Sep-24  n=  4 mean=    134.5 actual=    133.0   -1.1% hi=135.0 lo=133.0 
+Q4 Dec-24  n=  3 mean=134.66667 actual=    133.0   -1.2% hi=136.0 lo=133.0 
+FY Dec-24  n=  4 mean=  135.025 actual=    134.0   -0.8% hi=136.3 lo=133.8 guide=135.00
+Q1 Mar-25  n=  3 mean=    133.0 actual=    132.0   -0.8% hi=133.0 lo=133.0 
+Q2 Jun-25  n=  3 mean=132.66667 actual=    129.0   -2.8% hi=133.0 lo=132.0 
+Q3 Sep-25  n=  3 mean=129.66667 actual=    128.0   -1.3% hi=131.0 lo=129.0 
+Q4 Dec-25  n=  4 mean=   128.25 actual=    127.0   -1.0% hi=129.0 lo=128.0 
+FY Dec-25  n=  5 mean=   129.26 actual=    129.0   -0.2% hi=130.0 lo=129.0 guide=133.00
+Q1 Mar-26  n=  3 mean=127.66667 actual=    127.0   -0.5% hi=129.0 lo=127.0 
+Q2 Jun-26  n=  3 mean=    127.0 actual=    127.0   +0.0% hi=127.0 lo=127.0 
+Q3 Sep-26  n=  3 mean=    127.0 actual=    126.0   -0.8% hi=127.0 lo=127.0 
+Q4 Dec-26  n=  3 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+FY Dec-26  n=  3 mean=    127.0 actual=        -         hi=127.0 lo=127.0 guide=127.00
+Q1 Mar-27  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q2 Jun-27  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q3 Sep-27  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q4 Dec-27  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+FY Dec-27  n=  3 mean=126.33333 actual=        -         hi=127.0 lo=126.0 
+Q1 Mar-28  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q2 Jun-28  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q3 Sep-28  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+Q4 Dec-28  n=  1 mean=    126.0 actual=        -         hi=126.0 lo=126.0 
+FY Dec-28  n=  2 mean=   126.25 actual=        -         hi=126.5 lo=126.0 
+
+=== EBITDA | Government Solutions | Estimate Details KBR (8).xlsx
+current contributors: D.A. DAVIDSON & COMPANY (Thielman, Brent E); TRUIST SECURITIES (Sommer, Tobey O)
+FY Dec-19  n=  1 mean=    397.0 actual=        -         hi=397.0 lo=397.0 
+FY Dec-20  n=  2 mean=    434.5 actual=    415.0   -4.5% hi=435.0 lo=434.0 
+FY Dec-21  n=  1 mean=    546.0 actual=    538.0   -1.5% hi=546.0 lo=546.0 
+FY Dec-22  n=  3 mean=565.66667 actual=    553.0   -2.2% hi=575.0 lo=552.0 
+Q1 Mar-23  n=  2 mean=    126.0 actual=    132.0   +4.8% hi=132.0 lo=120.0 
+Q2 Jun-23  n=  3 mean=135.33333 actual=    143.0   +5.7% hi=143.0 lo=130.0 
+Q3 Sep-23  n=  2 mean=    133.0 actual=    133.0   +0.0% hi=135.0 lo=131.0 
+Q4 Dec-23  n=  3 mean=133.33333 actual=    128.0   -4.0% hi=136.0 lo=131.0 
+FY Dec-23  n=  3 mean=541.33333 actual=    536.0   -1.0% hi=544.0 lo=539.0 
+Q1 Mar-24  n=  3 mean=    130.0 actual=    140.0   +7.7% hi=132.0 lo=126.0 
+Q2 Jun-24  n=  3 mean=    142.0 actual=    145.0   +2.1% hi=146.0 lo=138.0 
+Q3 Sep-24  n=  3 mean=147.33333 actual=    152.0   +3.2% hi=151.0 lo=145.0 
+Q4 Dec-24  n=  2 mean=    152.5 actual=    150.0   -1.6% hi=155.0 lo=150.0 
+FY Dec-24  n=  2 mean=    589.5 actual=    587.0   -0.4% hi=592.0 lo=587.0 
+Q1 Mar-25  n=  2 mean=    161.5 actual=    145.0  -10.2% hi=163.0 lo=160.0 
+Q2 Jun-25  n=  2 mean=    144.5 actual=    140.0   -3.1% hi=145.0 lo=144.0 
+Q3 Sep-25  n=  2 mean=    140.5 actual=    143.0   +1.8% hi=141.0 lo=140.0 
+Q4 Dec-25  n=  2 mean=    136.5 actual=    145.0   +6.2% hi=143.0 lo=130.0 
+FY Dec-25  n=  2 mean=    565.5 actual=    579.0   +2.4% hi=572.0 lo=559.0 
+Q1 Mar-26  n=  2 mean=    138.0 actual=    138.0   +0.0% hi=142.0 lo=134.0 
+Q2 Jun-26  n=  2 mean=    138.5 actual=    158.0  +14.1% hi=144.0 lo=133.0 
+Q3 Sep-26  n=  2 mean=    155.5 actual=        -         hi=160.0 lo=151.0 
+Q4 Dec-26  n=  2 mean=    154.0 actual=        -         hi=155.0 lo=153.0 
+FY Dec-26  n=  2 mean=    600.0 actual=        -         hi=601.0 lo=599.0 
+Q1 Mar-27  n=  1 mean=    143.0 actual=        -         hi=143.0 lo=143.0 
+Q2 Jun-27  n=  1 mean=    141.0 actual=        -         hi=141.0 lo=141.0 
+Q3 Sep-27  n=  1 mean=    158.0 actual=        -         hi=158.0 lo=158.0 
+Q4 Dec-27  n=  1 mean=    153.0 actual=        -         hi=153.0 lo=153.0 
+FY Dec-27  n=  2 mean=    622.5 actual=        -         hi=650.0 lo=595.0 
+
+=== EBITDA | Consolidated | Estimate Details KBR (9).xlsx
+current contributors: KEYBANC CAPITAL MARKETS INC. (Jain, Sangita); Undisclosed (Undisclosed); TRUIST SECURITIES (Sommer, Tobey O); WELLS FARGO SECURITIES, LLC (Revich, Jerry D); Undisclosed (Undisclosed); OPPENHEIMER & CO., INC. (Zaffino, Ian A); EQUISIGHTS (Talsania, Parth); Undisclosed (Undisclosed); UBS EQUITIES (Fisher, Steven); VERTICAL RESEARCH PARTNERS (Dudas, Michael S)
+FY Dec-19  n=  9 mean=466.51089 actual=    471.0   +1.0% hi=491.11 lo=448.0 guide=T
+FY Dec-20  n=  8 mean=   459.03 actual=    478.0   +4.1% hi=469.684 lo=435.0 guide=T
+FY Dec-21  n=  9 mean=618.89011 actual=    625.0   +1.0% hi=636.0 lo=593.0 guide=576.00 : 600.00
+FY Dec-22  n= 11 mean=656.34873 actual=    668.0   +1.8% hi=683.0 lo=603.0 guide=650.00 : 670.00
+Q1 Mar-23  n=  7 mean=  158.667 actual=    182.0  +14.7% hi=167.0 lo=143.0 
+Q2 Jun-23  n=  7 mean=182.65757 actual=    191.0   +4.6% hi=189.433 lo=174.37 
+Q3 Sep-23  n=  4 mean=   186.23 actual=    186.0   -0.1% hi=192.0 lo=179.0 
+Q4 Dec-23  n=  7 mean=183.98271 actual=    188.0   +2.2% hi=188.838 lo=181.0 
+FY Dec-23  n= 10 mean= 741.4343 actual=    747.0   +0.8% hi=745.89 lo=736.684 guide=730.00 : 750.00
+Q1 Mar-24  n=  8 mean=188.17075 actual=    207.0  +10.0% hi=199.59 lo=183.1 
+Q2 Jun-24  n=  8 mean=204.88813 actual=    216.0   +5.4% hi=209.66 lo=200.375 
+Q3 Sep-24  n=  7 mean=215.61971 actual=    219.0   +1.6% hi=224.0 lo=210.0 
+Q4 Dec-24  n=  6 mean=218.57467 actual=    228.0   +4.3% hi=225.4 lo=210.0 
+FY Dec-24  n=  9 mean=862.01511 actual=    870.0   +0.9% hi=869.0 lo=852.0 guide=840.00 : 870.00
+Q1 Mar-25  n=  5 mean=  227.724 actual=    243.0   +6.7% hi=232.0 lo=224.1 
+Q2 Jun-25  n=  6 mean=229.97117 actual=    242.0   +5.2% hi=247.45 lo=215.0 
+Q3 Sep-25  n=  6 mean=235.88167 actual=    240.0   +1.7% hi=242.0 lo=225.29 
+Q4 Dec-25  n=  9 mean=240.33722 actual=    238.0   -1.0% hi=253.89 lo=234.7 
+FY Dec-25  n= 11 mean=969.48246 actual=    968.0   -0.2% hi=1008.0 lo=946.9 guide=960.00 : 980.00
+Q1 Mar-26  n=  8 mean=228.21988 actual=    251.0  +10.0% hi=241.94 lo=217.0 
+Q2 Jun-26  n=  8 mean=231.74925 actual=    258.0  +11.3% hi=257.85 lo=215.754 
+Q3 Sep-26  n=  8 mean=  247.092 actual=    268.0   +8.5% hi=258.87 lo=239.0 
+Q4 Dec-26  n=  7 mean=244.84786 actual=        -         hi=262.023 lo=231.0 
+FY Dec-26  n=  8 mean=1009.49188 actual=        -         hi=1039.023 lo=969.823 guide=980.00 : 1,040
+Q1 Mar-27  n=  4 mean= 246.5465 actual=        -         hi=260.026 lo=237.0 
+Q2 Jun-27  n=  4 mean=  239.254 actual=        -         hi=257.444 lo=225.572 
+Q3 Sep-27  n=  4 mean=240.18625 actual=        -         hi=246.0 lo=230.0 
+Q4 Dec-27  n=  2 mean=    249.5 actual=        -         hi=258.0 lo=241.0 
+FY Dec-27  n=  8 mean=  991.063 actual=        -         hi=1050.0 lo=941.0 guide=1,150
+Q1 Mar-28  n=  1 mean=    257.0 actual=        -         hi=257.0 lo=257.0 
+Q2 Jun-28  n=  1 mean=    246.0 actual=        -         hi=246.0 lo=246.0 
+Q3 Sep-28  n=  1 mean=    267.0 actual=        -         hi=267.0 lo=267.0 
+Q4 Dec-28  n=  1 mean=    281.0 actual=        -         hi=281.0 lo=281.0 
+FY Dec-28  n=  5 mean= 972.5214 actual=        -         hi=1051.0 lo=890.0 
+
+=== Revenue | Consolidated | Estimate Details KBR.xlsx
+current contributors: OPPENHEIMER & CO., INC. (Zaffino, Ian A); KEYBANC CAPITAL MARKETS INC. (Jain, Sangita); TRUIST SECURITIES (Sommer, Tobey O); WELLS FARGO SECURITIES, LLC (Revich, Jerry D); Undisclosed (Undisclosed); EQUISIGHTS (Talsania, Parth); Undisclosed (Undisclosed); Undisclosed (Undisclosed); UBS EQUITIES (Fisher, Steven); VERTICAL RESEARCH PARTNERS (Dudas, Michael S)
+FY Dec-19  n= 11 mean=5628.29127 actual=   5639.0   +0.2% hi=5717.2 lo=5539.4 guide=T
+FY Dec-20  n=  9 mean=5814.73656 actual=   5767.0   -0.8% hi=5954.0 lo=5713.0 guide=T
+FY Dec-21  n= 10 mean=7346.4551 actual=   7339.0   -0.1% hi=7494.43 lo=7177.78 guide=7,200 : 7,500
+FY Dec-22  n= 12 mean=6600.98633 actual=   6564.0   -0.6% hi=6655.38 lo=6513.982 guide=6,500 : 6,700
+Q1 Mar-23  n=  9 mean=1612.68822 actual=   1703.0   +5.6% hi=1650.0 lo=1570.294 
+Q2 Jun-23  n=  9 mean=1754.63389 actual=   1753.0   -0.1% hi=1823.2 lo=1675.0 
+Q3 Sep-23  n=  7 mean=1803.77429 actual=   1770.0   -1.9% hi=1865.0 lo=1774.0 
+Q4 Dec-23  n=  8 mean=1787.07125 actual=   1730.0   -3.2% hi=1823.33 lo=1754.0 
+FY Dec-23  n= 11 mean=7006.46909 actual=   6956.0   -0.7% hi=7049.33 lo=6974.13 guide=6,900 : 7,100
+Q1 Mar-24  n=  9 mean= 1781.322 actual=   1818.0   +2.1% hi=1804.0 lo=1715.0 
+Q2 Jun-24  n=  9 mean=1875.87478 actual=   1855.0   -1.1% hi=1897.0 lo=1843.611 
+Q3 Sep-24  n=  8 mean=1954.40038 actual=   1947.0   -0.4% hi=2005.0 lo=1864.459 
+Q4 Dec-24  n=  7 mean=1998.82071 actual=   2122.0   +6.2% hi=2031.3 lo=1963.862 guide=T
+FY Dec-24  n=  9 mean=7623.87489 actual=   7742.0   +1.5% hi=7676.0 lo=7583.862 guide=7,500 : 7,700
+Q1 Mar-25  n=  6 mean=2071.50967 actual=   2055.0   -0.8% hi=2112.3 lo=2034.913 
+Q2 Jun-25  n=  6 mean=2081.0585 actual=   1952.0   -6.2% hi=2130.4 lo=2024.0 guide=T
+Q3 Sep-25  n=  6 mean=1973.0715 actual=   1931.0   -2.1% hi=2036.3 lo=1939.4 
+Q4 Dec-25  n=  9 mean=1905.20956 actual=   1885.0   -1.1% hi=2038.01 lo=1855.0 
+FY Dec-25  n= 11 mean=7850.56327 actual=   7786.0   -0.8% hi=8089.31 lo=7793.0 guide=7,750 : 7,850
+Q1 Mar-26  n=  8 mean= 1881.229 actual=   1923.0   +2.2% hi=1916.06 lo=1851.0 
+Q2 Jun-26  n=  8 mean=  1869.89 actual=   1984.0   +6.1% hi=1968.08 lo=1741.72 
+Q3 Sep-26  n=  8 mean=2042.28825 actual=   1266.0  -38.0% hi=2096.0 lo=1993.6 
+Q4 Dec-26  n=  7 mean=2104.11357 actual=        -         hi=2167.0 lo=2055.52 
+FY Dec-26  n=  5 mean= 8073.727 actual=        -         hi=8162.0 lo=8000.535 guide=7,900 : 8,360
+Q1 Mar-27  n=  4 mean=2042.97125 actual=        -         hi=2116.0 lo=1961.0 
+Q2 Jun-27  n=  4 mean= 2082.165 actual=        -         hi=2123.82 lo=2038.0 
+Q3 Sep-27  n=  4 mean=2154.24575 actual=        -         hi=2226.0 lo=2075.0 
+Q4 Dec-27  n=  2 mean=   2228.0 actual=        -         hi=2294.0 lo=2162.0 
+FY Dec-27  n=  8 mean=8463.5445 actual=        -         hi=8625.03 lo=8235.0 guide=9,000
+Q1 Mar-28  n=  1 mean=   2039.0 actual=        -         hi=2039.0 lo=2039.0 
+Q2 Jun-28  n=  1 mean=   2135.0 actual=        -         hi=2135.0 lo=2135.0 
+Q3 Sep-28  n=  1 mean=   2194.0 actual=        -         hi=2194.0 lo=2194.0 
+Q4 Dec-28  n=  1 mean=   2277.0 actual=        -         hi=2277.0 lo=2277.0 
+FY Dec-28  n=  5 mean= 8748.407 actual=        -         hi=8850.19 lo=8644.0 
