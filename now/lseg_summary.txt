@@ -1,0 +1,222 @@
+
+=== Earnings Per Share | Consolidated | Estimate Details NOW (1).xlsx
+current contributors: BTIG (Verkhovski, Allan); Undisclosed (Undisclosed); Undisclosed (Undisclosed); NH INVESTMENT & SECURITIES (PREVIOUSLY WOORI RESEARCH) (Ko, Minsung); CRISPIDEA PRIVATE LIMITED (Gaonkar, Satish); HANA FINANCIAL INVESTMENT (Kim, Jae Im); ROTHSCHILD & CO REDBURN (Sheikh, Omar F); OPPENHEIMER & CO., INC. (Schwartz, Brian J); CLEVELAND RESEARCH (HISTORICAL) (Rea, Cooper); Undisclosed (Undisclosed); Undisclosed (Undisclosed); MACQUARIE RESEARCH (Koenig, Steven R); TRUIST SECURITIES (Jump, Miller); Undisclosed (Undisclosed); ARGUS RESEARCH CORPORATION (Bonner, Joseph F); Undisclosed (Undisclosed); Undisclosed (Undisclosed); FREEDOM BROKER (Almaganbetov, Almas); Undisclosed (Undisclosed); CHINA RENAISSANCE (Zhou, Jack); Undisclosed (Undisclosed); Undisclosed (Undisclosed); WILLIAM BLAIR & COMPANY (Bhatia, Arjun); Undisclosed (Undisclosed); PIPER SANDLER COMPANIES (Fitzsimmons, Billy); GUGGENHEIM SECURITIES LLC (DiFucci, John S); STIFEL NICOLAUS AND COMPANY, INCORPORATED (Reback, Brad R); KEYBANC CAPITAL MARKETS INC. (Ader, Jackson E); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); CMB INTERNATIONAL GLOBAL MARKETS LIMITED (He, Saiyi); Undisclosed (Undisclosed); CITIZENS (Walravens, Patrick D); Undisclosed (Undisclosed); FBN SECURITIES (Seyrafi, Shebly); RAYMOND JAMES (Tindle, Adam); Undisclosed (Undisclosed); WELLS FARGO SECURITIES, LLC (Turrin, Michael); NEEDHAM & COMPANY INC. (Cikos, Mike); D.A. DAVIDSON & COMPANY (Luria, Gil B); Undisclosed (Undisclosed); CANTOR FITZGERALD (Blakey, Thomas); STONEX FINANCIAL INC. (Lee, Yi Fu); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); EQUISIGHTS (Talsania, Parth); UBS EQUITIES (Keirstead, Karl E); EVERCORE ISI (Materne, Kirk); Undisclosed (Undisclosed)
+FY Dec-19  n= 37 mean=  0.64901 actual=    0.664   +2.3% hi=0.674 lo=0.626 
+FY Dec-20  n= 29 mean=  0.90754 actual=    0.926   +2.0% hi=0.928 lo=0.876 
+FY Dec-21  n= 33 mean=  1.18422 actual=    1.184   -0.0% hi=1.218 lo=1.17 
+FY Dec-22  n= 32 mean=  1.46756 actual=    1.518   +3.4% hi=1.51 lo=1.448 
+Q1 Mar-23  n= 31 mean=  0.40841 actual=    0.474  +16.1% hi=0.438 lo=0.392 
+Q2 Jun-23  n= 31 mean=  0.41092 actual=    0.474  +15.4% hi=0.484 lo=0.382 
+Q3 Sep-23  n= 30 mean=  0.51265 actual=    0.584  +13.9% hi=0.538 lo=0.46 
+Q4 Dec-23  n= 29 mean=  0.55724 actual=    0.622  +11.6% hi=0.596 lo=0.482 
+FY Dec-23  n= 32 mean=  2.09245 actual=    2.156   +3.0% hi=2.128 lo=2.014 
+Q1 Mar-24  n= 29 mean=  0.62775 actual=    0.682   +8.6% hi=0.67 lo=0.58 
+Q2 Jun-24  n= 28 mean=  0.56809 actual=    0.626  +10.2% hi=0.626 lo=0.5364 
+Q3 Sep-24  n= 28 mean=  0.69121 actual=    0.744   +7.6% hi=0.754 lo=0.62 
+Q4 Dec-24  n= 32 mean=  0.73398 actual=    0.734   +0.0% hi=0.812 lo=0.664 
+FY Dec-24  n= 37 mean=  2.78441 actual=    2.784   -0.0% hi=2.886 lo=2.71 
+Q1 Mar-25  n= 33 mean=  0.76695 actual=    0.808   +5.4% hi=0.81 lo=0.696 
+Q2 Jun-25  n= 33 mean=  0.71392 actual=    0.818  +14.6% hi=0.78 lo=0.642 
+Q3 Sep-25  n= 34 mean=  0.85337 actual=    0.964  +13.0% hi=0.912 lo=0.74 
+Q4 Dec-25  n= 34 mean=  0.88287 actual=     0.92   +4.2% hi=0.96 lo=0.752 
+FY Dec-25  n= 41 mean=   3.4744 actual=     3.51   +1.0% hi=3.552 lo=3.34 
+Q1 Mar-26  n= 35 mean=  0.96371 actual=     0.97   +0.7% hi=1.01 lo=0.812 
+Q2 Jun-26  n= 37 mean=    0.854 actual=      0.9   +5.4% hi=0.92 lo=0.74 
+Q3 Sep-26  n= 37 mean=  1.02387 actual=      1.0   -2.3% hi=1.17 lo=0.91 
+Q4 Dec-26  n= 37 mean=  1.07638 actual=        -         hi=1.21 lo=0.99 
+FY Dec-26  n= 41 mean=  3.95066 actual=        -         hi=4.12 lo=3.86 
+Q1 Mar-27  n= 34 mean=  1.11777 actual=        -         hi=1.22 lo=0.95 
+Q2 Jun-27  n= 33 mean=  1.12588 actual=        -         hi=1.21 lo=1.04 
+Q3 Sep-27  n= 33 mean=  1.24094 actual=        -         hi=1.34 lo=1.09 
+Q4 Dec-27  n= 29 mean=  1.30679 actual=        -         hi=1.45 lo=1.16 
+FY Dec-27  n= 42 mean=  4.81388 actual=        -         hi=5.161 lo=4.27 
+Q1 Mar-28  n= 16 mean=  1.35431 actual=        -         hi=1.521 lo=1.12 
+Q2 Jun-28  n= 16 mean=  1.38638 actual=        -         hi=1.557 lo=1.23 
+Q3 Sep-28  n= 16 mean=  1.51513 actual=        -         hi=1.694 lo=1.34 
+Q4 Dec-28  n= 16 mean=  1.60494 actual=        -         hi=1.787 lo=1.46 
+FY Dec-28  n= 32 mean=  5.86816 actual=        -         hi=6.614 lo=5.14 
+
+=== Revenue | Consolidated | Estimate Details NOW (2).xlsx
+current contributors: Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); MACQUARIE RESEARCH (Koenig, Steven R); RAYMOND JAMES (Tindle, Adam); TRUIST SECURITIES (Jump, Miller); Undisclosed (Undisclosed); Undisclosed (Undisclosed); EQUISIGHTS (Talsania, Parth); Undisclosed (Undisclosed); CANTOR FITZGERALD (Blakey, Thomas); FBN SECURITIES (Seyrafi, Shebly); NEEDHAM & COMPANY INC. (Cikos, Mike); Undisclosed (Undisclosed); Undisclosed (Undisclosed); GUGGENHEIM SECURITIES LLC (DiFucci, John S); WELLS FARGO SECURITIES, LLC (Turrin, Michael); Undisclosed (Undisclosed); Undisclosed (Undisclosed); BTIG (Verkhovski, Allan); CMB INTERNATIONAL GLOBAL MARKETS LIMITED (He, Saiyi); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); PIPER SANDLER COMPANIES (Fitzsimmons, Billy); Undisclosed (Undisclosed); WILLIAM BLAIR & COMPANY (Bhatia, Arjun); STIFEL NICOLAUS AND COMPANY, INCORPORATED (Reback, Brad R); CITIZENS (Walravens, Patrick D); KEYBANC CAPITAL MARKETS INC. (Ader, Jackson E); FREEDOM BROKER (Almaganbetov, Almas); Undisclosed (Undisclosed); OPPENHEIMER & CO., INC. (Schwartz, Brian J); STONEX FINANCIAL INC. (Lee, Yi Fu); D.A. DAVIDSON & COMPANY (Luria, Gil B); Undisclosed (Undisclosed); CRISPIDEA PRIVATE LIMITED (Gaonkar, Satish); ROTHSCHILD & CO REDBURN (Sheikh, Omar F); Undisclosed (Undisclosed); HANA FINANCIAL INVESTMENT (Kim, Jae Im); CHINA RENAISSANCE (Zhou, Jack); NH INVESTMENT & SECURITIES (PREVIOUSLY WOORI RESEARCH) (Ko, Minsung); Undisclosed (Undisclosed); CLEVELAND RESEARCH (HISTORICAL) (Rea, Cooper); UBS EQUITIES (Keirstead, Karl E); EVERCORE ISI (Materne, Kirk); Undisclosed (Undisclosed)
+FY Dec-19  n= 35 mean=3450.08846 actual= 3460.437   +0.3% hi=3459.718 lo=3440.0 guide=T
+FY Dec-20  n= 30 mean=4478.88193 actual= 4519.484   +0.9% hi=4503.71 lo=4257.08 guide=4,000
+FY Dec-21  n= 35 mean=5869.54469 actual=   5896.0   +0.5% hi=5914.26 lo=5565.75 guide=T
+FY Dec-22  n= 36 mean=7237.48158 actual=   7245.0   +0.1% hi=7343.821 lo=6866.22 guide=T
+Q1 Mar-23  n= 29 mean=2083.8069 actual=   2096.0   +0.6% hi=2102.0 lo=1997.98 guide=T
+Q2 Jun-23  n= 30 mean=2126.6893 actual=   2150.0   +1.1% hi=2152.9 lo=2043.49 guide=T
+Q3 Sep-23  n= 29 mean=2270.15355 actual=   2288.0   +0.8% hi=2299.525 lo=2190.57 guide=T
+Q4 Dec-23  n= 28 mean=2398.37875 actual=   2437.0   +1.6% hi=2437.477 lo=2320.35 guide=T
+FY Dec-23  n= 35 mean=8928.05197 actual=   8971.0   +0.5% hi=8971.477 lo=8635.35 guide=T
+Q1 Mar-24  n= 30 mean=2585.2025 actual=   2603.0   +0.7% hi=2634.619 lo=2489.52 guide=T
+Q2 Jun-24  n= 29 mean=2606.74762 actual=   2627.0   +0.8% hi=2654.692 lo=2527.35 guide=T
+Q3 Sep-24  n= 30 mean=2742.92387 actual=   2797.0   +2.0% hi=2796.894 lo=2664.74 guide=T
+Q4 Dec-24  n= 33 mean=2960.20852 actual=   2957.0   -0.1% hi=3019.0 lo=2878.21 guide=T
+FY Dec-24  n= 44 mean=10974.50416 actual=  10984.0   +0.1% hi=11092.0 lo=10658.21 guide=T
+Q1 Mar-25  n= 33 mean=3084.37067 actual=   3088.0   +0.1% hi=3129.125 lo=2997.45 guide=T
+Q2 Jun-25  n= 33 mean=3121.04818 actual=   3215.0   +3.0% hi=3160.417 lo=3032.48 guide=T
+Q3 Sep-25  n= 34 mean=3352.77488 actual=   3407.0   +1.6% hi=3391.579 lo=3262.51 guide=T
+Q4 Dec-25  n= 34 mean=3526.41474 actual=   3568.0   +1.2% hi=3576.23 lo=3424.87 guide=T
+FY Dec-25  n= 44 mean=13232.25246 actual=  13278.0   +0.3% hi=13315.72 lo=12841.87 guide=T
+Q1 Mar-26  n= 34 mean=3742.56568 actual=   3770.0   +0.7% hi=3785.637 lo=3645.0 guide=T
+Q2 Jun-26  n= 36 mean=3927.58064 actual=   3987.0   +1.5% hi=3984.835 lo=3900.63 guide=T
+Q3 Sep-26  n= 36 mean=4094.66114 actual=   4106.0   +0.3% hi=4150.415 lo=4068.0 guide=T
+Q4 Dec-26  n= 36 mean=4367.83508 actual=        -         hi=4441.872 lo=4245.0 guide=T
+FY Dec-26  n= 44 mean=16232.14021 actual=        -         hi=16304.872 lo=16202.0 guide=T
+Q1 Mar-27  n= 31 mean=4497.99626 actual=        -         hi=4612.05 lo=4390.0 
+Q2 Jun-27  n= 30 mean=4701.54267 actual=        -         hi=4754.375 lo=4613.149 
+Q3 Sep-27  n= 30 mean=4857.4006 actual=        -         hi=4944.9 lo=4790.0 
+Q4 Dec-27  n= 26 mean=5144.11565 actual=        -         hi=5244.16 lo=5069.0 
+FY Dec-27  n= 44 mean=19234.43305 actual=        -         hi=20083.195 lo=18995.0 guide=T
+Q1 Mar-28  n= 14 mean=5303.70921 actual=        -         hi=5493.3 lo=5160.0 
+Q2 Jun-28  n= 14 mean=5524.91236 actual=        -         hi=5655.725 lo=5360.0 
+Q3 Sep-28  n= 14 mean=5729.76821 actual=        -         hi=5940.673 lo=5518.0 
+Q4 Dec-28  n= 14 mean=6049.01464 actual=        -         hi=6186.63 lo=5863.0 
+FY Dec-28  n= 34 mean=22689.34768 actual=        -         hi=24799.168 lo=21963.0 
+
+=== Revenue | Professional services and other revenuesr | Estimate Details NOW (3).xlsx
+current contributors: Undisclosed (Undisclosed); Undisclosed (Undisclosed); CITIZENS (Walravens, Patrick D); Undisclosed (Undisclosed); KEYBANC CAPITAL MARKETS INC. (Ader, Jackson E); STIFEL NICOLAUS AND COMPANY, INCORPORATED (Reback, Brad R); Undisclosed (Undisclosed); WELLS FARGO SECURITIES, LLC (Turrin, Michael); FBN SECURITIES (Seyrafi, Shebly); TRUIST SECURITIES (Jump, Miller); Undisclosed (Undisclosed); CRISPIDEA PRIVATE LIMITED (Gaonkar, Satish); OPPENHEIMER & CO., INC. (Schwartz, Brian J); Undisclosed (Undisclosed); PIPER SANDLER COMPANIES (Fitzsimmons, Billy); WILLIAM BLAIR & COMPANY (Bhatia, Arjun); Undisclosed (Undisclosed); Undisclosed (Undisclosed); GUGGENHEIM SECURITIES LLC (DiFucci, John S); EVERCORE ISI (Materne, Kirk)
+FY Dec-19  n=  8 mean=205.46713 actual=  205.358   -0.1% hi=207.266 lo=201.115 
+FY Dec-20  n= 10 mean= 224.1927 actual=  233.687   +4.2% hi=227.518 lo=221.0 
+FY Dec-21  n= 12 mean=312.87425 actual=    323.0   +3.2% hi=321.95 lo=283.97 
+FY Dec-22  n= 21 mean=370.89262 actual=    354.0   -4.6% hi=382.4 lo=363.445 
+Q1 Mar-23  n= 20 mean=     89.9 actual=     72.0  -19.9% hi=101.9 lo=80.0 
+Q2 Jun-23  n= 20 mean=   82.885 actual=     75.0   -9.5% hi=105.3 lo=70.5 
+Q3 Sep-23  n= 20 mean= 80.42575 actual=     72.0  -10.5% hi=97.9 lo=71.25 
+Q4 Dec-23  n= 19 mean= 76.79053 actual=     72.0   -6.2% hi=88.0 lo=66.24 
+FY Dec-23  n= 21 mean=295.89571 actual=    291.0   -1.7% hi=307.0 lo=285.24 
+Q1 Mar-24  n= 19 mean= 73.27579 actual=     80.0   +9.2% hi=77.0 lo=68.4 
+Q2 Jun-24  n= 20 mean=     79.3 actual=     85.0   +7.2% hi=85.0 lo=72.0 
+Q3 Sep-24  n= 20 mean=  79.8635 actual=     82.0   +2.7% hi=88.4 lo=71.3 
+Q4 Dec-24  n= 20 mean= 79.68555 actual=     91.0  +14.2% hi=85.28 lo=72.0 
+FY Dec-24  n= 22 mean=326.40868 actual=    338.0   +3.6% hi=332.28 lo=319.0 
+Q1 Mar-25  n= 19 mean= 85.43579 actual=     83.0   -2.9% hi=93.7 lo=77.35 
+Q2 Jun-25  n= 19 mean= 88.36416 actual=    102.0  +15.4% hi=94.0 lo=84.924 
+Q3 Sep-25  n= 19 mean= 90.87474 actual=    108.0  +18.8% hi=108.12 lo=82.8 
+Q4 Dec-25  n= 18 mean=101.19811 actual=    102.0   +0.8% hi=114.607 lo=91.5 
+FY Dec-25  n= 19 mean=393.02347 actual=    395.0   +0.5% hi=407.727 lo=366.7 
+Q1 Mar-26  n= 17 mean= 92.36624 actual=     99.0   +7.2% hi=99.6 lo=87.2 
+Q2 Jun-26  n= 18 mean=109.24961 actual=    110.0   +0.7% hi=118.3 lo=102.0 
+Q3 Sep-26  n= 18 mean=113.50517 actual=    118.0   +4.0% hi=123.12 lo=89.9 
+Q4 Dec-26  n= 18 mean=111.11528 actual=        -         hi=121.0 lo=102.0 
+FY Dec-26  n= 19 mean=433.57563 actual=        -         hi=446.0 lo=413.5 
+Q1 Mar-27  n= 15 mean=106.77933 actual=        -         hi=115.0 lo=99.0 
+Q2 Jun-27  n= 15 mean=116.71333 actual=        -         hi=125.4 lo=104.3 
+Q3 Sep-27  n= 15 mean=120.95007 actual=        -         hi=140.357 lo=103.0 
+Q4 Dec-27  n= 15 mean=117.64053 actual=        -         hi=131.0 lo=102.0 
+FY Dec-27  n= 19 mean=466.65268 actual=        -         hi=503.036 lo=419.0 
+Q1 Mar-28  n=  4 mean=118.45125 actual=        -         hi=128.66 lo=112.0 
+Q2 Jun-28  n=  4 mean=131.74875 actual=        -         hi=142.956 lo=125.0 
+Q3 Sep-28  n=  4 mean=141.69375 actual=        -         hi=160.007 lo=131.068 
+Q4 Dec-28  n=  4 mean= 131.6675 actual=        -         hi=143.083 lo=123.787 
+FY Dec-28  n= 13 mean=512.40839 actual=        -         hi=574.706 lo=419.0 
+
+=== Revenue | Subscription revenues | Estimate Details NOW (4).xlsx
+current contributors: Undisclosed (Undisclosed); Undisclosed (Undisclosed); CRISPIDEA PRIVATE LIMITED (Gaonkar, Satish); TRUIST SECURITIES (Jump, Miller); CITIZENS (Walravens, Patrick D); Undisclosed (Undisclosed); WELLS FARGO SECURITIES, LLC (Turrin, Michael); PIPER SANDLER COMPANIES (Fitzsimmons, Billy); Undisclosed (Undisclosed); Undisclosed (Undisclosed); OPPENHEIMER & CO., INC. (Schwartz, Brian J); GUGGENHEIM SECURITIES LLC (DiFucci, John S); Undisclosed (Undisclosed); STIFEL NICOLAUS AND COMPANY, INCORPORATED (Reback, Brad R); KEYBANC CAPITAL MARKETS INC. (Ader, Jackson E); Undisclosed (Undisclosed); WILLIAM BLAIR & COMPANY (Bhatia, Arjun); FBN SECURITIES (Seyrafi, Shebly); NEEDHAM & COMPANY INC. (Cikos, Mike); Undisclosed (Undisclosed); Undisclosed (Undisclosed); EVERCORE ISI (Materne, Kirk)
+FY Dec-19  n=  8 mean=3244.64488 actual= 3255.079   +0.3% hi=3255.173 lo=3241.8 
+FY Dec-20  n= 10 mean=4261.2008 actual= 4285.797   +0.6% hi=4269.0 lo=4258.0 
+FY Dec-21  n= 12 mean=5569.72125 actual=   5573.0   +0.1% hi=5589.0 lo=5552.1 
+FY Dec-22  n= 22 mean=6868.74491 actual=   6891.0   +0.3% hi=6889.0 lo=6860.0 
+Q1 Mar-23  n= 21 mean=1995.56319 actual=   2024.0   +1.4% hi=2000.0 lo=1990.0 
+Q2 Jun-23  n= 21 mean=2041.81552 actual=   2075.0   +1.6% hi=2045.0 lo=2014.7 
+Q3 Sep-23  n= 21 mean=2190.3501 actual=   2216.0   +1.2% hi=2195.0 lo=2175.0 
+Q4 Dec-23  n= 20 mean=2323.1356 actual=   2365.0   +1.8% hi=2325.0 lo=2321.28 
+FY Dec-23  n= 22 mean=8639.22736 actual=   8680.0   +0.5% hi=8662.0 lo=8636.28 
+Q1 Mar-24  n= 20 mean=2514.16755 actual=   2523.0   +0.4% hi=2534.0 lo=2511.743 
+Q2 Jun-24  n= 21 mean=2527.82324 actual=   2542.0   +0.6% hi=2531.5 lo=2526.3 
+Q3 Sep-24  n= 21 mean=2663.47124 actual=   2715.0   +1.9% hi=2665.0 lo=2660.6 
+Q4 Dec-24  n= 21 mean= 2876.955 actual=   2866.0   -0.4% hi=2887.5 lo=2854.6 
+FY Dec-24  n= 23 mean=10647.45109 actual=  10646.0   -0.0% hi=10675.0 lo=10420.32 
+Q1 Mar-25  n= 20 mean=2997.93315 actual=   3005.0   +0.2% hi=3010.0 lo=2989.8 
+Q2 Jun-25  n= 20 mean=3033.50675 actual=   3113.0   +2.6% hi=3050.0 lo=3030.0 
+Q3 Sep-25  n= 20 mean=3263.34365 actual=   3299.0   +1.1% hi=3267.5 lo=3260.0 
+Q4 Dec-25  n= 19 mean=3422.86874 actual=   3466.0   +1.3% hi=3428.87 lo=3404.5 
+FY Dec-25  n= 20 mean=12836.6538 actual=  12883.0   +0.4% hi=12847.0 lo=12785.0 
+Q1 Mar-26  n= 17 mean=3646.73677 actual=   3671.0   +0.7% hi=3656.2 lo=3551.9 
+Q2 Jun-26  n= 19 mean=3817.60905 actual=   3877.0   +1.6% hi=3820.0 lo=3813.4 
+Q3 Sep-26  n= 18 mean=3977.97656 actual=   3988.0   +0.3% hi=3980.0 lo=3975.3 
+Q4 Dec-26  n= 18 mean=4245.17811 actual=        -         hi=4254.0 lo=4235.0 
+FY Dec-26  n= 21 mean=15770.3931 actual=        -         hi=15782.0 lo=15759.0 
+Q1 Mar-27  n= 15 mean=4395.9796 actual=        -         hi=4497.0 lo=4332.0 
+Q2 Jun-27  n= 15 mean=4583.31567 actual=        -         hi=4627.875 lo=4524.8 
+Q3 Sep-27  n= 15 mean=4726.97287 actual=        -         hi=4800.25 lo=4681.1 
+Q4 Dec-27  n= 15 mean=5014.20667 actual=        -         hi=5113.0 lo=4955.0 
+FY Dec-27  n= 20 mean=18735.31045 actual=        -         hi=18958.0 lo=18550.3 
+Q1 Mar-28  n=  4 mean=5171.41075 actual=        -         hi=5310.125 lo=5089.7 
+Q2 Jun-28  n=  4 mean=5403.23325 actual=        -         hi=5510.25 lo=5306.0 
+Q3 Sep-28  n=  4 mean=5571.8825 actual=        -         hi=5785.975 lo=5399.0 
+Q4 Dec-28  n=  4 mean=5901.66175 actual=        -         hi=6077.0 lo=5699.0 
+FY Dec-28  n= 13 mean=22130.09246 actual=        -         hi=22683.35 lo=21535.0 
+
+=== Free Cash Flow | Consolidated | Estimate Details NOW (5).xlsx
+current contributors: Undisclosed (Undisclosed); TRUIST SECURITIES (Jump, Miller); WELLS FARGO SECURITIES, LLC (Turrin, Michael); Undisclosed (Undisclosed); OPPENHEIMER & CO., INC. (Schwartz, Brian J); Undisclosed (Undisclosed); NEEDHAM & COMPANY INC. (Cikos, Mike); BTIG (Verkhovski, Allan); PIPER SANDLER COMPANIES (Fitzsimmons, Billy); Undisclosed (Undisclosed); Undisclosed (Undisclosed); Undisclosed (Undisclosed); STONEX FINANCIAL INC. (Lee, Yi Fu); STIFEL NICOLAUS AND COMPANY, INCORPORATED (Reback, Brad R); FBN SECURITIES (Seyrafi, Shebly); Undisclosed (Undisclosed); WILLIAM BLAIR & COMPANY (Bhatia, Arjun); EQUISIGHTS (Talsania, Parth); Undisclosed (Undisclosed); Undisclosed (Undisclosed); CHINA RENAISSANCE (Zhou, Jack); KEYBANC CAPITAL MARKETS INC. (Ader, Jackson E); Undisclosed (Undisclosed); Undisclosed (Undisclosed); CITIZENS (Walravens, Patrick D); Undisclosed (Undisclosed); RAYMOND JAMES (Tindle, Adam); GUGGENHEIM SECURITIES LLC (DiFucci, John S); Undisclosed (Undisclosed); EVERCORE ISI (Materne, Kirk)
+FY Dec-19  n= 18 mean=965.09711 actual=    970.9   +0.6% hi=977.016 lo=937.0 guide=28.00%
+FY Dec-20  n= 19 mean=1406.17937 actual= 1367.272   -2.8% hi=1420.89 lo=1361.0 guide=31.50%
+FY Dec-21  n= 22 mean=1806.52236 actual=   1799.0   -0.4% hi=1861.4 lo=1373.55 guide=31.50%
+FY Dec-22  n= 19 mean=2094.93142 actual=   2173.0   +3.7% hi=2221.83 lo=1856.0 guide=T
+Q1 Mar-23  n= 17 mean=832.73994 actual=    737.0  -11.5% hi=1110.0 lo=384.3 
+Q2 Jun-23  n= 19 mean=418.60058 actual=    451.0   +7.7% hi=639.099 lo=273.0 
+Q3 Sep-23  n= 18 mean=348.33867 actual=    196.0  -43.7% hi=518.4 lo=156.0 
+Q4 Dec-23  n= 17 mean=1313.07318 actual=   1344.0   +2.4% hi=1430.314 lo=1269.0 
+FY Dec-23  n= 22 mean=2673.68336 actual=   2704.0   +1.1% hi=2857.0 lo=2315.89 guide=30.00%
+Q1 Mar-24  n= 18 mean=981.32756 actual=   1206.0  +22.9% hi=1295.488 lo=800.0 
+Q2 Jun-24  n= 19 mean=508.74211 actual=    358.0  -29.6% hi=801.283 lo=405.0 
+Q3 Sep-24  n= 18 mean=386.18933 actual=    471.0  +22.0% hi=678.0 lo=247.0 
+Q4 Dec-24  n= 19 mean=1366.61526 actual=   1400.0   +2.4% hi=1476.88 lo=1269.5 
+FY Dec-24  n= 27 mean=3356.80185 actual=   3455.0   +2.9% hi=3702.0 lo=2128.0 guide=31.00%
+Q1 Mar-25  n= 20 mean=1338.7558 actual=   1472.0  +10.0% hi=1589.0 lo=1017.741 
+Q2 Jun-25  n= 18 mean=461.97589 actual=    526.0  +13.9% hi=606.0 lo=240.0 
+Q3 Sep-25  n= 17 mean=598.73418 actual=    569.0   -5.0% hi=822.4 lo=298.2 
+Q4 Dec-25  n= 19 mean=1895.06863 actual=   2000.0   +5.5% hi=1982.324 lo=1613.0 
+FY Dec-25  n= 27 mean=4069.47089 actual=   4533.0  +11.4% hi=4800.0 lo=1063.0 guide=34.00%
+Q1 Mar-26  n= 20 mean=1744.4149 actual=   1529.0  -12.3% hi=1919.0 lo=1500.0 
+Q2 Jun-26  n= 20 mean=693.18935 actual=    473.0  -31.8% hi=921.9 lo=526.5 
+Q3 Sep-26  n= 19 mean=1187.22411 actual=        -         hi=2847.0 lo=723.76 
+Q4 Dec-26  n= 17 mean=2907.01324 actual=        -         hi=5830.204 lo=1995.9 
+FY Dec-26  n= 29 mean=4860.2049 actual=        -         hi=7067.0 lo=-5950.0 guide=36.00%
+Q1 Mar-27  n= 14 mean=1883.70079 actual=        -         hi=2126.0 lo=751.0 
+Q2 Jun-27  n= 14 mean=863.65643 actual=        -         hi=1194.0 lo=662.029 
+Q3 Sep-27  n= 14 mean=1273.58893 actual=        -         hi=3202.0 lo=836.3 
+Q4 Dec-27  n= 14 mean=3028.67921 actual=        -         hi=3349.3 lo=2198.0 
+FY Dec-27  n= 28 mean=6917.83196 actual=        -         hi=8982.0 lo=3830.0 
+Q1 Mar-28  n=  5 mean=2305.5214 actual=        -         hi=2712.373 lo=1945.271 
+Q2 Jun-28  n=  5 mean=1283.3418 actual=        -         hi=2038.898 lo=874.076 
+Q3 Sep-28  n=  5 mean= 1533.742 actual=        -         hi=1819.0 lo=1009.7 
+Q4 Dec-28  n=  5 mean= 3433.468 actual=        -         hi=3921.0 lo=2770.0 
+FY Dec-28  n= 19 mean=8331.20137 actual=        -         hi=11018.0 lo=4573.0 
+
+=== Gross Profit Margin | Consolidated | Estimate Details NOW.xlsx
+current contributors: Undisclosed (Undisclosed); CANTOR FITZGERALD (Blakey, Thomas); Undisclosed (Undisclosed); D.A. DAVIDSON & COMPANY (Luria, Gil B); GUGGENHEIM SECURITIES LLC (DiFucci, John S); Undisclosed (Undisclosed); Undisclosed (Undisclosed); EQUISIGHTS (Talsania, Parth); BTIG (Verkhovski, Allan); RAYMOND JAMES (Tindle, Adam); Undisclosed (Undisclosed); Undisclosed (Undisclosed); TRUIST SECURITIES (Jump, Miller); KEYBANC CAPITAL MARKETS INC. (Ader, Jackson E); OPPENHEIMER & CO., INC. (Schwartz, Brian J); Undisclosed (Undisclosed); Undisclosed (Undisclosed); FBN SECURITIES (Seyrafi, Shebly); PIPER SANDLER COMPANIES (Fitzsimmons, Billy); STIFEL NICOLAUS AND COMPANY, INCORPORATED (Reback, Brad R); STONEX FINANCIAL INC. (Lee, Yi Fu); WILLIAM BLAIR & COMPANY (Bhatia, Arjun); Undisclosed (Undisclosed); NEEDHAM & COMPANY INC. (Cikos, Mike); Undisclosed (Undisclosed); CITIZENS (Walravens, Patrick D); CRISPIDEA PRIVATE LIMITED (Gaonkar, Satish); WELLS FARGO SECURITIES, LLC (Turrin, Michael); CHINA RENAISSANCE (Zhou, Jack); CMB INTERNATIONAL GLOBAL MARKETS LIMITED (He, Saiyi); UBS EQUITIES (Keirstead, Karl E); EVERCORE ISI (Materne, Kirk)
+FY Dec-19  n= 27 mean= 80.79115 actual=    81.02   +0.3% hi=81.23 lo=77.0 guide=T
+FY Dec-20  n= 24 mean= 82.20475 actual=    82.27   +0.1% hi=82.8 lo=79.0 guide=86.00%
+FY Dec-21  n= 25 mean= 80.93008 actual=    81.31   +0.5% hi=82.3 lo=78.0 guide=T
+FY Dec-22  n= 25 mean= 81.81912 actual=     82.0   +0.2% hi=82.528 lo=78.0 guide=T
+Q1 Mar-23  n= 20 mean=  81.4625 actual=     83.0   +1.9% hi=82.3 lo=80.4 
+Q2 Jun-23  n= 23 mean= 80.97696 actual=     82.0   +1.3% hi=81.9 lo=80.2 
+Q3 Sep-23  n= 22 mean= 81.06364 actual=     82.0   +1.2% hi=82.1 lo=80.3 
+Q4 Dec-23  n= 21 mean= 80.52238 actual=     82.0   +1.8% hi=81.6 lo=79.3 
+FY Dec-23  n= 23 mean= 81.63826 actual=     82.0   +0.4% hi=82.1 lo=78.5 guide=T
+Q1 Mar-24  n= 21 mean= 82.50143 actual=     83.0   +0.6% hi=84.0 lo=80.9 
+Q2 Jun-24  n= 21 mean= 82.14381 actual=     83.0   +1.0% hi=82.6 lo=81.8 
+Q3 Sep-24  n= 22 mean= 81.93955 actual=     83.0   +1.3% hi=82.2 lo=81.5 
+Q4 Dec-24  n= 22 mean= 81.61727 actual=     82.0   +0.5% hi=83.2 lo=80.8 
+FY Dec-24  n= 28 mean= 81.53393 actual=     82.5   +1.2% hi=83.0 lo=64.0 guide=T
+Q1 Mar-25  n= 24 mean= 81.73125 actual=     82.0   +0.3% hi=82.5 lo=81.0 
+Q2 Jun-25  n= 24 mean= 81.34333 actual=     81.0   -0.4% hi=82.0 lo=81.0 
+Q3 Sep-25  n= 24 mean= 81.42708 actual=    80.89   -0.7% hi=83.0 lo=80.9 
+Q4 Dec-25  n= 24 mean= 81.02583 actual=     80.5   -0.6% hi=82.0 lo=77.6 
+FY Dec-25  n= 30 mean=   76.671 actual=    77.53   +1.1% hi=81.6 lo=-46.0 guide=T
+Q1 Mar-26  n= 25 mean=  80.6088 actual=   75.066   -6.9% hi=81.6 lo=80.0 guide=T
+Q2 Jun-26  n= 25 mean=  79.3676 actual=    77.83   -1.9% hi=81.4 lo=78.3 
+Q3 Sep-26  n= 25 mean=  78.8792 actual=     77.5   -1.7% hi=82.0 lo=78.0 
+Q4 Dec-26  n= 25 mean=  78.8452 actual=        -         hi=82.0 lo=77.3 
+FY Dec-26  n= 31 mean=  78.2159 actual=        -         hi=81.0 lo=72.2 guide=T
+Q1 Mar-27  n= 22 mean= 78.32273 actual=        -         hi=81.1 lo=76.5 
+Q2 Jun-27  n= 22 mean= 78.01818 actual=        -         hi=81.1 lo=75.4 
+Q3 Sep-27  n= 22 mean=     78.1 actual=        -         hi=81.5 lo=75.0 
+Q4 Dec-27  n= 22 mean= 78.20909 actual=        -         hi=81.1 lo=75.2 
+FY Dec-27  n= 31 mean=  76.3881 actual=        -         hi=79.781 lo=32.2 
+Q1 Mar-28  n=  9 mean= 78.22222 actual=        -         hi=79.9 lo=76.0 
+Q2 Jun-28  n=  9 mean= 77.97778 actual=        -         hi=79.9 lo=75.7 
+Q3 Sep-28  n=  9 mean= 77.92222 actual=        -         hi=79.9 lo=75.6 
+Q4 Dec-28  n=  9 mean= 78.03333 actual=        -         hi=79.9 lo=75.7 
+FY Dec-28  n= 25 mean= 77.85416 actual=        -         hi=80.144 lo=73.2 
