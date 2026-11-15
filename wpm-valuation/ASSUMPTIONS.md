@@ -127,6 +127,31 @@ _Current price $131.45 · street target $172._
 - Precious-metals streamers structurally trade **rich to CAPM-DCF** (beta doesn't capture the safe-haven/inflation-hedge/optionality premium). This is the P/OCF-multiple point from the thesis, restated in DCF terms.
 - **Recommendation direction hinges on how we treat the discount rate** → user decision pending (see chat).
 
+## 6d. LSEG consensus (Mean) — from Estimate Details files (US$M except per-share)
+| Measure | 2025A | 2026E | 2027E | 2028E | 2029E | 2030E |
+|---|---|---|---|---|---|---|
+| Gold prod (koz) | 416 | 589 | 624 | 726 | 783 | 653¹ |
+| Silver prod (koz) | 21,643 | 27,480 | 28,352 | 29,122 | 28,148 | 27,959 |
+| Revenue | 2,173 | 3,562 | 3,796 | 4,294 | 4,284¹ | — |
+| EBITDA | 1,810 | 2,987 | 3,179 | 3,482 | 3,536¹ | — |
+| CFO | 1,749 | 2,872 | 3,220 | 3,281 | 3,234 | — |
+| FCF | 1,049 | (164) | 2,905 | 3,093 | 3,134 | — |
+| EPS non-GAAP ($) | 3.02 | 4.49 | 4.45 | 5.10 | 5.29¹ | — |
+| DPS ($) | 0.66 | 0.84 | 0.82 | 0.92 | 2.04¹ | 2.34¹ |
+| Capex / stream deposits | 1,341 | 4,910 | 859 | 359 | 233 | 46¹ |
+| Net debt (− = net cash) | (1,146) | 752 | (1,103) | (3,292) | (7,175)¹ | — |
+| Cash cost $/GEO | 492 | 545 | 625 | 637 | 698 | — |
+_¹ thin coverage (1–2 analysts) — extend/hold flat ourselves beyond 2028. Consensus implies ~$4,000 Au / ~$45 Ag (≈ spot) → consensus ≈ our spot-flat base._
+_Historical quarterly actuals (16 yrs) in `CF-Export-15-11-2026.xlsx`. Analyst ratings/targets over time in `RecommendationTP (2).xlsx`._
+
+## 6e. DCF v0 result (consensus FCFE, 10-yr, flat $3.15B plateau 2030–36)
+| Cost of equity | Fair value/share | vs $131.45 |
+|---|---|---|
+| **CAPM ~11%** (β 1.2894) | **~$62** | **−53% (SELL)** |
+| Streaming-NAV ~5.5% | ~$130 | ~fair (HOLD) |
+| 5.0% | ~$140 | +7% |
+→ Market's implied cost of equity ≈ **5.5%** (NAV convention), not CAPM. **The discount-rate choice IS the recommendation.** Decision pending with user.
+
 ## 7. Still needed (next steps)
 - [ ] **LSEG estimate files** (user committing to repo): street production / revenue / EBITDA / CFO / EPS(non-GAAP) / DPS, 2026E–2031E + 20-yr history → calibrate 2027–2030 ramp.
 - [ ] **Physical gold oz & silver oz** production/sales (from MD&A `cr22955010`) → split price deck (critical given 80:1 spot vs 60:1 guidance).
