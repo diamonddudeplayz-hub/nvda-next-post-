@@ -1,25 +1,27 @@
-# Relative Valuation — Comp Set & Multiples
-_Sanity check on the DCF (rubric requires comparables). All peer figures below are REAL-WORLD approximations from web sources — replace with scenario-consistent LSEG pulls before citing._
+# Relative Valuation — Comp Set & Multiples (REAL DATA)
+_NTM 2027E consensus (LSEG) + current market data (Nov 16, 2026). All USD. Live in model Comps tab._
 
-## Peer set (precious-metals royalty & streaming)
-| Ticker | Name | Model | Note |
-|---|---|---|---|
-| WPM | Wheaton | **Pure streamer** (99% PM) | our name |
-| FNV | Franco-Nevada | Royalty-heavy + energy royalties | largest, premium benchmark |
-| RGLD | Royal Gold | Stream + royalty mix | **acquired Sandstorm in 2025** |
-| TFPM | Triple Flag | Stream + royalty | closest business-mix comp to WPM |
-| OR | Osisko Gold Royalties | Royalty-heavy, mid-cap | |
-| ~~SAND~~ | Sandstorm | stream+royalty | **acquired by RGLD (2025) — confirm if still independent in LSEG; else drop/use as takeout comp** |
+## Peer set
+Precious-metals royalty & streaming: **WPM** (pure streamer), **FNV** (royalty-heavy + energy), **RGLD** (stream+royalty; absorbed **Sandstorm** in 2025 — SAND excluded as standalone), **TFPM** (Triple Flag; closest business-mix). Royalty cos run ~100% margins, streamers ~70–90% — same peer group, same metrics.
 
-**Royalty vs streaming nuance (address in report):** royalty cos (FNV, OR) take a % of revenue → ~100% margins, no ongoing cost. Streamers (WPM, TFPM) pay a fixed ~20%-of-spot per ounce → ~70–90% margins. The market values both as ONE peer group on the same metrics; the structure affects margin, not the framework. WPM is the purest large-cap **streamer** → sits between royalty-premium FNV and the mid-caps.
+## Multiples (NTM 2027E consensus, USD)
+| | Price | EV/EBITDA | P/OCF | P/E | P/NAV | Div yld | Beta |
+|---|---|---|---|---|---|---|---|
+| **WPM** | $127.50 | **19.2×** | 18.5× | 28.7× | 4.8× | 0.6% | 1.28 |
+| FNV | $242.45 | 19.7× | 21.6× | 27.9× | 4.5× | 0.7% | 0.93 |
+| RGLD | $249.84 | 12.5× | 13.5× | 19.4× | 1.7× | 0.8% | 0.46 |
+| TFPM | $29.80 | 14.5× | 13.0× | 22.1× | 2.4× | 0.8% | 0.46 |
+| **Median (ex-WPM)** | | 14.5× | 13.5× | 22.1× | 2.4× | | |
 
-## Multiples to pull (LSEG), primary → secondary
-1. **P/NAV** — THE sector-standard metric (consensus NAVPS). Royalty/streamers trade **1.2–2.0×** (top-tier FNV ~1.8–2.0×) vs miners 0.7–0.9×. *This premium IS the thesis: contracted, low-risk cash flows earn a premium — the same logic as our ~6% discount rate.*
-2. **NTM P/OCF (P/CFPS)** — streamer standard (the metric from the original pitch). WPM ~19×.
-3. **NTM EV/EBITDA** — royalty/streamers 20–40×; FNV ~26×, RGLD ~26.6×. **WPM only ~19×.**
-4. **NTM P/E** — WPM ~27×.
-5. **Dividend yield** (WPM ~0.6%) + 5-yr production growth (WPM +50% — sector-leading).
+WPM premium to median: **+33% EV/EBITDA, +37% P/OCF, +30% P/E, +98% P/NAV.**
 
-## Relative-value kicker (supports BUY)
-**WPM trades at a discount to the royalty leaders**: ~19× NTM EV/EBITDA & ~19× P/OCF vs FNV/RGLD ~26×. Despite comparable quality and **sector-leading +50% contracted growth**, WPM carries a ~7-turn EV/EBITDA discount. Some discount is warranted (streamer margin < royalty margin), but the gap is wide → relative value supports the BUY and gives the comp cross-check a direction consistent with the DCF.
-_Caveat: pull scenario-consistent peer multiples from LSEG — real-world prices differ from this scenario's deck._
+## ⚠ CORRECTION & honest conclusion
+**Earlier placeholder said WPM trades at a *discount* to peers (19× vs ~26×). That was from a low-quality web source and is WRONG.** Real data:
+- **WPM trades in line with FNV and at a premium to RGLD/TFPM on every metric** — it is the **premium tier, not cheap.**
+- The premium is **justified**: pure-PM exposure, scale/liquidity, **sector-leading +50% GEO growth**, and the **highest gold-leverage in the group (β 1.28)** → most upside in a gold bull.
+- On **growth-adjusted (PEG)** terms WPM (~1.0) is cheaper than FNV (~1.7) and RGLD (~1.4); TFPM screens cheapest (~0.5).
+- **Implied WPM value at FNV (closest-peer) multiples: $124 (P/NAV) – $153 (P/OCF), ~$134 median** → ≈ current-to-mild-upside.
+
+**Net: comps = FAIRLY VALUED, premium deserved.** They give no independent "cheap" signal — they *confirm WPM is best-in-class and priced like it*, which is consistent with the thesis that these cash flows earn a premium (low discount rate). **The BUY rests on the DCF / metal thesis, not on multiple re-rating.** Comps are the rubric's sanity check — and they say "quality premium, fairly valued," not "bargain." Frame honestly.
+
+_Source: company market data (Nov 16, 2026); LSEG Estimate Details (FNV.TO, RGLD.O, TFPM.K, WPM.TO) incl. Net Asset Value consensus._
