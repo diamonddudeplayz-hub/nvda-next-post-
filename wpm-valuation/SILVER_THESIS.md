@@ -32,5 +32,14 @@ Physical silver = lowest risk, pure floor exposure, **no leverage**. A silver mi
 ## Risk / honesty (for Risks section)
 Silver is **more volatile than gold** and **partly industrial** — a recession or a solar-subsidy/thrifting shock hits ~half of demand, and silver amplifies gold's moves in *both* directions. That volatility is the argument *for* the streaming structure, but the downside case (silver back toward $30s with gold) must be shown.
 
+## Sourced figures (Silver Institute / World Silver Survey — verify exact before citing)
+- **5th consecutive annual market deficit in 2025** (2021–25), **6th projected for 2026.** Structural, not cyclical.
+- 2025 deficit: sources conflict (~40 / ~95 / ~149 Moz) — late-2025 forecast ~**95 Moz**; prior years larger (2024 ~149–195 Moz). Cumulative 2021–25 ≈ several hundred Moz drawn from above-ground stocks. **Verify exact.**
+- **Industrial demand record 680.5 Moz (2024)**, ~657–665 Moz (2025); >50% of total demand.
+- **Solar PV ~186.6 Moz (2025)**, ~1/6 of demand (2024 ~197–232 Moz) — *fell ~6% in 2025 on thrifting/substitution* (honest caveat).
+- Silver record **$57.85 (Dec 1, 2025)** → **~$121 (Jan 2026 squeeze)** → ~$47 now.
+- **Honest nuance (makes it credible):** in 2025 industrial/solar *softened* (high prices → thrifting); the deficit persisted because **investment demand (coins/bars/ETFs)** took over as the driver. So the thesis is "structural deficit survives even with thrifting," not "industrial demand explodes forever." Thrifting/recession = the key demand risk.
+- Sources: silverinstitute.org (World Silver Survey 2026 / 2025 forecasts), Kitco, Mining.com, Reuters/Metals Focus.
+
 ## To source for the report (verify-everything rule)
 Silver Institute *World Silver Survey 2026* / Metals Focus: annual + cumulative deficit (Moz), mine supply trend, solar demand (Moz), industrial share. Gold:silver ratio history. WPM silver segment (Antamina 67.5% ≈ 12M oz/yr 5 yrs; Peñasquito; Constancia) from MD&A.
