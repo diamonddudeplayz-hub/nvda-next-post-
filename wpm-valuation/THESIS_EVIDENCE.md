@@ -41,6 +41,22 @@ _Updated 2026-11-18. Fresh data for the report's Investment Thesis + Risks secti
 - Gold/silver 5-yr return corr **0.79**, silver beta **1.63** — silver is a 1.6× amplifier of the gold bet. Ratio at 5-yr median (~82), NOT cheap.
 - Independent industrial-deficit leg is **contested**: BofA models 2026 flipping to a small **surplus** (ETF outflows, China solar crackdown, thrifting). Even BofA's bullish $75 silver call rests on the *monetary* driver, not the deficit. → lean silver on the gold-correlated monetary leg; treat deficit as optionality.
 
+## ⭐ The regime break, quantified (55yr gold + fed funds data) — the thesis's backbone
+| Period | Gold–FedFunds corr (levels) | Fed funds | Gold |
+|---|---|---|---|
+| **2004–2021 (old regime)** | **−0.65** (strong inverse) | — | — |
+| **2022–2026 (new regime)** | **+0.00** (decoupled) | 0.13%→3.88% | $1,796→$3,875 (**+100%**) |
+- **Hiking cycles:** 2022–26 Fed hiked **+350bp** → gold **+100%**. In the old −0.65 regime that should have crushed gold; instead it doubled. **The inverse rate–gold relationship collapsed to zero** = the structural buyer overwhelmed the rate signal. (Source: fed_fund_rates.xlsx, gold_max.xlsx.)
+
+### 2011 fact-check (get the mechanism right)
+- 2011 fed funds = **0.13% (ZIRP) — NOT hiking**; held at zero until Dec 2015. Gold fell $1,623(2011)→$1,061(2015) **with rates pinned at zero**, driven by **real-yield normalization (2013 taper tantrum, gold −24% that year)** + QE unwind, NOT hikes. Asymmetry still valid: 2011 = max ease, only way tighter (headwind ahead); today = restrictive, room to ease (tailwind ahead).
+
+### FedWatch (as of Nov 18 2026): market prices HAWKISH path
+- Dec'26 hike to 400–425 (~97%), Jan'27 →425–450 (~70%), Mar'27 →450–475 (~48%), holding ~450–475 to mid-2027. I.e. **Fed to ~4.5–4.75% by mid-2027.** This is the near-term *financial-layer* headwind on gold — NOT a structural threat (see regime break).
+
+### "You can't forecast gold from rates anymore" — why the thesis is a FLOOR thesis
+Because the correlation broke (−0.65→0), the rate path predicts only the financial layer's short-term pressure, not the floor (central banks don't trade rates). → the honest response is a *rising-floor* thesis, no price target; accumulate into the hawkish-driven weakness; second tailwind when hiking reverses.
+
 ## Honest risk flags (for the Risks section)
 - Price still falling — gold at YTD lows; WGC floor framework is **2 of 3** (positioning not yet washed out) → near-term could test lower before turning. "Right on structure, not yet on timing."
 - Jewellery −17% y/y, bar/coin −19% y/y (high prices deterring consumers) — structural bid is central banks + ETFs, not retail.
