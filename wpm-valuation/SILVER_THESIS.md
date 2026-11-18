@@ -41,5 +41,20 @@ Silver is **more volatile than gold** and **partly industrial** — a recession 
 - **Honest nuance (makes it credible):** in 2025 industrial/solar *softened* (high prices → thrifting); the deficit persisted because **investment demand (coins/bars/ETFs)** took over as the driver. So the thesis is "structural deficit survives even with thrifting," not "industrial demand explodes forever." Thrifting/recession = the key demand risk.
 - Sources: silverinstitute.org (World Silver Survey 2026 / 2025 forecasts), Kitco, Mining.com, Reuters/Metals Focus.
 
+## ⚠ 5-year data reality-check (gold+silver daily, 2021–26)
+- **Return correlation 0.79; silver beta to gold 1.63; they fall together 77% of gold-down days** (down-day corr 0.75 > up-day 0.61). → Silver is NOT a diversifier; it's a 1.6× amplifier of the gold bet. Model it **tied to gold** (two cases), not independently.
+- **Au:Ag ratio: 5yr median 83, current 82, range 46–105.** Silver is at its median vs gold — **NOT cheap.** "Ratio compression to 60–72" is therefore a *silver-bull* assumption (silver outperforming its recent norm), not a mean-reversion to cheap. Label it as such.
+
+## ⚠ The independent (industrial-deficit) leg is CONTESTED — don't overclaim it
+BofA (Nov 2026, user-provided) is a direct bear on the deficit:
+- Model flips from an **8.6kt deficit (2025) to a ~910t SURPLUS (2026)**, back to a small deficit (852t) 2027.
+- **ETF flows reversed** (inflows ~8.6kt 2025 → outflows ~1.5kt 2026) — alone enough to tip to surplus.
+- **China solar crackdown**: installs −129 GW YoY; China a **net silver exporter** in Q2.
+- Data centers double but stay **<2% of consumption** — "won't save the silver market."
+- Thrifting: 2025 solar silver demand fell ~6%.
+- Yet BofA still sees **silver $75 in 2027** — but driven by **macro/investor flows easing (the monetary leg), NOT the deficit.**
+
+**Honest verdict:** the monetary leg (silver rides gold, 0.79 corr) is the STRONG, robust part. The **industrial-deficit leg is the weak, contested part** — a credible desk sees 2026 in surplus. So **lean the silver thesis on the gold-correlated monetary driver; treat the industrial deficit as optionality, not a pillar.** A grader who reads BofA will catch an over-claimed deficit.
+
 ## To source for the report (verify-everything rule)
 Silver Institute *World Silver Survey 2026* / Metals Focus: annual + cumulative deficit (Moz), mine supply trend, solar demand (Moz), industrial share. Gold:silver ratio history. WPM silver segment (Antamina 67.5% ≈ 12M oz/yr 5 yrs; Peñasquito; Constancia) from MD&A.
