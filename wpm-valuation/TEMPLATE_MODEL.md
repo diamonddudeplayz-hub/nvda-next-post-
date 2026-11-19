@@ -23,9 +23,9 @@ Operating map ties to the dollar every year: Revenue − Cost of Operating Reven
 ## Outputs (current price ~$117)
 | Case (gold) | Applied 6.0% (FCFF / FCFE) | CAPM 11.6% (FCFF / FCFE) |
 |---|---|---|
-| **Base** $4,700 / Ag $64 | **$164 / $152**  (+41% / +31%) | $94 / $89 |
-| Bull $5,500 / Ag $79 | $203 / $188 | $116 / $110 |
-| Bear $3,400 / Ag $39 | $107 / $99 | $61 / $58 | $73 / $69 | $57 / $54 |
+| **Base** $4,700 / Ag $64 | **$166 / $166** (+43%) | $95 |
+| Bull $5,500 / Ag $79 | $210 / $209 | $120 |
+| Bear $3,400 / Ag $39 | $106 / $105 | $60 | $107 / $99 | $61 / $58 | $73 / $69 | $57 / $54 |
 
 Terminal value both ways on both tabs (Gordon g=2% + exit 18× EBITDA, 50/50), as the sample does.
 Cross-checks our independent `WPM_DCF_Model.xlsx` (base ~$154, bull $190, bear $94, CAPM ~$72): consistent.
