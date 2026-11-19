@@ -10,7 +10,7 @@ Operating map ties to the dollar every year: Revenue − Cost of Operating Reven
 (2025: 2,315 − 643 − 90 = 1,582 ✓); EBIT + D&A = reported EBITDA (1,582 + 305 = 1,887 ✓). BS Check = Ok! all years.
 
 ## Adaptations for a streamer (noted on the Cover)
-1. **Revenue = GEOs sold × realised gold-equiv price** (not a blanket growth %). 3 cases = 3 gold decks:
+1. **Revenue = gold_oz x gold_px + silver_oz x silver_px + other** (gold & silver modelled SEPARATELY). Silver price is DERIVED from gold via the 1.63 beta (ratio ~73 base). Silver ~46% of revenue (not a blanket growth %). 3 cases = 3 gold decks:
    Base $4,700 / Bull $5,500 / Bear $3,400. GEOs sold 778k->1,200k (WPM Q3-26 guidance: ~900k produced 2026, ~50% growth to 1.2M by 2030).
 2. **Cost of sales held at FY25 ~28%** (contractual fixed cost), not the 5-yr avg (too low-margin).
 3. **Equity bridge uses current Q3-26 net debt $1.45B (WPM drew $2.7B to fund $4.6B of new streams). Forecast capex = committed stream installments** (~$384M→$179M declining), not the lumpy
@@ -23,9 +23,9 @@ Operating map ties to the dollar every year: Revenue − Cost of Operating Reven
 ## Outputs (current price ~$117)
 | Case (gold) | Applied 6.0% (FCFF / FCFE) | CAPM 11.6% (FCFF / FCFE) |
 |---|---|---|
-| **Base** $4,700 | **$182 / $168**  (+57% / +44%) | $104 / $99 |
-| Bull $5,500 | $219 / $203 | $125 / $119 |
-| Bear $3,400 | $128 / $118 | $73 / $69 | $57 / $54 |
+| **Base** $4,700 / Ag $64 | **$164 / $152**  (+41% / +31%) | $94 / $89 |
+| Bull $5,500 / Ag $79 | $203 / $188 | $116 / $110 |
+| Bear $3,400 / Ag $39 | $107 / $99 | $61 / $58 | $73 / $69 | $57 / $54 |
 
 Terminal value both ways on both tabs (Gordon g=2% + exit 18× EBITDA, 50/50), as the sample does.
 Cross-checks our independent `WPM_DCF_Model.xlsx` (base ~$154, bull $190, bear $94, CAPM ~$72): consistent.
