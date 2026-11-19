@@ -12,6 +12,7 @@ Raw primary-source material for the gold thesis series (Primary Source Arbitrage
 | `wgc-gold-miners-q2-2026-margins.md` | WGC/Metals Focus Gold Miners (Blagden) | 10 Nov 2026 | Why the streamer: record AISC $1,930/oz; margins −16% q/q; Goose $6,390/oz |
 | `wgc-china-market-update-oct-2026.md` | WGC China update (Jia) | 17 Nov 2026 | PBoC +26t Oct (24th straight month), 2,435t = 8.1% FX reserves |
 | `wgc-india-market-update-oct-2026.md` | WGC India update (Chacko) | 17 Nov 2026 | Retail/ETF demand resilient on dips; price $3,870 by 12 Nov |
+| `treasury-refunding-buybacks-aug-nov-2026.md` | US Treasury refunding statements + buyback schedule | Aug–Nov 2026 | Leg 2: long-end buyback cap $2bn→$4bn→$6bn; quarterly envelope $38bn→$70bn |
 
 Also in the repo root:
 - `THESIS_EVIDENCE_1.md` — working evidence log (not a primary source; cites the above).
