@@ -60,6 +60,8 @@ DCA is a confession that I can't time the bottom. If I knew gold ran straight up
 
 It smooths the price I pay. It does nothing about whether I bought the right thing. Everything in the first post about owning the streamer still applies: WPM carries its mining partners' execution risk, a disruption at Antamina, a partner default, a shift in capital allocation under new management. Spreading my buys across four months dilutes when I buy, not what I bought.
 
+Whether WPM is the right vehicle over the metal is a separate question, and a timely one: the stock has climbed since the summer while gold and silver both fell. What that says about its multiple against the metal is its own post, and I'll take it up next.
+
 And price is not a break condition. The break conditions belong to the thesis, and here's where they stand.
 
 ## The break conditions, checked
