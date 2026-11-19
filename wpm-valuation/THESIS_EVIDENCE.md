@@ -57,6 +57,11 @@ _Updated 2026-11-18. Fresh data for the report's Investment Thesis + Risks secti
 ### "You can't forecast gold from rates anymore" — why the thesis is a FLOOR thesis
 Because the correlation broke (−0.65→0), the rate path predicts only the financial layer's short-term pressure, not the floor (central banks don't trade rates). → the honest response is a *rising-floor* thesis, no price target; accumulate into the hawkish-driven weakness; second tailwind when hiking reverses.
 
+## WPM vs FNV YTD 2026 — torque cuts both ways (nuance for Risks + relative val)
+- YTD: gold **−16%**, **FNV +11%, WPM −1%.** Both royalty/streamers beat the *metal* (fixed-cost structure vs miners — group point holds). But **FNV beat WPM by ~12pp.**
+- Why FNV > WPM *this* year (NOT "royalty beats streamer"): (1) **beta** — WPM 1.5 vs FNV 0.93; in a *down*-gold year higher beta loses (same beta that gave WPM +187% vs FNV +69% over 5yr). (2) **silver** — WPM ~49% silver; silver −34% YTD / −61% from peak, far worse than gold; FNV has almost none.
+- **Framing:** WPM is the higher-torque, silver-heavy name — outperforms *up*, underperforms *down*. 2026 = down/silver-crash year → WPM lags FNV. The lag is the *entry*, not a red flag: the same beta + silver that hurt YTD is the coiled spring when the bull resumes. FNV/GLD = defense; WPM = torque. Reinforces "size it right / core-plus-satellite."
+
 ## Honest risk flags (for the Risks section)
 - Price still falling — gold at YTD lows; WGC floor framework is **2 of 3** (positioning not yet washed out) → near-term could test lower before turning. "Right on structure, not yet on timing."
 - Jewellery −17% y/y, bar/coin −19% y/y (high prices deterring consumers) — structural bid is central banks + ETFs, not retail.
