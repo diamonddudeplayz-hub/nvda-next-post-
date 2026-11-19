@@ -1,31 +1,49 @@
 # How I'm Actually Buying the Gold Thesis
 
-### A floor I won't price is a floor I can't wait for. Here's the entry method that matches that, the arithmetic behind it, and the two things it doesn't fix.
+### Gold just printed a fresh 2026 low. Here's why I'm buying it on a schedule instead of waiting for a bottom, and the arithmetic behind that.
 
-The last two posts ended in the same place. There is a rising floor under gold, I don't have a price target for it, and here are the specific numbers that would tell me I'm wrong. Several readers asked the obvious follow-up: fine, so how do you actually buy it. This is that post, and it's shorter.
+Gold settled at $3,741 on November 18, a 2026 low. It is down 33% from January's peak and 17% from where it sat when I last wrote in September. A few readers asked whether that breaks the thesis. It doesn't, and this post is about what I'm doing with the weakness instead.
 
 **The short version**
 
-- A thesis that refuses to name a price cannot tell you the day to buy. Dollar-cost averaging (DCA) is the entry method that matches that shape: a fixed dollar amount on a fixed schedule, which buys more shares when the stock is cheap and fewer when it's expensive.
-- The math is real but small. DCA hands you the harmonic mean of your purchase prices, which sits at or below the simple average every time. In a volatile year that's worth maybe 1% to 3% on your cost basis. A tailwind on the entry, not an edge on the thesis.
-- What DCA does not do: it doesn't beat deploying all at once if the price just runs, and it does nothing for the risk that I picked the wrong vehicle. Price is still not a break condition.
-- The thesis break conditions are. The one that mattered most, Q3 central-bank demand, has already reported, and it held. The ledger is at the bottom.
-- The weakness is rate-driven: the 10-year is back near 5% and the market is pricing more Fed hikes. Gold's correlation to the fed funds rate flipped from −0.64 to zero in 2022, and it rose 109% while the Fed hiked 375 basis points, so this is financial-layer pressure on the price, not a crack in the floor.
-- I hold Wheaton Precious Metals and I'm adding on a fixed monthly schedule, not on my read of the bottom.
+- The floor under gold was never a price. It is the pace of central-bank buying, and that pace hit 321 tonnes in Q3, up 42% year on year. A lower spot price doesn't touch it.
+- A thesis with no price target can't tell you the day to buy. Dollar-cost averaging fits that shape: fixed dollars on a fixed schedule, more shares when the price is down.
+- The math is small and real. DCA gives you the harmonic mean of your purchase prices, about 1% under the simple average in a volatile year. It does nothing for the risk I picked the wrong vehicle, and price is still not a break condition.
+- I hold Wheaton Precious Metals and add on a fixed monthly schedule. The break conditions and where they stand are at the bottom.
 
-## You can't put a limit order at a floor you won't price
+## The floor is a flow, not a price
 
-Both prior posts refused to give a price target, on purpose. Gold has no cash flows, so every target I've seen is someone backing into a number from a monetary-base ratio or an inflation adjustment and presenting precision the method doesn't support. What I argued instead was a direction: the marginal buyer is now price-insensitive central banks, the floor under the metal ratchets higher over time, and the financial layer still sets the week-to-week price above that floor.
+$3,741 looks like a problem for a "rising floor" thesis until you remember what the floor is. In [June](#) and [September](#) I argued it was never a line on the chart. It is the pace of price-insensitive central-bank buying, which is a flow measured in tonnes per quarter, not a level in dollars.
 
-The World Gold Council lands in the same spot, and more usefully for this post, says what to do about it. In "Where floor art thou?" (November 5, 2026), writing about an asset that has returned close to 9% a year since 1971: "averaging into weakness has historically made sense," and "the more useful question is not where the floor is, but whether weakness is becoming an increasingly attractive opportunity to add."
+That flow is intact. Central banks bought 321 tonnes in Q3, above Q2's 296 and well above the five-year average of 227, taking the year to 675 tonnes, 6% ahead of last year. The TIC data shows the same institutions selling Treasuries to pay for it. None of that moved when the price fell. What fell is the thing the financial layer controls: the ETFs and macro funds that set the week-to-week price marked gold down, while the structural bid kept accumulating underneath.
 
-I think that's the honest consequence of a no-target thesis, not a dodge. If I can't tell you whether gold bottoms at $3,857 or keeps going to $3,400, then I can't tell you the single day to put money in. A limit order needs a level. I don't have one. What's left is to buy a fixed amount on a fixed date and let the schedule, rather than my guess, set the entry.
+![Central-bank buying by quarter](charts/central-bank-flow.png)
+
+*Quarterly central-bank net purchases. After a soft Q1 (since revised down to 57t), buying ran 296t and 321t, above the 227t five-year average. Source: WGC Gold Demand Trends Q3 2026.*
+
+So "where is the floor" is the wrong question. The floor is 321 tonnes a quarter of demand that doesn't care about the price, and it is still there at $3,741.
+
+## What's pushing the price down
+
+The price above that floor is set by rates, and rates are moving the wrong way for gold. The Fed resumed hiking in September, lifting the funds rate to 3.88%. The market has December's hike all but priced and leans toward 4.5% to 4.75% by mid-2027. The 10-year Treasury yield is back near 5% and the 30-year near 5.4%, not far off their early-October highs around 5.35% and 5.73%. Higher rates raise the cost of holding something that yields nothing, and the financial layer sells gold on exactly that. The WGC pinned October's drop on the same causes: "Fed rate-path repricing, speculative de-grossing," and a rotation into bonds.
+
+I'm not going to tell you rates stopped mattering. They move the price, and right now they're moving it down. The honest version is narrower, and it's in the data. Through the fastest hiking cycle in forty years, the 525 basis points from early 2022 to mid-2023, gold didn't fall. It went from $1,801 to about $1,950, flat, when the old rate-to-gold relationship said it should have dropped hard. The explosive move came afterward, on the cuts, which the old relationship explains fine. The structural bid doesn't override rates. It stopped letting gold fall when rates said it should.
+
+![Gold versus the fed funds rate](charts/gold-vs-fedfunds-regime.png)
+
+*Gold versus the fed funds target, 2020–2026. Gold held flat through the 2022–23 hiking cycle (+525bp), rose on the 2024–25 cuts, and is falling as hikes resume. Source: LSEG XAU spot, US fed funds target; author's calculations.*
+
+That is the whole reason I can average into rate-driven weakness without flinching. The dip is caused by the layer I expect to be noisy. The floor is the layer I'm betting on, and it's still buying.
+
+## You can't limit-order a floor you won't price
+
+Both prior posts refused a price target, on purpose. Gold has no cash flows, so every target I've seen is someone backing into a number from a monetary ratio and calling it precision. If I can't tell you whether gold bottoms at $3,857 or $3,400, I can't tell you the single day to buy. A limit order needs a level. I don't have one. What's left is to buy a fixed amount on a fixed date and let the schedule set the entry.
 
 ## The arithmetic
 
-Dollar-cost averaging means investing the same dollar amount on a regular schedule regardless of price. Because the dollar amount is fixed, the number of shares it buys moves inversely with the price: more shares when it's down, fewer when it's up.
+Dollar-cost averaging means investing the same dollar amount on a schedule regardless of price. The fixed dollar buys more shares when the price is low and fewer when it's high.
 
-Here's $1,000 a month into WPM across four months of the kind of swing this stock actually produces.
+Here's $1,000 a month into WPM across four months of the kind of swing it actually produces.
 
 | Month | WPM price | $1,000 buys |
 |---|---|---|
@@ -34,61 +52,41 @@ Here's $1,000 a month into WPM across four months of the kind of swing this stoc
 | 3 | $100 | 10.00 sh |
 | 4 | $120 | 8.33 sh |
 
-You put in $4,000 and own 35.12 shares. Your cost basis is $4,000 ÷ 35.12 = **$113.91 a share**. The simple average of the four prices is ($130 + $110 + $100 + $120) ÷ 4 = **$115.00**. You came in $1.09 under it.
+You put in $4,000 and own 35.12 shares, a cost basis of $4,000 ÷ 35.12 = $113.91. The simple average of the four prices is $115.00. You came in $1.09 under, about 1%.
 
-That $1.09 isn't luck. Your cost basis under DCA is the harmonic mean of the prices you paid, a weighted average that leans toward the low prices because that's where your fixed dollars bought the most shares. The harmonic mean is at or below the simple average every time, and the two are equal only if the price never moves. The gap widens with volatility, so WPM's 30%-to-40% swings make it bigger than it would be on a sleepy stock.
+That gap is the harmonic mean of the prices you paid, which leans toward the lows because that's where the fixed dollars bought the most shares. It sits at or below the simple average every time, and the two are equal only if the price never moves. More volatility, bigger gap, so WPM's swings make it larger than it would be on a sleepy stock. Over a full year it's worth maybe 1% to 3% on the cost basis. A tailwind on the entry, not an edge on the thesis.
 
-Keep it in proportion, though. On these numbers the gap is about 0.9% of cost basis, and across a full year of monthly buys through a wide range it's maybe 1% to 3%. It's a small tailwind on the entry, not a reason to own the position.
+One caution on what the arithmetic proves. The harmonic mean is a fact about the prices I paid. It is not a claim that spreading the money out beats putting it all in today, which depends on what gold does next.
 
-And be careful what the arithmetic actually proves. The harmonic mean is a fact about the prices I paid. It is not a claim that spreading the money out beats putting it all in today. That comparison depends entirely on what gold does next, not on an averaging identity, and it's where most DCA pitches quietly cheat.
+## Where DCA helps, and where it doesn't
 
-## What's pulling it down, and why I keep buying
+DCA is a confession that I can't time the bottom. If I knew gold ran straight up from here, a lump sum today would beat it, and historically lump sum beats DCA more often than not, because markets rise more than they fall. DCA earns its keep when the price chops or falls before it recovers, which is close to where the WGC's own floor framework puts us: of its three conditions for an interim bottom, two are in place and the third, a washout in speculative positioning, is not. They think there may be lower to go first. That's the environment averaging in is built for.
 
-Gold settled at $3,741 on November 18, a fresh 2026 low, and WPM is changing hands around $123. The weakness has a clear cause, and the cause is the whole reason I'm comfortable averaging into it.
+It smooths the price I pay. It does nothing about whether I bought the right thing. Everything in the first post about owning the streamer still applies: WPM carries its mining partners' execution risk, a disruption at Antamina, a partner default, a shift in capital allocation under new management. Spreading my buys across four months dilutes when I buy, not what I bought.
 
-Rates are the driver. The 10-year Treasury yield is back at 5.06% and the 30-year at 5.40%, both just below their early-October highs of about 5.35% and 5.73%. The market has December's Fed hike all but priced and is leaning toward a funds rate near 4.5% to 4.75% by mid-2027. Higher-for-longer rates raise the opportunity cost of holding an asset that pays nothing, and the financial layer, the ETFs and macro funds that trade gold against real yields, has been selling it on exactly that. The WGC pinned October's drop on the same thing: "Fed rate-path repricing, speculative de-grossing," and a rotation into bonds.
-
-In the old regime that would be a reason to wait. From 2004 to 2021, gold and the fed funds rate ran at a −0.64 correlation on the levels, a strong inverse, so a hawkish Fed was a clean headwind. That relationship broke in 2022. Running the numbers myself on the two series, the correlation since January 2022 is +0.04, effectively zero, and gold is up 109% while the Fed took the funds rate from 0.13% to 3.88%, up 375 basis points. Rates stopped predicting gold the year central banks became the marginal buyer, because central banks don't trade the opportunity cost. So the hawkish path in front of us presses on the week-to-week price, the layer above the floor. It doesn't reach the floor.
-
-![Gold stopped trading against the Fed in 2022](charts/gold-vs-fedfunds-regime.png)
-
-*Chart: gold ($/oz) versus the fed funds target rate, monthly, 2004–2026. The two ran inversely (−0.64) for seventeen years; since 2022 the Fed hiked 375bp and gold rose 109% anyway (+0.04). Source: LSEG XAU spot, US fed funds target rate, author's calculations.*
-
-The 2011 comparison some readers will reach for cuts the other way once the mechanism is right. In 2011 policy sat at emergency zero with nowhere to go but tighter, and gold fell for four years as real yields normalized up off the floor, the 2013 taper tantrum most of all, not because the Fed was hiking. It didn't lift off until December 2015, after gold had already fallen a third. Today policy is restrictive, with room to ease. The 10-year TIPS real yield was 0.1% then and 2.6% now, per the WGC's own table. The real-yield move still ahead is the mirror image: 2011 had the headwind coming, today has the tailwind.
-
-So the weakness I'm buying is rate-driven, and rates are the one variable my thesis says no longer sets the floor. That is what makes averaging in rational rather than reckless. I'm buying a dip I can explain, caused by the layer I expect to be noisy, not the layer I'm actually betting on.
-
-## Where this is the right answer, and where it isn't
-
-DCA is not an edge on the gold thesis. It's a confession that I can't time the bottom. If I knew gold ran straight up from here, a lump sum today would beat it, because the shares I'd otherwise buy in months two through four would all cost more than today's price. That's also why, historically, lump sum beats DCA more often than not: markets are up more often than they're down, so waiting usually costs you. DCA only wins in the specific case where the price chops sideways, or falls before it recovers.
-
-That specific case is roughly where the WGC says we are. The same November 5 note runs a floor framework that needs three conditions to call an interim bottom: the price stretched well below its 200-day trend, a sharp dollar rally, and a washout in speculative futures positioning. Two are in place. The third is not. Their words: "a further shake-out in futures positioning would need to take place before a more durable recovery can take hold." Read plainly, they think there may be lower to go before the turn.
-
-Two caveats keep me honest about that. The framework speaks to a three-month horizon and a possible bottom, not to a monthly buying schedule, and two of three conditions is no guarantee the third arrives. It isn't validation of my cadence. It's a backdrop that happens to be the kind DCA is built for, which is a weaker and truer claim than saying the WGC endorsed my plan.
-
-The second point matters more. DCA smooths the price you pay. It does nothing about whether you bought the right thing. Everything in the first post about owning the streamer still applies: WPM carries its mining partners' execution risk, an Antamina disruption, a partner default, a capital-allocation shift under new management. Spreading my buys across four months doesn't dilute a cent of that. It dilutes when I buy, not what I bought.
-
-And price is never a break condition. The break conditions belong to the thesis, not the tape, and the last post named four. Here's where they stand.
+And price is not a break condition. The break conditions belong to the thesis, and the last post named four. Here's where they stand.
 
 ## The break conditions, checked
 
-Carried forward from "The Current Thesis on Gold" (September 8, 2026), graded as written.
+Carried forward from [September](#), graded as written.
 
-| Watch item (set Sep 8, 2026) | What would break it | Status as of Nov 18, 2026 |
+| Watch item (set Sep 8, 2026) | Breaks the thesis if | Status as of Nov 18, 2026 |
 |---|---|---|
-| **Q3 central-bank demand** | Q3 drops back toward Q1's revised 57t instead of holding near Q2's pace | **Held.** Q3 = 321t (WGC GDT Q3, Nov 3), above Q2's 296t. Y-t-d 675t, +6% y/y; full-year pace clears 800t. Not triggered. Next checkpoint: Q4. |
-| **Treasury long-end buybacks** | Nov Quarterly Refunding scales the long-end operations back toward the old $2bn/operation (stress easing) | **Tightening, not easing.** The Nov 4 refunding raised the quarter's liquidity-support buyback envelope to up to $70bn, from $38bn in August, and the tentative schedule lifts the long-end per-operation cap to $6bn (from the $2bn standard and the $4bn September stopgap). They scaled up, not back. |
-| **The 38% reserve-funding metric** | Next WGC survey shows a material rise in the share of central banks funding gold by selling other reserves | **Open.** No new survey since the 2026 edition; next read is mid-2027. |
-| **China TIC trajectory** | The annual pace of Treasury selling accelerates while PBoC keeps buying | **Tightening.** China −$109bn YoY to Aug 2026 (TIC Table 5), wider than the −$98bn I cited through June. Foreign official −$164bn YoY. PBoC +26t in October, 24th straight month. Leg 1 intact. |
+| Q3 central-bank demand | Q3 fell back toward Q1's revised 57t instead of holding near Q2 | **Held.** Q3 = 321t, above Q2's 296t; y-t-d 675t, +6% y/y. |
+| Treasury long-end buybacks | the Nov refunding scaled long-end operations back toward the old $2bn (fiscal stress easing) | **Confirmed the other way.** The Nov 4 refunding raised the quarter's liquidity-support envelope to $70bn from $38bn, and the schedule lifts the long-end per-operation cap to $6bn. |
+| The 38% reserve-funding metric | the next WGC survey shows a material rise in central banks funding gold by selling other reserves | **Open.** No new survey since the 2026 edition; next read mid-2027. |
+| China TIC trajectory | China halts its Treasury rundown or the PBoC stops adding gold | **Not breaking.** China's Treasury holdings fell $109bn year on year to August; the PBoC added 26t in October, its 24th straight month. |
 
-One correction to log while I'm here: my September post put Q2 central-bank demand at 289t. The WGC's Q3 report revised it up to 296t. It doesn't change the direction, but the number in the old post was 289, and it's 296 now.
+One correction to log: my September post put Q2 demand at 289t. The WGC's Q3 report revised it to 296t. Same direction, updated number.
 
-Net: the one condition that could have taken real damage reported in my favour, the Treasury leg scaled its long-end buybacks up rather than back, and the China leg is if anything running faster than when I wrote it. Only the survey metric is still waiting on data, and I'm not going to pretend otherwise. DCA is a way to act on conviction the data still supports. It is not a license to keep buying conviction the data has taken away: if a checkpoint breaks, I stop the schedule regardless of how cheap the stock looks.
+Three of the four are pointing the thesis's way and one is waiting on data. None has broken. DCA is a way to act on conviction the data still supports, and if a checkpoint breaks I stop the schedule regardless of how cheap the stock looks.
 
 ## The close
 
-I still can't tell you where the floor is. Two posts in, the data hasn't changed that, and I've stopped treating it as a problem to solve before I act. A price I won't name isn't a price I can wait for. So I'm not waiting. I'm buying the same slice on the same day every month, and letting the schedule do the part I can't.
+I still can't tell you where the floor is in dollars, because it isn't a dollar figure. It's 321 tonnes a quarter, and it's still buying. A price I won't name isn't a price I can wait for. So I'm not waiting. I'm buying the same slice on the same day every month, and letting the schedule do the part I can't.
 
 ---
 
-*Disclosure: I hold a position in Wheaton Precious Metals and add to it on a fixed monthly schedule. This material is for informational purposes only and does not constitute investment advice. Dollar-cost averaging reduces the impact of entry timing; it does not reduce the risk of the underlying position, does not beat lump-sum investing in a rising market, and does not guarantee a profit or protect against loss. Central bank demand figures from World Gold Council, Gold Demand Trends Q3 2026 (November 3, 2026): Q1 revised to 57t, Q2 296t (revised up from the 289t in my September post), Q3 321t, y-t-d 675t. Floor framework, "averaging into weakness" quote and the 2011-vs-now table from WGC, "Gold Market Commentary: Where floor art thou?" (November 5, 2026). China figures from US Treasury TIC Table 5 (to August 2026) and WGC China update (November 17, 2026). Treasury buyback figures from US Treasury Quarterly Refunding Statements, August 5, 2026 (sb0590, "up to $38 billion… for liquidity support") and November 4, 2026 (sb0678, "up to $70 billion"); "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks Beginning September 9," August 19, 2026 (sb0607, "$2 billion per operation will be at least $4 billion"); and the Tentative Schedule of Treasury Buyback Operations, November 2026 Quarterly Refunding (long-end liquidity-support operations at a $6 billion per-operation maximum). US 10-year (5.06%) and 30-year (5.40%) Treasury yields from CNBC/Tradeweb, November 18, 2026; expected Fed path from CME FedWatch as of November 18, 2026. The gold–fed funds correlation (−0.64 on the levels for 2004–2021, +0.04 since January 2022) and the +375bp / +109% figures are my own calculation from LSEG XAU spot gold and the US fed funds target rate, 2004–2026; 2011 and current TIPS real yields (0.1% and 2.6%) from the WGC "Where floor art thou?" table. Dated price references: COMEX front-month gold settle $3,741/oz (November 18, 2026) and WPM near $123 (NYSE, intraday November 19; prior close $120.27 on November 18).*
+**Disclosure.** I hold a position in Wheaton Precious Metals and add to it on a fixed monthly schedule. This is for information, not investment advice. Dollar-cost averaging reduces the impact of entry timing; it does not reduce the risk of the position, does not beat a lump sum in a rising market, and does not guarantee a profit.
+
+**Sources.** Central-bank demand and the five-year average: World Gold Council, Gold Demand Trends Q3 2026, November 3, 2026 (Q1 revised to 57t, Q2 296t, Q3 321t, y-t-d 675t). Floor framework and the "rate-path repricing" attribution: WGC, "Gold Market Commentary: Where floor art thou?", November 5, 2026. Treasury buybacks: US Treasury Quarterly Refunding Statements, August 5, 2026 (sb0590, "up to $38 billion… for liquidity support") and November 4, 2026 (sb0678, "up to $70 billion"); "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks," August 19, 2026 (sb0607, "$2 billion per operation will be at least $4 billion"); Tentative Schedule of Treasury Buyback Operations, November 2026 Quarterly Refunding ($6 billion long-end per-operation maximum). China Treasury holdings: US Treasury TIC Table 5 (to August 2026). PBoC: WGC China update, November 17, 2026. Treasury yields: CNBC/Tradeweb, November 18, 2026; early-October highs (about 5.35% and 5.73%) and the expected Fed path: CNBC, CME FedWatch, November 2026. Gold and fed funds history for the hiking-cycle figures: LSEG XAU spot and the US fed funds target rate; author's calculations. Prices: COMEX front-month gold $3,741 (November 18, 2026); WPM near $123 (NYSE).

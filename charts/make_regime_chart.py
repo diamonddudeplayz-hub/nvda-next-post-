@@ -1,77 +1,61 @@
-"""Regime-break chart for the gold post, house style (navy + orange, clean grid).
-Run: python3 -I charts/make_regime_chart.py
-Reads the two source workbooks, writes charts/gold-vs-fedfunds-regime.png.
-"""
-import matplotlib
-matplotlib.use("Agg")
+"""Gold vs fed funds, honest three-phase version. House style.
+Run: python3 -I charts/make_regime_chart.py"""
+import matplotlib; matplotlib.use("Agg")
 import matplotlib.pyplot as plt
-import openpyxl, datetime as dt
-import pandas as pd, numpy as np
-
-# --- house palette (from Post 1/2 make_charts.py) ---
+import openpyxl, datetime as dt, pandas as pd, numpy as np
 NAVY="#1b3a5b"; ORANGE="#d8732a"; SLATE="#8a9bb0"; INK="#1a1a1a"; GRID="#d9dee6"
-plt.rcParams.update({"font.family":"DejaVu Sans","font.size":12,
-    "axes.edgecolor":"#cfd6df","axes.linewidth":1.0,"figure.dpi":160})
-
+plt.rcParams.update({"font.family":"DejaVu Sans","font.size":12,"axes.edgecolor":"#cfd6df","axes.linewidth":1.0,"figure.dpi":160})
 GOLD="/root/.claude/uploads/c3b4cb41-5c57-50fe-9c30-4ede4011645b/1e654842-gold_max.xlsx"
 FED="/root/.claude/uploads/c3b4cb41-5c57-50fe-9c30-4ede4011645b/47a29518-fed_fund_rates.xlsx"
-
-def load(path):
-    wb=openpyxl.load_workbook(path,read_only=True,data_only=True)
-    ws=wb[wb.sheetnames[0]]; rows=[]
+def load(p):
+    wb=openpyxl.load_workbook(p,read_only=True,data_only=True); ws=wb[wb.sheetnames[0]]; rows=[]
     for r in ws.iter_rows(min_row=3,values_only=True):
         d,v=r[0],r[1]
         if isinstance(d,dt.datetime) and isinstance(v,(int,float)): rows.append((d.date(),float(v)))
-    wb.close()
-    s=pd.Series({d:v for d,v in rows}).sort_index(); s.index=pd.to_datetime(s.index); return s
-
+    wb.close(); s=pd.Series({d:v for d,v in rows}).sort_index(); s.index=pd.to_datetime(s.index); return s
 gold=load(GOLD); fed=load(FED)
 fed_d=fed.reindex(gold.index.union(fed.index)).sort_index().ffill().reindex(gold.index)
-df=pd.DataFrame({"gold":gold,"fed":fed_d}).dropna().loc["2004-01-01":]
-m=df.resample("ME").last()
-x=m.index
-
-def corr(a,b): return np.corrcoef(a,b)[0,1]
-c_old=corr(*[df.loc["2004-01-01":"2021-12-31"][k] for k in ("gold","fed")])
-c_new=corr(*[df.loc["2022-01-01":][k] for k in ("gold","fed")])
-
-fig,ax=plt.subplots(figsize=(9.6,5.6))
-ax2=ax.twinx()
-split=pd.Timestamp("2022-01-01")
-# shade the post-2022 regime faintly
-ax.axvspan(split,x[-1],color="#f3b98e",alpha=0.14,zorder=0)
-ax.axvline(split,color="#9aa6b4",lw=1.2,ls=(0,(4,3)),zorder=2)
-
-ln1=ax.plot(x,m["gold"],color=NAVY,lw=2.6,zorder=4,label="Gold ($/oz, left)")
-ln2=ax2.plot(x,m["fed"],color=ORANGE,lw=2.2,zorder=3,label="Fed funds target (%, right)")
-
-ax.set_ylabel("Gold, $/oz",color=NAVY,fontsize=10.5)
-ax2.set_ylabel("Fed funds target rate, %",color=ORANGE,fontsize=10.5)
-ax.tick_params(axis="y",colors=NAVY,labelsize=10)
-ax2.tick_params(axis="y",colors=ORANGE,labelsize=10)
-ax.set_ylim(0,5800); ax2.set_ylim(0,6.2)
-ax.tick_params(axis="x",labelsize=9.5,colors="#555")
-for s in ["top"]:
-    ax.spines[s].set_visible(False); ax2.spines[s].set_visible(False)
+df=pd.DataFrame({"gold":gold,"fed":fed_d}).dropna().loc["2020-06-01":]
+m=df.resample("ME").last(); x=m.index
+fig,ax=plt.subplots(figsize=(9.6,5.6)); ax2=ax.twinx()
+p_hike=pd.Timestamp("2022-03-01"); p_peak=pd.Timestamp("2023-07-27"); p_cut_end=pd.Timestamp("2025-12-11")
+ax.axvspan(p_hike,p_peak,color="#d8732a",alpha=0.07); ax.axvspan(p_cut_end,x[-1],color="#1b3a5b",alpha=0.06)
+for d in (p_hike,p_peak,p_cut_end): ax.axvline(d,color="#aeb7c2",lw=1.0,ls=(0,(4,3)))
+ax.plot(x,m["gold"],color=NAVY,lw=2.7,zorder=4)
+ax2.plot(x,m["fed"],color=ORANGE,lw=2.1,zorder=3)
+ax.set_ylabel("Gold, $/oz",color=NAVY,fontsize=10.5); ax2.set_ylabel("Fed funds target, %",color=ORANGE,fontsize=10.5)
+ax.tick_params(axis="y",colors=NAVY,labelsize=10); ax2.tick_params(axis="y",colors=ORANGE,labelsize=10)
+ax.set_ylim(0,5900); ax2.set_ylim(0,6.3); ax.tick_params(axis="x",labelsize=9.5,colors="#555")
+ax.spines["top"].set_visible(False); ax2.spines["top"].set_visible(False)
 ax.grid(axis="y",color=GRID,lw=0.8,zorder=0)
-
-# regime annotations
-ax.annotate(f"2004–2021\nmove inversely  (corr {c_old:+.2f})",
-            xy=(pd.Timestamp("2012-06-01"),4950),fontsize=10.5,color="#5b6b7d",
-            ha="center",va="center",fontweight="bold")
-ax.annotate(f"2022–2026\ndecoupled  (corr {c_new:+.2f})\ngold +109% as the Fed hiked +375bp",
-            xy=(pd.Timestamp("2024-02-01"),5450),fontsize=10.5,color=ORANGE,
-            ha="center",va="center",fontweight="bold")
-
-fig.suptitle("Gold stopped trading against the Fed in 2022",
-             fontsize=15.5,fontweight="bold",color=INK,x=0.075,ha="left",y=0.965)
-fig.text(0.075,0.875,
-    "For 17 years gold fell when the funds rate rose. Then the Fed hiked 375bp and gold rose anyway.",
-    fontsize=10.6,color="#666",va="bottom")
-fig.text(0.075,0.015,
-    "Monthly, Jan 2004–Nov 2026. Gold: LSEG XAU spot. Fed funds: US target rate. Author's calculations.",
-    fontsize=9,color="#888",style="italic")
+ax.annotate("Hiking +525bp\ngold flat",xy=(pd.Timestamp("2022-09-15"),3250),ha="center",va="center",fontsize=9.6,color="#8a5a2a",fontweight="bold")
+ax.annotate("Fed cuts\ngold +180%",xy=(pd.Timestamp("2024-09-01"),4650),ha="center",va="center",fontsize=9.6,color=NAVY,fontweight="bold")
+ax.annotate("Hikes resume\n-33% from peak",xy=(pd.Timestamp("2026-06-15"),4600),ha="center",va="center",fontsize=9.6,color="#8a5a2a",fontweight="bold")
+fig.suptitle("The Fed still moves gold, with one tell",fontsize=15.5,fontweight="bold",color=INK,x=0.075,ha="left",y=0.965)
+fig.text(0.075,0.875,"Gold flew on the 2024-25 cuts and is falling as hikes resume. The tell: it refused to drop through +525bp of hikes.",fontsize=10.2,color="#666",va="bottom")
+fig.text(0.075,0.015,"Monthly, 2020-2026. Gold: LSEG XAU spot. Fed funds: US target rate. Author's calculations.",fontsize=9,color="#888",style="italic")
 fig.subplots_adjust(left=0.085,right=0.9,top=0.80,bottom=0.10)
-out="charts/gold-vs-fedfunds-regime.png"
-fig.savefig(out,facecolor="white")
-print("wrote",out,"| corr old",round(c_old,3),"new",round(c_new,3))
+fig.savefig("charts/gold-vs-fedfunds-regime.png",facecolor="white"); print("wrote regime chart")
+
+# --- central-bank demand flow chart (the floor) ---
+fig,ax=plt.subplots(figsize=(8.8,5.3))
+q=["Q3'25","Q4'25","Q1'26","Q2'26","Q3'26"]; v=[226.3,209.9,57.7,296.3,321.2]
+cols=[SLATE,SLATE,"#c9a06a",NAVY,ORANGE]
+ax.axhline(227,color="#9aa6b4",lw=1.3,ls=(0,(4,3)),zorder=2)
+ax.annotate("5-year quarterly average, 227t",xy=(0.0,355),fontsize=9.3,color="#6b7785",ha="left")
+ax.bar(range(5),v,color=cols,width=0.64,zorder=3)
+for i,val in enumerate(v):
+    ax.annotate(f"{val:.0f}t",(i,val),xytext=(0,6),textcoords="offset points",ha="center",fontweight="bold",color=INK,fontsize=12)
+ax.annotate("Q1 scare\n(revised down\nfrom 244t)",xy=(2,57.7),xytext=(2,150),ha="center",fontsize=8.8,color="#8a6a3a",
+            arrowprops=dict(arrowstyle="-",color="#c9a06a",lw=1))
+ax.annotate("+42% y/y",xy=(4,321),xytext=(4,360),ha="center",fontsize=9.6,color=ORANGE,fontweight="bold")
+ax.set_xticks(range(5)); ax.set_xticklabels(q,fontsize=11,color="#444")
+ax.set_ylim(0,400); ax.set_yticks([0,100,200,300,400]); ax.set_yticklabels(["0","100","200","300","400t"],color="#555")
+ax.set_ylabel("Central bank net purchases, tonnes/qtr",fontsize=10,color="#555")
+for s in ["top","right"]: ax.spines[s].set_visible(False)
+ax.grid(axis="y",color=GRID,lw=0.8,zorder=0)
+fig.suptitle("The floor is a flow: central banks never stopped buying",fontsize=14.8,fontweight="bold",color=INK,x=0.085,ha="left",y=0.965)
+fig.text(0.085,0.875,"Quarterly central-bank net purchases. After a soft Q1, buying ran at 296t and 321t, above the 5-year average.",fontsize=10.0,color="#666",va="bottom")
+fig.text(0.085,0.02,"Source: World Gold Council, Gold Demand Trends Q3 2026 (3 Nov 2026). 5-yr avg per WGC.",fontsize=9,color="#888",style="italic")
+fig.subplots_adjust(left=0.10,right=0.96,top=0.80,bottom=0.10)
+fig.savefig("charts/central-bank-flow.png",facecolor="white"); print("wrote flow chart")
