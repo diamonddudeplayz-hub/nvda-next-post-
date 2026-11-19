@@ -2,7 +2,7 @@
 
 ### Gold just printed a fresh 2026 low. Here's why I'm buying it on a schedule instead of waiting for a bottom, and the arithmetic behind that.
 
-Gold settled at $3,741 on November 18, a 2026 low. It is down 33% from January's peak and 17% from where it sat when I last wrote in September. A few readers asked whether that breaks the thesis. It doesn't, and this post is about what I'm doing with the weakness instead.
+Gold is at $3,670 as I write on November 19, a fresh 2026 low. It is down 32% from January's peak and 16% from where it sat when I last wrote in September. A few readers asked whether that breaks the thesis. It doesn't, and this post is about what I'm doing with the weakness instead.
 
 **The short version**
 
@@ -21,7 +21,7 @@ That flow is intact. Central banks bought 321 tonnes in Q3, above Q2's 296 and w
 
 *Quarterly central-bank net purchases. After a soft Q1 (since revised down to 57t), buying ran 296t and 321t, above the 227t five-year average. Source: WGC Gold Demand Trends Q3 2026.*
 
-So "where is the floor" is the wrong question. The floor is 321 tonnes a quarter of demand that doesn't care about the price, and it is still there at $3,741.
+So "where is the floor" is the wrong question. The floor is 321 tonnes a quarter of demand that doesn't care about the price, and it is still there at $3,670.
 
 ## What's pushing the price down
 
@@ -89,4 +89,4 @@ I still can't tell you where the floor is in dollars, because it isn't a dollar 
 
 **Disclosure.** I hold a position in Wheaton Precious Metals and add to it on a fixed monthly schedule. This is for information, not investment advice. Dollar-cost averaging reduces the impact of entry timing; it does not reduce the risk of the position, does not beat a lump sum in a rising market, and does not guarantee a profit.
 
-**Sources.** Central-bank demand and the five-year average: World Gold Council, Gold Demand Trends Q3 2026, November 3, 2026 (Q1 revised to 57t, Q2 296t, Q3 321t, y-t-d 675t). Floor framework and the "rate-path repricing" attribution: WGC, "Gold Market Commentary: Where floor art thou?", November 5, 2026. Treasury buybacks: US Treasury Quarterly Refunding Statements, August 5, 2026 (sb0590, "up to $38 billion… for liquidity support") and November 4, 2026 (sb0678, "up to $70 billion"); "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks," August 19, 2026 (sb0607, "$2 billion per operation will be at least $4 billion"); Tentative Schedule of Treasury Buyback Operations, November 2026 Quarterly Refunding ($6 billion long-end per-operation maximum). China Treasury holdings: US Treasury TIC Table 5 (to August 2026). PBoC: WGC China update, November 17, 2026. Treasury yields: CNBC/Tradeweb, November 18, 2026; early-October highs (about 5.35% and 5.73%) and the expected Fed path: CNBC, CME FedWatch, November 2026. Gold and fed funds history for the hiking-cycle figures: LSEG XAU spot and the US fed funds target rate; author's calculations. Prices: COMEX front-month gold $3,741 (November 18, 2026); WPM near $123 (NYSE).
+**Sources.** Central-bank demand and the five-year average: World Gold Council, Gold Demand Trends Q3 2026, November 3, 2026 (Q1 revised to 57t, Q2 296t, Q3 321t, y-t-d 675t). Floor framework and the "rate-path repricing" attribution: WGC, "Gold Market Commentary: Where floor art thou?", November 5, 2026. Treasury buybacks: US Treasury Quarterly Refunding Statements, August 5, 2026 (sb0590, "up to $38 billion… for liquidity support") and November 4, 2026 (sb0678, "up to $70 billion"); "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks," August 19, 2026 (sb0607, "$2 billion per operation will be at least $4 billion"); Tentative Schedule of Treasury Buyback Operations, November 2026 Quarterly Refunding ($6 billion long-end per-operation maximum). China Treasury holdings: US Treasury TIC Table 5 (to August 2026). PBoC: WGC China update, November 17, 2026. Treasury yields: CNBC/Tradeweb, November 18, 2026; early-October highs (about 5.35% and 5.73%) and the expected Fed path: CNBC, CME FedWatch, November 2026. Gold and fed funds history for the hiking-cycle figures: LSEG XAU spot and the US fed funds target rate; author's calculations. Prices: COMEX front-month gold about $3,670 (November 19, 2026); WPM about $117 (NYSE). Gold/silver and WPM relative move: silver ~$58 (mid-July) to ~$47 (November) per GoldSilver and Investorideas; WPM production and Antamina from WPM Q3 2026 results, November 2026.
