@@ -62,6 +62,15 @@ Because the correlation broke (−0.65→0), the rate path predicts only the fin
 - Why FNV > WPM *this* year (NOT "royalty beats streamer"): (1) **beta** — WPM 1.5 vs FNV 0.93; in a *down*-gold year higher beta loses (same beta that gave WPM +187% vs FNV +69% over 5yr). (2) **silver** — WPM ~49% silver; silver −34% YTD / −61% from peak, far worse than gold; FNV has almost none.
 - **Framing:** WPM is the higher-torque, silver-heavy name — outperforms *up*, underperforms *down*. 2026 = down/silver-crash year → WPM lags FNV. The lag is the *entry*, not a red flag: the same beta + silver that hurt YTD is the coiled spring when the bull resumes. FNV/GLD = defense; WPM = torque. Reinforces "size it right / core-plus-satellite."
 
+## YTD performance hierarchy (Nov 2026) — the full streamer-vs-miner proof
+**FNV +11% > WPM −1% > AEM −7% > Barrick −24%** (gold −16%, silver −34%).
+- **Royalty/streamers (FNV, WPM) beat the metal; miners (AEM, Barrick) lagged it** — Barrick −24% is *worse than gold*, the operating-leverage squeeze (record AISC) in action.
+- **Multiple gap:** Barrick P/E ~8.6, AEM ~13 vs WPM ~25 → the market pays streamers 2–3× the miners' multiple *because* of the fixed-cost structure. Cleanest "why the streamer" exhibit.
+- Within streamers FNV>WPM = beta (0.93 vs 1.5) + silver (FNV ~0% vs WPM ~49%, silver −34% YTD). WPM = torque; it lags in a down year, leads in a bull.
+
+## Terminal-value method (from Sample Submission DCF — match this)
+Sample computes terminal **both ways** on both DCF-FCFE and DCF-FCFF tabs: **Gordon growth g=2%** AND **exit multiple ~18.3× EV/EBITDA**. FCFE discount = CAPM cost of equity (9.07%); FCFF discount = WACC (6.55%). → We match: both terminal methods, blend 50/50 for headline; feature CAPM to match template, present ~6% streaming rate as justified adjustment (CIBC/BMO use 5%; sample's own WACC was 6.55%).
+
 ## Honest risk flags (for the Risks section)
 - Price still falling — gold at YTD lows; WGC floor framework is **2 of 3** (positioning not yet washed out) → near-term could test lower before turning. "Right on structure, not yet on timing."
 - Jewellery −17% y/y, bar/coin −19% y/y (high prices deterring consumers) — structural bid is central banks + ETFs, not retail.
