@@ -1,0 +1,5761 @@
+{
+"Estimate Details GOOGL.O (1).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Earnings Per Share",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q1 Mar-06",
+"n": 29.0,
+"mean": 0.04957,
+"smart": null,
+"high": 0.052,
+"low": 0.0455,
+"actual": 0.05725
+},
+{
+"period": "Q2 Jun-06",
+"n": 32.0,
+"mean": 0.05538,
+"smart": null,
+"high": 0.05925,
+"low": 0.0465,
+"actual": 0.06225
+},
+{
+"period": "Q3 Sep-06",
+"n": 28.0,
+"mean": 0.06058,
+"smart": null,
+"high": 0.06625,
+"low": 0.0545,
+"actual": 0.0655
+},
+{
+"period": "Q4 Dec-06",
+"n": 30.0,
+"mean": 0.07295,
+"smart": null,
+"high": 0.07775,
+"low": 0.067,
+"actual": 0.0795
+},
+{
+"period": "FY Dec-06",
+"n": 28.0,
+"mean": 0.2583,
+"smart": null,
+"high": 0.267,
+"low": 0.252,
+"actual": 0.2645
+},
+{
+"period": "Q1 Mar-07",
+"n": 33.0,
+"mean": 0.08273,
+"smart": null,
+"high": 0.088,
+"low": 0.0755,
+"actual": 0.092
+},
+{
+"period": "Q2 Jun-07",
+"n": 33.0,
+"mean": 0.08983,
+"smart": null,
+"high": 0.09825,
+"low": 0.08375,
+"actual": 0.089
+},
+{
+"period": "Q3 Sep-07",
+"n": 31.0,
+"mean": 0.09454,
+"smart": null,
+"high": 0.101,
+"low": 0.08875,
+"actual": 0.09775
+},
+{
+"period": "Q4 Dec-07",
+"n": 29.0,
+"mean": 0.11112,
+"smart": null,
+"high": 0.1195,
+"low": 0.101,
+"actual": 0.11075
+},
+{
+"period": "FY Dec-07",
+"n": 28.0,
+"mean": 0.38952,
+"smart": null,
+"high": 0.3985,
+"low": 0.37975,
+"actual": 0.38975
+},
+{
+"period": "Q1 Mar-08",
+"n": 27.0,
+"mean": 0.11301,
+"smart": null,
+"high": 0.1235,
+"low": 0.097,
+"actual": 0.121
+},
+{
+"period": "Q2 Jun-08",
+"n": 30.0,
+"mean": 0.1184,
+"smart": null,
+"high": 0.127,
+"low": 0.11025,
+"actual": 0.11575
+},
+{
+"period": "Q3 Sep-08",
+"n": 31.0,
+"mean": 0.11874,
+"smart": null,
+"high": 0.12625,
+"low": 0.1115,
+"actual": 0.123
+},
+{
+"period": "Q4 Dec-08",
+"n": 37.0,
+"mean": 0.12385,
+"smart": null,
+"high": 0.13025,
+"low": 0.11425,
+"actual": 0.1275
+},
+{
+"period": "FY Dec-08",
+"n": 35.0,
+"mean": 0.48335,
+"smart": null,
+"high": 0.48875,
+"low": 0.474,
+"actual": 0.48725
+},
+{
+"period": "Q1 Mar-09",
+"n": 33.0,
+"mean": 0.12321,
+"smart": null,
+"high": 0.1325,
+"low": 0.11525,
+"actual": 0.129
+},
+{
+"period": "Q2 Jun-09",
+"n": 33.0,
+"mean": 0.12714,
+"smart": null,
+"high": 0.13275,
+"low": 0.12125,
+"actual": 0.134
+},
+{
+"period": "Q3 Sep-09",
+"n": 38.0,
+"mean": 0.13551,
+"smart": null,
+"high": 0.142,
+"low": 0.1275,
+"actual": 0.14725
+},
+{
+"period": "Q4 Dec-09",
+"n": 35.0,
+"mean": 0.16199,
+"smart": null,
+"high": 0.173,
+"low": 0.15125,
+"actual": 0.16975
+},
+{
+"period": "FY Dec-09",
+"n": 35.0,
+"mean": 0.57089,
+"smart": null,
+"high": 0.58375,
+"low": 0.545,
+"actual": 0.58
+},
+{
+"period": "Q1 Mar-10",
+"n": 36.0,
+"mean": 0.16489,
+"smart": null,
+"high": 0.17275,
+"low": 0.15125,
+"actual": 0.169
+},
+{
+"period": "Q2 Jun-10",
+"n": 36.0,
+"mean": 0.16295,
+"smart": null,
+"high": 0.171,
+"low": 0.1515,
+"actual": 0.16125
+},
+{
+"period": "Q3 Sep-10",
+"n": 36.0,
+"mean": 0.16727,
+"smart": null,
+"high": 0.1775,
+"low": 0.1605,
+"actual": 0.191
+},
+{
+"period": "Q4 Dec-10",
+"n": 38.0,
+"mean": 0.20242,
+"smart": null,
+"high": 0.2105,
+"low": 0.19375,
+"actual": 0.21875
+},
+{
+"period": "FY Dec-10",
+"n": 39.0,
+"mean": 0.72281,
+"smart": null,
+"high": 0.732,
+"low": 0.706,
+"actual": 0.74
+},
+{
+"period": "Q1 Mar-11",
+"n": 35.0,
+"mean": 0.20228,
+"smart": null,
+"high": 0.21175,
+"low": 0.1895,
+"actual": 0.202
+},
+{
+"period": "Q2 Jun-11",
+"n": 34.0,
+"mean": 0.19629,
+"smart": null,
+"high": 0.2085,
+"low": 0.1745,
+"actual": 0.2185
+},
+{
+"period": "Q3 Sep-11",
+"n": 33.0,
+"mean": 0.21857,
+"smart": null,
+"high": 0.22875,
+"low": 0.20225,
+"actual": 0.243
+},
+{
+"period": "Q4 Dec-11",
+"n": 34.0,
+"mean": 0.26248,
+"smart": null,
+"high": 0.275,
+"low": 0.25075,
+"actual": 0.2375
+},
+{
+"period": "FY Dec-11",
+"n": 36.0,
+"mean": 0.92276,
+"smart": null,
+"high": 0.939,
+"low": 0.87125,
+"actual": 0.901
+},
+{
+"period": "Q1 Mar-12",
+"n": 38.0,
+"mean": 0.24135,
+"smart": null,
+"high": 0.27275,
+"low": 0.22275,
+"actual": 0.252
+},
+{
+"period": "Q2 Jun-12",
+"n": 27.0,
+"mean": 0.2525,
+"smart": null,
+"high": 0.26325,
+"low": 0.2355,
+"actual": 0.253
+},
+{
+"period": "Q3 Sep-12",
+"n": 38.0,
+"mean": 0.26628,
+"smart": null,
+"high": 0.325,
+"low": 0.248,
+"actual": 0.22575
+},
+{
+"period": "Q4 Dec-12",
+"n": 27.0,
+"mean": 0.2606,
+"smart": null,
+"high": 0.2835,
+"low": 0.2195,
+"actual": 0.26475
+},
+{
+"period": "FY Dec-12",
+"n": 30.0,
+"mean": 0.99117,
+"smart": null,
+"high": 1.037,
+"low": 0.95,
+"actual": 0.9955
+},
+{
+"period": "Q1 Mar-13",
+"n": 37.0,
+"mean": 0.26644,
+"smart": null,
+"high": 0.29,
+"low": 0.252,
+"actual": 0.2895
+},
+{
+"period": "Q2 Jun-13",
+"n": 40.0,
+"mean": 0.26939,
+"smart": null,
+"high": 0.29,
+"low": 0.24975,
+"actual": 0.239
+},
+{
+"period": "Q3 Sep-13",
+"n": 40.0,
+"mean": 0.25854,
+"smart": null,
+"high": 0.28425,
+"low": 0.22125,
+"actual": 0.2685
+},
+{
+"period": "Q4 Dec-13",
+"n": 42.0,
+"mean": 0.30507,
+"smart": null,
+"high": 0.34175,
+"low": 0.251,
+"actual": 0.30025
+},
+{
+"period": "FY Dec-13",
+"n": 46.0,
+"mean": 1.10218,
+"smart": null,
+"high": 1.19875,
+"low": 0.95825,
+"actual": 1.09725
+},
+{
+"period": "Q1 Mar-14",
+"n": 38.0,
+"mean": 0.32033,
+"smart": 0.32097,
+"high": 0.348,
+"low": 0.2915,
+"actual": 0.3135
+},
+{
+"period": "Q2 Jun-14",
+"n": 42.0,
+"mean": 0.31198,
+"smart": 0.3119,
+"high": 0.332,
+"low": 0.2865,
+"actual": 0.304
+},
+{
+"period": "Q3 Sep-14",
+"n": 43.0,
+"mean": 0.32643,
+"smart": 0.32551,
+"high": 0.352,
+"low": 0.306,
+"actual": 0.3175
+},
+{
+"period": "Q4 Dec-14",
+"n": 43.0,
+"mean": 0.35566,
+"smart": 0.35193,
+"high": 0.3985,
+"low": 0.3193,
+"actual": 0.344
+},
+{
+"period": "FY Dec-14",
+"n": 48.0,
+"mean": 1.28953,
+"smart": 1.28471,
+"high": 1.334,
+"low": 1.2465,
+"actual": 1.279
+},
+{
+"period": "Q1 Mar-15",
+"n": 42.0,
+"mean": 0.32983,
+"smart": 0.32191,
+"high": 0.3545,
+"low": 0.299,
+"actual": 0.3285
+},
+{
+"period": "Q2 Jun-15",
+"n": 42.0,
+"mean": 0.33488,
+"smart": 0.3349,
+"high": 0.3645,
+"low": 0.3026,
+"actual": 0.3495
+},
+{
+"period": "Q3 Sep-15",
+"n": 45.0,
+"mean": 0.36025,
+"smart": 0.3598,
+"high": 0.4045,
+"low": 0.3067,
+"actual": 0.3675
+},
+{
+"period": "Q4 Dec-15",
+"n": 45.0,
+"mean": 0.40523,
+"smart": 0.40578,
+"high": 0.4295,
+"low": 0.36595,
+"actual": 0.4335
+},
+{
+"period": "FY Dec-15",
+"n": 49.0,
+"mean": 1.44878,
+"smart": 1.45128,
+"high": 1.476,
+"low": 1.4117,
+"actual": 1.4795
+},
+{
+"period": "Q1 Mar-16",
+"n": 44.0,
+"mean": 0.3984,
+"smart": 0.39538,
+"high": 0.422,
+"low": 0.3675,
+"actual": 0.375
+},
+{
+"period": "Q2 Jun-16",
+"n": 42.0,
+"mean": 0.40202,
+"smart": 0.4005,
+"high": 0.424,
+"low": 0.38,
+"actual": 0.421
+},
+{
+"period": "Q3 Sep-16",
+"n": 41.0,
+"mean": 0.43136,
+"smart": 0.43261,
+"high": 0.4518,
+"low": 0.40405,
+"actual": 0.453
+},
+{
+"period": "Q4 Dec-16",
+"n": 40.0,
+"mean": 0.48223,
+"smart": 0.48256,
+"high": 0.5335,
+"low": 0.4505,
+"actual": 0.468
+},
+{
+"period": "FY Dec-16",
+"n": 44.0,
+"mean": 1.73097,
+"smart": 1.73024,
+"high": 1.7825,
+"low": 1.6995,
+"actual": 1.717
+},
+{
+"period": "Q1 Mar-17",
+"n": 37.0,
+"mean": 0.36955,
+"smart": 0.37039,
+"high": 0.396,
+"low": 0.331,
+"actual": 0.3865
+},
+{
+"period": "Q2 Jun-17",
+"n": 24.0,
+"mean": 0.22432,
+"smart": 0.22316,
+"high": 0.258,
+"low": 0.201,
+"actual": 0.2505
+},
+{
+"period": "Q3 Sep-17",
+"n": 37.0,
+"mean": 0.4164,
+"smart": 0.41776,
+"high": 0.4535,
+"low": 0.3745,
+"actual": 0.4785
+},
+{
+"period": "Q4 Dec-17",
+"n": 36.0,
+"mean": 0.49897,
+"smart": 0.49869,
+"high": 0.546,
+"low": 0.45,
+"actual": 0.485
+},
+{
+"period": "FY Dec-17",
+"n": 39.0,
+"mean": 1.61532,
+"smart": 1.61328,
+"high": 1.73,
+"low": 1.496,
+"actual": 1.6005
+},
+{
+"period": "Q1 Mar-18",
+"n": 37.0,
+"mean": 0.46407,
+"smart": 0.46655,
+"high": 0.5035,
+"low": 0.412,
+"actual": 0.4965
+},
+{
+"period": "Q2 Jun-18",
+"n": 33.0,
+"mean": 0.47959,
+"smart": 0.48063,
+"high": 0.556,
+"low": 0.4355,
+"actual": 0.5875
+},
+{
+"period": "Q3 Sep-18",
+"n": 35.0,
+"mean": 0.52106,
+"smart": 0.51435,
+"high": 0.595,
+"low": 0.46,
+"actual": 0.653
+},
+{
+"period": "Q4 Dec-18",
+"n": 34.0,
+"mean": 0.54085,
+"smart": 0.5449,
+"high": 0.6065,
+"low": 0.464,
+"actual": 0.6385
+},
+{
+"period": "FY Dec-18",
+"n": 34.0,
+"mean": 2.08916,
+"smart": 2.09665,
+"high": 2.194,
+"low": 1.897,
+"actual": 2.185
+},
+{
+"period": "Q1 Mar-19",
+"n": 29.0,
+"mean": 0.53069,
+"smart": 0.53006,
+"high": 0.59,
+"low": 0.466,
+"actual": 0.595
+},
+{
+"period": "Q2 Jun-19",
+"n": 37.0,
+"mean": 0.56487,
+"smart": 0.5578,
+"high": 0.669,
+"low": 0.514,
+"actual": 0.7105
+},
+{
+"period": "Q3 Sep-19",
+"n": 37.0,
+"mean": 0.62106,
+"smart": 0.63525,
+"high": 0.7535,
+"low": 0.5415,
+"actual": 0.5385
+},
+{
+"period": "Q4 Dec-19",
+"n": 40.0,
+"mean": 0.62656,
+"smart": 0.62924,
+"high": 0.69,
+"low": 0.545,
+"actual": 0.7675
+},
+{
+"period": "FY Dec-19",
+"n": 42.0,
+"mean": 2.31507,
+"smart": 2.31884,
+"high": 2.3795,
+"low": 2.1905,
+"actual": 2.458
+},
+{
+"period": "Q1 Mar-20",
+"n": 31.0,
+"mean": 0.51626,
+"smart": 0.5118,
+"high": 0.602,
+"low": 0.4255,
+"actual": 0.4935
+},
+{
+"period": "Q2 Jun-20",
+"n": 33.0,
+"mean": 0.41039,
+"smart": 0.41002,
+"high": 0.512,
+"low": 0.2865,
+"actual": 0.5065
+},
+{
+"period": "Q3 Sep-20",
+"n": 34.0,
+"mean": 0.56445,
+"smart": 0.55226,
+"high": 0.7335,
+"low": 0.4715,
+"actual": 0.82
+},
+{
+"period": "Q4 Dec-20",
+"n": 33.0,
+"mean": 0.79501,
+"smart": 0.80674,
+"high": 0.941,
+"low": 0.6915,
+"actual": 1.115
+},
+{
+"period": "FY Dec-20",
+"n": 35.0,
+"mean": 2.59689,
+"smart": 2.59645,
+"high": 2.7595,
+"low": 2.38235,
+"actual": 2.9305
+},
+{
+"period": "Q1 Mar-21",
+"n": 32.0,
+"mean": 0.791,
+"smart": 0.79077,
+"high": 0.972,
+"low": 0.6665,
+"actual": 1.3145
+},
+{
+"period": "Q2 Jun-21",
+"n": 32.0,
+"mean": 0.96706,
+"smart": 0.98897,
+"high": 1.2215,
+"low": 0.6355,
+"actual": 1.363
+},
+{
+"period": "Q3 Sep-21",
+"n": 32.0,
+"mean": 1.17397,
+"smart": 1.22425,
+"high": 1.5335,
+"low": 0.975,
+"actual": 1.3995
+},
+{
+"period": "Q4 Dec-21",
+"n": 32.0,
+"mean": 1.36722,
+"smart": 1.39053,
+"high": 1.55,
+"low": 1.1514,
+"actual": 1.5345
+},
+{
+"period": "FY Dec-21",
+"n": 42.0,
+"mean": 5.4379,
+"smart": 5.45443,
+"high": 5.678,
+"low": 5.197,
+"actual": 5.61
+},
+{
+"period": "Q1 Mar-22",
+"n": 33.0,
+"mean": 1.2864,
+"smart": 1.29336,
+"high": 1.5,
+"low": 1.147,
+"actual": 1.231
+},
+{
+"period": "Q2 Jun-22",
+"n": 34.0,
+"mean": 1.27915,
+"smart": 1.26272,
+"high": 1.5435,
+"low": 1.12,
+"actual": 1.21
+},
+{
+"period": "Q3 Sep-22",
+"n": 36.0,
+"mean": 1.24917,
+"smart": 1.22953,
+"high": 1.5,
+"low": 1.06,
+"actual": 1.06
+},
+{
+"period": "Q4 Dec-22",
+"n": 37.0,
+"mean": 1.17619,
+"smart": 1.16217,
+"high": 1.34,
+"low": 0.95,
+"actual": 1.05
+},
+{
+"period": "FY Dec-22",
+"n": 44.0,
+"mean": 4.69716,
+"smart": 4.67596,
+"high": 4.87,
+"low": 4.45,
+"actual": 4.56
+},
+{
+"period": "Q1 Mar-23",
+"n": 36.0,
+"mean": 1.06636,
+"smart": 1.07974,
+"high": 1.21,
+"low": 0.87,
+"actual": 1.17
+},
+{
+"period": "Q2 Jun-23",
+"n": 37.0,
+"mean": 1.33862,
+"smart": 1.35088,
+"high": 1.5,
+"low": 1.06,
+"actual": 1.44
+},
+{
+"period": "Q3 Sep-23",
+"n": 37.0,
+"mean": 1.45081,
+"smart": 1.46118,
+"high": 1.55,
+"low": 1.27,
+"actual": 1.55
+},
+{
+"period": "Q4 Dec-23",
+"n": 39.0,
+"mean": 1.59256,
+"smart": 1.5742,
+"high": 1.75,
+"low": 1.45,
+"actual": 1.64
+},
+{
+"period": "FY Dec-23",
+"n": 48.0,
+"mean": 5.7421,
+"smart": 5.73557,
+"high": 6.1,
+"low": 5.26,
+"actual": 5.8
+},
+{
+"period": "Q1 Mar-24",
+"n": 40.0,
+"mean": 1.5148,
+"smart": 1.53256,
+"high": 1.66,
+"low": 1.35,
+"actual": 1.89
+},
+{
+"period": "Q2 Jun-24",
+"n": 38.0,
+"mean": 1.8445,
+"smart": 1.87092,
+"high": 2.01,
+"low": 1.66,
+"actual": 1.89
+},
+{
+"period": "Q3 Sep-24",
+"n": 41.0,
+"mean": 1.84549,
+"smart": 1.84712,
+"high": 1.98,
+"low": 1.64,
+"actual": 2.12
+},
+{
+"period": "Q4 Dec-24",
+"n": 42.0,
+"mean": 2.12783,
+"smart": 2.14467,
+"high": 2.42,
+"low": 1.84,
+"actual": 2.15
+},
+{
+"period": "FY Dec-24",
+"n": 56.0,
+"mean": 8.00704,
+"smart": 8.03541,
+"high": 8.31,
+"low": 7.52,
+"actual": 8.04
+},
+{
+"period": "Q1 Mar-25",
+"n": 42.0,
+"mean": 2.01224,
+"smart": 2.00307,
+"high": 2.37,
+"low": 1.89,
+"actual": 2.27
+},
+{
+"period": "Q2 Jun-25",
+"n": 43.0,
+"mean": 2.18447,
+"smart": 2.19976,
+"high": 2.42,
+"low": 2.0,
+"actual": 2.31
+},
+{
+"period": "Q3 Sep-25",
+"n": 30.0,
+"mean": 2.32563,
+"smart": 2.3662,
+"high": 2.48,
+"low": 2.06,
+"actual": 3.1
+},
+{
+"period": "Q4 Dec-25",
+"n": 39.0,
+"mean": 2.62751,
+"smart": 2.66721,
+"high": 3.01,
+"low": 2.46,
+"actual": 2.82
+},
+{
+"period": "FY Dec-25",
+"n": 50.0,
+"mean": 10.6228,
+"smart": 10.63883,
+"high": 11.04,
+"low": 10.45,
+"actual": 10.81
+},
+{
+"period": "Q1 Mar-26",
+"n": 40.0,
+"mean": 2.6263,
+"smart": 2.7102,
+"high": 2.87,
+"low": 2.34,
+"actual": 2.62
+},
+{
+"period": "Q2 Jun-26",
+"n": 41.0,
+"mean": 2.89302,
+"smart": 2.90763,
+"high": 3.6,
+"low": 2.59,
+"actual": 2.85
+},
+{
+"period": "Q3 Sep-26",
+"n": 42.0,
+"mean": 3.01757,
+"smart": 3.02691,
+"high": 3.63,
+"low": 2.25,
+"actual": 2.67
+},
+{
+"period": "Q4 Dec-26",
+"n": 39.0,
+"mean": 3.13372,
+"smart": 3.10383,
+"high": 3.48,
+"low": 2.2,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 47.0,
+"mean": 19.59266,
+"smart": 19.56185,
+"high": 20.62,
+"low": 18.86,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 28.0,
+"mean": 3.32382,
+"smart": 3.30316,
+"high": 4.068,
+"low": 3.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 28.0,
+"mean": 3.54296,
+"smart": 3.50527,
+"high": 4.4,
+"low": 3.1,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 28.0,
+"mean": 3.72911,
+"smart": 3.67217,
+"high": 5.2,
+"low": 3.28,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 24.0,
+"mean": 4.13788,
+"smart": 4.1325,
+"high": 4.75,
+"low": 3.64,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 48.0,
+"mean": 14.87952,
+"smart": 14.87332,
+"high": 18.28,
+"low": 12.85,
+"actual": null
+},
+{
+"period": "Q1 Mar-28",
+"n": 3.0,
+"mean": 4.13667,
+"smart": 4.12778,
+"high": 4.76,
+"low": 3.72,
+"actual": null
+},
+{
+"period": "Q2 Jun-28",
+"n": 3.0,
+"mean": 4.50667,
+"smart": 4.497,
+"high": 5.18,
+"low": 4.08,
+"actual": null
+},
+{
+"period": "Q3 Sep-28",
+"n": 3.0,
+"mean": 4.51,
+"smart": 4.50487,
+"high": 4.87,
+"low": 4.27,
+"actual": null
+},
+{
+"period": "Q4 Dec-28",
+"n": 3.0,
+"mean": 4.65667,
+"smart": 4.65612,
+"high": 4.71,
+"low": 4.55,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 35.0,
+"mean": 18.31477,
+"smart": 18.55498,
+"high": 21.99,
+"low": 15.23,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 8.0,
+"mean": 21.04588,
+"smart": 21.36029,
+"high": 24.71,
+"low": 18.09,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 7.0,
+"mean": 24.07143,
+"smart": 24.53481,
+"high": 28.69,
+"low": 20.15,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (10).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "EBITDA",
+"Segment": "Google Cloud",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q1 Mar-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -754.0
+},
+{
+"period": "Q2 Jun-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -371.0
+},
+{
+"period": "Q3 Sep-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -424.0
+},
+{
+"period": "Q4 Dec-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -670.0
+},
+{
+"period": "FY Dec-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -2219.0
+},
+{
+"period": "Q1 Mar-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -712.3
+},
+{
+"period": "Q2 Jun-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -639.3
+},
+{
+"period": "Q3 Sep-22",
+"n": 1.0,
+"mean": -617.1,
+"smart": null,
+"high": -617.1,
+"low": -617.1,
+"actual": null
+},
+{
+"period": "Q4 Dec-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": null
+},
+{
+"period": "FY Dec-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": null
+},
+{
+"period": "Q1 Mar-24",
+"n": 1.0,
+"mean": 1150.5,
+"smart": null,
+"high": 1150.5,
+"low": 1150.5,
+"actual": null
+},
+{
+"period": "Q2 Jun-24",
+"n": 1.0,
+"mean": 1463.6,
+"smart": null,
+"high": 1463.6,
+"low": 1463.6,
+"actual": null
+},
+{
+"period": "Q3 Sep-24",
+"n": 1.0,
+"mean": 1702.5,
+"smart": null,
+"high": 1702.5,
+"low": 1702.5,
+"actual": null
+},
+{
+"period": "Q4 Dec-24",
+"n": 1.0,
+"mean": 2057.2,
+"smart": null,
+"high": 2057.2,
+"low": 2057.2,
+"actual": null
+},
+{
+"period": "FY Dec-24",
+"n": 1.0,
+"mean": 6373.7,
+"smart": null,
+"high": 6373.7,
+"low": 6373.7,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 1.0,
+"mean": 61629.0,
+"smart": null,
+"high": 61629.0,
+"low": 61629.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 1.0,
+"mean": 110970.0,
+"smart": null,
+"high": 110970.0,
+"low": 110970.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 1.0,
+"mean": 185828.0,
+"smart": null,
+"high": 185828.0,
+"low": 185828.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (2).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Cash Flow From Operations",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q3 Sep-13",
+"n": 5.0,
+"mean": 4638.2454,
+"smart": null,
+"high": 5086.0,
+"low": 4203.0,
+"actual": 5083.0
+},
+{
+"period": "Q4 Dec-13",
+"n": 6.0,
+"mean": 12695.79667,
+"smart": 28463.84106,
+"high": 49607.78,
+"low": 4602.0,
+"actual": 5238.0
+},
+{
+"period": "FY Dec-13",
+"n": 14.0,
+"mean": 19090.238,
+"smart": 19622.01873,
+"high": 22910.0,
+"low": 17220.0,
+"actual": 18659.0
+},
+{
+"period": "Q1 Mar-14",
+"n": 5.0,
+"mean": 4895.5842,
+"smart": 4339.60223,
+"high": 5737.0,
+"low": 3574.0,
+"actual": 4391.0
+},
+{
+"period": "Q2 Jun-14",
+"n": 8.0,
+"mean": 5873.64475,
+"smart": 4769.95948,
+"high": 8739.5,
+"low": 4071.0,
+"actual": 5627.0
+},
+{
+"period": "Q3 Sep-14",
+"n": 9.0,
+"mean": 6075.64611,
+"smart": 6003.84643,
+"high": 8795.0,
+"low": 3923.0,
+"actual": 5994.0
+},
+{
+"period": "Q4 Dec-14",
+"n": 9.0,
+"mean": 6835.56856,
+"smart": 6673.07409,
+"high": 9621.0,
+"low": 4415.0,
+"actual": 6364.0
+},
+{
+"period": "FY Dec-14",
+"n": 15.0,
+"mean": 22971.51767,
+"smart": 22955.80245,
+"high": 27699.0,
+"low": 20427.0,
+"actual": 22376.0
+},
+{
+"period": "Q1 Mar-15",
+"n": 7.0,
+"mean": 5946.12929,
+"smart": 6016.42352,
+"high": 7594.0,
+"low": 4440.8,
+"actual": 6617.0
+},
+{
+"period": "Q2 Jun-15",
+"n": 8.0,
+"mean": 6933.18625,
+"smart": 7061.39728,
+"high": 9276.1,
+"low": 5395.0,
+"actual": 6985.0
+},
+{
+"period": "Q3 Sep-15",
+"n": 8.0,
+"mean": 6654.15813,
+"smart": 6620.19352,
+"high": 8463.0,
+"low": 5104.0,
+"actual": 6007.0
+},
+{
+"period": "Q4 Dec-15",
+"n": 7.0,
+"mean": 6994.63157,
+"smart": 7387.68678,
+"high": 9615.0,
+"low": 6086.0,
+"actual": 6415.0
+},
+{
+"period": "FY Dec-15",
+"n": 12.0,
+"mean": 26706.68893,
+"smart": 26884.67573,
+"high": 31850.0,
+"low": 23472.0,
+"actual": 26024.0
+},
+{
+"period": "Q1 Mar-16",
+"n": 8.0,
+"mean": 7306.51463,
+"smart": 7492.66959,
+"high": 10140.0,
+"low": 5780.7,
+"actual": 7658.0
+},
+{
+"period": "Q2 Jun-16",
+"n": 8.0,
+"mean": 7395.7205,
+"smart": 7556.96018,
+"high": 9451.0,
+"low": 6698.0,
+"actual": 9120.0
+},
+{
+"period": "Q3 Sep-16",
+"n": 7.0,
+"mean": 7799.56586,
+"smart": 7937.25832,
+"high": 8738.0,
+"low": 6961.0,
+"actual": 9845.0
+},
+{
+"period": "Q4 Dec-16",
+"n": 10.0,
+"mean": 7332.43,
+"smart": 7024.05738,
+"high": 9031.6,
+"low": 4600.0,
+"actual": 9413.0
+},
+{
+"period": "FY Dec-16",
+"n": 16.0,
+"mean": 33741.50588,
+"smart": 33379.37803,
+"high": 36572.5,
+"low": 29120.0,
+"actual": 36036.0
+},
+{
+"period": "Q1 Mar-17",
+"n": 8.0,
+"mean": 8012.52275,
+"smart": 8004.81398,
+"high": 9952.0,
+"low": 5303.082,
+"actual": 9548.0
+},
+{
+"period": "Q2 Jun-17",
+"n": 10.0,
+"mean": 8190.0903,
+"smart": 7936.95385,
+"high": 10135.0,
+"low": 4542.0,
+"actual": 7403.0
+},
+{
+"period": "Q3 Sep-17",
+"n": 7.0,
+"mean": 8865.58229,
+"smart": 8683.92888,
+"high": 10839.0,
+"low": 4909.0,
+"actual": 9872.0
+},
+{
+"period": "Q4 Dec-17",
+"n": 6.0,
+"mean": 9370.25,
+"smart": 8052.94725,
+"high": 12596.5,
+"low": 5318.0,
+"actual": 10268.0
+},
+{
+"period": "FY Dec-17",
+"n": 13.0,
+"mean": 36945.70131,
+"smart": 36065.08944,
+"high": 39419.5,
+"low": 32141.0,
+"actual": 37091.0
+},
+{
+"period": "Q1 Mar-18",
+"n": 4.0,
+"mean": 8296.1,
+"smart": 9883.29264,
+"high": 11414.0,
+"low": 3108.4,
+"actual": 11642.0
+},
+{
+"period": "Q2 Jun-18",
+"n": 5.0,
+"mean": 9625.4,
+"smart": 9524.45679,
+"high": 11329.0,
+"low": 6898.0,
+"actual": 10132.0
+},
+{
+"period": "Q3 Sep-18",
+"n": 8.0,
+"mean": 10377.725,
+"smart": 10667.35729,
+"high": 11996.0,
+"low": 5928.0,
+"actual": 13210.0
+},
+{
+"period": "Q4 Dec-18",
+"n": 9.0,
+"mean": 11759.74578,
+"smart": 11664.02118,
+"high": 13721.0,
+"low": 9151.0,
+"actual": 12987.0
+},
+{
+"period": "FY Dec-18",
+"n": 16.0,
+"mean": 48063.50519,
+"smart": 47613.18067,
+"high": 56881.9,
+"low": 38836.0,
+"actual": 47971.0
+},
+{
+"period": "Q1 Mar-19",
+"n": 6.0,
+"mean": 12653.5,
+"smart": 12495.02445,
+"high": 13884.0,
+"low": 11559.0,
+"actual": 12000.0
+},
+{
+"period": "Q2 Jun-19",
+"n": 7.0,
+"mean": 13546.887,
+"smart": 13161.22709,
+"high": 15300.0,
+"low": 12319.0,
+"actual": 12627.0
+},
+{
+"period": "Q3 Sep-19",
+"n": 8.0,
+"mean": 14707.1065,
+"smart": 14835.10556,
+"high": 17044.0,
+"low": 12520.852,
+"actual": 15466.0
+},
+{
+"period": "Q4 Dec-19",
+"n": 11.0,
+"mean": 14233.48127,
+"smart": 14077.60288,
+"high": 15403.0,
+"low": 12036.0,
+"actual": 14427.0
+},
+{
+"period": "FY Dec-19",
+"n": 17.0,
+"mean": 55851.38341,
+"smart": 56725.80751,
+"high": 64203.0,
+"low": 51012.0,
+"actual": 54520.0
+},
+{
+"period": "Q1 Mar-20",
+"n": 5.0,
+"mean": 12481.06,
+"smart": 12132.86068,
+"high": 14971.0,
+"low": 9917.0,
+"actual": 11451.0
+},
+{
+"period": "Q2 Jun-20",
+"n": 6.0,
+"mean": 12637.86617,
+"smart": 12162.64078,
+"high": 16613.0,
+"low": 8652.7,
+"actual": 13993.0
+},
+{
+"period": "Q3 Sep-20",
+"n": 5.0,
+"mean": 14552.78,
+"smart": 13637.82117,
+"high": 18800.0,
+"low": 12474.9,
+"actual": 17003.0
+},
+{
+"period": "Q4 Dec-20",
+"n": 5.0,
+"mean": 16139.802,
+"smart": 15501.66984,
+"high": 18275.0,
+"low": 11440.91,
+"actual": 22677.0
+},
+{
+"period": "FY Dec-20",
+"n": 14.0,
+"mean": 59982.6415,
+"smart": 59862.68236,
+"high": 65698.071,
+"low": 53887.91,
+"actual": 65124.0
+},
+{
+"period": "Q1 Mar-21",
+"n": 4.0,
+"mean": 16706.7,
+"smart": 16791.75344,
+"high": 19656.0,
+"low": 12603.0,
+"actual": 19289.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 4.0,
+"mean": 19341.6,
+"smart": 19325.90441,
+"high": 19832.0,
+"low": 19030.4,
+"actual": 21890.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 5.0,
+"mean": 21934.94,
+"smart": 22161.68406,
+"high": 25072.0,
+"low": 20017.7,
+"actual": 25539.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 5.0,
+"mean": 25695.54,
+"smart": 25005.06218,
+"high": 31034.0,
+"low": 21448.0,
+"actual": 24934.0
+},
+{
+"period": "FY Dec-21",
+"n": 17.0,
+"mean": 95172.85612,
+"smart": 94368.4727,
+"high": 103550.0,
+"low": 88166.0,
+"actual": 91652.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 6.0,
+"mean": 25921.65,
+"smart": 24942.85189,
+"high": 32692.9,
+"low": 22087.0,
+"actual": 25106.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 4.0,
+"mean": 24731.65,
+"smart": 23404.40108,
+"high": 27645.0,
+"low": 22559.0,
+"actual": 19422.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 4.0,
+"mean": 24544.25,
+"smart": 24591.42554,
+"high": 25970.0,
+"low": 23795.0,
+"actual": 23353.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 3.0,
+"mean": 25655.0,
+"smart": 24878.9355,
+"high": 27494.0,
+"low": 24362.0,
+"actual": 23614.0
+},
+{
+"period": "FY Dec-22",
+"n": 12.0,
+"mean": 95255.88333,
+"smart": 95835.66296,
+"high": 106678.0,
+"low": 90868.0,
+"actual": 91495.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 5.0,
+"mean": 24120.6,
+"smart": 23713.17876,
+"high": 27308.0,
+"low": 19656.0,
+"actual": 23509.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 7.0,
+"mean": 25466.28571,
+"smart": 24496.33282,
+"high": 28505.0,
+"low": 23806.0,
+"actual": 28666.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 7.0,
+"mean": 24922.9,
+"smart": 24916.34431,
+"high": 26618.0,
+"low": 18971.0,
+"actual": 30656.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 7.0,
+"mean": 21503.82857,
+"smart": 21250.03011,
+"high": 29138.0,
+"low": 16950.0,
+"actual": 18915.0
+},
+{
+"period": "FY Dec-23",
+"n": 17.0,
+"mean": 105868.48235,
+"smart": 107633.63088,
+"high": 117108.0,
+"low": 92506.0,
+"actual": 101746.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 6.0,
+"mean": 28571.8,
+"smart": 29169.38387,
+"high": 32682.8,
+"low": 24468.0,
+"actual": 28848.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 6.0,
+"mean": 34312.01667,
+"smart": 34192.58342,
+"high": 36651.1,
+"low": 32081.0,
+"actual": 26640.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 8.0,
+"mean": 30872.4375,
+"smart": 30284.5125,
+"high": 38856.0,
+"low": 2839.0,
+"actual": 30698.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 9.0,
+"mean": 47451.62222,
+"smart": 46075.58506,
+"high": 119838.0,
+"low": 32620.0,
+"actual": 39113.0
+},
+{
+"period": "FY Dec-24",
+"n": 23.0,
+"mean": 125830.72391,
+"smart": 127358.35853,
+"high": 146909.0,
+"low": 90262.0,
+"actual": 125299.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 10.0,
+"mean": 34038.99,
+"smart": 34946.93425,
+"high": 38736.0,
+"low": 30989.0,
+"actual": 36150.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 9.0,
+"mean": 34134.98889,
+"smart": 34328.04285,
+"high": 37287.0,
+"low": 30068.8,
+"actual": 27747.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 12.0,
+"mean": 43279.38333,
+"smart": 40790.12636,
+"high": 76307.0,
+"low": 36538.0,
+"actual": 48414.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 11.0,
+"mean": 43288.83636,
+"smart": 43340.9154,
+"high": 47903.1,
+"low": 40562.0,
+"actual": 52402.0
+},
+{
+"period": "FY Dec-25",
+"n": 25.0,
+"mean": 156833.5276,
+"smart": 158911.64209,
+"high": 175953.0,
+"low": 142370.0,
+"actual": 164713.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 11.0,
+"mean": 46576.58418,
+"smart": 45823.28575,
+"high": 53903.8,
+"low": 37870.0,
+"actual": 45790.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 9.0,
+"mean": 45694.29144,
+"smart": 46044.57716,
+"high": 50412.0,
+"low": 39719.6,
+"actual": 39069.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 13.0,
+"mean": 53697.41839,
+"smart": 53519.80697,
+"high": 62750.0,
+"low": 42264.695,
+"actual": 42290.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 14.0,
+"mean": 56630.24786,
+"smart": 55837.34168,
+"high": 68074.0,
+"low": 46750.0,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 28.0,
+"mean": 196485.28857,
+"smart": 196294.53485,
+"high": 307260.0,
+"low": 153422.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 12.0,
+"mean": 61553.44058,
+"smart": 61604.22487,
+"high": 68472.0,
+"low": 51198.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 11.0,
+"mean": 65091.51436,
+"smart": 65645.01417,
+"high": 76888.0,
+"low": 50809.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 11.0,
+"mean": 70638.88064,
+"smart": 69461.45251,
+"high": 88509.0,
+"low": 56988.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 11.0,
+"mean": 76393.79727,
+"smart": 76048.02447,
+"high": 90866.0,
+"low": 61806.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 27.0,
+"mean": 276605.83978,
+"smart": 271970.52915,
+"high": 355290.27,
+"low": 226849.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-28",
+"n": 2.0,
+"mean": 87898.15,
+"smart": 89850.26566,
+"high": 96358.0,
+"low": 79438.3,
+"actual": null
+},
+{
+"period": "Q2 Jun-28",
+"n": 2.0,
+"mean": 95296.5,
+"smart": 96942.55957,
+"high": 102430.0,
+"low": 88163.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-28",
+"n": 2.0,
+"mean": 85692.9,
+"smart": 86736.83889,
+"high": 90217.0,
+"low": 81168.8,
+"actual": null
+},
+{
+"period": "Q4 Dec-28",
+"n": 2.0,
+"mean": 94552.8,
+"smart": 91297.87786,
+"high": 108658.6,
+"low": 80447.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 22.0,
+"mean": 363552.75727,
+"smart": 355278.6245,
+"high": 479274.0,
+"low": 297658.0,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 5.0,
+"mean": 444498.74,
+"smart": 440127.93691,
+"high": 495731.7,
+"low": 364900.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 4.0,
+"mean": 525036.68,
+"smart": 518007.80928,
+"high": 604353.0,
+"low": 422426.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (3).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "EBITDA",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q1 Mar-06",
+"n": 26.0,
+"mean": 887.88977,
+"smart": null,
+"high": 997.0,
+"low": 733.58,
+"actual": 998.521
+},
+{
+"period": "Q2 Jun-06",
+"n": 24.0,
+"mean": 1014.02475,
+"smart": null,
+"high": 1117.0,
+"low": 882.29,
+"actual": 1051.0
+},
+{
+"period": "Q3 Sep-06",
+"n": 21.0,
+"mean": 1100.87229,
+"smart": null,
+"high": 1238.8,
+"low": 981.165,
+"actual": 1182.0
+},
+{
+"period": "Q4 Dec-06",
+"n": 21.0,
+"mean": 1346.78314,
+"smart": null,
+"high": 1412.0,
+"low": 1186.809,
+"actual": 1384.271
+},
+{
+"period": "FY Dec-06",
+"n": 23.0,
+"mean": 4525.08313,
+"smart": null,
+"high": 4630.729,
+"low": 3873.21,
+"actual": 4614.034
+},
+{
+"period": "Q1 Mar-07",
+"n": 19.0,
+"mean": 1538.94158,
+"smart": null,
+"high": 1619.432,
+"low": 1412.0,
+"actual": 1610.067
+},
+{
+"period": "Q2 Jun-07",
+"n": 23.0,
+"mean": 1669.02339,
+"smart": null,
+"high": 1743.0,
+"low": 1571.0,
+"actual": 1569.1
+},
+{
+"period": "Q3 Sep-07",
+"n": 24.0,
+"mean": 1747.21138,
+"smart": null,
+"high": 1929.2,
+"low": 1664.608,
+"actual": 1765.173
+},
+{
+"period": "Q4 Dec-07",
+"n": 22.0,
+"mean": 2069.90782,
+"smart": null,
+"high": 2298.6,
+"low": 1952.0,
+"actual": 1927.936
+},
+{
+"period": "FY Dec-07",
+"n": 22.0,
+"mean": 7003.90127,
+"smart": null,
+"high": 7104.015,
+"low": 6897.0,
+"actual": 6760.789
+},
+{
+"period": "Q1 Mar-08",
+"n": 22.0,
+"mean": 2132.57341,
+"smart": null,
+"high": 2255.5,
+"low": 2006.3,
+"actual": 2163.538
+},
+{
+"period": "Q2 Jun-08",
+"n": 22.0,
+"mean": 2228.28741,
+"smart": null,
+"high": 2343.0,
+"low": 2093.7,
+"actual": 2242.348
+},
+{
+"period": "Q3 Sep-08",
+"n": 24.0,
+"mean": 2337.74004,
+"smart": null,
+"high": 2418.4,
+"low": 2271.545,
+"actual": 2408.95
+},
+{
+"period": "Q4 Dec-08",
+"n": 25.0,
+"mean": 2438.3134,
+"smart": null,
+"high": 2536.986,
+"low": 2327.6,
+"actual": 2531.886
+},
+{
+"period": "FY Dec-08",
+"n": 27.0,
+"mean": 9234.96063,
+"smart": null,
+"high": 9351.822,
+"low": 8900.0,
+"actual": 9346.722
+},
+{
+"period": "Q1 Mar-09",
+"n": 23.0,
+"mean": 2416.04487,
+"smart": null,
+"high": 2562.8,
+"low": 2319.587,
+"actual": 2564.296
+},
+{
+"period": "Q2 Jun-09",
+"n": 24.0,
+"mean": 2513.42063,
+"smart": null,
+"high": 2664.2,
+"low": 2419.3,
+"actual": 2543.921
+},
+{
+"period": "Q3 Sep-09",
+"n": 27.0,
+"mean": 2641.52193,
+"smart": null,
+"high": 2805.9,
+"low": 2445.3,
+"actual": 2769.868
+},
+{
+"period": "Q4 Dec-09",
+"n": 26.0,
+"mean": 3077.72481,
+"smart": null,
+"high": 3288.3,
+"low": 2771.7,
+"actual": 3122.463
+},
+{
+"period": "FY Dec-09",
+"n": 28.0,
+"mean": 10951.57361,
+"smart": null,
+"high": 11166.4,
+"low": 10585.7,
+"actual": 11000.548
+},
+{
+"period": "Q1 Mar-10",
+"n": 27.0,
+"mean": 3109.48841,
+"smart": null,
+"high": 3319.67,
+"low": 2826.9,
+"actual": 3110.0
+},
+{
+"period": "Q2 Jun-10",
+"n": 27.0,
+"mean": 3039.11237,
+"smart": null,
+"high": 3153.526,
+"low": 2876.0,
+"actual": 3016.0
+},
+{
+"period": "Q3 Sep-10",
+"n": 26.0,
+"mean": 3129.85946,
+"smart": null,
+"high": 3273.313,
+"low": 2961.0,
+"actual": 3269.0
+},
+{
+"period": "Q4 Dec-10",
+"n": 31.0,
+"mean": 3657.62574,
+"smart": null,
+"high": 3772.75,
+"low": 3484.9,
+"actual": 3759.0
+},
+{
+"period": "FY Dec-10",
+"n": 32.0,
+"mean": 13036.61266,
+"smart": null,
+"high": 13167.75,
+"low": 12677.0,
+"actual": 13153.0
+},
+{
+"period": "Q1 Mar-11",
+"n": 28.0,
+"mean": 3638.15814,
+"smart": null,
+"high": 3764.0,
+"low": 3380.0,
+"actual": 3629.0
+},
+{
+"period": "Q2 Jun-11",
+"n": 27.0,
+"mean": 3566.99526,
+"smart": null,
+"high": 3813.272,
+"low": 3271.0,
+"actual": 3771.0
+},
+{
+"period": "Q3 Sep-11",
+"n": 25.0,
+"mean": 3925.88128,
+"smart": null,
+"high": 4307.747,
+"low": 3671.0,
+"actual": 4121.0
+},
+{
+"period": "Q4 Dec-11",
+"n": 25.0,
+"mean": 4591.28648,
+"smart": null,
+"high": 4826.3,
+"low": 4353.118,
+"actual": 4546.0
+},
+{
+"period": "FY Dec-11",
+"n": 29.0,
+"mean": 15818.73193,
+"smart": null,
+"high": 16348.9,
+"low": 12064.9,
+"actual": 16067.0
+},
+{
+"period": "Q1 Mar-12",
+"n": 28.0,
+"mean": 4392.90075,
+"smart": null,
+"high": 4935.7,
+"low": 3900.0,
+"actual": 4456.0
+},
+{
+"period": "Q2 Jun-12",
+"n": 20.0,
+"mean": 4503.90115,
+"smart": null,
+"high": 4613.0,
+"low": 4340.0,
+"actual": 4620.0
+},
+{
+"period": "Q3 Sep-12",
+"n": 28.0,
+"mean": 4908.17854,
+"smart": null,
+"high": 6044.6,
+"low": 4468.0,
+"actual": 4628.0
+},
+{
+"period": "Q4 Dec-12",
+"n": 18.0,
+"mean": 5015.35339,
+"smart": null,
+"high": 5434.0,
+"low": 4713.0,
+"actual": 5225.0
+},
+{
+"period": "FY Dec-12",
+"n": 15.0,
+"mean": 18390.8712,
+"smart": null,
+"high": 19213.611,
+"low": 15745.49,
+"actual": 18929.0
+},
+{
+"period": "Q1 Mar-13",
+"n": 24.0,
+"mean": 5123.42204,
+"smart": null,
+"high": 5476.3,
+"low": 4051.05,
+"actual": 5123.0
+},
+{
+"period": "Q2 Jun-13",
+"n": 27.0,
+"mean": 5243.91863,
+"smart": null,
+"high": 5506.0,
+"low": 4402.86,
+"actual": 5020.0
+},
+{
+"period": "Q3 Sep-13",
+"n": 27.0,
+"mean": 5227.32185,
+"smart": null,
+"high": 5558.0,
+"low": 4948.129,
+"actual": 5316.0
+},
+{
+"period": "Q4 Dec-13",
+"n": 28.0,
+"mean": 6108.58154,
+"smart": null,
+"high": 7009.129,
+"low": 5467.3,
+"actual": 5875.0
+},
+{
+"period": "FY Dec-13",
+"n": 21.0,
+"mean": 21507.55986,
+"smart": null,
+"high": 21810.95,
+"low": 20914.3,
+"actual": 21334.0
+},
+{
+"period": "Q1 Mar-14",
+"n": 27.0,
+"mean": 6210.82211,
+"smart": 6196.60645,
+"high": 6570.5,
+"low": 5715.0,
+"actual": 6040.0
+},
+{
+"period": "Q2 Jun-14",
+"n": 32.0,
+"mean": 6193.92244,
+"smart": 6199.62364,
+"high": 6589.0,
+"low": 5841.0,
+"actual": 6217.0
+},
+{
+"period": "Q3 Sep-14",
+"n": 35.0,
+"mean": 6563.29443,
+"smart": 6559.19414,
+"high": 6856.8,
+"low": 6242.5,
+"actual": 6526.0
+},
+{
+"period": "Q4 Dec-14",
+"n": 34.0,
+"mean": 7290.10824,
+"smart": 7247.4022,
+"high": 7861.474,
+"low": 6723.9,
+"actual": 6867.0
+},
+{
+"period": "FY Dec-14",
+"n": 27.0,
+"mean": 26186.44104,
+"smart": 26199.02055,
+"high": 27010.474,
+"low": 24667.627,
+"actual": 25650.0
+},
+{
+"period": "Q1 Mar-15",
+"n": 31.0,
+"mean": 6761.62671,
+"smart": 6706.19124,
+"high": 7180.103,
+"low": 6274.0,
+"actual": 6827.0
+},
+{
+"period": "Q2 Jun-15",
+"n": 31.0,
+"mean": 6940.42419,
+"smart": 6930.29749,
+"high": 7505.996,
+"low": 6655.0,
+"actual": 7191.0
+},
+{
+"period": "Q3 Sep-15",
+"n": 35.0,
+"mean": 7477.49303,
+"smart": 7431.09323,
+"high": 8285.829,
+"low": 7060.5,
+"actual": 7388.0
+},
+{
+"period": "Q4 Dec-15",
+"n": 34.0,
+"mean": 8186.88124,
+"smart": 8210.3138,
+"high": 8653.341,
+"low": 7751.0,
+"actual": 8220.0
+},
+{
+"period": "FY Dec-15",
+"n": 33.0,
+"mean": 29628.17288,
+"smart": 29640.79893,
+"high": 30059.341,
+"low": 29159.087,
+"actual": 29626.0
+},
+{
+"period": "Q1 Mar-16",
+"n": 33.0,
+"mean": 8134.36458,
+"smart": 8101.54598,
+"high": 8580.5,
+"low": 7675.6,
+"actual": 8207.0
+},
+{
+"period": "Q2 Jun-16",
+"n": 31.0,
+"mean": 8357.25581,
+"smart": 8342.6711,
+"high": 8684.7,
+"low": 7982.9,
+"actual": 8961.0
+},
+{
+"period": "Q3 Sep-16",
+"n": 31.0,
+"mean": 8966.82508,
+"smart": 8965.13247,
+"high": 9302.35,
+"low": 8545.0,
+"actual": 9223.0
+},
+{
+"period": "Q4 Dec-16",
+"n": 31.0,
+"mean": 9933.69533,
+"smart": 9929.7591,
+"high": 11042.7002,
+"low": 9369.0,
+"actual": 10172.0
+},
+{
+"period": "FY Dec-16",
+"n": 35.0,
+"mean": 36131.47875,
+"smart": 36143.91585,
+"high": 37433.69922,
+"low": 33552.427,
+"actual": 36563.0
+},
+{
+"period": "Q1 Mar-17",
+"n": 29.0,
+"mean": 9815.37828,
+"smart": 9879.82991,
+"high": 10271.2,
+"low": 9396.378,
+"actual": 10080.0
+},
+{
+"period": "Q2 Jun-17",
+"n": 22.0,
+"mean": 10632.68841,
+"smart": 10745.35554,
+"high": 11027.0,
+"low": 9863.0,
+"actual": 10496.0
+},
+{
+"period": "Q3 Sep-17",
+"n": 22.0,
+"mean": 10911.42676,
+"smart": 10889.31401,
+"high": 12173.0,
+"low": 10559.0,
+"actual": 11363.0
+},
+{
+"period": "Q4 Dec-17",
+"n": 22.0,
+"mean": 12350.67564,
+"smart": 12317.70048,
+"high": 13047.928,
+"low": 11775.0,
+"actual": 11537.0
+},
+{
+"period": "FY Dec-17",
+"n": 24.0,
+"mean": 44096.96904,
+"smart": 44105.17013,
+"high": 44986.928,
+"low": 41952.0,
+"actual": 40740.0
+},
+{
+"period": "Q1 Mar-18",
+"n": 21.0,
+"mean": 11977.58433,
+"smart": 12043.87135,
+"high": 12646.0,
+"low": 11160.2,
+"actual": 12076.0
+},
+{
+"period": "Q2 Jun-18",
+"n": 23.0,
+"mean": 12262.03987,
+"smart": 12316.39002,
+"high": 12862.0,
+"low": 11457.0,
+"actual": 12405.0
+},
+{
+"period": "Q3 Sep-18",
+"n": 24.0,
+"mean": 13079.33913,
+"smart": 12983.32835,
+"high": 13845.0,
+"low": 12474.0,
+"actual": 12895.0
+},
+{
+"period": "Q4 Dec-18",
+"n": 21.0,
+"mean": 13529.89467,
+"smart": 13497.0265,
+"high": 14409.499,
+"low": 12729.1,
+"actual": 13036.0
+},
+{
+"period": "FY Dec-18",
+"n": 16.0,
+"mean": 49157.71806,
+"smart": 48463.2914,
+"high": 51153.5,
+"low": 41732.0,
+"actual": 49780.0
+},
+{
+"period": "Q1 Mar-19",
+"n": 22.0,
+"mean": 13476.16568,
+"smart": 13389.48575,
+"high": 14525.0,
+"low": 12041.08,
+"actual": 13687.0
+},
+{
+"period": "Q2 Jun-19",
+"n": 26.0,
+"mean": 14145.02512,
+"smart": 14143.27815,
+"high": 14802.8,
+"low": 13273.0,
+"actual": 14771.0
+},
+{
+"period": "Q3 Sep-19",
+"n": 25.0,
+"mean": 15051.5528,
+"smart": 15165.20457,
+"high": 15795.0,
+"low": 13941.682,
+"actual": 15275.0
+},
+{
+"period": "Q4 Dec-19",
+"n": 30.0,
+"mean": 15627.23762,
+"smart": 15685.45195,
+"high": 16509.947,
+"low": 14506.0,
+"actual": 15324.0
+},
+{
+"period": "FY Dec-19",
+"n": 15.0,
+"mean": 59316.874,
+"smart": 59312.9049,
+"high": 59974.0,
+"low": 58716.0,
+"actual": 56806.0
+},
+{
+"period": "Q1 Mar-20",
+"n": 23.0,
+"mean": 14403.26804,
+"smart": 14574.39815,
+"high": 15605.0,
+"low": 12917.0,
+"actual": 14276.0
+},
+{
+"period": "Q2 Jun-20",
+"n": 24.0,
+"mean": 12086.54375,
+"smart": 12358.53468,
+"high": 13570.8,
+"low": 10428.8,
+"actual": 13151.0
+},
+{
+"period": "Q3 Sep-20",
+"n": 24.0,
+"mean": 14898.20083,
+"smart": 14901.6165,
+"high": 16205.4,
+"low": 13677.0,
+"actual": 17886.0
+},
+{
+"period": "Q4 Dec-20",
+"n": 23.0,
+"mean": 18919.24248,
+"smart": 18770.338,
+"high": 20056.0,
+"low": 16705.0,
+"actual": 22599.0
+},
+{
+"period": "FY Dec-20",
+"n": 26.0,
+"mean": 64125.68115,
+"smart": 63882.2701,
+"high": 65291.0,
+"low": 62200.0,
+"actual": 67912.0
+},
+{
+"period": "Q1 Mar-21",
+"n": 24.0,
+"mean": 19279.85525,
+"smart": 19191.00299,
+"high": 22313.1,
+"low": 17486.0,
+"actual": 22935.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 23.0,
+"mean": 21947.91596,
+"smart": 21796.00047,
+"high": 24113.0,
+"low": 19640.0,
+"actual": 26109.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 26.0,
+"mean": 25447.70685,
+"smart": 25997.60555,
+"high": 30769.0,
+"low": 21850.445,
+"actual": 28209.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 26.0,
+"mean": 29018.26489,
+"smart": 29393.74249,
+"high": 32270.0,
+"low": 27008.0,
+"actual": 28833.0
+},
+{
+"period": "FY Dec-21",
+"n": 35.0,
+"mean": 105703.26926,
+"smart": 106526.09573,
+"high": 110680.0,
+"low": 91013.0,
+"actual": 106531.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 28.0,
+"mean": 27633.51036,
+"smart": 27549.09747,
+"high": 29827.7,
+"low": 25621.0,
+"actual": 28380.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 25.0,
+"mean": 28524.71796,
+"smart": 28507.54207,
+"high": 30684.0,
+"low": 26906.3,
+"actual": 28134.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 26.0,
+"mean": 28281.72004,
+"smart": 28016.51575,
+"high": 30106.0,
+"low": 25778.0,
+"actual": 26157.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 25.0,
+"mean": 27499.4336,
+"smart": 27329.54788,
+"high": 30111.0,
+"low": 25303.38,
+"actual": 27461.0
+},
+{
+"period": "FY Dec-22",
+"n": 32.0,
+"mean": 109899.00013,
+"smart": 109734.67461,
+"high": 112782.0,
+"low": 104468.0,
+"actual": 110132.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 26.0,
+"mean": 26233.95835,
+"smart": 26226.26944,
+"high": 29392.0,
+"low": 23782.1,
+"actual": 25885.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 26.0,
+"mean": 29065.98396,
+"smart": 29100.94881,
+"high": 31785.0,
+"low": 25202.5,
+"actual": 31009.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 26.0,
+"mean": 30809.16781,
+"smart": 30943.34044,
+"high": 32507.0,
+"low": 28102.0,
+"actual": 30886.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 28.0,
+"mean": 33713.38882,
+"smart": 33709.18496,
+"high": 36244.0,
+"low": 31961.0,
+"actual": 32672.0
+},
+{
+"period": "FY Dec-23",
+"n": 30.0,
+"mean": 122452.09643,
+"smart": 122273.85725,
+"high": 126765.0,
+"low": 119741.0,
+"actual": 120452.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 30.0,
+"mean": 31744.63503,
+"smart": 31821.17273,
+"high": 34036.0,
+"low": 28688.0,
+"actual": 34149.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 28.0,
+"mean": 36137.50214,
+"smart": 35979.23244,
+"high": 38863.0,
+"low": 33870.5,
+"actual": 36998.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 29.0,
+"mean": 36565.38035,
+"smart": 36834.3714,
+"high": 38432.0,
+"low": 34221.0,
+"actual": 38352.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 30.0,
+"mean": 40605.06333,
+"smart": 41146.9266,
+"high": 43801.0,
+"low": 34000.0,
+"actual": 40987.0
+},
+{
+"period": "FY Dec-24",
+"n": 17.0,
+"mean": 150297.52988,
+"smart": 150694.47166,
+"high": 152483.0,
+"low": 146984.1,
+"actual": 150486.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 33.0,
+"mean": 38868.23336,
+"smart": 38990.09339,
+"high": 40490.0,
+"low": 35000.0,
+"actual": 40609.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 30.0,
+"mean": 42124.45267,
+"smart": 42363.58847,
+"high": 43605.7,
+"low": 40183.9,
+"actual": 42267.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 28.0,
+"mean": 44248.865,
+"smart": 44002.03952,
+"high": 46639.0,
+"low": 39000.0,
+"actual": 43207.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 23.0,
+"mean": 49853.30957,
+"smart": 49976.24869,
+"high": 52714.4,
+"low": 47423.0,
+"actual": 49045.0
+},
+{
+"period": "FY Dec-25",
+"n": 18.0,
+"mean": 176518.05261,
+"smart": 176975.86785,
+"high": 180232.8,
+"low": 173506.0,
+"actual": 175128.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 25.0,
+"mean": 50011.6092,
+"smart": 50627.24026,
+"high": 51991.0,
+"low": 46908.0,
+"actual": 52929.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 22.0,
+"mean": 55402.51277,
+"smart": 56055.52098,
+"high": 58239.0,
+"low": 50899.0,
+"actual": 55831.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 26.0,
+"mean": 59851.48627,
+"smart": 60245.43734,
+"high": 65188.0,
+"low": 54301.0,
+"actual": 57575.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 24.0,
+"mean": 64036.83354,
+"smart": 63794.96843,
+"high": 67212.0,
+"low": 60643.0,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 23.0,
+"mean": 230651.5773,
+"smart": 230482.28056,
+"high": 235113.573,
+"low": 226978.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 14.0,
+"mean": 67688.46593,
+"smart": 67629.41401,
+"high": 70981.003,
+"low": 63379.1,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 14.0,
+"mean": 73677.87957,
+"smart": 73891.1848,
+"high": 78636.0,
+"low": 68714.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 14.0,
+"mean": 79062.51093,
+"smart": 79317.66595,
+"high": 85010.0,
+"low": 71447.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 13.0,
+"mean": 86246.33539,
+"smart": 86619.86355,
+"high": 97715.0,
+"low": 73052.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 25.0,
+"mean": 305740.59452,
+"smart": 304547.40053,
+"high": 336232.734,
+"low": 278713.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-28",
+"n": 2.0,
+"mean": 96275.55,
+"smart": 96135.08305,
+"high": 101995.0,
+"low": 90556.1,
+"actual": null
+},
+{
+"period": "Q2 Jun-28",
+"n": 2.0,
+"mean": 105341.25,
+"smart": 105209.12592,
+"high": 110721.0,
+"low": 99961.5,
+"actual": null
+},
+{
+"period": "Q3 Sep-28",
+"n": 2.0,
+"mean": 107072.95,
+"smart": 107034.51312,
+"high": 108638.0,
+"low": 105507.9,
+"actual": null
+},
+{
+"period": "Q4 Dec-28",
+"n": 2.0,
+"mean": 109388.8,
+"smart": 109430.25156,
+"high": 111076.6,
+"low": 107701.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 21.0,
+"mean": 399348.09438,
+"smart": 397531.60364,
+"high": 458791.0,
+"low": 360824.0,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 6.0,
+"mean": 472236.2295,
+"smart": 475242.40047,
+"high": 535646.0,
+"low": 405278.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 5.0,
+"mean": 552909.153,
+"smart": 559024.08483,
+"high": 639026.0,
+"low": 448385.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (4).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Free Cash Flow",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q3 Sep-13",
+"n": 3.0,
+"mean": 4265.5,
+"smart": null,
+"high": 4866.0,
+"low": 3807.0,
+"actual": 2794.0
+},
+{
+"period": "Q4 Dec-13",
+"n": 3.0,
+"mean": 5572.1,
+"smart": 6114.41347,
+"high": 8489.0,
+"low": 4068.3,
+"actual": 2983.0
+},
+{
+"period": "FY Dec-13",
+"n": 10.0,
+"mean": 13801.5183,
+"smart": 15173.40291,
+"high": 25767.0,
+"low": 8714.383,
+"actual": 11301.0
+},
+{
+"period": "Q1 Mar-14",
+"n": 3.0,
+"mean": 2810.0,
+"smart": 1946.87004,
+"high": 4550.0,
+"low": 1851.0,
+"actual": 2046.0
+},
+{
+"period": "Q2 Jun-14",
+"n": 5.0,
+"mean": 4750.42,
+"smart": 2742.44084,
+"high": 6344.1,
+"low": 1684.0,
+"actual": 2981.0
+},
+{
+"period": "Q3 Sep-14",
+"n": 6.0,
+"mean": 4314.06667,
+"smart": 4105.40454,
+"high": 6395.0,
+"low": 389.0,
+"actual": 3577.0
+},
+{
+"period": "Q4 Dec-14",
+"n": 6.0,
+"mean": 5168.75,
+"smart": 4903.30773,
+"high": 6975.0,
+"low": 1667.0,
+"actual": 2813.0
+},
+{
+"period": "FY Dec-14",
+"n": 11.0,
+"mean": 12442.72873,
+"smart": 12081.08996,
+"high": 16621.0,
+"low": 5583.0,
+"actual": 11417.0
+},
+{
+"period": "Q1 Mar-15",
+"n": 4.0,
+"mean": 3546.85,
+"smart": 3715.42934,
+"high": 4948.0,
+"low": 1877.4,
+"actual": 3690.0
+},
+{
+"period": "Q2 Jun-15",
+"n": 5.0,
+"mean": 4154.18,
+"smart": 3953.7876,
+"high": 6232.0,
+"low": 3007.0,
+"actual": 4470.0
+},
+{
+"period": "Q3 Sep-15",
+"n": 6.0,
+"mean": 3947.56667,
+"smart": 3895.69322,
+"high": 5727.0,
+"low": 2667.0,
+"actual": 3634.0
+},
+{
+"period": "Q4 Dec-15",
+"n": 5.0,
+"mean": 3996.72,
+"smart": 3968.12363,
+"high": 4333.0,
+"low": 3474.0,
+"actual": 4315.0
+},
+{
+"period": "FY Dec-15",
+"n": 12.0,
+"mean": 16241.539,
+"smart": 15498.80727,
+"high": 26839.742,
+"low": 9742.526,
+"actual": 16109.0
+},
+{
+"period": "Q1 Mar-16",
+"n": 7.0,
+"mean": 3993.98571,
+"smart": 3826.96952,
+"high": 4882.0,
+"low": 2933.8,
+"actual": 5230.0
+},
+{
+"period": "Q2 Jun-16",
+"n": 7.0,
+"mean": 4424.95714,
+"smart": 4422.2228,
+"high": 4914.0,
+"low": 4180.0,
+"actual": 6997.0
+},
+{
+"period": "Q3 Sep-16",
+"n": 7.0,
+"mean": 4906.34286,
+"smart": 4898.33185,
+"high": 5569.0,
+"low": 3564.1,
+"actual": 7291.0
+},
+{
+"period": "Q4 Dec-16",
+"n": 11.0,
+"mean": 5192.19091,
+"smart": 5427.73439,
+"high": 6708.0,
+"low": 1441.0,
+"actual": 6335.0
+},
+{
+"period": "FY Dec-16",
+"n": 17.0,
+"mean": 23074.39365,
+"smart": 23683.09632,
+"high": 36116.817,
+"low": 11862.0,
+"actual": 25824.0
+},
+{
+"period": "Q1 Mar-17",
+"n": 9.0,
+"mean": 6089.48889,
+"smart": 6012.89535,
+"high": 8663.0,
+"low": 4149.3,
+"actual": 7040.0
+},
+{
+"period": "Q2 Jun-17",
+"n": 8.0,
+"mean": 6134.5375,
+"smart": 5733.24532,
+"high": 7972.0,
+"low": 1990.0,
+"actual": 4572.0
+},
+{
+"period": "Q3 Sep-17",
+"n": 8.0,
+"mean": 6065.5875,
+"smart": 6036.53723,
+"high": 8185.0,
+"low": 2238.0,
+"actual": 6334.0
+},
+{
+"period": "Q4 Dec-17",
+"n": 6.0,
+"mean": 7245.85,
+"smart": 6785.44901,
+"high": 9029.0,
+"low": 5206.0,
+"actual": 5961.0
+},
+{
+"period": "FY Dec-17",
+"n": 13.0,
+"mean": 24760.43692,
+"smart": 24346.63662,
+"high": 38618.18,
+"low": 17301.0,
+"actual": 23907.0
+},
+{
+"period": "Q1 Mar-18",
+"n": 6.0,
+"mean": 6308.66667,
+"smart": 7112.11098,
+"high": 7718.0,
+"low": 4369.0,
+"actual": 4343.0
+},
+{
+"period": "Q2 Jun-18",
+"n": 8.0,
+"mean": 4287.325,
+"smart": 3358.99614,
+"high": 7053.0,
+"low": -4419.4,
+"actual": 4655.0
+},
+{
+"period": "Q3 Sep-18",
+"n": 10.0,
+"mean": 5047.35,
+"smart": 4766.25261,
+"high": 8008.0,
+"low": 1554.0,
+"actual": 7928.0
+},
+{
+"period": "Q4 Dec-18",
+"n": 8.0,
+"mean": 6330.125,
+"smart": 6232.71397,
+"high": 7746.0,
+"low": 3650.0,
+"actual": 5906.0
+},
+{
+"period": "FY Dec-18",
+"n": 14.0,
+"mean": 23674.15714,
+"smart": 24093.91028,
+"high": 33460.9,
+"low": 16797.0,
+"actual": 22832.0
+},
+{
+"period": "Q1 Mar-19",
+"n": 7.0,
+"mean": 6207.57143,
+"smart": 5982.8932,
+"high": 7913.0,
+"low": 4011.0,
+"actual": 7362.0
+},
+{
+"period": "Q2 Jun-19",
+"n": 9.0,
+"mean": 6358.33333,
+"smart": 5828.81869,
+"high": 12144.0,
+"low": 1560.0,
+"actual": 6501.0
+},
+{
+"period": "Q3 Sep-19",
+"n": 10.0,
+"mean": 7433.0954,
+"smart": 7499.08506,
+"high": 10259.0,
+"low": 4983.954,
+"actual": 8734.0
+},
+{
+"period": "Q4 Dec-19",
+"n": 11.0,
+"mean": 5564.11591,
+"smart": 5536.17807,
+"high": 7860.0,
+"low": 2001.0,
+"actual": 8375.0
+},
+{
+"period": "FY Dec-19",
+"n": 13.0,
+"mean": 29160.09039,
+"smart": 29982.34967,
+"high": 39618.2,
+"low": 24598.0,
+"actual": 30972.0
+},
+{
+"period": "Q1 Mar-20",
+"n": 7.0,
+"mean": 6844.0,
+"smart": 6818.76266,
+"high": 12027.0,
+"low": 2522.0,
+"actual": 5446.0
+},
+{
+"period": "Q2 Jun-20",
+"n": 7.0,
+"mean": 7221.92329,
+"smart": 7495.71731,
+"high": 8438.463,
+"low": 4042.0,
+"actual": 8602.0
+},
+{
+"period": "Q3 Sep-20",
+"n": 6.0,
+"mean": 7567.5,
+"smart": 7027.82231,
+"high": 9713.0,
+"low": 2986.0,
+"actual": 11597.0
+},
+{
+"period": "Q4 Dec-20",
+"n": 6.0,
+"mean": 12098.16667,
+"smart": 12671.24565,
+"high": 14428.0,
+"low": 9997.0,
+"actual": 17198.0
+},
+{
+"period": "FY Dec-20",
+"n": 11.0,
+"mean": 36195.40909,
+"smart": 37455.23147,
+"high": 40780.5,
+"low": 31262.0,
+"actual": 42843.0
+},
+{
+"period": "Q1 Mar-21",
+"n": 7.0,
+"mean": 8642.28571,
+"smart": 5908.24805,
+"high": 13462.0,
+"low": 399.0,
+"actual": 13347.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 5.0,
+"mean": 12486.2,
+"smart": 10759.56211,
+"high": 18543.0,
+"low": 3665.0,
+"actual": 16394.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 6.0,
+"mean": 17238.33333,
+"smart": 15667.12635,
+"high": 27126.0,
+"low": 11441.0,
+"actual": 18720.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 6.0,
+"mean": 19650.5,
+"smart": 18595.25293,
+"high": 28842.0,
+"low": 15015.0,
+"actual": 18551.0
+},
+{
+"period": "FY Dec-21",
+"n": 19.0,
+"mean": 69094.87705,
+"smart": 68957.03818,
+"high": 100223.425,
+"low": 48278.0,
+"actual": 67012.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 7.0,
+"mean": 16856.71429,
+"smart": 16474.95508,
+"high": 21650.0,
+"low": 12623.0,
+"actual": 15320.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 5.0,
+"mean": 17527.2,
+"smart": 16931.79939,
+"high": 20519.0,
+"low": 13559.0,
+"actual": 12594.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 5.0,
+"mean": 19260.2,
+"smart": 22132.55562,
+"high": 25920.0,
+"low": 15295.0,
+"actual": 16077.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 5.0,
+"mean": 19168.8,
+"smart": 21304.8618,
+"high": 25965.0,
+"low": 15160.0,
+"actual": 16019.0
+},
+{
+"period": "FY Dec-22",
+"n": 14.0,
+"mean": 64571.78136,
+"smart": 66748.7863,
+"high": 95553.899,
+"low": 43082.0,
+"actual": 60010.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 6.0,
+"mean": 15640.83333,
+"smart": 15249.11285,
+"high": 18808.0,
+"low": 10124.0,
+"actual": 17220.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 7.0,
+"mean": 15794.28571,
+"smart": 13116.53748,
+"high": 19005.0,
+"low": 5463.0,
+"actual": 21778.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 6.0,
+"mean": 15443.16667,
+"smart": 15713.17771,
+"high": 19014.0,
+"low": 10199.0,
+"actual": 22601.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 9.0,
+"mean": 14389.88889,
+"smart": 15801.08567,
+"high": 23396.0,
+"low": 7478.0,
+"actual": 7896.0
+},
+{
+"period": "FY Dec-23",
+"n": 17.0,
+"mean": 73512.12059,
+"smart": 77587.29517,
+"high": 88000.0,
+"low": 56298.0,
+"actual": 69495.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 8.0,
+"mean": 18800.125,
+"smart": 19559.44735,
+"high": 25154.0,
+"low": 15734.0,
+"actual": 16836.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 10.0,
+"mean": 22523.2,
+"smart": 23378.72752,
+"high": 29273.0,
+"low": 17805.0,
+"actual": 13454.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 12.0,
+"mean": 21861.83333,
+"smart": 21936.58678,
+"high": 28832.0,
+"low": 14554.0,
+"actual": 17637.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 12.0,
+"mean": 26013.16667,
+"smart": 27257.211,
+"high": 36699.0,
+"low": 19559.0,
+"actual": 24837.0
+},
+{
+"period": "FY Dec-24",
+"n": 19.0,
+"mean": 75374.63316,
+"smart": 77695.22034,
+"high": 90218.0,
+"low": 67486.0,
+"actual": 72764.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 13.0,
+"mean": 17927.46154,
+"smart": 18472.14155,
+"high": 26818.0,
+"low": 9392.0,
+"actual": 18953.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 11.0,
+"mean": 17653.02727,
+"smart": 16973.43881,
+"high": 26607.0,
+"low": 11876.0,
+"actual": 5301.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 13.0,
+"mean": 18119.27692,
+"smart": 18148.13657,
+"high": 26614.0,
+"low": 13000.0,
+"actual": 24461.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 13.0,
+"mean": 15139.46154,
+"smart": 14758.56352,
+"high": 20185.0,
+"low": 8778.0,
+"actual": 24551.0
+},
+{
+"period": "FY Dec-25",
+"n": 22.0,
+"mean": 62478.37409,
+"smart": 62768.19512,
+"high": 82988.6,
+"low": 27050.0,
+"actual": 73266.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 14.0,
+"mean": 12201.48571,
+"smart": 12231.28986,
+"high": 18954.0,
+"low": 5960.0,
+"actual": 10116.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 14.0,
+"mean": 60.07143,
+"smart": -89.93792,
+"high": 11258.0,
+"low": -9459.0,
+"actual": -5855.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 15.0,
+"mean": -35.95333,
+"smart": 147.95645,
+"high": 27365.0,
+"low": -18865.0,
+"actual": -9065.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 12.0,
+"mean": -15225.66667,
+"smart": -15882.85492,
+"high": -1215.0,
+"low": -27229.0,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 17.0,
+"mean": -20026.52941,
+"smart": -21010.95327,
+"high": 6863.6,
+"low": -52743.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 9.0,
+"mean": -15134.55556,
+"smart": -15089.96112,
+"high": -1164.0,
+"low": -29996.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 8.0,
+"mean": -15137.625,
+"smart": -15911.45368,
+"high": -3520.0,
+"low": -30000.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 8.0,
+"mean": -19378.0,
+"smart": -19784.81736,
+"high": -9282.0,
+"low": -28000.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 8.0,
+"mean": -19399.625,
+"smart": -17944.12155,
+"high": 6555.0,
+"low": -47085.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 17.0,
+"mean": -60698.22177,
+"smart": -61827.37381,
+"high": -19601.0,
+"low": -107736.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-28",
+"n": 1.0,
+"mean": 26704.0,
+"smart": 26704.0,
+"high": 26704.0,
+"low": 26704.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-28",
+"n": 1.0,
+"mean": 14716.0,
+"smart": 14716.0,
+"high": 14716.0,
+"low": 14716.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-28",
+"n": 1.0,
+"mean": -10053.0,
+"smart": -10053.0,
+"high": -10053.0,
+"low": -10053.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-28",
+"n": 1.0,
+"mean": -52430.0,
+"smart": -52430.0,
+"high": -52430.0,
+"low": -52430.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 12.0,
+"mean": -31978.5,
+"smart": -35684.97729,
+"high": 20163.0,
+"low": -93061.0,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 4.0,
+"mean": 64404.75,
+"smart": 72251.34874,
+"high": 145346.0,
+"low": -864.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 3.0,
+"mean": 140603.0,
+"smart": 147514.57156,
+"high": 203499.0,
+"low": 62022.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (5).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Revenue",
+"Segment": "Google Cloud",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q4 Dec-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 8918.0
+},
+{
+"period": "FY Dec-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 8918.0
+},
+{
+"period": "Q1 Mar-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 2777.0
+},
+{
+"period": "Q2 Jun-20",
+"n": 10.0,
+"mean": 3087.9153,
+"smart": null,
+"high": 3300.0,
+"low": 2916.0,
+"actual": 3007.0
+},
+{
+"period": "Q3 Sep-20",
+"n": 17.0,
+"mean": 3312.88241,
+"smart": null,
+"high": 3500.0,
+"low": 3130.0,
+"actual": 3444.0
+},
+{
+"period": "Q4 Dec-20",
+"n": 15.0,
+"mean": 3821.223,
+"smart": null,
+"high": 4044.0,
+"low": 3660.0,
+"actual": 3831.0
+},
+{
+"period": "FY Dec-20",
+"n": 15.0,
+"mean": 13021.27,
+"smart": null,
+"high": 13272.0,
+"low": 12708.15,
+"actual": 13059.0
+},
+{
+"period": "Q1 Mar-21",
+"n": 16.0,
+"mean": 4047.87206,
+"smart": null,
+"high": 4447.853,
+"low": 3749.0,
+"actual": 4047.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 16.0,
+"mean": 4394.39756,
+"smart": null,
+"high": 4571.0,
+"low": 4285.0,
+"actual": 4628.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 17.0,
+"mean": 5225.91018,
+"smart": null,
+"high": 7608.0,
+"low": 4870.133,
+"actual": 4990.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 16.0,
+"mean": 5430.10619,
+"smart": null,
+"high": 5555.0,
+"low": 5172.0,
+"actual": 5541.0
+},
+{
+"period": "FY Dec-21",
+"n": 16.0,
+"mean": 19095.10619,
+"smart": null,
+"high": 19220.0,
+"low": 18837.0,
+"actual": 19206.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 17.0,
+"mean": 5737.91,
+"smart": null,
+"high": 5958.2,
+"low": 5261.0,
+"actual": 5821.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 18.0,
+"mean": 6415.08111,
+"smart": null,
+"high": 6572.0,
+"low": 6125.0,
+"actual": 6276.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 22.0,
+"mean": 6702.15,
+"smart": null,
+"high": 6911.0,
+"low": 6537.0,
+"actual": 6868.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 22.0,
+"mean": 7362.7,
+"smart": null,
+"high": 7591.0,
+"low": 7037.0,
+"actual": 7315.0
+},
+{
+"period": "FY Dec-22",
+"n": 23.0,
+"mean": 26311.15957,
+"smart": null,
+"high": 26556.0,
+"low": 25893.0,
+"actual": 26280.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 20.0,
+"mean": 7477.058,
+"smart": null,
+"high": 7858.0,
+"low": 7276.0,
+"actual": 7454.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 21.0,
+"mean": 7848.22476,
+"smart": null,
+"high": 8159.0,
+"low": 7531.0,
+"actual": 8031.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 21.0,
+"mean": 8621.17048,
+"smart": null,
+"high": 8997.0,
+"low": 8242.0,
+"actual": 8411.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 21.0,
+"mean": 8935.13571,
+"smart": null,
+"high": 9217.0,
+"low": 8756.0,
+"actual": 9192.0
+},
+{
+"period": "FY Dec-23",
+"n": 23.0,
+"mean": 32864.86304,
+"smart": null,
+"high": 33424.0,
+"low": 32580.0,
+"actual": 33088.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 24.0,
+"mean": 9314.89583,
+"smart": null,
+"high": 9468.0,
+"low": 8945.0,
+"actual": 9574.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 25.0,
+"mean": 10153.4096,
+"smart": null,
+"high": 10400.0,
+"low": 9000.0,
+"actual": 10347.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 27.0,
+"mean": 10863.39148,
+"smart": null,
+"high": 11187.0,
+"low": 10514.0,
+"actual": 11353.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 27.0,
+"mean": 12164.47482,
+"smart": null,
+"high": 12593.0,
+"low": 11740.4,
+"actual": 11955.0
+},
+{
+"period": "FY Dec-24",
+"n": 29.0,
+"mean": 43820.2131,
+"smart": null,
+"high": 53800.0,
+"low": 42752.36,
+"actual": 43229.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 26.0,
+"mean": 12270.30385,
+"smart": null,
+"high": 12733.0,
+"low": 11872.0,
+"actual": 12260.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 24.0,
+"mean": 13091.29767,
+"smart": null,
+"high": 13348.0,
+"low": 12727.0,
+"actual": 13624.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 26.0,
+"mean": 14717.29615,
+"smart": null,
+"high": 15345.0,
+"low": 14191.0,
+"actual": 15157.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 23.0,
+"mean": 16166.43044,
+"smart": null,
+"high": 16737.0,
+"low": 15900.0,
+"actual": 17664.0
+},
+{
+"period": "FY Dec-25",
+"n": 24.0,
+"mean": 56674.81333,
+"smart": null,
+"high": 58656.02,
+"low": 43229.0,
+"actual": 58705.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 20.0,
+"mean": 18404.025,
+"smart": null,
+"high": 19713.0,
+"low": 16796.0,
+"actual": 20028.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 25.0,
+"mean": 22344.584,
+"smart": null,
+"high": 23447.0,
+"low": 20164.0,
+"actual": 24768.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 25.0,
+"mean": 29566.168,
+"smart": null,
+"high": 36670.0,
+"low": 25009.0,
+"actual": 30709.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 28.0,
+"mean": 36826.22143,
+"smart": null,
+"high": 45579.0,
+"low": 31795.0,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 30.0,
+"mean": 112322.74367,
+"smart": null,
+"high": 124640.0,
+"low": 101576.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 16.0,
+"mean": 42796.225,
+"smart": null,
+"high": 62737.0,
+"low": 20500.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 14.0,
+"mean": 47234.08571,
+"smart": null,
+"high": 66000.0,
+"low": 20500.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 14.0,
+"mean": 53886.55,
+"smart": null,
+"high": 72000.0,
+"low": 20500.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 14.0,
+"mean": 59265.38571,
+"smart": null,
+"high": 78000.0,
+"low": 20500.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 28.0,
+"mean": 209531.03143,
+"smart": null,
+"high": 276000.0,
+"low": 157443.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 24.0,
+"mean": 322616.51167,
+"smart": null,
+"high": 497122.9,
+"low": 212548.0,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 5.0,
+"mean": 353020.26,
+"smart": null,
+"high": 500091.0,
+"low": 286117.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 5.0,
+"mean": 427369.74,
+"smart": null,
+"high": 600110.0,
+"low": 323026.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (6).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Revenue",
+"Segment": "Google Advertising",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "FY Dec-12",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 43686.0
+},
+{
+"period": "FY Dec-13",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 50578.0
+},
+{
+"period": "FY Dec-14",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 59624.0
+},
+{
+"period": "FY Dec-15",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 67390.0
+},
+{
+"period": "Q1 Mar-16",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 18020.0
+},
+{
+"period": "Q2 Jun-16",
+"n": 5.0,
+"mean": 20652.823,
+"smart": null,
+"high": 20917.9,
+"low": 20326.715,
+"actual": 19143.0
+},
+{
+"period": "Q3 Sep-16",
+"n": 18.0,
+"mean": 21600.77194,
+"smart": null,
+"high": 22336.8,
+"low": 17262.0,
+"actual": 19821.0
+},
+{
+"period": "Q4 Dec-16",
+"n": 21.0,
+"mean": 24774.01233,
+"smart": null,
+"high": 26394.58,
+"low": 19580.0,
+"actual": 22399.0
+},
+{
+"period": "FY Dec-16",
+"n": 21.0,
+"mean": 87754.879,
+"smart": null,
+"high": 90054.58,
+"low": 69669.0,
+"actual": 79383.0
+},
+{
+"period": "Q1 Mar-17",
+"n": 10.0,
+"mean": 23789.439,
+"smart": null,
+"high": 24282.0,
+"low": 22925.0,
+"actual": 21411.0
+},
+{
+"period": "Q2 Jun-17",
+"n": 4.0,
+"mean": 25238.563,
+"smart": null,
+"high": 25388.9,
+"low": 25052.252,
+"actual": 22672.0
+},
+{
+"period": "Q3 Sep-17",
+"n": 10.0,
+"mean": 25492.648,
+"smart": null,
+"high": 26936.014,
+"low": 23303.966,
+"actual": 24065.0
+},
+{
+"period": "Q4 Dec-17",
+"n": 15.0,
+"mean": 26884.462,
+"smart": null,
+"high": 27268.0,
+"low": 26590.8,
+"actual": 27227.0
+},
+{
+"period": "FY Dec-17",
+"n": 15.0,
+"mean": 95001.32867,
+"smart": null,
+"high": 95416.0,
+"low": 94298.0,
+"actual": 95375.0
+},
+{
+"period": "Q1 Mar-18",
+"n": 13.0,
+"mean": 25636.44708,
+"smart": null,
+"high": 26791.0,
+"low": 24633.0,
+"actual": 26642.0
+},
+{
+"period": "Q2 Jun-18",
+"n": 13.0,
+"mean": 27704.05715,
+"smart": null,
+"high": 28044.0,
+"low": 27151.5,
+"actual": 28087.0
+},
+{
+"period": "Q3 Sep-18",
+"n": 16.0,
+"mean": 28762.12206,
+"smart": null,
+"high": 29699.0,
+"low": 22597.0,
+"actual": 28954.0
+},
+{
+"period": "Q4 Dec-18",
+"n": 16.0,
+"mean": 32359.64413,
+"smart": null,
+"high": 32698.0,
+"low": 31930.1,
+"actual": 32635.0
+},
+{
+"period": "FY Dec-18",
+"n": 16.0,
+"mean": 116042.64413,
+"smart": null,
+"high": 116381.0,
+"low": 115613.1,
+"actual": 116318.0
+},
+{
+"period": "Q1 Mar-19",
+"n": 15.0,
+"mean": 31489.068,
+"smart": null,
+"high": 32028.0,
+"low": 31077.0,
+"actual": 30720.0
+},
+{
+"period": "Q2 Jun-19",
+"n": 16.0,
+"mean": 32495.175,
+"smart": null,
+"high": 33309.0,
+"low": 32058.8,
+"actual": 32601.0
+},
+{
+"period": "Q3 Sep-19",
+"n": 15.0,
+"mean": 33752.21333,
+"smart": null,
+"high": 34106.0,
+"low": 33052.1,
+"actual": 33916.0
+},
+{
+"period": "Q4 Dec-19",
+"n": 16.0,
+"mean": 38091.8775,
+"smart": null,
+"high": 38516.0,
+"low": 37790.04,
+"actual": 37934.0
+},
+{
+"period": "FY Dec-19",
+"n": 16.0,
+"mean": 135328.8775,
+"smart": null,
+"high": 135753.0,
+"low": 135027.04,
+"actual": 134811.0
+},
+{
+"period": "Q1 Mar-20",
+"n": 16.0,
+"mean": 35157.04725,
+"smart": null,
+"high": 35906.0,
+"low": 33810.0,
+"actual": 33763.0
+},
+{
+"period": "Q2 Jun-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 29867.0
+},
+{
+"period": "Q3 Sep-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 37095.0
+},
+{
+"period": "Q4 Dec-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 46199.0
+},
+{
+"period": "FY Dec-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 146924.0
+},
+{
+"period": "Q1 Mar-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 44684.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 10.0,
+"mean": 44733.2275,
+"smart": null,
+"high": 46505.0,
+"low": 40892.0,
+"actual": 50444.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 13.0,
+"mean": 51441.97039,
+"smart": null,
+"high": 55730.0,
+"low": 47044.0,
+"actual": 53130.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 14.0,
+"mean": 57155.65643,
+"smart": null,
+"high": 61108.0,
+"low": 40517.0,
+"actual": 61239.0
+},
+{
+"period": "FY Dec-21",
+"n": 14.0,
+"mean": 202367.19214,
+"smart": null,
+"high": 209366.0,
+"low": 146167.0,
+"actual": 209497.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 13.0,
+"mean": 54459.55539,
+"smart": null,
+"high": 56674.5,
+"low": 52306.0,
+"actual": 54661.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 14.0,
+"mean": 56668.64393,
+"smart": null,
+"high": 58118.0,
+"low": 53623.0,
+"actual": 56288.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 17.0,
+"mean": 57301.21177,
+"smart": null,
+"high": 59391.0,
+"low": 55525.8,
+"actual": 54482.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 18.0,
+"mean": 60958.47778,
+"smart": null,
+"high": 64700.0,
+"low": 58171.0,
+"actual": 59042.0
+},
+{
+"period": "FY Dec-22",
+"n": 18.0,
+"mean": 226634.09167,
+"smart": null,
+"high": 233049.0,
+"low": 223602.0,
+"actual": 224473.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 17.0,
+"mean": 53708.85294,
+"smart": null,
+"high": 55690.2,
+"low": 52598.0,
+"actual": 54548.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 19.0,
+"mean": 56636.15474,
+"smart": null,
+"high": 58875.0,
+"low": 42693.0,
+"actual": 58143.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 20.0,
+"mean": 58046.285,
+"smart": null,
+"high": 59652.0,
+"low": 43246.0,
+"actual": 59647.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 21.0,
+"mean": 65882.54143,
+"smart": null,
+"high": 67012.0,
+"low": 64568.0,
+"actual": 65517.0
+},
+{
+"period": "FY Dec-23",
+"n": 22.0,
+"mean": 238233.97136,
+"smart": null,
+"high": 239800.0,
+"low": 236906.0,
+"actual": 237855.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 23.0,
+"mean": 60250.82391,
+"smart": null,
+"high": 62000.0,
+"low": 59012.0,
+"actual": 61659.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 24.0,
+"mean": 64346.17708,
+"smart": null,
+"high": 65569.0,
+"low": 62705.0,
+"actual": 64616.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 24.0,
+"mean": 65406.03125,
+"smart": null,
+"high": 66492.0,
+"low": 64423.0,
+"actual": 65854.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 23.0,
+"mean": 71838.75913,
+"smart": null,
+"high": 72736.1,
+"low": 70501.0,
+"actual": 72461.0
+},
+{
+"period": "FY Dec-24",
+"n": 25.0,
+"mean": 264819.1784,
+"smart": null,
+"high": 287898.0,
+"low": 261987.0,
+"actual": 264590.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 24.0,
+"mean": 66408.485,
+"smart": null,
+"high": 67791.1,
+"low": 64317.0,
+"actual": 66885.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 23.0,
+"mean": 69467.10096,
+"smart": null,
+"high": 70519.0,
+"low": 67994.922,
+"actual": 71340.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 24.0,
+"mean": 72382.1625,
+"smart": null,
+"high": 73371.0,
+"low": 71375.9,
+"actual": 74182.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 20.0,
+"mean": 81120.985,
+"smart": null,
+"high": 82684.0,
+"low": 79483.0,
+"actual": 82284.0
+},
+{
+"period": "FY Dec-25",
+"n": 20.0,
+"mean": 292013.28,
+"smart": null,
+"high": 294609.0,
+"low": 264590.0,
+"actual": 294691.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 22.0,
+"mean": 76123.39546,
+"smart": null,
+"high": 77952.0,
+"low": 74497.0,
+"actual": 77253.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 24.0,
+"mean": 81128.64583,
+"smart": null,
+"high": 82838.0,
+"low": 79729.0,
+"actual": 81629.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 23.0,
+"mean": 83424.38696,
+"smart": null,
+"high": 84934.0,
+"low": 81436.0,
+"actual": 82012.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 25.0,
+"mean": 89295.048,
+"smart": null,
+"high": 92596.0,
+"low": 68882.0,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 26.0,
+"mean": 328820.62308,
+"smart": null,
+"high": 337049.0,
+"low": 255902.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 13.0,
+"mean": 83927.50769,
+"smart": null,
+"high": 88700.0,
+"low": 80450.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 11.0,
+"mean": 89066.24546,
+"smart": null,
+"high": 91519.0,
+"low": 87917.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 11.0,
+"mean": 90503.41818,
+"smart": null,
+"high": 93306.0,
+"low": 88700.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 11.0,
+"mean": 98512.35455,
+"smart": null,
+"high": 102605.0,
+"low": 88700.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 24.0,
+"mean": 360563.00833,
+"smart": null,
+"high": 383279.0,
+"low": 281446.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 20.0,
+"mean": 392842.405,
+"smart": null,
+"high": 432549.0,
+"low": 309591.0,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 3.0,
+"mean": 434050.2,
+"smart": null,
+"high": 436139.0,
+"low": 432116.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 3.0,
+"mean": 470171.2,
+"smart": null,
+"high": 471552.6,
+"low": 468049.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (7).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Revenue",
+"Segment": "Google Cloud, Subscriptions, & Devices",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q1 Mar-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 5449.0
+},
+{
+"period": "Q2 Jun-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 6181.0
+},
+{
+"period": "Q3 Sep-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 6428.0
+},
+{
+"period": "Q4 Dec-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": -1044.0
+},
+{
+"period": "FY Dec-19",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 17014.0
+},
+{
+"period": "Q1 Mar-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 4435.0
+},
+{
+"period": "Q2 Jun-20",
+"n": 10.0,
+"mean": 4552.8547,
+"smart": null,
+"high": 5322.0,
+"low": 4125.0,
+"actual": 5124.0
+},
+{
+"period": "Q3 Sep-20",
+"n": 15.0,
+"mean": 5026.5618,
+"smart": null,
+"high": 5431.0,
+"low": 4600.0,
+"actual": 5478.0
+},
+{
+"period": "Q4 Dec-20",
+"n": 13.0,
+"mean": 6499.11808,
+"smart": null,
+"high": 7181.0,
+"low": 5641.155,
+"actual": 6674.0
+},
+{
+"period": "FY Dec-20",
+"n": 13.0,
+"mean": 21561.67923,
+"smart": null,
+"high": 22218.0,
+"low": 21008.0,
+"actual": 21711.0
+},
+{
+"period": "Q1 Mar-21",
+"n": 14.0,
+"mean": 5885.81879,
+"smart": null,
+"high": 9376.0,
+"low": 5069.0,
+"actual": 6494.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 15.0,
+"mean": 6451.76527,
+"smart": null,
+"high": 7532.0,
+"low": 5718.0,
+"actual": 6623.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 14.0,
+"mean": 6641.06193,
+"smart": null,
+"high": 7081.0,
+"low": 6300.0,
+"actual": 6754.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 13.0,
+"mean": 8001.81054,
+"smart": null,
+"high": 8509.0,
+"low": 7429.0,
+"actual": 8161.0
+},
+{
+"period": "FY Dec-21",
+"n": 13.0,
+"mean": 27923.93362,
+"smart": null,
+"high": 28898.0,
+"low": 27300.0,
+"actual": 28032.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 14.0,
+"mean": 7266.14571,
+"smart": null,
+"high": 7793.0,
+"low": 6753.8,
+"actual": 6811.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 15.0,
+"mean": 7138.134,
+"smart": null,
+"high": 7616.0,
+"low": 6921.0,
+"actual": 6553.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 18.0,
+"mean": 6798.22222,
+"smart": null,
+"high": 7630.0,
+"low": 6458.0,
+"actual": 6895.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 17.0,
+"mean": 8216.02,
+"smart": null,
+"high": 8491.0,
+"low": 7671.34,
+"actual": 8796.0
+},
+{
+"period": "FY Dec-22",
+"n": 18.0,
+"mean": 28567.10778,
+"smart": null,
+"high": 30834.0,
+"low": 27930.34,
+"actual": 29055.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 15.0,
+"mean": 7251.07467,
+"smart": null,
+"high": 7688.0,
+"low": 6811.0,
+"actual": 7413.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 16.0,
+"mean": 7114.35531,
+"smart": null,
+"high": 7339.0,
+"low": 6750.0,
+"actual": 8142.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 18.0,
+"mean": 7906.47778,
+"smart": null,
+"high": 8688.0,
+"low": 7240.0,
+"actual": 8339.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 19.0,
+"mean": 10188.48947,
+"smart": null,
+"high": 11258.9,
+"low": 9015.9,
+"actual": 10794.0
+},
+{
+"period": "FY Dec-23",
+"n": 20.0,
+"mean": 34061.015,
+"smart": null,
+"high": 35152.9,
+"low": 32803.0,
+"actual": 34688.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 19.0,
+"mean": 8828.45,
+"smart": null,
+"high": 9266.0,
+"low": 8228.0,
+"actual": 8739.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 19.0,
+"mean": 9150.16421,
+"smart": null,
+"high": 9852.0,
+"low": 8630.5,
+"actual": 9312.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 22.0,
+"mean": 9610.47227,
+"smart": null,
+"high": 10673.9,
+"low": 9006.1,
+"actual": 10656.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 22.0,
+"mean": 12104.45364,
+"smart": null,
+"high": 13169.0,
+"low": 10146.4,
+"actual": 11633.0
+},
+{
+"period": "FY Dec-24",
+"n": 24.0,
+"mean": 41004.24917,
+"smart": null,
+"high": 44520.0,
+"low": 38853.4,
+"actual": 40340.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 24.0,
+"mean": 9804.13458,
+"smart": null,
+"high": 10224.63,
+"low": 9306.0,
+"actual": 10379.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 22.0,
+"mean": 10743.55,
+"smart": null,
+"high": 11106.0,
+"low": 10243.2,
+"actual": 11203.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 22.0,
+"mean": 12296.50455,
+"smart": null,
+"high": 12787.2,
+"low": 11719.0,
+"actual": 12870.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 19.0,
+"mean": 13834.18421,
+"smart": null,
+"high": 14658.0,
+"low": 13029.0,
+"actual": 13578.0
+},
+{
+"period": "FY Dec-25",
+"n": 19.0,
+"mean": 47868.18421,
+"smart": null,
+"high": 49110.0,
+"low": 40340.0,
+"actual": 48030.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 21.0,
+"mean": 11989.24762,
+"smart": null,
+"high": 12474.8,
+"low": 11400.0,
+"actual": 12384.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 24.0,
+"mean": 13049.075,
+"smart": null,
+"high": 13367.0,
+"low": 12738.0,
+"actual": 12911.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 23.0,
+"mean": 14818.27826,
+"smart": null,
+"high": 15000.0,
+"low": 14500.0,
+"actual": 14290.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 25.0,
+"mean": 15378.62,
+"smart": null,
+"high": 16022.0,
+"low": 14935.8,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 26.0,
+"mean": 55177.71154,
+"smart": null,
+"high": 56246.0,
+"low": 54520.8,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 13.0,
+"mean": 14081.64615,
+"smart": null,
+"high": 14800.0,
+"low": 13384.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 11.0,
+"mean": 14646.68182,
+"smart": null,
+"high": 15000.0,
+"low": 14165.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 11.0,
+"mean": 16075.6,
+"smart": null,
+"high": 16823.0,
+"low": 14800.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 11.0,
+"mean": 17137.13636,
+"smart": null,
+"high": 18425.0,
+"low": 14800.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 24.0,
+"mean": 62687.2,
+"smart": null,
+"high": 65808.0,
+"low": 60005.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 20.0,
+"mean": 70167.79,
+"smart": null,
+"high": 75679.0,
+"low": 64837.2,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 3.0,
+"mean": 75452.66667,
+"smart": null,
+"high": 79345.0,
+"low": 71246.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 3.0,
+"mean": 81502.33333,
+"smart": null,
+"high": 87975.0,
+"low": 72970.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (8).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "Revenue",
+"Segment": "Google Services",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q1 Mar-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 40975.0
+},
+{
+"period": "Q2 Jun-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 37998.0
+},
+{
+"period": "Q3 Sep-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 46017.0
+},
+{
+"period": "Q4 Dec-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 43645.0
+},
+{
+"period": "FY Dec-20",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 168.635
+},
+{
+"period": "Q1 Mar-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 38198.0
+},
+{
+"period": "Q2 Jun-21",
+"n": 2.0,
+"mean": 50571.5,
+"smart": null,
+"high": 53077.0,
+"low": 48066.0,
+"actual": 57067.0
+},
+{
+"period": "Q3 Sep-21",
+"n": 7.0,
+"mean": 55578.97143,
+"smart": null,
+"high": 59815.7,
+"low": 44429.0,
+"actual": 59884.0
+},
+{
+"period": "Q4 Dec-21",
+"n": 7.0,
+"mean": 66221.88571,
+"smart": null,
+"high": 67480.0,
+"low": 65175.0,
+"actual": 69400.0
+},
+{
+"period": "FY Dec-21",
+"n": 8.0,
+"mean": 236866.9,
+"smart": null,
+"high": 254479.0,
+"low": 233304.0,
+"actual": 237529.0
+},
+{
+"period": "Q1 Mar-22",
+"n": 10.0,
+"mean": 62133.99,
+"smart": null,
+"high": 67829.0,
+"low": 59707.0,
+"actual": 61472.0
+},
+{
+"period": "Q2 Jun-22",
+"n": 10.0,
+"mean": 64406.07,
+"smart": null,
+"high": 70302.0,
+"low": 62028.0,
+"actual": 62841.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 14.0,
+"mean": 64437.56429,
+"smart": null,
+"high": 73721.0,
+"low": 61985.0,
+"actual": 61377.0
+},
+{
+"period": "Q4 Dec-22",
+"n": 17.0,
+"mean": 69399.68235,
+"smart": null,
+"high": 72960.0,
+"low": 66116.0,
+"actual": 67838.0
+},
+{
+"period": "FY Dec-22",
+"n": 19.0,
+"mean": 255805.50526,
+"smart": null,
+"high": 261242.0,
+"low": 251806.0,
+"actual": 253528.0
+},
+{
+"period": "Q1 Mar-23",
+"n": 19.0,
+"mean": 60871.15895,
+"smart": null,
+"high": 63022.2,
+"low": 59599.0,
+"actual": 61961.0
+},
+{
+"period": "Q2 Jun-23",
+"n": 20.0,
+"mean": 64464.11125,
+"smart": null,
+"high": 66018.0,
+"low": 61649.0,
+"actual": 66285.0
+},
+{
+"period": "Q3 Sep-23",
+"n": 20.0,
+"mean": 66611.3255,
+"smart": null,
+"high": 67831.0,
+"low": 64340.0,
+"actual": 67986.0
+},
+{
+"period": "Q4 Dec-23",
+"n": 20.0,
+"mean": 76081.9435,
+"smart": null,
+"high": 78036.4,
+"low": 74205.57,
+"actual": 76311.0
+},
+{
+"period": "FY Dec-23",
+"n": 22.0,
+"mean": 272241.53955,
+"smart": null,
+"high": 274268.4,
+"low": 270437.57,
+"actual": 272543.0
+},
+{
+"period": "Q1 Mar-24",
+"n": 21.0,
+"mean": 69080.74762,
+"smart": null,
+"high": 70211.0,
+"low": 67611.0,
+"actual": 70398.0
+},
+{
+"period": "Q2 Jun-24",
+"n": 22.0,
+"mean": 73399.87136,
+"smart": null,
+"high": 74770.0,
+"low": 72265.1,
+"actual": 73928.0
+},
+{
+"period": "Q3 Sep-24",
+"n": 24.0,
+"mean": 75025.56833,
+"smart": null,
+"high": 76158.0,
+"low": 73817.04,
+"actual": 76510.0
+},
+{
+"period": "Q4 Dec-24",
+"n": 25.0,
+"mean": 83457.0576,
+"smart": null,
+"high": 85654.7,
+"low": 72066.8,
+"actual": 84094.0
+},
+{
+"period": "FY Dec-24",
+"n": 27.0,
+"mean": 304273.51148,
+"smart": null,
+"high": 332418.0,
+"low": 264195.8,
+"actual": 304930.0
+},
+{
+"period": "Q1 Mar-25",
+"n": 25.0,
+"mean": 76224.0748,
+"smart": null,
+"high": 77457.0,
+"low": 74017.0,
+"actual": 77264.0
+},
+{
+"period": "Q2 Jun-25",
+"n": 24.0,
+"mean": 80213.66092,
+"smart": null,
+"high": 81600.0,
+"low": 78424.362,
+"actual": 82543.0
+},
+{
+"period": "Q3 Sep-25",
+"n": 25.0,
+"mean": 84653.84,
+"smart": null,
+"high": 86159.0,
+"low": 83847.0,
+"actual": 87052.0
+},
+{
+"period": "Q4 Dec-25",
+"n": 23.0,
+"mean": 94219.12174,
+"smart": null,
+"high": 96644.0,
+"low": 80945.3,
+"actual": 95862.0
+},
+{
+"period": "FY Dec-25",
+"n": 24.0,
+"mean": 337961.58667,
+"smart": null,
+"high": 343022.0,
+"low": 293352.3,
+"actual": 342721.0
+},
+{
+"period": "Q1 Mar-26",
+"n": 23.0,
+"mean": 87627.08696,
+"smart": null,
+"high": 89999.6,
+"low": 75709.4,
+"actual": 89637.0
+},
+{
+"period": "Q2 Jun-26",
+"n": 25.0,
+"mean": 94187.36,
+"smart": null,
+"high": 95721.0,
+"low": 92612.0,
+"actual": 94504.0
+},
+{
+"period": "Q3 Sep-26",
+"n": 24.0,
+"mean": 98248.7375,
+"smart": null,
+"high": 99734.0,
+"low": 96108.0,
+"actual": 96302.0
+},
+{
+"period": "Q4 Dec-26",
+"n": 26.0,
+"mean": 104552.45,
+"smart": null,
+"high": 107978.0,
+"low": 84089.0,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 28.0,
+"mean": 383868.8275,
+"smart": null,
+"high": 418106.0,
+"low": 310694.0,
+"actual": null
+},
+{
+"period": "Q1 Mar-27",
+"n": 14.0,
+"mean": 97993.5,
+"smart": null,
+"high": 103500.0,
+"low": 95175.0,
+"actual": null
+},
+{
+"period": "Q2 Jun-27",
+"n": 12.0,
+"mean": 103686.35,
+"smart": null,
+"high": 106367.0,
+"low": 102082.0,
+"actual": null
+},
+{
+"period": "Q3 Sep-27",
+"n": 12.0,
+"mean": 106488.76667,
+"smart": null,
+"high": 109740.0,
+"low": 103500.0,
+"actual": null
+},
+{
+"period": "Q4 Dec-27",
+"n": 12.0,
+"mean": 115579.86667,
+"smart": null,
+"high": 120562.0,
+"low": 103500.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 26.0,
+"mean": 422223.61577,
+"smart": null,
+"high": 449087.0,
+"low": 342813.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 22.0,
+"mean": 461952.07727,
+"smart": null,
+"high": 508228.0,
+"low": 377709.0,
+"actual": null
+},
+{
+"period": "FY Dec-29",
+"n": 3.0,
+"mean": 509502.86667,
+"smart": null,
+"high": 513240.6,
+"low": 507385.0,
+"actual": null
+},
+{
+"period": "FY Dec-30",
+"n": 3.0,
+"mean": 551673.86667,
+"smart": null,
+"high": 559527.6,
+"low": 541019.0,
+"actual": null
+}
+]
+},
+"Estimate Details GOOGL.O (9).xlsx": {
+"meta": {
+"GOOGL.O | Estimate Details | Single Measure/Multi-Periods": "21-Nov-2026",
+"Next Earning Report": "02-Feb-2027",
+"Measure": "EBITDA",
+"Segment": "Google Services",
+"Periodicity": "Annual & Interim",
+"Basis Indicator": "Primary Basis"
+},
+"series": [
+{
+"period": "Q1 Mar-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 25759.0
+},
+{
+"period": "Q2 Jun-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 28806.0
+},
+{
+"period": "Q3 Sep-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 30866.0
+},
+{
+"period": "Q4 Dec-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 33101.0
+},
+{
+"period": "FY Dec-21",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 118532.0
+},
+{
+"period": "Q1 Mar-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 30921.0
+},
+{
+"period": "Q2 Jun-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": 31166.0
+},
+{
+"period": "Q3 Sep-22",
+"n": 1.0,
+"mean": 31061.1,
+"smart": null,
+"high": 31061.1,
+"low": 31061.1,
+"actual": null
+},
+{
+"period": "Q4 Dec-22",
+"n": null,
+"mean": null,
+"smart": null,
+"high": null,
+"low": null,
+"actual": null
+},
+{
+"period": "FY Dec-26",
+"n": 1.0,
+"mean": 206216.0,
+"smart": null,
+"high": 206216.0,
+"low": 206216.0,
+"actual": null
+},
+{
+"period": "FY Dec-27",
+"n": 1.0,
+"mean": 235420.0,
+"smart": null,
+"high": 235420.0,
+"low": 235420.0,
+"actual": null
+},
+{
+"period": "FY Dec-28",
+"n": 1.0,
+"mean": 270145.0,
+"smart": null,
+"high": 270145.0,
+"low": 270145.0,
+"actual": null
+}
+]
+}
+}
