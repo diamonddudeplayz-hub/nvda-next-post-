@@ -43,3 +43,24 @@
 | GEO ratio | 60:1 | Gold-equiv oz = gold + silver/60 + other; ties volumes to WPM GEO guidance. |
 
 **Conservatism flag:** Base-case 2026 revenue ($3,185M) sits ~11% below street consensus (~$3,562M), driven by conservative attributable volumes (gold 378k vs ~consensus higher). This is deliberate conservatism — worth a one-line note so it reads as intentional, not an error. If the volumes should be higher, the base rises and $145 becomes even more conservative.
+
+**Net Sales block (rows 6–32):** WPM is a **single reportable segment** (precious-metal sales), so Net Sales = Consolidated Sales (no multi-segment split — the template's "User Manual" segment note is generic and N/A here). Each scenario block (Base/Bull/Bear) pulls its yearly Net Sales from the driver block below (price × volume); % Growth is derived; the selected case feeds the Operating Model's revenue growth (Assumptions & Inputs I8). 2021–25A = actuals; 2026–30E = driver-built.
+
+---
+
+## Tab: Operating Model & Other
+
+**Header note:** Fully **driver-based** — Revenue = prior × (1 + growth); every operating line is a **% of revenue pulled from Assumptions & Inputs**, with the scenario toggle (D3) flowing through. Clean input/calc separation. All forecast cells are live formulas.
+
+| Row | Line | Formula basis | Note / justification |
+|---|---|---|---|
+| 7 | Revenue | prior × (1 + growth%) | Growth from Revenue Assumptions driver block (price × volume), via Assumptions & Inputs I8. |
+| 8 | **COGS** | Rev × COGS% | **The margin-leverage mechanism.** COGS% = WPM's ~fixed cost per GEO ÷ realized price. Fixed cost ≈ $1,100/GEO (cash cost $597 [MD&A p.4] + depletion ~$500). So COGS% falls as price rises: **Base 27% ($4,200) / Bull 22% ($5,000) / Bear 34% ($3,400)** — implied fixed cost ~$1,100–1,150/GEO, ≈constant across scenarios (internally consistent). 2026 = 24% (near-actual, realized ~$4,527). |
+| 10 | Operating Expenses | Rev × (SG&A + R&D + Other)% | SG&A ~2–3% (WPM has ~47 employees — minimal corporate overhead); R&D and Other = 0. Declines as revenue scales. |
+| 12 | Taxes | EBIT × 15% | 15% effective rate under OECD **Global Minimum Tax (Pillar Two)** — MD&A confirms $109M (Cdn$155M) GMT paid for 2024 (p.5). Above historical ~6% cash rate = conservative. |
+| 13 | NOPAT | EBIT − Taxes | Unlevered — basis for FCFF/FCFE (debt handled in the bridge). |
+| 15 | D&A | Rev × 13.2% | Depletion of mineral interests — a streamer's principal non-cash charge (per-GEO depletion, MD&A p.8). |
+| 16 | CAPEX | Rev × 3%→0.5% | **Committed stream instalments only** (declining as the funded book completes); excludes new acquisitions = conservative. |
+| 17 | Net Working Capital | NWC% × Rev | ~−1.5% to −2.4% (small net WC source). Capital-light streaming model — see Revenue/NWC note. |
+
+**Debt note (Operating Model debt block + DCF bridge):** FCFE is modelled on an **unlevered (NOPAT) basis**; WPM's current net debt is captured as a **single subtraction in the equity bridge**. MD&A p.6 confirms net debt of **$1.5B at Q3-2026, down $417M in the quarter** (revolver repaid $372M), on track to net cash by 2028 — consistent with Target Debt/EBITDA → 0. The small operating-model debt line is immaterial; the **FCFF = FCFE convergence** confirms the treatment is consistent. (Optional: show the real $1.5B→0 trajectory as an informational row, but do not wire it into FCFE or it breaks the convergence.)
