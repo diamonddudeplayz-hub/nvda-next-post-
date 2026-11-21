@@ -11,9 +11,12 @@ analysis, not advice. Price anchor: **$265.29 (Nov 20 close)** — now at the **
 ## The verdict in five lines
 1. **GOOGL is the right name for the slot you're hunting** — "cleanest AI-ROI beneficiary, least
    idiosyncratic risk." It captures AI ROI whether value accrues to chips (TPU), models (Gemini),
-   cloud (GCP), or apps (Search/YouTube), self-funds from a 40%-margin ad business, carries no
-   circular-financing tax, and *is* the company taking NVDA's share. That's a better risk-adjusted
-   expression than Micron (memory cycle) or NVDA (OpenAI + circular financing).
+   cloud (GCP), or apps (Search/YouTube), is **financed by a highly profitable, diversified operating
+   franchise (Google Services op margin ~41%) + a fortress balance sheet** [CORRECTION per 2nd-opinion
+   review — see `03-…`: it is **NOT** "self-funding" in the FCF sense today; 9mo'26 FCF was −$4.8B and
+   it raised ~$147B and halted buybacks to fund the buildout], carries no circular-financing tax, and
+   *is* the company taking NVDA's share. That's a better risk-adjusted expression than Micron (memory
+   cycle) or NVDA (OpenAI + circular financing).
 2. **But correct one thing in the handover:** GOOGL is **not** a "capex gets cut, FCF comes back"
    play. The 10-Q is unambiguous — buybacks went to **zero**, debt +$79B, equity +$43B, preferred
    +$18B, **>$1T of forward commitments**, FCF negative for ~3 years. It's a *growth-capex-that-
