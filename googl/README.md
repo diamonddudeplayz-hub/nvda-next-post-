@@ -11,6 +11,10 @@ Point-in-time, not a live feed. Confirm quotes on a terminal — Claude-pulled p
 ## Read in this order
 1. **`00-verdict-and-edge.md`** — the answer. Verdict, where the price is underestimating, where
    the edge is, scenario frame, what to own and what to watch. **Start here.**
+1b. **`01-followups-multiple-tpu-search-products.md`** — historical multiple (de-rate in context),
+   TPU/Cloud near-term calibration, the Search-monetization mechanism (incl. the Nov-20 Ars + Search
+   Engine Land articles and the publisher-CTR vs ad-revenue distinction), the full AI-product stack
+   vs Muse/Copilot, and "best derated AI name?" Chart: **`googl-price-vs-multiple.png`**.
 2. `estimates-consensus.md` — 20-yr history + consensus to 2030 for EPS, EBITDA, CFO, FCF, and
    segment revenue/EBITDA. Parsed from the 10 TIKR estimate files. The data backbone.
 3. `10q-q3-2026.md` — Alphabet's actual Q3'26 10-Q (income stmt, balance sheet, cash flow,
