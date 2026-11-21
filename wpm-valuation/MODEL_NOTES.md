@@ -24,3 +24,22 @@
 
 ---
 *Next tabs to document: Assumptions & Inputs, Revenue Assumptions, Operating Model & Other, DCF-FCFF, DCF-FCFE, Comparables, Cover Page. (Discount-rate logic lives in DISCOUNT_RATE.md; margins/credit in MARGINS_CF.md.)*
+
+---
+
+## Tab: Revenue Assumptions
+
+**Header note:** Revenue is built bottom-up — (gold price × gold oz) + (silver price × silver oz) + (other-metals GEO × gold price) — toggled by scenario (Base/Bull/Bear). Metal **price** is the sensitivity axis; **volume** is the funded production ramp. Silver price is *derived* from gold (not an independent input). Prices are held **flat (constant/real dollars)** from 2027, which is the basis for discounting at a real rate (see DISCOUNT_RATE.md).
+
+| Driver | Values (2026→2030) | Note / justification |
+|---|---|---|
+| Gold oz sold (000s) | 378 → 570 | WPM **attributable** gold, ramping on contracted/funded guidance toward **1.2M GEO by 2030**. No new acquisitions credited = conservative. |
+| Silver oz sold (M oz) | 23 → 36 | Existing-stream ramp (Antamina, Peñasquito, etc.). |
+| Other metals (000s GEO) | 15 → 20 | Cobalt (Voisey's Bay) + palladium, in GEO. |
+| **2030 total GEO** | **≈1,190k** | 570k gold + 36M silver (600k GEO @60:1) + 20k = ~1.2M GEO → ties to WPM's stated 2030 target. |
+| Gold $/oz — BASE | 4,300 → 4,200 flat | 2026 near-booked (YTD realized); 2027–30 held flat $4,200. Constant (real) → real discount rate. Conservative: above spot $3,532, below street $4,500–5,200. |
+| Gold $/oz — BULL / BEAR | 5,000 / 3,400 | Scenario range = primary sensitivity axis (replaces generic ±growth). |
+| Silver $/oz (derived) | Base 53.9 / Bull 69.1 / Bear 38.7 | `silver = spot_silver × (1 + 1.63 × (gold/spot_gold − 1))`. 5Y β 1.63 (corr ≈0.79): silver moves 1.63× gold's % move. Anchored to spot silver $41.18, gold $3,532. |
+| GEO ratio | 60:1 | Gold-equiv oz = gold + silver/60 + other; ties volumes to WPM GEO guidance. |
+
+**Conservatism flag:** Base-case 2026 revenue ($3,185M) sits ~11% below street consensus (~$3,562M), driven by conservative attributable volumes (gold 378k vs ~consensus higher). This is deliberate conservatism — worth a one-line note so it reads as intentional, not an error. If the volumes should be higher, the base rises and $145 becomes even more conservative.
