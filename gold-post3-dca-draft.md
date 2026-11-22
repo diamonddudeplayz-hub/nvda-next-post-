@@ -31,6 +31,10 @@ Rates still move gold, and right now they move it down. Gold fell hard early in 
 
 That also says where the next leg up comes from, and it's a view, not a fact. The flow is the floor; the lift, I think, comes when the Fed turns, and it turns when inflation cools, so I've put CPI and oil on the ledger as things to watch. The turn isn't here, the Fed is still hiking, and that's exactly why the entry is a schedule and not a single bet. One honest flag: that view is also an escape hatch, since I could always say the floor holds and gold is just waiting on the Fed. It doesn't void the test above. If the buying holds and gold keeps making lower lows into mid-2027, I was wrong, Fed or no Fed.
 
+## On the 2011 comparison
+
+You'll see this one everywhere right now: gold fell about 44% over the three years after its 2011 peak, so paste that onto this cycle and you land near $3,000. That is, funnily enough, about where my floor test sits, though I got there from the 200-week trend, not a ruler laid on the last cycle. The pattern-match itself I don't buy. In 2011 the marginal buyer was price-sensitive, Western ETFs and macro funds, so when the price broke they sold into it and the drawdown fed on itself. The marginal buyer now is price-insensitive central banks, who bought through this year's fall. Same chart shape, different buyer, and the buyer is the whole thesis. This drop is also faster, about 35% in ten months against 2011's three years, and it came alongside an equity sell-off, the liquidation above rather than a slow bleed. The full 2011-versus-today table, real yields, the dollar, the pace of official buying, is in my June and September posts.
+
 ## You can't limit-order a floor you won't price
 
 Both prior posts refused a price target, on purpose. Gold has no cash flows, so every target I've seen is someone backing into a number from a monetary ratio and calling it precision. If I can't tell you whether gold bottoms at $3,857 or $3,400, I can't tell you the single day to buy. A limit order needs a level. I don't have one. What's left is to buy a fixed amount on a fixed date and let the schedule set the entry.
