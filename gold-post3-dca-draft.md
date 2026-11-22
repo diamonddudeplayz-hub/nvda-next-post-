@@ -41,12 +41,7 @@ Dollar-cost averaging means investing the same dollar amount on a schedule regar
 
 Here's $1,000 a month into WPM across four months of the kind of swing it actually produces.
 
-| Month | WPM price | $1,000 buys |
-|---|---|---|
-| 1 | $130 | 7.69 sh |
-| 2 | $110 | 9.09 sh |
-| 3 | $100 | 10.00 sh |
-| 4 | $120 | 8.33 sh |
+![Dollar-cost averaging $1,000 a month into WPM](charts/dca-example.png)
 
 You put in $4,000 and own 35.12 shares, a cost basis of $4,000 ÷ 35.12 = $113.91. The simple average of the four prices is $115.00. You came in $1.09 under, about 1%.
 
