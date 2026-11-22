@@ -71,19 +71,21 @@ One-line defense: *"the cases are three beta views — 0.50 / 0.70 / 0.85; the b
 
 ### Line-item drivers (Base Case)
 
-| Line | Formula / assumption | Rationale |
+Several lines use `vol × [2026 $ anchor] / 54` — **54 is the 2026 base volume (mtpa)**, so the 2026 dollar figure scales *linearly with volume* (e.g. maintenance runs $500M at 54mt → $694M at 75mt). Anchors are pulled from the Q3-2026 actuals.
+
+| Line | Formula / assumption | Rationale & source |
 |---|---|---|
-| **Volume (mtpa)** | 54 → 57 → 58 → 61 → 65 → 69 → 72 → 75, then flat | Maps to the actual train schedule: Stage 3 complete (~56 in operation), Midscale 8&9 online H2 2028 (+5), SPL Expansion ~2030, CCL Expansion later; capped at 75 |
-| **Fixed Fee** | `6,600 × (vol/54) × 1.015^(MIN(year, cap)−2026)`, cap = **2045 / 2050 / 2060** (bear/base/bull) | ~$6.6B contracted liquefaction fee in 2026 (FY2025 10-K); 1.5%/yr real escalator. The cap stops assuming customers re-sign at ever-higher real fees after contracts roll off — bear caps earliest. *Case lever 3.* |
-| **Marketed** | 4,950 / 4,400 / 4,050 (2026–28), then `coef × vol/61`, coef = **2,200 / 2,800 / 3,400** (bear/base/bull) | Spot + Cheniere Marketing margin — the *volatile, at-risk* piece (the fixed fee is contracted; this isn't). Bear = premium fully unwinds (~$2,700 run-rate at 75mt); base = mid-cycle (~$3,440); bull = stays structurally elevated (~$4,180). **The biggest operating lever across scenarios.** *Case lever 2.* |
-| **COGS** | `vol × 12,000/54` | Feed gas, ~1:1 pass-through with variable revenue (115% Henry Hub washes against gas cost). Cancels in the margin — only Fixed + Marketed drives value |
-| **Revenue** | Fixed + Marketed + COGS | Grossed up so Revenue − COGS = real margin |
-| **SG&A** | `vol × 39 + 450 × 1.025^(year−2026)` | O&M (scales with volume) + fixed G&A (2.5%/yr inflation) |
-| **D&A** | `vol × 1,500/54` | scales with asset base |
-| **Taxes** | 15% of EBIT | *Heavier* than LNG's near-term cash tax (~3%, they barely pay cash tax due to NOLs) — deliberately conservative early, fair long-run |
-| **Maint capex** | `vol × 500/54` | sustaining |
-| **Growth capex** | 2,800 / 3,000 / 2,800 / 2,400 / 2,000 / 1,500 / 900 / 400 / 0 | SPL + CCL expansion build-out. **We charge this** (Street values distributable CF *before* it) |
-| **Change in NWC** | −1% of revenue | **Real, verified drag.** 9M-2026 balance sheet shows operating NWC consumed ~$134M (receivables/inventory/margin deposits scale with volume). Not neutral — leaving it at 0 would be mildly *generous* |
+| **Volume (mtpa)** | 54 → 57 → 58 → 61 → 65 → 69 → 72 → 75, then flat | Train schedule: Stage 3 complete (~56 operating), Midscale 8&9 H2 2028 (+5), next expansion tranche ~2030-32; capped at 75 (no credit for 40mt+ permitting backlog). **Same across all cases** — scenarios flex margin and discount rate, not volume. |
+| **Fixed Fee** | `6,600 × (vol/54) × 1.015^(MIN(year, cap)−2026)`, cap = **2045 / 2050 / 2060** (bear/base/bull) | ~$6.6B contracted take-or-pay fee in 2026 (FY2025 10-K). Escalates **1.5%/yr nominal** — blends the ~15–20% CPI-indexed portion of SPAs with re-contracting uplift; *below* ~2.5% inflation, so a slight real decline (conservative). Cap = how long capacity re-signs at rising fees after SPAs roll off. *Case lever 3.* |
+| **Marketed** | 4,950 / 4,400 / 4,050 (2026–28), then `coef × vol/61`, coef = **2,200 / 2,800 / 3,400** (bear/base/bull) | Spot + Cheniere Marketing margin — *volatile, at-risk, 100% wholly-owned* (the fixed fee is contracted; this isn't). Bear = premium fully unwinds (~$2,700 at 75mt); base = mid-cycle (~$3,440); bull = stays elevated (~$4,180). **Biggest operating lever.** *Case lever 2.* |
+| **COGS** | `vol × 12,000/54` | Feed-gas pass-through (115% Henry Hub washes against gas cost). **Nets to zero** — revenue is grossed up by it and EBIT nets it back out, so *no valuation impact*; only there to tie revenue to the reported figure. |
+| **Revenue** | Fixed + Marketed + COGS | Grossed up; ties to the reported ~$23.7B as a sanity check. Only Fixed + Marketed drive value (COGS cancels). |
+| **SG&A** | `vol × 39 + 450 × 1.025^(year−2026)` | O&M + fixed G&A. **×39** = O&M per mtpa (9M-26 O&M $1,598M → annualized ~$2,130M ÷ 54). **450** = fixed G&A (9M-26 SG&A $336M → ~$448M), +2.5%/yr inflation. Ties: 54×39+450 = $2,556M vs actual ~$2,578M. |
+| **D&A** | `vol × 1,500/54` | **1,500** = FY26 D&A (9M-26 $1,146M → annualized ~$1,528M); scales per mtpa with the asset base. Non-cash, added back in UFCF. |
+| **Taxes** | 15% of EBIT | *Heavier* than LNG's near-term cash tax (~3%, NOLs) — deliberately conservative early, fair long-run. |
+| **Maint capex** | `vol × 500/54` (inside CapEx) | **$500M vs the ~$200M FY26 guide** — deliberately above guidance as a normalized sustaining level for an aging fleet over 35yr. A *conservative choice, not an actual* (lowers value); rises to $694M at 75mt. |
+| **Growth capex** | 2,800 / 3,000 / 2,800 / 2,400 / 2,000 / 1,500 / 900 / 400 / 0 | Expansion build (Midscale 8&9 + next tranche). **We charge it in UFCF** (Street values CF *before* growth capex — ~$60/sh of the gap to Street). Total CapEx = maint + growth. |
+| **Change in NWC** | −1% of revenue | **Operating WC only** (receivables/inventory/margin deposits/prepaid − AP/accruals/deferred rev; *excludes* cash & current debt → those sit in net debt). 9M-26 used **+$134M** (+$452M op assets − $318M op liabs; margin deposits +$118M are the swing). ~0.76% of rev; rounded to **1%** (~$235M, conservative). |
 | **UFCF** | EBIAT + D&A − CapEx + ΔNWC | Properly *unlevered* (NOPAT-based, no interest) → pairs with WACC |
 
 ### The enterprise → equity bridge
@@ -99,7 +101,11 @@ Sum PV of UFCF 2026–2060                          = Enterprise Value
 
 **The CQP minority is the subtlety that matters most.** Our UFCF is 100% consolidated (it includes all of Sabine Pass), but the public owns **51.4% of CQP** (LNG owns 48.6% LP + 100% GP). So we must subtract what that public stake is *worth*, not its historical book cost. Book NCI on the balance sheet is only **$5,415M**; the economic value is **~$14,082M** (0.514 × 484.06M CQP units × $56.60 — cross-checks to ~$1.1–1.2B of annual DCF-to-NCI at CQP's ~8% yield). Using book instead of market would flatter the target by **~$45/share.** This is exactly why the Street values LNG on a sum-of-the-parts.
 
-Two notes on the NCI: (1) it's **mark-to-market** — it moves with CQP's unit price, so re-check it before the meeting. (2) It's **held fixed across bear/base/bull**, which is defensible because the scenario sensitivity concentrates in Cheniere's *wholly-owned* assets (Corpus Christi expansions + the marketing margin), not in the mature, contracted Sabine Pass/CQP that the NCI owns.
+Two notes on the NCI. **(1) Mark-to-market** — it moves with CQP's unit price, so re-check before use. **(2) Held fixed across bear/base/bull.** This is defensible because growth accrues overwhelmingly to parent LNG: Corpus Christi and Cheniere Marketing are 100% wholly-owned, and even the Sabine/SPL-expansion portion inside CQP flows **~74% to LNG** via its 100% ownership of CQP's GP and incentive distribution rights (NCI only ~26%, not a naïve 50%). The residual distortion is the NCI's ~51% share of the WACC/fixed-fee sensitivity on Sabine's *existing* contracted base — holding NCI fixed over-credits Cheniere in the bull / under-credits in the bear by **~$5–10/sh**, far-dated and heavily discounted. Accepted rather than re-marking CQP each case. *(SPL Expansion received its final FERC approval Nov 2026; if a future version includes it in the bull volume, split its value ~74/26 rather than 100% to LNG.)*
+
+---
+
+**Other bridge inputs.** *Net debt* $21,875M = bonds net of cash (Q3-26 10-Q), not gross ($23,931M) or lease-inclusive ($27.7B). *Shares* 204.2M diluted (Q3-26), **held flat** — no buyback accretion modeled despite ~$1.8B repurchased in 9M-26 (conservative; the Street credits it).
 
 ---
 
@@ -143,8 +149,7 @@ One honest footnote on the reconciliation: UFCF + growth capex ≈ Consolidated 
 
 ### Open items
 - [x] Live Bear/Base/Bull switch wired (`DCF!D10`, driving WACC / marketed coef / fee cap via CHOOSE → cells R16–R18)
+- [x] Every line-item assumption documented (this doc + cell comments on the DCF tab)
 - [ ] Build Comps tab (peers, EV/EBITDA 10–12.5×) to replace the placeholder and lock the top of the range
 - [ ] Valuation Summary block + weighted PT on the DCF tab
-- [ ] Report write-up / assumptions narrative
-- [ ] Valuation Summary block (blended PT) on the DCF tab
 - [ ] Report write-up / assumptions narrative
