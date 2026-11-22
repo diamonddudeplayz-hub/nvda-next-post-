@@ -40,12 +40,13 @@ fig.savefig("charts/gold-vs-fedfunds-regime.png",facecolor="white"); print("wrot
 # --- central-bank demand flow chart (the floor) ---
 fig,ax=plt.subplots(figsize=(8.8,5.3))
 q=["Q3'25","Q4'25","Q1'26","Q2'26","Q3'26"]; v=[226.3,209.9,57.7,296.3,321.2]
+lab=["226t","210t","57t","296t","321t"]
 cols=[SLATE,SLATE,"#c9a06a",NAVY,ORANGE]
 ax.axhline(227,color="#9aa6b4",lw=1.3,ls=(0,(4,3)),zorder=2)
 ax.annotate("5-year quarterly average, 227t",xy=(0.0,355),fontsize=9.3,color="#6b7785",ha="left")
 ax.bar(range(5),v,color=cols,width=0.64,zorder=3)
 for i,val in enumerate(v):
-    ax.annotate(f"{val:.0f}t",(i,val),xytext=(0,6),textcoords="offset points",ha="center",fontweight="bold",color=INK,fontsize=12)
+    ax.annotate(lab[i],(i,val),xytext=(0,6),textcoords="offset points",ha="center",fontweight="bold",color=INK,fontsize=12)
 ax.annotate("Q1 scare\n(revised down\nfrom 244t)",xy=(2,57.7),xytext=(2,150),ha="center",fontsize=8.8,color="#8a6a3a",
             arrowprops=dict(arrowstyle="-",color="#c9a06a",lw=1))
 ax.annotate("+42% y/y",xy=(4,321),xytext=(4,360),ha="center",fontsize=9.6,color=ORANGE,fontweight="bold")

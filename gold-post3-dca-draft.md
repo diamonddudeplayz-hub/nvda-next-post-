@@ -62,24 +62,25 @@ It smooths the price I pay. It does nothing about whether I bought the right thi
 
 And price is not a break condition. The break conditions belong to the thesis, and here's where they stand.
 
-## The break conditions, checked
+## Break conditions
 
-I pre-registered two numbered rules in June and carried them into September: full-year central-bank demand clearing 800 tonnes, and the share of banks funding gold by selling other reserves not rising much above its 38%. September added two more as watch items without hard numbers, the Treasury long-end buybacks and China's Treasury rundown, and I'm pinning thresholds on those today. Two things are genuinely new to this post: the floor test above, and an inflation watch on the timing of the upside.
+Rules 1 and 2 are commitments from my June and September posts. Rules 3 to 6 are new. This is the first time I've set the gold thesis out as a ledger, so from here I carry every rule forward word for word. Price is never one of them.
 
-On the demand rule: Q3 printed a provisional 321 tonnes, lifting the year to 675 through nine months. Q4 needs about 125 to clear 800, and Q2 and Q3 each ran near 300, so it's on track, not yet in the bag. The trailing four quarters already sum to about 885, and a four-quarter total barely moves when one print gets revised.
+1. **Central-bank demand.** Full-year 2026 below 800 tonnes. Set June 2026, with Q3 as the checkpoint. Action: the structural bid is normalizing, stop adding. Not triggered. 675 tonnes through nine months, Q4 needs about 125 to clear, and Q2 and Q3 each ran near 300; the trailing four quarters already sum to about 885.
 
-| Watch item | Breaks the thesis if | Status, Nov 19 2026 |
-|---|---|---|
-| Central-bank demand (June rule, pre-registered) | full-year 2026 falls below 800t | **On track.** 675t through Q3 (provisional); Q4 needs ~125t. Trailing four quarters already ~885t. |
-| Flow-to-price link (new, the floor test) | buying holds above 800t/yr but gold is below its 200-week moving average, about $3,000 today, when the WGC publishes Q2 2027 demand | **Pending.** The one that actually falsifies the floor; graded mid-2027. |
-| Treasury long-end buybacks (Sept watch, threshold now) | the Nov refunding scaled long-end operations back toward the old $2bn | **Confirmed the other way.** The Treasury's planned "liquidity support" buybacks for the quarter rose to up to $70bn from $38bn, and the cap per operation to $6bn. |
-| China TIC trajectory (Sept watch, threshold now) | China halts its Treasury rundown or the PBoC stops adding gold | **Not breaking.** China's total holdings fell $109bn year on year to August; the PBoC added 26t in October, its 24th straight month. |
-| 38% reserve-funding metric (June rule, pre-registered) | the next WGC survey shows a material rise above the 38% funding gold by selling other reserves | **Open.** No new survey since the 2026 edition; next read mid-2027. |
-| Inflation path (watch, not a break) | CPI reaccelerates or oil spikes and pushes the Fed's turn further out | **Watch.** Sets the timing of the upside, not whether the floor holds. |
+2. **Reserve-funding mix.** The next WGC survey shows the share of central banks funding gold by selling other reserves rising materially above 38%. Set June 2026. Action: review, the buyer is working harder to fund the same trade. Not triggered, and no new survey until mid-2027.
 
-One correction to log: my September post put Q2 demand at 289t. The Q3 report revised it to 296t. Same direction, updated number.
+3. **Treasury long-end buybacks.** The November refunding scales the long-end "liquidity support" operations back toward the old $2 billion per operation. Set November 2026. Action: review, fiscal stress easing. Not triggered, and it went the other way: the quarter's planned buybacks rose to up to $70 billion from $38 billion, the per-operation cap to $6 billion.
 
-Tallying honestly: of the two rules I pre-registered in June, the demand rule is on track and the 38% metric is open on no new data. The two September watch items now carry thresholds, and both point the thesis's way, Treasury confirmed and China not breaking. The two new ones are the floor test, pending until mid-2027, and an inflation watch on timing. Nothing has broken. DCA is a way to act on conviction the data still supports, and if a checkpoint breaks I stop the schedule regardless of how cheap the stock looks.
+4. **China's Treasury rundown.** China halts its Treasury sales, or the PBoC stops adding gold. Set November 2026. Action: review, the feedback loop is breaking. Not triggered. China's holdings fell $109 billion year on year to August; the PBoC added 26 tonnes in October, its 24th straight month.
+
+5. **The floor test.** Buying holds above 800 tonnes a year but gold is still below its 200-week moving average, about $3,000 today, when the WGC publishes Q2 2027 demand. Set November 2026. Action: I was wrong, the flow does less for the price than I claim. Pending, graded mid-2027. This is the one that actually falsifies the floor.
+
+6. **Inflation path.** CPI reaccelerates or oil spikes and pushes the Fed's turn further out. Set November 2026. A watch, not a break: it moves the timing of the upside, not whether the floor holds.
+
+One correction to log: my September post put Q2 demand at 289 tonnes; the Q3 report revised it to 296.
+
+What would move you off gold faster: central banks slowing their buying, or the price grinding lower while they don't? I'd like to know which one you're watching.
 
 ## A note on the vehicle
 
@@ -93,4 +94,13 @@ I still can't tell you where the floor is in dollars, because it isn't a dollar 
 
 **Disclosure.** I hold a position in Wheaton Precious Metals and add to it on a fixed monthly schedule. This is for information, not investment advice. Dollar-cost averaging reduces the impact of entry timing; it does not reduce the risk of the position, does not beat a lump sum in a rising market, and does not guarantee a profit.
 
-**Sources.** Central-bank demand and the five-year average: World Gold Council, Gold Demand Trends Q3 2026, November 3, 2026 (Q1 revised to 57t, Q2 296t, Q3 a provisional 321t, y-t-d 675t; trailing four quarters Q4 2025 through Q3 2026 at 210, 57, 296 and 321, about 885t). The two pre-registered rules (full-year central-bank demand above 800t, and the 38% reserve-funding metric) are from my June and September posts. Floor framework and the "rate-path repricing" attribution: WGC, "Gold Market Commentary: Where floor art thou?", November 5, 2026. Treasury buybacks: US Treasury Quarterly Refunding Statements, August 5, 2026 (sb0590, "up to $38 billion… for liquidity support") and November 4, 2026 (sb0678, "up to $70 billion"); "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks," August 19, 2026 (sb0607, "$2 billion per operation will be at least $4 billion"); Tentative Schedule of Treasury Buyback Operations, November 2026 Quarterly Refunding ($6 billion long-end per-operation maximum). Treasury holdings: US Treasury TIC Table 5 (to August 2026): foreign official −$164bn year on year; China's total reported holdings −$109bn over the same window (a separate line, not a subset). PBoC: WGC China update, November 17, 2026. September rate hike: FOMC, September 17, 2026, +25bp to the 3.75–4.00% range. Treasury yields: CNBC/Tradeweb, November 2026; expected Fed path: CME FedWatch, November 2026. Gold drawdown bases (January peak $5,626, September $4,527): COMEX front-month, consistent with my June and September posts. Gold rose about 32% across the 2023–24 hold at 5.25–5.50% (roughly $1,950 to $2,560) and reached new highs above $5,000 by January 2026, after the Fed began cutting, with the 10-year real yield still above 2% per my June post: LSEG XAU spot and the US fed funds target rate; author's calculations. Gold's 200-week moving average, about $3,000: LSEG XAU spot, author's calculation. Prices: COMEX front-month gold about $3,670 and WPM about $117 (NYSE close), November 19, 2026.
+**Sources.**
+
+- Central-bank demand and the five-year average: World Gold Council, Gold Demand Trends Q3 2026, November 3, 2026. Q1 revised to 57t (57.7t in the quarterly table), Q2 296t, Q3 a provisional 321t, year to date 675t; the trailing four quarters (Q4 2025 through Q3 2026) are 210, 57, 296 and 321, about 885t; five-year quarterly average 227t; the +42% y/y is against Q3 2025's 226t.
+- The two pre-registered rules (full-year central-bank demand above 800t, and the 38% reserve-funding metric): my June and September posts.
+- Floor framework and the "rate-path repricing" quote: WGC, "Gold Market Commentary: Where floor art thou?", November 5, 2026.
+- Treasury buybacks: US Treasury Quarterly Refunding Statements, August 5, 2026 (sb0590, "up to $38 billion… for liquidity support") and November 4, 2026 (sb0678, "up to $70 billion"); "Treasury Announces Increased Sizes of Nominal Long-End Liquidity Support Buybacks," August 19, 2026 (sb0607, "$2 billion per operation will be at least $4 billion"); Tentative Schedule of Treasury Buyback Operations, November 2026 Quarterly Refunding ($6 billion long-end per-operation maximum).
+- Treasury holdings: US Treasury TIC Table 5, to August 2026. Foreign official −$164bn year on year; China's total reported holdings −$109bn over the same window (a separate line, not a subset). PBoC buying: WGC China update, November 17, 2026.
+- Rates: September hike from the FOMC, September 17, 2026 (+25bp to the 3.75–4.00% range); 10-year and 30-year yields from CNBC/Tradeweb, November 2026; expected Fed path from CME FedWatch, November 2026.
+- Gold price history: drawdown bases (January peak $5,626, September $4,527) from COMEX front-month, consistent with my June and September posts; the 2023–24 hold at 5.25–5.50% (gold roughly $1,950 to $2,560, about +32%) and the run above $5,000 by January 2026 with the 10-year real yield still above 2%, from LSEG XAU spot, the US fed funds target rate and my June post; 200-week moving average about $3,000 from LSEG XAU spot; author's calculations.
+- Prices: COMEX front-month gold about $3,670 and WPM about $117 (NYSE close), November 19, 2026.
