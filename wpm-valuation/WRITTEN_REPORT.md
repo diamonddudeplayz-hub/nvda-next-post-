@@ -1,4 +1,4 @@
-# Wheaton Precious Metals Corp. — Equity Research (Initiation)
+# Wheaton Precious Metals Corp. · Equity Research (Initiation)
 **NYSE / TSX: WPM · RSM332 Valuation Project · November 27, 2026**
 
 | Rating | Target | Price (Nov 27) | Expected return | 52-wk range |
