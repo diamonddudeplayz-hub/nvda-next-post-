@@ -33,10 +33,19 @@ _Built 2026-11-27. Monthly current-year P/OCF (WPM month-end price / that year's
 2. **This drawdown held far better than 2015.** 2012-15 the multiple collapsed to 11-12x; 2026 it only went to ~17x and is back ~19x. The quality/growth + central-bank floor hold a higher multiple floor than last cycle. Evidence the market is crediting durability.
 3. **Reframe: WPM anchors ~20x (its 10-yr median),** dips to ~15x on washouts (entries), spikes to 24-32x only with gold upward momentum (2019-20, 2023). Through 2024-26 it sat ~18-21x and let price follow OCF. The Nov-20 15x was a dip below the anchor; the bounce to ~18x is reverting to it, not a new re-rate.
 
-## Maps to the scenario set (use in report/Q&A)
-- **Base $145 = ~20x = the 10-yr median anchor** on normalized cash flow. Most defensible possible base: dead-median multiple.
-- **Bull $187 = ~24x = a gold-momentum re-rate** (precedent: 2020-23 ran 24-32x).
-- **Bear ~$90-105 = ~12-15x = a 2015-style floor-break** (precedent: 2015 hit 11-12x).
+## Era split (important: 2015 is NOT this business)
+The blended 10-yr median (20x) mixes two different companies. Split it:
+| Era | Business | Median P/OCF | Washout | Peak |
+|---|---|---|---|---|
+| Silver Wheaton 2013-18 | silver-dominant, smaller, no funded growth, pre-floor regime | 17x | 9-11x | ~22x |
+| WPM 2019-26 | diversified Au+Ag, +50% funded growth, net cash, central-bank-floor regime | **23x** | **15-17x** | 32x |
+The 2015 collapse to 11-12x belonged to Silver Wheaton. Today's relevant floor is the WPM-era washout **~15-17x** (where Nov-20 2026 bottomed). The higher floor is not just "the market crediting durability" - it is a structurally better business in the regime we believe in, which deserves a higher multiple.
+
+## Maps to the scenario set (WPM-era, apples-to-apples; 2027E OCF/sh $7.32)
+- **Base $145 = ~20x** = below the WPM-era 23x median -> a no-momentum, quality-business multiple. Conservative, not aggressive. (23x median -> $168, so the DCF base sits under where this business has actually traded.)
+- **Bull $187 = ~25x = a gold-momentum re-rate** (precedent: 2019-23 ran 24-32x).
+- **Bear ~$117 = ~16x WPM-era washout** (not a Silver-Wheaton 11x; downside is shallower than the raw history implies). The model's $90 is the harsher "gold to $3,400" version.
+- Caveat: the 23x WPM-era median was earned partly in a gold bull with momentum; in the 2026 gold-bear the multiple held 17-20x, so the durable no-momentum multiple is ~18-20x and 23-25x needs momentum back. Hence base at 20x, re-rate to 23-25x as upside.
 
 ## FNV vs WPM (confirms the vehicle framing)
 - FNV: royalty, ~100% margin, ~0% silver, beta 0.93 -> overshoots less both ways, "holds" its multiple, +24% YTD. Trades ~20x EV/EBITDA now (premium to WPM's 18.6x).
