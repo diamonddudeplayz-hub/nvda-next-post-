@@ -2,8 +2,9 @@
 _Answers: how does our DCF reconcile to WPM's price at today's depressed spot, and is the market re-rating it? Built from the model's FCFE gold-sensitivity grid + Refinitiv OCF. All our-model figures at the base 6% real discount rate._
 
 ## 1. DCF at spot vs the market price
-- Model FCFE scenario grid (gold -> implied FCFE $/sh): $3,400 -> $90 · $4,200 -> $133 · $5,000 -> $179.
-- **At current spot (gold $3,673, silver ~$44): FCFE DCF = ~$105.**
+- **Basis (important):** every figure holds **2026 at its booked ~$4,300** (H1-2026 realized and locked; same in all scenarios) and varies the **2027-2030 gold deck held flat**. So "$3,673" means 2027-2030 flat at spot, not spot in 2026 too, and not reverting to base later.
+- Model FCFE scenario grid (2027-2030 flat gold -> implied FCFE $/sh): $3,400 -> $90 · $4,200 -> $133 · $5,000 -> $179.
+- **At spot held flat (gold $3,673, silver ~$44, from 2027): FCFE DCF = ~$105.** This is the spot-forever floor, NOT the base. A "spot now, reverting to $4,200 by ~2028" path lands between $105 and $133.
 - WPM trades **$122.60** (Nov 25 close), **~$129 overnight (Nov 27)**. So the market prices WPM **$18-24 above spot-intrinsic.**
 
 ## 2. What gold is the market implying? (invert the model at 6% real)
