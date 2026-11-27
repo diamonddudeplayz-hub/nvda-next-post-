@@ -39,3 +39,11 @@ Darren's hypothesis (Part 3 floor thesis, applied to the vehicle): WPM's cash-fl
 - Current-year vs forward basis differ; keep comparisons on one basis in the report (we use current-year for history, and quote forward 2027E separately and labelled).
 - Consensus 2027E+ OCF itself embeds a gold assumption (~$4,000); part of the "low forward multiple" is the market flagging OCF as gold-inflated — which is exactly the reversion bet. The floor thesis is the counter.
 - Pre-2016 (Silver Wheaton, ~355–405M sh) excluded to keep the share base clean.
+
+## Real-time decoupling / re-rating underway (verified Nov 27, 2026)
+The re-rating is not just future optionality; it is visible in the tape now.
+- **YTD 2026 (year-end $117.52 -> now):** WPM **+4.3%** (close $122.60), ~**+10%** on the Nov-27 overnight $129. **Gold -17%** ($4,314 -> $3,589), **silver -38%** (~$70.6 -> ~$44). WPM is beating a ~50/50 gold-silver revenue basket (down ~27% YTD) by ~30 points.
+- **The $130 anchor:** WPM has sat at ~$130 repeatedly while the metal stepped down underneath it: Jan gold $4,590 / silver ~$86; Aug $4,350 / ~$68; Oct $4,120 / ~$58; Nov-27 $3,673 / $44. Same stock price, **gold -20% and silver -49%**. The market is not marking WPM to spot.
+- **Forward lens (what to quote):** on **2027E OCF** (post-Antamina-close April 2026, both metals modeled), forward P/OCF is ~**17x at $122.60 / ~18x at $129** — growth and silver are already in the denominator, so the low multiple is real, not a growth mirage. This is the honest, Q&A-proof lens the user asked for.
+- **Honest decomposition (for Q&A):** WPM's resilience vs spot is (a) funded volume growth, (b) 2026 cash flow largely booked at higher H1 prices ($4,500-5,000 gold), and (c) genuine multiple re-rating as the market looks through depressed spot. Claim "decoupled from spot metal, multiple re-rating underway," not "pure 1-for-1 multiple expansion."
+- Exhibit: **WPM vs gold vs silver, indexed to 100 at Jan 1 2026** (WPM up, both metals down) is the most visceral proof; data buildable from wpm_max + gold_max + a silver series (request the silver xlsx for a clean chart, or reconstruct month-ends from the pasted futures data).
