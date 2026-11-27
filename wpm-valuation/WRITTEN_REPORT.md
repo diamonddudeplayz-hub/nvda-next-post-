@@ -1,71 +1,98 @@
-# Wheaton Precious Metals (NYSE/TSX: WPM): Written Report
-**RSM332 Fall 2026 Valuation Project · Draft copy (text first; design and charts to follow)**
-_Market data as of Nov 25, 2026 close unless noted. All figures US$. Target from the submitted FCFE DCF._
+# Wheaton Precious Metals Corp. — Equity Research (Initiation)
+**NYSE / TSX: WPM · RSM332 Valuation Project · November 27, 2026**
+
+| Rating | Target | Price (Nov 27) | Expected return | 52-wk range |
+|---|---|---|---|---|
+| **BUY** | **$145** | $131.02 | **+10.5%** | $101.59–165.76 |
+
+**Thesis in a line.** A better business at a washed-out gold price: the market is re-rating the streamer while gold sits below its central-bank floor. WPM is **+11% YTD against gold −15% and silver −38%**. We initiate at BUY, $145 FCFE-DCF target, asymmetric to $187.
 
 ---
 
-## KEY STATISTICS (sidebar box)
-- **Rating: BUY**
-- **Current price: $122.60** (NYSE, Nov 25 close)
-- **Target price: $133** (DCF base case)
-- **Expected return: +8.5%** base · **Bull +46% / Bear -26%**
-- Market cap: ~$55.8B · Diluted shares: 455.1M
-- Net debt (Q3-26): $1.45B, net cash by 2028
-- Enterprise value: ~$57.2B
-- 2026E revenue: ~$3.7B · EBITDA margin: ~84%
+## Key data
+- Market cap **$59.6B** · Enterprise value **$61.1B** · Diluted shares **455.1M**
+- Net debt (Q3-26) **$1.45B → net cash by 2028**
+- Dividend yield 0.6% · Adjusted beta 1.18
 - Revenue mix (9M-26): **49% gold / 49% silver / 2% other**
-- Beta (adj.): 1.18 · Street target (13 analysts, all Buy): ~$185
+
+## Estimates — consensus (LSEG), US$M
+| | 2025A | 2026E | 2027E | 2028E |
+|---|---|---|---|---|
+| Revenue | 2,173 | 3,562 | 3,796 | 4,294 |
+| EBITDA | 1,810 | 2,987 | 3,179 | 3,482 |
+| Op. cash flow | 1,749 | 2,872 | 3,220 | 3,281 |
+| EPS adj. ($) | 3.02 | 4.49 | 4.45 | 5.10 |
+| DPS ($) | 0.66 | 0.84 | 0.82 | 0.92 |
+
+## Valuation multiples (at $131.02)
+| | 2026E | 2027E | 2028E |
+|---|---|---|---|
+| P / E | 29.2x | 29.4x | 25.7x |
+| EV / EBITDA | 20.4x | 19.2x | 17.5x |
+| P / OCF | 20.8x | 18.5x | 18.2x |
+| Dividend yield | 0.6% | 0.6% | 0.7% |
 
 ---
 
-## RECOMMENDATION
-We initiate on Wheaton Precious Metals with a **BUY** and a **$133 DCF target, +8.5%** above the $122.60 close. The modest base upside is deliberate: our base case prices gold at $4,200/oz, above today's ~$3,530 spot but below the street's $4,500 to $5,200 decks. The case is the **asymmetry**. The bull deck ($5,000 gold) implies **$179 (+46%)**, the bear deck ($3,400 gold) implies **$90 (-26%)**, and WPM gives the most leverage to a gold thesis we believe the market is mispricing, without the operating risk that sinks miners when gold falls. We would accumulate into the current weakness.
+## Recommendation
+We initiate on Wheaton Precious Metals at **BUY**, target **$145** (FCFE DCF), **+10.5%** above the $131.02 close. The base assumes gold normalizes to $4,500/oz, the central-bank-supported floor that sits above today's ~$3,650 spot and below the street's $4,600–5,200 decks. The case is the asymmetry, and the re-rating is already underway: WPM is **+11% YTD while gold is −15% and silver −38%**, because the market is pricing a normalized deck and a better business, not the washed-out tape. Our bull ($5,200 gold) implies **$187 (+43%)**; our bear ($3,400) implies **$90 (−31%)**. WPM offers the most leverage to a gold thesis without a miner's operating risk on the way down.
 
-## COMPANY INFORMATION
-WPM is the world's largest **precious-metals streaming** company: it pays a miner an upfront deposit for the right to buy a fixed share of future production at a low, pre-set price (~20% of spot). It operates no mines, which is the moat: no mine-level operating, cost-inflation, or capex risk. Its cost is contractually set near **$600 per gold-equivalent ounce (GEO)** (a fixed amount or a low share of spot), so WPM earns roughly **75% gross and 84% EBITDA margins** with about 47 employees; management put Q1-26 gold margins *"close to 86%... you don't see that with producers."* The book spans **45 agreements over 57 assets (22 operating mines) in 19 countries**, with ~75% of production from investment-grade counterparties and ~90% parent-guaranteed. Reserve life tops **60 years**, and $1.45B of net debt swings to **net cash by 2028**. Revenue is split almost evenly between gold and silver [EXHIBIT: revenue-by-metal donut].
+## Company & industry
+**The business.** WPM is the largest precious-metals streamer: it pays miners an upfront deposit for the right to buy a fixed share of future production at a low, pre-set price (~20% of spot). It operates no mines, so it carries no mine-level operating, cost-inflation or capex risk. Cost is contractually set near $600/GEO: **~75% GAAP gross and ~84% EBITDA margins**, and a **~86% cash operating margin ex-depletion** (management), with ~47 employees. The book spans **57 assets (22 operating mines) across 19 countries**, ~75% of production from investment-grade counterparties.
 
-## INDUSTRY OVERVIEW
-Royalty and streaming companies are mining's capital-light financiers; the peers are Franco-Nevada, Royal Gold, and Triple Flag. Their margins are immune to the cost inflation crushing producers, whose all-in sustaining costs hit a **record $1,930/oz in 2026 (+22% y/y)**. The market pays streamers **2 to 3 times the miners' multiple** (Barrick ~8.6x earnings, Agnico ~13x, WPM ~24x).
+**The industry.** Royalty/streaming peers (FNV, RGLD, TFPM) are immune to the cost inflation crushing producers, whose all-in sustaining costs hit a record **$1,930/oz (+22% y/y)** on labour, energy and grade decline. The market pays streamers 2–3x the miners' multiple; the gold-heavy royalty leader **FNV trades 20x EV/EBITDA**. FNV is more gold-weighted (~70% gold) and diversified into energy, giving it a lower beta (defense); WPM is the purer metals play (100% metals, ~49% silver), which gives it the torque to the cycle.
 
-## INVESTMENT THESIS: *what the market is missing*
-**1. The marginal buyer changed in 2022, so the floor changed.** For two decades gold's marginal buyer was price-sensitive Western capital trading it against real yields, which capped every rally. After the 2022 freeze of ~$300B of Russian reserves re-rated the dollar as politically contingent, **central banks became the marginal buyer**: price-insensitive, buying on reserve mandates, clearing excess supply regardless of price. The floor is a **flow, the pace of that buying** (~885t over the trailing four quarters, 321t in Q3-26, +42% y/y), not a line in the spot price.
+## Investment thesis
+**1. The marginal buyer changed in 2022, so the floor changed.** After the freeze of ~$300B of Russian reserves re-rated the dollar as politically contingent, central banks replaced price-sensitive Western capital as gold's marginal buyer: price-insensitive, clearing supply regardless of price. The floor is a *flow* — the pace of that buying (~885t over the trailing four quarters, 321t in Q3-26, +42% y/y) — not a spot level.
 
-**2. The selloff is the price-sensitive layer, and the old rule that governed it broke.** That layer trades gold against the **10-year real yield**, its true opportunity cost; from 2004 to 2021 a 100bp move in real yields drove roughly an 18% move in gold. Gold is down ~18% YTD, yet through this cycle the real yield rose about 3 points, from -1.2% in 2021 to +1.9% at the January 2026 peak and ~2.8% today, a bigger move than 2011's that the old rule says should have **halved gold. Instead it tripled.** Real yields at 2.8% are restrictive with room to fall when the Fed turns, so the selling is a financial-layer headwind, not a verdict on the floor.
+**2. The selloff is the price-sensitive layer, and the old rule broke.** That layer trades gold against the 10-year real yield; from 2004–21, 100bp of real yield moved gold ~18%. This cycle the real yield rose ~3 points (−1.2% to +1.9%, ~2.8% now), which the old rule says should have halved gold. It tripled instead.
 
-**3. The bid is self-reinforcing.** About 38% of buying central banks say they would fund purchases by selling other reserves, typically **Treasuries**; China cut its holdings ~$100B to an 18-year low while adding gold monthly. That selling pressures the long end just as **US net interest expense passed defense spending**, fiscal stress that makes diversifying out of dollars more rational, not less.
+**3. The bid is self-reinforcing.** About 38% of buying central banks fund purchases by selling reserves, typically Treasuries; China cut its holdings ~$100B to an 18-year low while adding gold monthly. That pressures the long end as US net interest expense passes defense spending, making dollar diversification more rational, not less.
 
-**4. Own the streamer, and lower gold does not mean lower value.** Production is **contracted and funded to 1.2M GEO by 2030 (+50%,** six new assets *"all funded and permitted,"* no new capital), so the same multiple on a larger cash-flow base is a higher share price with no re-rating, which is why **WPM is +4% YTD (higher after hours) while gold is down 17% and silver 38%** [EXHIBIT: WPM vs gold and silver, indexed to Jan 1]. Silver (~49% of revenue, ~1.6x gold beta) adds torque. The market is extrapolating a depressed spot and under-weighting funded growth.
+**4. Lower gold does not mean lower value.** Production is contracted and funded to 1.2M GEO by 2030 (+50%, no new capital), so a constant multiple on a larger, growing cash-flow base is a higher share price. Silver (~49% of revenue, ~1.6x gold beta) adds torque. The market is extrapolating a depressed spot and under-weighting funded growth — which is why WPM has re-rated while the metal fell.
 
-## VALUATION
-We value WPM with a **free-cash-flow-to-equity DCF**, explicit to 2030 (the end of the funded ramp) plus a terminal value. It monetizes the thesis directly: revenue is **volume** (the funded ramp to 1.2M GEO) times **price** (the sensitivity axis, base gold $4,200, silver derived at a 1.63 beta). Because per-GEO cost is fixed, margins expand as price rises. **CAPM gives 10.85% nominal** (Rf 4.95% + beta 1.18 x ERP 5.0%), which we show, but we discount the base at **6% real** on WPM's streaming economics: the model is in constant dollars, so a real rate is the consistent match; WPM's beta reflects gold-price swings over an unusual 2021-26 window, not broad-market risk (gold's own equity-market beta is low, ~0.15), and we model that price risk in the scenario decks rather than the rate; and residual risk is investment-grade (net cash by 2028). Our 6% sits above the ~5% streaming and NAV convention and below the **8.15% real CAPM** (10.85% nominal less ~2.5% inflation). Terminal value blends Gordon growth (1% real) and an 18x EV/EBITDA exit. The base yields **$133**, and the FCFF build converges at the same number [EXHIBIT: football-field, bear $90 / base $133 / bull $179].
+## Valuation
+Our primary tool is a 10-year **FCFE DCF** discounted at **6% real** cost of equity. We show CAPM (10.85% nominal; Rf 4.95% + beta 1.18 × ERP 5.0%) but discount at 6% because the model is in constant dollars, WPM's beta is gold-price volatility already modelled in the scenario decks (gold's own equity beta is ~0.15), and residual risk is investment-grade (net cash by 2028). Base gold $4,500 yields **$145**; the FCFF build converges.
 
-**The multiple confirms it.** WPM's forward P/OCF has compressed to **~17x, its 2016-18 trough (gold ~$1,250)**, versus a **~24x 2019-24 mid-cycle average**, even as cash flow hit a record and keeps growing. The market is paying a trough multiple on peak, rising cash flow: it is **pricing gold mean-reversion**, the bet our floor thesis rejects. This is an own-history signal, not peer cheapness (WPM's premium to peers is deserved); if the floor holds, the multiple re-rates toward mid-cycle, an upside layer on top of volume and price that has **already begun** (WPM held ~$130 all year as gold fell ~20% and silver ~49%) [EXHIBIT: WPM P/OCF vs gold, 2016-26].
+The multiple corroborates. WPM's own **2019–26 P/OCF median is ~23x ($168)**, yet it trades ~18x today, at the low end of its range after compressing with the metal; the November low (~15x) was the washout entry. At $131 the market already implies ~$4,140 gold (our model), looking through $3,650 spot, so the $4,500 base is a modest step toward the floor, not an aggressive call.
 
-## RISKS & SENSITIVITY
-The call is a view on two variables, held to falsifiable tests. **Gold price** is the primary axis; a sustained $3,400 deck takes the target to **$90 (-26%)**. We judge a reversal of the central-bank bid unlikely and pre-register falsifiable break conditions: quarterly central-bank demand holding near the 290 to 320t pace (a drop toward Q1's revised 57t would signal the regime normalizing), the share of central banks funding gold by selling other reserves climbing above ~38%, and China's Treasury-sale pace, none of which has broken. Timing risk is real: gold is at YTD lows and positioning is not washed out. **Discount rate** is the second: on the basis-consistent real CAPM (**8.15% real**, i.e. 10.85% nominal less inflation) the target is **$107, about -13%**. That is the main risk to the base, if the market demands a full equity premium rather than the ~5% streaming rate, though even there the downside is contained. **Silver** (~49% of revenue) is more volatile, and its deficit case is contested.
+## Scenarios
+Each target maps to a multiple that WPM has actually traded at in the 2019–26 era (median 23x, washout ~15–17x, peak ~32x) — the Silver Wheaton-era 11x belonged to a worse, silver-heavy business and is not the relevant floor.
 
-The **upside risk** is worth naming: three independent methods, the **DCF bull ($179)**, a **multiple re-rate to mid-cycle on 2027E cash flow (~$170)**, and the **street (~$185)**, cluster at **$170 to $185**, so if the floor holds our $133 base will prove conservative.
+| Case | Gold deck | Target | Return | Implied P/OCF | Driver |
+|---|---|---|---|---|---|
+| **Bear** | $3,400 | $90–117 | −31% to −11% | ~16x | Floor thesis fails or a positioning washout; the multiple washes to the WPM-era floor. |
+| **Base** | $4,500 | **$145** | **+10.5%** | ~20x | Gold normalizes to the structural floor; a no-momentum, quality multiple, below the 23x median. |
+| **Bull** | $5,200 | $187 | +43% | ~25x | Gold momentum returns, silver amplifies; the multiple re-rates to the top of its range, where street decks and the DCF bull converge. |
 
-## CONCLUSION
-WPM gives leveraged exposure to a gold thesis without a miner's operating risk: low, fixed-cost cash flows that resist record mining inflation, ~50% of funded volume growth that lifts value even at a lower gold price, and silver torque. The market is pricing a financial-layer selloff as structural while the central-bank bid, now self-reinforced by the fiscal stress it creates, stays intact. **BUY, $133 base (+8.5%)**, asymmetric to **$179 (+46%)**. Buy the vehicle, own the thesis.
+## Risks & sensitivity
+The call is a view on two variables, held to falsifiable tests. **Gold price** is the primary axis; a sustained $3,400 deck takes the target to $90. We judge a reversal of the central-bank bid unlikely and pre-register break conditions: quarterly central-bank demand near the 290–320t pace (a drop toward Q1's revised 57t would signal normalization), the share of banks funding gold by selling reserves rising above ~38%, and China's Treasury-sale pace — none of which has broken. **Discount rate** is the second: on the basis-consistent real CAPM (8.15% real) the target is **$117, about −11%**, the main risk if the market demands a full equity premium rather than the ~5% streaming rate. **Silver** (~49% of revenue) is more volatile and its deficit case is contested; it is also the torque that overshoots the stock below fair value on washouts — the entry.
 
-**Sources:** World Gold Council (Gold Demand Trends; Central Bank Gold Reserves Survey 2026); US Treasury TIC; WPM 2026 MD&A, Q3-26 financials and earnings calls; CBO/CRFB; LSEG/Refinitiv consensus and price series (WPM, gold), as of Nov 25, 2026.
-
----
-
-## APPENDIX: USE OF AI TOOLS *(does not count toward the 2-page limit)*
-- **Tool:** Anthropic Claude (Claude Code).
-- **Research synthesis:** organizing and cross-checking the gold and silver macro evidence (the central-bank marginal-buyer shift, the fiscal-dominance feedback loop, the broken real-yields relationship, miner AISC data, silver beta) behind the Investment Thesis and Risks. Every figure was verified against primary sources (World Gold Council *Gold Demand Trends* and *Central Bank Gold Reserves Survey 2026*, US Treasury TIC data, CBO/CRFB fiscal data, WPM MD&A, Q3-26 financial statements and earnings-call transcripts, LSEG/Refinitiv consensus) and is sourced in our working notes.
-- **Quantitative analysis:** computing WPM's historical P/OCF multiple against the gold price from company-reported fundamentals (Refinitiv as-reported operating cash flow and diluted shares) and daily price series, to test and support the multiple-compression argument in the Valuation section.
-- **Model consistency check:** reconciling the report against the submitted Excel DCF (target price, scenario outputs, discount-rate reconciliation, comparables) so report, model, and presentation agree.
-- **Drafting and editing:** structuring the report to the required sections and tightening prose.
-- **Accountability:** all assumptions, the discount-rate judgment, and the recommendation are the group's own. "The AI said so" was not treated as a source; each member can explain and defend every input in the Q&A.
+## Conclusion
+WPM gives leveraged exposure to a gold thesis without a miner's operating risk: fixed-cost cash flows that resist record mining inflation, ~50% of funded volume growth that lifts value even at a lower gold price, and silver torque. The market is pricing a financial-layer selloff as structural while the central-bank bid — now self-reinforced by the fiscal stress it creates — stays intact, and it has already begun to re-rate a structurally better business. **BUY, $145 (+10.5%)**, asymmetric to $187.
 
 ---
-### Reconciliation notes (not part of the report, for our files)
-- Target $133 = FCFE DCF base, 6% real, g=1% / 18x exit blend (FCFE $133.15, FCFF $132.96). Current price $122.60 (Nov 25 NYSE close), +8.5%. Model's stored current price is $109.91 (Nov 21 build); update the model's current-price cell to $122.60 before resubmitting so model upside matches the report.
-- Scenario vs $122.60: bear $90.38 = -26.3%, base $133.15 = +8.6%, bull $178.89 = +45.9%.
-- Discount sensitivity (base deck): 5% = $153, 6% = $133 (base), 8% = $109, 8.15% real CAPM = $107, 10.85% nominal CAPM = $88 (reference only; not basis-consistent with the real-dollar model, so the report cites $107).
-- Multiple work in `POCF_MULTIPLE.md` and `pocf_vs_gold.csv`: current-yr P/OCF ~24x mid-cycle (2019-24), compressed to ~19x (2026E) / ~17x forward (2027E), the 2016-18 trough at ~$1,250 gold; corr(multiple, gold) = +0.26; re-rate to 24x on 2027E OCF/sh ($7.10) = ~$170. Built from Refinitiv as-reported fundamentals (CF-Export-25-11-2026) + wpm_max / gold_max.
-- Length: body trimmed to ~900 words for the 2-page fit. If still long after layout, cut Industry first, then trim thesis legs 2 and 3.
-- Confirm on submission day: spot gold/silver (model used $3,532 Au / $41.18 Ag; gold_max ~$3,589 Nov 26), latest CB-demand quarter, US net-interest-vs-defense figure.
+
+## Sources
+- **Counterparty quality and stream economics (~75% investment-grade; ~20%-of-spot cost):** WPM Analyst/Investor Day (V. Lau, 16 Sep 2026).
+- **Portfolio — 57 assets, 22 operating mines:** WPM Q3-2026 results release (5 Nov 2026). **19 countries:** WPM 2026/27 Guidebook (14 Sep 2026).
+- **Margins / financials:** WPM Q3-2026 MD&A and financial statements; cross-checked to the model's Historical Income Statement (GAAP gross margin 54.8% 2021 → 72.2% 2025 → ~75% 2026 YTD).
+- **Hodaly / Lau margin and valuation commentary:** WPM Q1-2026 earnings call.
+- **Macro:** World Gold Council (Gold Demand Trends; Central Bank Gold Reserves Survey 2026); US Treasury TIC; CBO/CRFB.
+- **Estimates:** LSEG/Refinitiv consensus. **Prices** (WPM, gold, silver): to 27 Nov 2026.
+- Targets, scenario decks and the discount-rate judgment are our own.
+
+## Appendix — Use of AI tools *(excluded from the 2-page limit)*
+- **Tool:** Anthropic Claude.
+- **Research synthesis:** organizing and cross-checking the gold/silver macro evidence behind the thesis and risks, verified against the primary sources above.
+- **Quantitative analysis:** computing WPM's historical P/OCF multiple through metal cycles (and the Silver Wheaton vs WPM-era split), the market-implied gold deck, and the scenario decomposition, from company-reported fundamentals and daily price series.
+- **Model check:** reconciling the report against the submitted Excel DCF (target, scenarios, discount-rate reconciliation, comparables).
+- **Accountability:** all assumptions, the discount-rate judgment and the recommendation are the group's own; each member can explain and defend every input in the Q&A.
+
+---
+### Reconciliation notes (not part of the report)
+- Base = FCFE DCF, gold $4,500, 6% real, g=1% / 18x exit → $144.83 (round $145). Current $131.02 → +10.5%. Bull $5,200 → $187.35 (confirmed via model toggle). Bear $3,400 → $90.38.
+- Discount sensitivity (base deck): 6% → $145 · real CAPM 8.15% → $117 · nominal CAPM 10.85% → $96.
+- Margins: GAAP gross ~75% (incl. depletion), EBITDA ~84%, cash operating ~86% (ex-depletion). The DCF uses FCFE (cash), so it runs on the ~86% cash economics.
+- Supporting analysis: `POCF_MULTIPLE.md`, `MARKET_RECONCILIATION.md`, `MULTIPLE_HISTORY.md`.
+- Model housekeeping before resubmit: see the stale-cell checklist (Comps B4/B37/B38/B39, WACC N9, DCF-FCFE/FCFF F93/F103 "vs 109.91", scenario block D94–96, Revenue D55–59 gold-sensitivity data table).
